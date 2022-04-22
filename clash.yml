@@ -5,389 +5,269 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1, server: hkt.node.qchwnd.moe, port: 44609, type: trojan, password: 57e797a5-9a1d-4a26-b658-91fbf97f7741, skip-cert-verify: false}
-  - {name: 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2, server: 14.29.124.168, port: 25256, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇨🇳 github.com/v2rayfree - 上海市电信 3, server: 101.91.121.247, port: 50004, type: ss, cipher: aes-256-cfb, password: !&lt;str&gt; 4415934295}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4, server: jpaz3.xmrth-node.xyz, port: 11012, type: vmess, uuid: f3d669ec-1617-3d40-be56-3c8a45fc44eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}}
-  - {name: 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5, server: 172.247.127.236, port: 51692, type: vmess, uuid: a5aa4fad-3cc3-484f-f170-9cec7a347819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6, server: 49.234.158.14, port: 10909, type: vmess, uuid: c3082e6f-37b2-41b6-b40a-1063bc8e2853, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 北美地区  7, server: 107.173.86.27, port: 40459, type: vmess, uuid: e3a3f29a-df4f-4db1-aae0-79ed59866b2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8, server: 207.246.94.28, port: 42383, type: vmess, uuid: 4773dfdc-9c85-4873-8720-ce8cf5f74f7c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国  9, server: jgwcc2.gaox.ml, port: 443, type: trojan, password: 9c822f05-cfdc-479a-9534-60f3d4127435, skip-cert-verify: false}
-  - {name: github.com/v2rayfree - 伊朗  10, server: zhuzhucloud.xyz, port: 443, type: vmess, uuid: fc4a1411-10b5-467a-f6e4-5469d412e5dd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: zhuzhucloud.xyz}
-  - {name: 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11, server: 213.183.53.200, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12, server: 138.197.236.77, port: 443, type: vmess, uuid: 3579436c-b37e-11eb-8529-0242ac130003, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 138.197.236.77}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13, server: app.ssfree.ru, port: 443, type: vmess, uuid: efc15686-c0c2-11ec-8454-000017022008, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /getweather, headers: {Host: app.ssfree.ru}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国  14, server: fhcarm1.gaox.ml, port: 443, type: trojan, password: 05742120-ce23-4cc8-88f5-6d221ce45bf4, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国  15, server: misaka1433.tk, port: 443, type: trojan, password: YcQgIbGZNNd1PwsF, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16, server: 20.24.201.79, port: 46794, type: vmess, uuid: cfc50c56-7045-43dc-8f41-fbe5a901fc49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}}
-  - {name: 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17, server: 213.183.51.172, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt}
-  - {name: 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18, server: jgwld2.gaox.ml, port: 443, type: trojan, password: d7fd8aaa-4581-4281-80aa-4b63e5e1f157, skip-cert-verify: false}
-  - {name: 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19, server: jgwld4.gaox.ml, port: 443, type: trojan, password: 58d32c66-43b1-4561-9951-d87c9123774e, skip-cert-verify: false}
-  - {name: 🇯🇵 github.com/v2rayfree - 日本  20, server: 412sgsg.fans8.xyz, port: 443, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 412sgsg.fans8.xyz}}}
-  - {name: 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21, server: jgwxn2.gaox.ml, port: 443, type: trojan, password: c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国  22, server: fhcarm2.gaox.ml, port: 443, type: trojan, password: f39bd244-f5fe-415c-8b98-a1e5250bf178, skip-cert-verify: false}
-  - {name: 🇨🇳 github.com/v2rayfree - 上海市电信 23, server: ingress-i1.onebox6.org, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}}
-  - {name: 🇨🇦 github.com/v2rayfree - 加拿大  24, server: 165.154.225.231, port: 443, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 330hk02.fans8.xyz}}}
-  - {name: 🇨🇦 github.com/v2rayfree - 加拿大  25, server: 165.154.225.176, port: 443, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 0326hk01.fans8.xyz}}}
-  - {name: 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26, server: jgwxn3.gaox.ml, port: 443, type: trojan, password: cb43b7c2-b744-41c5-bcc2-fd7467b332cf, skip-cert-verify: false}
-  - {name: 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27, server: 120.240.48.19, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8}}
-  - {name: 🇨🇦 github.com/v2rayfree - 加拿大  28, server: 331tw.fans8.xyz, port: 443, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 331tw.fans8.xyz}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29, server: niaop.tk, port: 443, type: vmess, uuid: a0b0df87-bda2-440e-830f-347da6cc7760, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /wsssdr1, headers: {Host: niaop.tk}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30, server: 1.ezydfdd.com, port: 443, type: vmess, uuid: 0e5b46b6-699d-4aca-8fb3-a8e7b4270ed9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /qwe, headers: {Host: 1.ezydfdd.com}}}
-  - {name: github.com/v2rayfree - 乌克兰  31, server: v2cross.com.04.v2ce.com, port: 443, type: trojan, password: vGWCNNfBHwSY6m6M, skip-cert-verify: false}
-  - {name: 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32, server: 213.183.53.200, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
-  - {name: github.com/v2rayfree - 湖南省长沙市电信 33, server: in-v1.sdgdn.com, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.ripaojiedian}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34, server: 104.16.162.16, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxus.fovi.tk}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国  35, server: in1.alink.qchwnd.moe, port: 44604, type: trojan, password: c02a742c-efd5-430e-bbd5-12695a740fb2, skip-cert-verify: false}
-  - {name: 🇨🇦 github.com/v2rayfree - 加拿大  36, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 330tw.fans8.xyz}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 北美地区  37, server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}}
-  - {name: 🇯🇵 github.com/v2rayfree - 日本  38, server: jgw2.gaox.ml, port: 443, type: trojan, password: f2117e99-9b6e-47fd-b0a9-634a0b15b998, skip-cert-verify: false}
-  - {name: github.com/v2rayfree - 乌克兰  39, server: v2cross.com.05.v2ce.com, port: 443, type: trojan, password: kGrwqmB1nEKUsDwE, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 北美地区  40, server: 104.166.135.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41, server: v2.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v2.ssrsub.com}}}
-  - {name: github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42, server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
-  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43, server: rbmf.speedcncnforward3.tk, port: 10004, type: trojan, password: eb40a3f4-3b04-4a1c-993d-d71b44fee92c, skip-cert-verify: false}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1, server: hknf1.qingyun123.xyz, port: 10050, type: trojan, password: 6500b5f0-ca3f-4bfe-bc54-75ca11c22830, skip-cert-verify: false}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2, server: jpaz4.xmrth-node.xyz, port: 10091, type: vmess, uuid: f3d669ec-1617-3d40-be56-3c8a45fc44eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3, server: jpaz3.xmrth-node.xyz, port: 11012, type: vmess, uuid: f3d669ec-1617-3d40-be56-3c8a45fc44eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 北美地区  4, server: 107.173.86.27, port: 40459, type: vmess, uuid: e3a3f29a-df4f-4db1-aae0-79ed59866b2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5, server: 213.183.53.177, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6, server: 138.197.236.77, port: 443, type: vmess, uuid: 3579436c-b37e-11eb-8529-0242ac130003, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 138.197.236.77}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7, server: app.ssfree.ru, port: 443, type: vmess, uuid: 84bc32a6-c127-11ec-883f-000017022008, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /getweather, headers: {Host: app.ssfree.ru}}}
+  - {name: github.com/v2rayfree - 乌克兰  8, server: v2cross.com.03.v2ce.com, port: 443, type: trojan, password: ZD4dLSBXiMrmzdLd, skip-cert-verify: false}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国  9, server: misaka1433.tk, port: 443, type: trojan, password: YcQgIbGZNNd1PwsF, skip-cert-verify: false}
+  - {name: 🇨🇳 github.com/v2rayfree - 上海市电信 10, server: 101.91.121.247, port: 50004, type: ss, cipher: aes-256-cfb, password: !&lt;str&gt; 4415934295}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11, server: 104.16.47.181, port: 443, type: vmess, uuid: 7824cbc1-f82d-48cf-fb1d-54d8911849c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /yorknodes-fr-par-1, headers: {Host: fr1.144050.cf}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12, server: v1.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v1.ssrsub.com}}}
+  - {name: 🇨🇳 github.com/v2rayfree - 上海市电信 13, server: ingress-i1.onebox6.org, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14, server: 104.16.47.181, port: 443, type: vmess, uuid: 1e9be421-4135-4edb-9655-804042753442, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /yorknodes-de1, headers: {Host: eu19.144050.cf}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15, server: hkforward.qtylink.tk, port: 10001, type: trojan, password: 6afcbe8f-c4a7-3aa3-9965-e1dfd71e8c28, skip-cert-verify: false}
+  - {name: 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16, server: 120.240.48.19, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8}}
+  - {name: github.com/v2rayfree - 乌克兰  17, server: v2cross.com.05.v2ce.com, port: 443, type: trojan, password: kGrwqmB1nEKUsDwE, skip-cert-verify: false}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18, server: hk4.fdns.unino.tech, port: 443, type: vmess, uuid: ed7c982a-ff74-4dd3-9f6c-155ec13b67ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk4.fdns.unino.tech}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19, server: hk5.fdns.cloudlink123.com, port: 80, type: vmess, uuid: ed7c982a-ff74-4dd3-9f6c-155ec13b67ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk5.fdns.cloudlink123.com}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 北美地区  20, server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}}
+  - {name: 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21, server: 119.147.20.236, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i1.onebox6.org}}}
+  - {name: github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22, server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
+  - {name: github.com/v2rayfree - 湖南省长沙市电信 23, server: in-v1.sdgdn.com, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.ripaojiedian}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24, server: 104.16.162.16, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxus.fovi.tk}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25, server: lzq01.ugatk.ml, port: 443, type: vmess, uuid: 2b6e2731-3f17-4679-a8e1-70fa6ace0df9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /a8b0dd0a562e30/, headers: {Host: lzq01.ugatk.ml}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国  26, server: lzq02.ugatk.ml, port: 443, type: vmess, uuid: 71a222de-6ec9-4bfb-872f-a0b39a10028f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /7cd2305/, headers: {Host: lzq02.ugatk.ml}}}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27, server: rbmf.speedcncnforward3.tk, port: 10004, type: trojan, password: eb40a3f4-3b04-4a1c-993d-d71b44fee92c, skip-cert-verify: false}
+  - {name: 🇺🇲 github.com/v2rayfree - 美国  28, server: fhcarm1.gaox.ml, port: 443, type: trojan, password: 05742120-ce23-4cc8-88f5-6d221ce45bf4, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -410,49 +290,34 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇭🇰 github.com/v2rayfree - 香港电讯盈科有限公司 1
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市电信 2
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 3
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 4
-      - 🇭🇰 github.com/v2rayfree - 香港GlobalData将军澳数据中心(CeraNetworks) 5
-      - 🇨🇳 github.com/v2rayfree - 上海市腾讯云 6
-      - 🇺🇲 github.com/v2rayfree - 北美地区  7
-      - 🇸🇬 github.com/v2rayfree - 美国新泽西州皮斯卡特维Vultr数据中心 8
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 1
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft公司 2
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 3
+      - 🇺🇲 github.com/v2rayfree - 北美地区  4
+      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 5
+      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 6
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 7
+      - github.com/v2rayfree - 乌克兰  8
       - 🇺🇲 github.com/v2rayfree - 美国  9
-      - github.com/v2rayfree - 伊朗  10
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 11
-      - 🇺🇲 github.com/v2rayfree - 美国加利福尼亚州旧金山DigitalOcean数据中心 12
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 13
-      - 🇺🇲 github.com/v2rayfree - 美国  14
-      - 🇺🇲 github.com/v2rayfree - 美国  15
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 16
-      - 🇳🇱 github.com/v2rayfree - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 17
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 18
-      - 🇬🇧 github.com/v2rayfree - 英国伦敦Oracle云计算数据中心 19
-      - 🇯🇵 github.com/v2rayfree - 日本  20
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 21
-      - 🇺🇲 github.com/v2rayfree - 美国  22
-      - 🇨🇳 github.com/v2rayfree - 上海市电信 23
-      - 🇨🇦 github.com/v2rayfree - 加拿大  24
-      - 🇨🇦 github.com/v2rayfree - 加拿大  25
-      - 🇦🇺 github.com/v2rayfree - 澳大利亚悉尼Oracle云计算数据中心 26
-      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 27
-      - 🇨🇦 github.com/v2rayfree - 加拿大  28
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 29
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 30
-      - github.com/v2rayfree - 乌克兰  31
-      - 🇷🇺 github.com/v2rayfree - 俄罗斯莫斯科Melbicom数据中心 32
-      - github.com/v2rayfree - 湖南省长沙市电信 33
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 34
-      - 🇺🇲 github.com/v2rayfree - 美国  35
-      - 🇨🇦 github.com/v2rayfree - 加拿大  36
-      - 🇺🇲 github.com/v2rayfree - 北美地区  37
-      - 🇯🇵 github.com/v2rayfree - 日本  38
-      - github.com/v2rayfree - 乌克兰  39
-      - 🇺🇲 github.com/v2rayfree - 北美地区  40
-      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare节点 41
-      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 42
-      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 43
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 10
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 11
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 12
+      - 🇨🇳 github.com/v2rayfree - 上海市电信 13
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 14
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 15
+      - 🇨🇳 github.com/v2rayfree - 广东省广州市黄埔区珠江宽频 16
+      - github.com/v2rayfree - 乌克兰  17
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 18
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 19
+      - 🇺🇲 github.com/v2rayfree - 北美地区  20
+      - 🇨🇳 github.com/v2rayfree - 广东省深圳市腾讯云 21
+      - github.com/v2rayfree - 捷克布拉格Friendhosting有限责任公司 22
+      - github.com/v2rayfree - 湖南省长沙市电信 23
+      - 🇺🇲 github.com/v2rayfree - 美国CloudFlare公司CDN节点 24
+      - 🇺🇲 github.com/v2rayfree - 美国圣安娜Krypt机房 25
+      - 🇺🇲 github.com/v2rayfree - 美国  26
+      - 🇺🇲 github.com/v2rayfree - 美国Microsoft数据中心 27
+      - 🇺🇲 github.com/v2rayfree - 美国  28
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
