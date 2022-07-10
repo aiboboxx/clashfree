@@ -1,4 +1,4 @@
-clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-07-09 12:36:54  
+clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-07-10 02:19:28  
 所有clash节点都爬取自网络，请勿用于非法用途  
 
 ### clash使用教程：
@@ -23,47 +23,74 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1, server: 20.239.88.144, port: 80, type: vmess, uuid: e982184f-c6e0-4ba4-91cc-71eb6c702588, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nkpvpn.site, headers: {Host: nkpvpn.akamaized.net}}}
-  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2, server: 89.31.126.171, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3, server: 45.78.78.62, port: 38212, type: vmess, uuid: 5349d03e-7ef8-4aa1-e8a3-87d6f0fcd9c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  5, server: 45.144.176.135, port: 3003, type: ss, cipher: aes-256-cfb, password: werty33588761qwfdees}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6, server: 20.123.187.212, port: 27931, type: vmess, uuid: 256eae41-0b8f-4faa-bce8-6366011dc19f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7, server: tj-us02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  8, server: 165.22.73.126, port: 23335, type: ss, cipher: aes-256-cfb, password: 7d99ae502227454ea998d71e4b62a388}
-  - {name: 🇬🇧 v2rayfree.eu.org - 英国  9, server: inap008.xmrth-node.xyz, port: 12265, type: vmess, uuid: 30670cc5-0160-3ec8-98d5-606237ec5169, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10, server: 152.67.223.187, port: 13774, type: vmess, uuid: 5da35e16-0af7-47cc-ed73-269824ccb1a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  11, server: 45.144.176.135, port: 3005, type: ss, cipher: aes-256-cfb, password: 987.085wrcgrwqs36.985}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  12, server: v04.ssrsub.com, port: 153, type: vmess, uuid: 6f48efb9-3817-4652-832f-fd04d93ebbc1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: douyincdn.com}}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  13, server: v04.ssrsub.com, port: 153, type: vmess, uuid: ec3e47e9-8dd7-4302-aa1a-a5658d34e931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: douyincdn.com}}}
-  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14, server: 85.208.108.20, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15, server: us3.lolvps.xyz, port: 60072, type: vmess, uuid: 08c2809f-0094-42c9-b04a-c19d06a1d898, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /G0DXUQOM, headers: {Host: us3.lolvps.xyz}}}
-  - {name: v2rayfree.eu.org - 希腊  16, server: aop.ssfree.ru, port: 443, type: vmess, uuid: 05f0f2f2-fed7-11ec-a4c7-000017022008, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /getweather, headers: {Host: aop.ssfree.ru}}}
-  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17, server: 85.208.108.20, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇨🇳 v2rayfree.eu.org - 中国阿里云 18, server: 626sg05.ok365.cyou, port: 80, type: trojan, password: 54f4dd9a-6a6c-4c84-b328-4a51da70793e, skip-cert-verify: false}
-  - {name: 🇬🇧 v2rayfree.eu.org - 英国  19, server: 141.94.141.20, port: 80, type: vmess, uuid: e20d4b49-06e4-4923-ae85-b2e78344b603, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tms.dingtalk.com}}}
-  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20, server: 85.208.108.20, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21, server: 104.21.232.35, port: 443, type: vmess, uuid: 39275c8f-4a8a-4b8d-9651-da681445a277, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: m2.v2rayfree1.xyz}}}
-  - {name: v2rayfree.eu.org - 欧盟  22, server: v2.tgfaka.com, port: 48443, type: vmess, uuid: ec3e47e9-8dd7-4302-aa1a-a5658d34e931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: douyincdn.com}}}
-  - {name: v2rayfree.eu.org - 冰岛  23, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24, server: lms.uin-antasari.ac.id, port: 80, type: vmess, uuid: 46bfdb59-83c6-4710-877e-c809b5a90dff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: exa.nextvpn.cc}}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25, server: v116.v2dns.bar, port: 80, type: vmess, uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v116-DtoEwAEX, headers: {Host: v116.v2dns.bar}}}
-  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  26, server: 625tw.ok365.cyou, port: 443, type: trojan, password: 54f4dd9a-6a6c-4c84-b328-4a51da70793e, skip-cert-verify: false}
-  - {name: v2rayfree.eu.org - 广东省佛山市移动 27, server: data-hk-v1.heisey.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: tv.cctv.com}}}
-  - {name: 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28, server: trojan2.udpgw.com, port: 443, type: trojan, password: 973ef350-f6a5-11ec-9274-1239d0255272, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29, server: oz.moonfree.top, port: 443, type: vmess, uuid: 9fbb6122-46e7-413b-b29d-749eef446c8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oz.moonfree.top, network: ws, ws-opts: {path: /, headers: {Host: oz.moonfree.top}}}
-  - {name: 🇻🇳 v2rayfree.eu.org - 越南  30, server: 103.90.220.27, port: 80, type: vmess, uuid: d97ee737-7bc0-4dca-acf1-85135ed4d97e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: YouTube-aweikeji}}}
-  - {name: v2rayfree.eu.org - 广东省佛山市移动 31, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v2.shwjfkw.cn}}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  32, server: 129.150.61.170, port: 29493, type: vmess, uuid: ac0d0076-93d2-48ad-ba6e-ea5c8d7b0132, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 129.150.61.170}}}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  33, server: usfree2.jiantian.xyz, port: 32462, type: trojan, password: cb5e2135-4d64-4454-be98-5bae4f2618d1, skip-cert-verify: false}
-  - {name: v2rayfree.eu.org - 塞浦路斯  34, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  35, server: sg.guiqing.ml, port: 43956, type: vmess, uuid: 91df6837-896d-45bc-ec6f-0fe4b792b369, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36, server: 172.64.157.139, port: 443, type: vmess, uuid: 81e1d228-6d1a-4212-b45f-2abe61fc3791, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /hk.pengui.xyz, headers: {Host: hk.pengui.xyz}}}
-  - {name: 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37, server: trus.moonfree.top, port: 443, type: trojan, password: 4863e1b2-ec2f-4c71-b862-ce533028e57e, skip-cert-verify: false}
-  - {name: v2rayfree.eu.org - 广东省移动 38, server: 120.233.7.221, port: 32006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: v2rayfree.eu.org - 广东省移动 39, server: 120.233.7.221, port: 32004, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇲 v2rayfree.eu.org - 美国  40, server: 129.159.33.199, port: 45328, type: vmess, uuid: 842c33ff-31b5-410c-a96e-0cb52a99a6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 129.159.33.199}}}
-  - {name: 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41, server: 203.218.84.13, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1, server: 20.239.179.251, port: 50045, type: vmess, uuid: 1617e875-e377-4e4f-85ef-dcf9e5e10df7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2, server: 20.239.179.251, port: 50044, type: vmess, uuid: a12e496e-f89a-434a-8011-108846f0e412, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3, server: 104.243.25.95, port: 253, type: ss, cipher: aes-256-cfb, password: bwhskrskr03}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4, server: 20.222.34.96, port: 20011, type: vmess, uuid: e4a18b10-3916-3eff-a165-5801ec3fe8d4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp2.daydaygeek.icu}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5, server: 97.64.31.80, port: 247, type: ss, cipher: aes-256-cfb, password: bwhskrskr03}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6, server: 213.183.53.198, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7, server: 51.81.223.25, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8, server: 38.68.134.85, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9, server: 51.81.223.15, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10, server: 38.68.134.85, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11, server: 37.120.192.158, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12, server: 38.75.136.102, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13, server: 37.120.192.158, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14, server: 213.183.53.212, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15, server: 38.121.43.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  16, server: 625us.ok365.cyou, port: 443, type: trojan, password: 54f4dd9a-6a6c-4c84-b328-4a51da70793e, skip-cert-verify: false}
+  - {name: 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17, server: 37.120.192.158, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  18, server: v04.ssrsub.com, port: 153, type: vmess, uuid: ec3e47e9-8dd7-4302-aa1a-a5658d34e931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: douyincdn.com}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19, server: tj-us02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: false}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20, server: 38.121.43.71, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21, server: 172.96.192.58, port: 254, type: ss, cipher: aes-256-cfb, password: bwhskrskr03}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22, server: 38.75.136.102, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  23, server: v04.ssrsub.com, port: 153, type: vmess, uuid: 6f48efb9-3817-4652-832f-fd04d93ebbc1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: douyincdn.com}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24, server: 38.121.43.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  25, server: 625tw.ok365.cyou, port: 443, type: trojan, password: 54f4dd9a-6a6c-4c84-b328-4a51da70793e, skip-cert-verify: false}
+  - {name: 🇦🇹 v2rayfree.eu.org - 奥地利  26, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27, server: 85.208.108.20, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  28, server: v5.tgfaka.com, port: 48443, type: trojan, password: 6f48efb9-3817-4652-832f-fd04d93ebbc1, skip-cert-verify: false}
+  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29, server: 85.208.108.20, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30, server: 152.67.218.38, port: 443, type: vmess, uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 152.67.218.38}}}
+  - {name: v2rayfree.eu.org - 伊朗  31, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  32, server: usfree2.jiantian.xyz, port: 32462, type: trojan, password: cb5e2135-4d64-4454-be98-5bae4f2618d1, skip-cert-verify: false}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯  33, server: 217.30.10.63, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
+  - {name: 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34, server: 85.208.108.20, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35, server: 38.68.135.18, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36, server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37, server: jp-03.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, skip-cert-verify: false}
+  - {name: v2rayfree.eu.org - 欧盟  38, server: v2.tgfaka.com, port: 48443, type: vmess, uuid: ec3e47e9-8dd7-4302-aa1a-a5658d34e931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: douyincdn.com}}}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39, server: v001.v2dns.bar, port: 80, type: vmess, uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /a11-dCeBnloadPy, headers: {Host: YouTube-aweikeji}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40, server: 38.75.136.102, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41, server: lms.uin-antasari.ac.id, port: 80, type: vmess, uuid: 46bfdb59-83c6-4710-877e-c809b5a90dff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: exa.nextvpn.cc}}}
+  - {name: v2rayfree.eu.org - 匈牙利  42, server: 194.71.130.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !&lt;str&gt; 8460400130}
+  - {name: 🇨🇳 v2rayfree.eu.org - 中国阿里云 43, server: 626sg05.ok365.cyou, port: 80, type: trojan, password: 54f4dd9a-6a6c-4c84-b328-4a51da70793e, skip-cert-verify: false}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44, server: 51.81.223.21, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45, server: 203.218.84.13, port: 39999, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
+  - {name: 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46, server: 213.183.51.171, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47, server: v116.v2dns.bar, port: 80, type: vmess, uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v116-DtoEwAEX, headers: {Host: v116.v2dns.bar}}}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚  48, server: 140.83.84.72, port: 10021, type: vmess, uuid: a12e496e-f89a-434a-8011-108846f0e412, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: v2rayfree.eu.org - 欧盟  49, server: v2.tgfaka.com, port: 48443, type: vmess, uuid: 6f48efb9-3817-4652-832f-fd04d93ebbc1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: douyincdn.com}}}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯  50, server: 195.133.53.192, port: 43688, type: vmess, uuid: bd1c8b57-0a9e-4e9f-a261-48e90c871e41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: YouTube-aweikeji}}}
+  - {name: v2rayfree.eu.org - 广东省佛山市移动 51, server: data-hk-v1.heisey.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: tv.cctv.com}}}
+  - {name: v2rayfree.eu.org - 广东省佛山市移动 52, server: data-hk-v1.shwjfkw.cn, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v1.shwjfkw.cn}}}
+  - {name: 🇻🇳 v2rayfree.eu.org - 越南  53, server: 103.90.220.27, port: 80, type: vmess, uuid: d97ee737-7bc0-4dca-acf1-85135ed4d97e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: YouTube-aweikeji}}}
+  - {name: v2rayfree.eu.org - 广东省东莞市移动 54, server: 120.197.130.126, port: 13008, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: v2rayfree.eu.org - 欧盟  55, server: 422wkl.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 422wkl.fans8.xyz}}}
+  - {name: v2rayfree.eu.org - 广东省佛山市移动 56, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v2.shwjfkw.cn}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57, server: api.qiscus.com, port: 443, type: vmess, uuid: 8f9b60e6-1db3-42e4-97b9-1e311f427649, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess-ws-makae, headers: {Host: bn-id01.ipv2ray.xyz}}}
+  - {name: 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58, server: 54.36.174.181, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯  59, server: 217.30.10.63, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60, server: v2cross.com.01.v2ce.com, port: 443, type: trojan, password: mMQ6qJB9xbhiRvgg, skip-cert-verify: false}
+  - {name: v2rayfree.eu.org - 广东省移动 61, server: 120.233.7.221, port: 32006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62, server: 51.195.136.209, port: 50004, type: ss, cipher: aes-256-cfb, password: !&lt;str&gt; 4415934295}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63, server: 172.64.147.71, port: 443, type: vmess, uuid: 3eadc957-f6d5-3a3b-9289-c985ef4c8322, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xxX2, headers: {Host: testgroup2.091.se}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  64, server: 129.150.61.170, port: 29493, type: vmess, uuid: ac0d0076-93d2-48ad-ba6e-ea5c8d7b0132, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 129.150.61.170}}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国  65, server: 138.2.49.230, port: 10021, type: vmess, uuid: a12e496e-f89a-434a-8011-108846f0e412, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66, server: tj-sg02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: false}
+  - {name: v2rayfree.eu.org - 广东省移动 67, server: 120.233.7.221, port: 32004, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: v2rayfree.eu.org - 广东省移动 68, server: zc.9900.sd20211007.xyz, port: 32001, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -72,46 +99,73 @@ proxy-groups:
       - DIRECT
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -120,46 +174,73 @@ proxy-groups:
     proxies:
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -168,46 +249,73 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: 📲 电报信息
     type: select
     proxies:
@@ -215,46 +323,73 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -262,46 +397,73 @@ proxy-groups:
       - 🚀 节点选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -309,46 +471,73 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -357,46 +546,73 @@ proxy-groups:
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -421,46 +637,73 @@ proxy-groups:
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
       - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本东京M247网络 2
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 2
       - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 4
-      - 🇺🇲 v2rayfree.eu.org - 美国  5
-      - 🇺🇲 v2rayfree.eu.org - 美国DXC Technology 6
-      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 7
-      - 🇺🇲 v2rayfree.eu.org - 美国  8
-      - 🇬🇧 v2rayfree.eu.org - 英国  9
-      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 10
-      - 🇺🇲 v2rayfree.eu.org - 美国  11
-      - 🇺🇲 v2rayfree.eu.org - 美国  12
-      - 🇺🇲 v2rayfree.eu.org - 美国  13
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 14
-      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶CodecCloud数据中心 15
-      - v2rayfree.eu.org - 希腊  16
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 17
-      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 18
-      - 🇬🇧 v2rayfree.eu.org - 英国  19
-      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 20
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 21
-      - v2rayfree.eu.org - 欧盟  22
-      - v2rayfree.eu.org - 冰岛  23
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 24
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  26
-      - v2rayfree.eu.org - 广东省佛山市移动 27
-      - 🇸🇬 v2rayfree.eu.org - 新加坡Digital Ocean数据中心 28
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
-      - 🇻🇳 v2rayfree.eu.org - 越南  30
-      - v2rayfree.eu.org - 广东省佛山市移动 31
+      - 🇺🇲 v2rayfree.eu.org - 美国Microsoft数据中心 4
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 5
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 6
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 7
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 8
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 9
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 10
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  11
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 12
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  13
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科Melbicom数据中心 14
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 15
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  16
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  17
+      - 🇺🇲 v2rayfree.eu.org - 美国  18
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普HP 19
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 20
+      - 🇺🇲 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 21
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 22
+      - 🇺🇲 v2rayfree.eu.org - 美国  23
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - 🇦🇹 v2rayfree.eu.org - 奥地利  26
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 27
+      - 🇺🇲 v2rayfree.eu.org - 美国  28
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 29
+      - 🇺🇲 v2rayfree.eu.org - 美国3COM公司企业网 30
+      - v2rayfree.eu.org - 伊朗  31
       - 🇺🇲 v2rayfree.eu.org - 美国  32
-      - 🇺🇲 v2rayfree.eu.org - 美国  33
-      - v2rayfree.eu.org - 塞浦路斯  34
-      - 🇺🇲 v2rayfree.eu.org - 美国  35
-      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 36
-      - 🇭🇰 v2rayfree.eu.org - 香港特别行政区 37
-      - v2rayfree.eu.org - 广东省移动 38
-      - v2rayfree.eu.org - 广东省移动 39
-      - 🇺🇲 v2rayfree.eu.org - 美国  40
-      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 41
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  33
+      - 🇸🇦 v2rayfree.eu.org - 沙特阿拉伯Arabic Computer System Co. 34
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 35
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 36
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都品川区Linode数据中心 37
+      - v2rayfree.eu.org - 欧盟  38
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯莫斯科justhost.ru 39
+      - 🇺🇲 v2rayfree.eu.org - 美国华盛顿Cogent通信公司 40
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 41
+      - v2rayfree.eu.org - 匈牙利  42
+      - 🇨🇳 v2rayfree.eu.org - 中国阿里云 43
+      - 🇺🇲 v2rayfree.eu.org - 美国弗吉尼亚州文特山农场OVH数据中心 44
+      - 🇭🇰 v2rayfree.eu.org - 香港电讯盈科有限公司 45
+      - 🇳🇱 v2rayfree.eu.org - 荷兰北荷兰省阿姆斯特丹Melbicom数据中心 46
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 47
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚  48
+      - v2rayfree.eu.org - 欧盟  49
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  50
+      - v2rayfree.eu.org - 广东省佛山市移动 51
+      - v2rayfree.eu.org - 广东省佛山市移动 52
+      - 🇻🇳 v2rayfree.eu.org - 越南  53
+      - v2rayfree.eu.org - 广东省东莞市移动 54
+      - v2rayfree.eu.org - 欧盟  55
+      - v2rayfree.eu.org - 广东省佛山市移动 56
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 57
+      - 🇫🇷 v2rayfree.eu.org - 法国格拉沃利讷OVH数据中心 58
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  59
+      - v2rayfree.eu.org - 捷克布拉格Friendhosting有限责任公司 60
+      - v2rayfree.eu.org - 广东省移动 61
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 62
+      - 🇺🇲 v2rayfree.eu.org - 美国CloudFlare节点 63
+      - 🇺🇲 v2rayfree.eu.org - 美国  64
+      - 🇺🇲 v2rayfree.eu.org - 美国  65
+      - 🇺🇲 v2rayfree.eu.org - 美国惠普公司 66
+      - v2rayfree.eu.org - 广东省移动 67
+      - v2rayfree.eu.org - 广东省移动 68
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
