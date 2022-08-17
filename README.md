@@ -1,4 +1,4 @@
-clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-08-17 10:12:10  
+clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-08-17 12:49:46  
 所有clash节点都爬取自网络，请勿用于非法用途  
 
 ### clash使用教程：
