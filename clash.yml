@@ -6,29 +6,45 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1, server: www.letter4u.net, port: 12363, type: vmess, uuid: 8ee75e76-9d9d-4f37-bd62-7f7733f49458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2, server: 221.131.165.72, port: 9041, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国  3, server: 146.190.2.54, port: 443, type: vmess, uuid: 2a4918de-adce-4c4e-aa00-88a4227cf6ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4, server: shopify.com, port: 80, type: vmess, uuid: 353bbf5f-a264-4731-e735-984e611c2e01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tgus.cloudflare.quest}}, udp: true}
-  - {name: 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5, server: 111.45.22.152, port: 11919, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  6, server: 1002hk1326.tfzhc.top, port: 443, type: trojan, password: c65e5f8b-4e75-4b36-8faa-c6611b278d3f, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7, server: shopify.com, port: 80, type: vmess, uuid: 36bd9969-bb96-4bdd-a6df-960bbd8e4439, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aries, headers: {Host: tguk.cloudflare.quest}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8, server: 198.41.212.30, port: 443, type: vmess, uuid: 105c635f-918d-4b2a-8c9d-d5426e94eb4b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg2.zhujicn2.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9, server: 172.64.153.100, port: 443, type: vmess, uuid: 6e9217de-ad7e-4a67-bd17-a6dca951733b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg3.zhujicn2.com}}, udp: true}
-  - {name: 🇳🇴 v2rayfree.eu.org - 挪威  10, server: 146.59.43.129, port: 443, type: vmess, uuid: 54c6c823-4957-4c6c-b10c-359bc51f7cc3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11, server: cfhk.oppo.quest, port: 80, type: vmess, uuid: 2508cb1d-bd54-47c0-aead-1b8f55090427, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: scw.cloudflare.quest}}, udp: true}
-  - {name: 🇮🇹 v2rayfree.eu.org - 意大利  12, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13, server: 172.64.153.200, port: 443, type: vmess, uuid: a8030afd-812a-4afe-a766-9c76ff3eddd4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg4.zhujicn2.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14, server: 198.41.212.20, port: 443, type: vmess, uuid: a5ba8b2b-8fc5-4521-a35e-9281be61c1c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg1.zhujicn2.com}}, udp: true}
-  - {name: v2rayfree.eu.org - 亚太地区  15, server: 103.159.133.166, port: 31372, type: vmess, uuid: 912864fc-41c2-44e2-dcdf-0b01ef96237e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16, server: sg.prpr.link, port: 443, type: vmess, uuid: cea42161-bddc-4230-a9b9-e43187967ffa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram/ShareCentrePro/mknnix, headers: {Host: sg.prpr.link}}, udp: true}
-  - {name: 🇳🇴 v2rayfree.eu.org - 挪威  17, server: 46.29.218.84, port: 443, type: vmess, uuid: f7a456da-9886-4dd7-b193-4c59a726219c, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18, server: 172.64.153.150, port: 443, type: vmess, uuid: bf4619e4-01dc-48ca-be08-0976b54968ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg5.zhujicn2.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19, server: az.hk01.paopaocloud.cyou, port: 10035, type: vmess, uuid: d8c5b486-84bb-3887-a1d9-07455ea608f2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: paopao.v2.tw04.paopaocloud.cyou}}, udp: true}
-  - {name: 🇯🇵 v2rayfree.eu.org - 日本  20, server: 924hk.tfzhc.top, port: 44393, type: trojan, password: c65e5f8b-4e75-4b36-8faa-c6611b278d3f, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21, server: 141.101.114.20, port: 443, type: vmess, uuid: 07a63fe3-8a46-4f89-b548-9151c61b9dc8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: v2ray1.zhujicn2.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22, server: ah.yd01.paopaocloud.cyou, port: 10014, type: vmess, uuid: d8c5b486-84bb-3887-a1d9-07455ea608f2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: paopao.v2.sgp01.paopaocloud.cyou}}, udp: true}
-  - {name: 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23, server: 111.45.22.151, port: 9044, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1, server: c10s1.jamjams3.net, port: 16522, type: ss, cipher: aes-256-gcm, password: QB7rUb6qjPro24E8, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国  2, server: 146.190.2.54, port: 443, type: vmess, uuid: 2a4918de-adce-4c4e-aa00-88a4227cf6ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3, server: 216.24.176.222, port: 26710, type: vmess, uuid: 2df6a112-6606-41dc-86fb-ad9dbe01cb1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4, server: 23.83.224.26, port: 26710, type: vmess, uuid: 2df6a112-6606-41dc-86fb-ad9dbe01cb1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5, server: ah.yd01.paopaocloud.cyou, port: 10015, type: vmess, uuid: d8c5b486-84bb-3887-a1d9-07455ea608f2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: paopao.v2.jp02.paopaocloud.cyou}}, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6, server: 172.105.239.241, port: 443, type: vmess, uuid: 3706161f-3ee3-48e5-bfcf-0d856cc6f0ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /down, headers: {Host: js.adbse.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7, server: nice-uk01.tiktokcdn.buzz, port: 18271, type: trojan, password: ItqczFJHHy, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8, server: ru.p1.gay, port: 24114, type: trojan, password: 69a019dd-617b-449f-9af0-57762a476530, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9, server: jpws.p1.gay, port: 25617, type: vmess, uuid: 69a019dd-617b-449f-9af0-57762a476530, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /hootfun, headers: {Host: jpws.p1.gay}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国  10, server: fhcarm1.gaox.ml, port: 443, type: trojan, password: 05742120-ce23-4cc8-88f5-6d221ce45bf4, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11, server: 13.124.168.115, port: 443, type: vmess, uuid: 1a17faee-e35d-48e8-9708-e0a7b7ef04a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12, server: us.kapok.buzz, port: 443, type: vmess, uuid: eb4550a1-bd63-4f9c-b4b6-fdd24b440728, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /SCP-914, headers: {Host: us.kapok.buzz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13, server: shopify.com, port: 80, type: vmess, uuid: 353bbf5f-a264-4731-e735-984e611c2e01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tgus.cloudflare.quest}}, udp: true}
+  - {name: v2rayfree.eu.org - 亚太地区  14, server: hk-v2.superyuluo.top, port: 1032, type: vmess, uuid: 7b30dbe2-5fd9-4f87-a733-facef379632b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk-v2.superyuluo.top}}, udp: true}
+  - {name: 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15, server: 37.120.218.236, port: 443, type: vmess, uuid: ed162daa-ee20-44ed-830f-b522c501387a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16, server: 172.64.153.100, port: 443, type: vmess, uuid: 6e9217de-ad7e-4a67-bd17-a6dca951733b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg3.zhujicn2.com}}, udp: true}
+  - {name: 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17, server: 61.97.244.80, port: 443, type: vmess, uuid: e8b77ebd-d651-4847-b7b2-e3f7c762832a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18, server: 116.129.254.6, port: 11908, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19, server: 198.41.212.20, port: 443, type: vmess, uuid: a5ba8b2b-8fc5-4521-a35e-9281be61c1c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg1.zhujicn2.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20, server: shopify.com, port: 80, type: vmess, uuid: 2508cb1d-bd54-47c0-aead-1b8f55090427, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: scw.cloudflare.quest}}, udp: true}
+  - {name: 🇫🇮 v2rayfree.eu.org - 芬兰  21, server: 185.112.82.136, port: 443, type: vmess, uuid: 3c9b775f-1ffc-4d71-ab46-49adc0013888, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22, server: 36.227.205.34, port: 39999, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 v2rayfree.eu.org - 英国  23, server: 217.138.197.173, port: 443, type: vmess, uuid: 435c978e-2f48-4194-8d04-38cc79a24421, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇹🇷 v2rayfree.eu.org - 土耳其  24, server: 185.40.86.198, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: v2rayfree.eu.org - 亚太地区  25, server: hk-v2.superyuluo.top, port: 1031, type: ss, cipher: chacha20-ietf-poly1305, password: 7b30dbe2-5fd9-4f87-a733-facef379632b, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26, server: 172.67.196.0, port: 443, type: vmess, uuid: 4db99e96-3ee3-419c-b1fb-856975801380, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: localhoster.ml}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27, server: sg.prpr.link, port: 443, type: vmess, uuid: cea42161-bddc-4230-a9b9-e43187967ffa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram/ShareCentrePro/mknnix, headers: {Host: sg.prpr.link}}, udp: true}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  28, server: 1002hk1326.tfzhc.top, port: 443, type: trojan, password: 1a17faee-e35d-48e8-9708-e0a7b7ef04a1, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29, server: 172.64.153.200, port: 443, type: vmess, uuid: a8030afd-812a-4afe-a766-9c76ff3eddd4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg4.zhujicn2.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30, server: 104.18.2.56, port: 443, type: vmess, uuid: 7ac0dc7a-0ec5-4b62-ab61-4d0c00fc113a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jlnt8169.czsx1624.tk}}, udp: true}
+  - {name: 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31, server: hk-v2.superyuluo.asia, port: 30001, type: vmess, uuid: 7b30dbe2-5fd9-4f87-a733-facef379632b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk-v2.superyuluo.asia}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32, server: 198.181.56.163, port: 238, type: ss, cipher: aes-256-cfb, password: bwhskrskr05, udp: true}
+  - {name: 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33, server: hk-tj.superyuluo.asia, port: 30002, type: trojan, password: 7b30dbe2-5fd9-4f87-a733-facef379632b, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34, server: 112.fastea.top, port: 53316, type: trojan, password: bc65adbe-946a-4b68-b3dc-9a777af92412, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35, server: 1009jp.tfzhc.top, port: 80, type: trojan, password: 1a17faee-e35d-48e8-9708-e0a7b7ef04a1, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36, server: 221.131.165.72, port: 9041, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: v2rayfree.eu.org - 海南省海口市电信 37, server: v29.heduian.online, port: 30866, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true}
+  - {name: 🇷🇺 v2rayfree.eu.org - 俄罗斯  38, server: 91.243.82.187, port: 20005, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39, server: 111.45.22.152, port: 11919, type: vmess, uuid: 2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -36,58 +52,90 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -95,29 +143,45 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -137,33 +201,50 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -171,58 +252,90 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -230,29 +343,45 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -269,29 +398,45 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇯🇵 v2rayfree.eu.org - 日本东京Choopa数据中心 1
-      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 2
-      - 🇺🇸 v2rayfree.eu.org - 美国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 4
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 5
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  6
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 7
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 9
-      - 🇳🇴 v2rayfree.eu.org - 挪威  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇮🇹 v2rayfree.eu.org - 意大利  12
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - v2rayfree.eu.org - 亚太地区  15
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 16
-      - 🇳🇴 v2rayfree.eu.org - 挪威  17
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 18
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 19
-      - 🇯🇵 v2rayfree.eu.org - 日本  20
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 22
-      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 23
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 1
+      - 🇺🇸 v2rayfree.eu.org - 美国  2
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 3
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙IT7网络 4
+      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 5
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Linode数据中心 6
+      - 🇺🇸 v2rayfree.eu.org - 美国Amazon数据中心 7
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯鞑靼斯坦喀山justhost 8
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 9
+      - 🇺🇸 v2rayfree.eu.org - 美国  10
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Amazon数据中心 11
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - v2rayfree.eu.org - 亚太地区  14
+      - 🇷🇴 v2rayfree.eu.org - 罗马尼亚  15
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 16
+      - 🇰🇷 v2rayfree.eu.org - 韩国首尔Ehost数据中心 17
+      - 🇸🇬 v2rayfree.eu.org - 北京市新国信通信有限公司 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 19
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 20
+      - 🇫🇮 v2rayfree.eu.org - 芬兰  21
+      - 🇨🇳 v2rayfree.eu.org - 台湾省新北市中华电信 22
+      - 🇬🇧 v2rayfree.eu.org - 英国  23
+      - 🇹🇷 v2rayfree.eu.org - 土耳其  24
+      - v2rayfree.eu.org - 亚太地区  25
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 27
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  28
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  31
+      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇪🇪 v2rayfree.eu.org - 爱沙尼亚  33
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Linode数据中心 34
+      - 🇯🇵 v2rayfree.eu.org - 日本东京都亚马逊(Amazon)公司数据中心 35
+      - 🇨🇳 v2rayfree.eu.org - 江苏省宿迁市移动 36
+      - v2rayfree.eu.org - 海南省海口市电信 37
+      - 🇷🇺 v2rayfree.eu.org - 俄罗斯  38
+      - 🇨🇳 v2rayfree.eu.org - 广东省广州市电信IDC机房 39
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
