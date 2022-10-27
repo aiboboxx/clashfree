@@ -1,4 +1,4 @@
-clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-10-26 02:24:13  
+clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 每日更新  更新时间 2022-10-27 02:20:59  
 所有clash节点都爬取自网络，请勿用于非法用途  
 
 ### clash使用教程：
@@ -23,10 +23,14 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1, server: ca2.v2rayserv.com, port: 80, type: vmess, uuid: e3eba3ac-5bea-409f-ac5c-6c964e04d0c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ca2.v2rayserv.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2, server: 141.101.114.150, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: clash6.ssr-free.xyz}}, udp: true}
-  - {name: 🇬🇧 v2rayfree.eu.org - 英国  3, server: vuk2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vuk2.0bad.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4, server: asswb-1036-v2-1.hkg-d-kcd.nd.cjhh.mom, port: 888, type: vmess, uuid: caac6285-511c-4a07-b6db-edfbdcfe3889, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: node.inforun.work}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2, server: 172.64.154.222, port: 443, type: vmess, uuid: fcfaec91-6096-44d8-956c-7868d9e874b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lg1.cfcdn1.xyz}}, udp: true}
+  - {name: 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3, server: idnusa2.vpn-akcelluler.my.id, port: 443, type: vmess, uuid: fc9c12e0-f4f2-4fc4-a30e-fc488bac7121, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: idnusa2.vpn-akcelluler.my.id}}, udp: true}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  4, server: 1002hk1326.tfzhc.top, port: 443, type: trojan, password: e44e1be6-552f-4098-aedd-ff1ed59837e3, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5, server: 141.101.114.150, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: clash6.ssr-free.xyz}}, udp: true}
+  - {name: 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6, server: ca2.v2rayserv.com, port: 80, type: vmess, uuid: e3eba3ac-5bea-409f-ac5c-6c964e04d0c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshocean, headers: {Host: ca2.v2rayserv.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国  7, server: 65.20.98.245, port: 80, type: vmess, uuid: 86fc30b6-44c0-40c1-9ed7-72fe9142eb78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /telegram-id-privatevpns, headers: {Host: 65.20.98.245}}, udp: true}
+  - {name: 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8, server: 51.79.164.146, port: 80, type: vmess, uuid: 2ef64dc8-ca3c-45b8-ad5f-20871452143b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /fastssh/putdcbb/63500f2541b87/}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国加州 9, server: 64.112.126.4, port: 443, type: vmess, uuid: 8560c0b4-6f4b-45e6-9906-777650dcc310, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -34,20 +38,28 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -55,10 +67,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -78,10 +94,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -93,20 +113,28 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -114,10 +142,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -134,10 +166,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 1
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 2
-      - 🇬🇧 v2rayfree.eu.org - 英国  3
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州费利蒙Hurricane Electric公司 4
+      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  3
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  4
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 5
+      - 🇬🇧 v2rayfree.eu.org - 英国社会保险安全部 6
+      - 🇺🇸 v2rayfree.eu.org - 美国  7
+      - 🇸🇬 v2rayfree.eu.org - 新加坡OVH 8
+      - 🇺🇸 v2rayfree.eu.org - 美国加州 9
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
