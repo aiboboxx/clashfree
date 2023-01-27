@@ -1,4 +1,4 @@
-clash免费节点、clash订阅链接、clash科学上网、clash翻墙、clash教程 每日更新  更新时间 2023-01-26 01:41:27  
+clash免费节点、clash订阅链接、clash科学上网、clash翻墙、clash教程 每日更新  更新时间 2023-01-27 01:43:58  
 所有clash免费节点都爬取自网络，请勿用于非法用途 。电报地址：[clash免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 ### clash使用教程：
@@ -52,7 +52,7 @@ proxies:
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26, server: 141.101.114.32, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /A2DJOPFT, headers: {Host: lg10.cfcdn1.xyz}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27, server: v2ray.online, port: 443, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /speedtest, headers: {Host: Phoenix.v2ray.online}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28, server: hohm.microsoft.com, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /9JZFDTKE, headers: {Host: fr1.trump2023.org}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29, server: lu1.gogogoo.cyou, port: 443, type: vmess, uuid: db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /go, headers: {Host: lu1.gogogoo.cyou}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29, server: lu1.gogogoo.cyou, port: 443, type: vmess, uuid: db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /go, headers: {Host: lu1.gogogoo.cyou}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30, server: 141.193.213.20, port: 443, type: vmess, uuid: 4612618c-24cd-4379-9924-cfdf3d61fa5a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /IYKLD53M, headers: {Host: opfr1.v2rayfree1.xyz}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31, server: powerservice.com, port: 443, type: vmess, uuid: 0764a598-82c4-4b41-ba10-551a625beed5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: uk2.v2rayserv.com}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32, server: news.microsoft.com, port: 443, type: vmess, uuid: 0764a598-82c4-4b41-ba10-551a625beed5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: uk2.v2rayserv.com}}, udp: true}
@@ -60,8 +60,8 @@ proxies:
   - {name: 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34, server: 141.193.213.21, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /9JZFDTKE, headers: {Host: fr1.trump2023.org}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35, server: speed.cloudflare.com, port: 443, type: vmess, uuid: ffffffff-ffff-ffff-ffff-ffffffffffff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: v2.chigua.tk}}, udp: true}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36, server: news.microsoft.com, port: 443, type: vmess, uuid: 615a1285-5848-42a1-9859-d4cb37b1fbd8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /share, headers: {Host: us.awsbest.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37, server: RACKNERD.COM, port: 2086, type: vmess, uuid: c2a55def-e91e-4132-c504-0f276c4c3a1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aries, headers: {Host: br.cloudflare.quest}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38, server: cvywfavasdc.cymlr.xyz, port: 443, type: vmess, uuid: 23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ksebupo, headers: {Host: cvywfavasdc.cymlr.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37, server: RACKNERD.COM, port: 2086, type: vmess, uuid: c2a55def-e91e-4132-c504-0f276c4c3a1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aries, headers: {Host: br.cloudflare.quest}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38, server: cvywfavasdc.cymlr.xyz, port: 443, type: vmess, uuid: 23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ksebupo, headers: {Host: cvywfavasdc.cymlr.xyz}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -96,7 +96,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -104,8 +104,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -139,7 +139,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -147,8 +147,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -183,7 +183,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -191,8 +191,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -239,7 +239,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -247,8 +247,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -287,7 +287,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -295,8 +295,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: 📲 电报信息
     type: select
     proxies:
@@ -330,7 +330,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -338,8 +338,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -374,7 +374,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -382,8 +382,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -427,7 +427,7 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 26
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 29
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 30
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 32
@@ -435,8 +435,8 @@ proxy-groups:
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 34
       - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
       - 🇺🇸 v2rayfree.eu.org - 美国RF Engineering 36
-      - 🇺🇸 v2rayfree.eu.org - 美国南卡罗来纳州 37
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 38
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 38
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
