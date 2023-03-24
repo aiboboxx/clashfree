@@ -6,38 +6,46 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1, server: microsoft-si03.syjd.xyz, port: 30003, type: trojan, password: 442c1171-5937-47ef-b892-48f99f36648a, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 v2rayfree.eu.org - 日本  2, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 4610d2ce-3078-43b9-8253-b5be00e06bbb, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3, server: microsoft-hk04.syjd.xyz, port: 30004, type: trojan, password: 442c1171-5937-47ef-b892-48f99f36648a, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4, server: polotw1.applebench.tech, port: 56568, type: vmess, uuid: 7ffd6009-0085-4b4e-9598-e62c133fbd21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国  5, server: 170.187.170.126, port: 80, type: vmess, uuid: e8f057d6-903b-4600-8d84-9e78b608c426, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6, server: gy01.flydog.pro, port: 10000, type: vmess, uuid: ba5f0928-14b9-4fc8-a03b-be6cee7306b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 v2rayfree.eu.org - 日本  7, server: 320hk01.ljydw.top, port: 443, type: trojan, password: 4610d2ce-3078-43b9-8253-b5be00e06bbb, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇹 v2rayfree.eu.org - 意大利  8, server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9, server: 104.18.3.2, port: 80, type: vmess, uuid: 1d1c1d94-6987-4658-a4dc-8821a30fe7e0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: idnusanet.vpnexecutive.my.id}}, udp: true}
-  - {name: 🇮🇳 v2rayfree.eu.org - 印度  10, server: vnfreegaming.hahuutung.eu.org, port: 80, type: vmess, uuid: 91bae295-c167-4df8-9b98-217afab79717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11, server: lv3.sharecentrepro.org, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lv3.sharecentrepro.org}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国  12, server: 172.99.188.99, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13, server: 203.30.190.2, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 77.v2ray1.xyz}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14, server: 172.67.133.72, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hk01.kelecloud.xyz, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}, udp: true}
-  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15, server: 203.24.108.9, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: clash1.ssr-free2.xyz}}, udp: true}
-  - {name: 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16, server: asia1.oceis.net, port: 443, type: trojan, password: 3ed2ef00-c698-11ed-b833-205c6d5f5d78, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17, server: 141.101.114.111, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fr1.trump2023.org}}, udp: true}
-  - {name: 🇸🇪 v2rayfree.eu.org - 瑞典  18, server: shopify.co.uk, port: 443, type: vmess, uuid: be35f39f-571d-4240-8ab2-8055aae3a53e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fr.seeworld.pro, network: ws, ws-opts: {path: /retreyte6, headers: {Host: fr.seeworld.pro}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国  19, server: 172.99.188.99, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20, server: 77.v2ray1.xyz, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 77.v2ray1.xyz}}, udp: true}
-  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  21, server: 805tw.ljydw.top, port: 443, type: trojan, password: 4610d2ce-3078-43b9-8253-b5be00e06bbb, skip-cert-verify: false, udp: true}
-  - {name: v2rayfree.eu.org - 广东省移动 22, server: data-hk-v1.shwjfkw.cn, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23, server: 23.227.38.11, port: 443, type: vmess, uuid: 9379fea0-006d-4fd3-8e35-d45a5af72aa2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /UMW36262, headers: {Host: frgt1.ssr-free2.xyz}}, udp: true}
-  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24, server: 203.30.191.1, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: clash1.ssr-free2.xyz}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25, server: 172.67.219.5, port: 443, type: vmess, uuid: 00BBF5B8-173E-6818-9927-5AD1AA073C7D, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Kansas.v2ray.online}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26, server: quranweb40.xyz, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /current_time, headers: {Host: quranweb40.xyz}}, udp: true}
-  - {name: v2rayfree.eu.org - 欧盟  27, server: 45.12.30.192, port: 443, type: vmess, uuid: EB176736-29D0-484E-8464-28547013A162, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: Dusseldorf.kotick.site, network: ws, ws-opts: {path: /speedtest, headers: {Host: Dusseldorf.kotick.site}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28, server: sg2.seeworld.pro, port: 8880, type: vmess, uuid: be35f39f-571d-4240-8ab2-8055aae3a53e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /savcus, headers: {Host: sg2.seeworld.pro}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29, server: 172.66.44.197, port: 443, type: vmess, uuid: fa4cb529-3ac9-4268-bb04-ed4253813508, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d.pgypgykmoljklj.xyz}}, udp: true}
-  - {name: 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30, server: 141.147.149.101, port: 443, type: vmess, uuid: b3b6c94b-01a4-4760-ce8b-d7f3f443b7f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31, server: cdn.vlowers.top, port: 80, type: vmess, uuid: af6b9bd6-2993-488c-8c96-a3ea6f7efe05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: de1-vps.vlowers.top, network: ws, ws-opts: {path: /, headers: {Host: de1-vps.vlowers.top}}, udp: true}
-  - {name: 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32, server: 172.93.47.4, port: 10512, type: vmess, uuid: 58781eee-baba-6666-baba-2ca0ada6568b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本  1, server: 43.154.190.26, port: 50744, type: vmess, uuid: ce387c33-6d75-4722-95dd-b265657f2802, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, servername: hk8.linkeden.co, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2, server: 0kxedm1x8q8lksmj01.xingbayun.buzz, port: 1001, type: vmess, uuid: 399004bf-eaf0-4532-b139-ca4e79c5e27b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3, server: hk80.8b750e3e20aa.sanfen001.pics, port: 80, type: vmess, uuid: 58075d56-8933-48fe-a054-0ab9bcc6bcf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zh-cn/, headers: {Host: www.baidu.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4, server: hk3.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: 58075d56-8933-48fe-a054-0ab9bcc6bcf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.microsoft.com, network: ws, ws-opts: {path: /, headers: {Host: www.microsoft.com}}, udp: true}
+  - {name: 🇿🇦 v2rayfree.eu.org - 南非  5, server: 156.225.67.75, port: 53234, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本  6, server: hk6.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: 8216e1fd-7f67-440d-9a63-51d0f6c38b10, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk6.af49c4e4c2ef.sanfen001.pics}}, udp: true}
+  - {name: v2rayfree.eu.org - 亚太地区  7, server: us226.ljydw.top, port: 443, type: trojan, password: 5ed7cbef-49b8-4110-b5ed-e6c3d3463144, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8, server: 0kxedm1x8q8lksmj12.xingbayun.buzz, port: 443, type: vmess, uuid: 399004bf-eaf0-4532-b139-ca4e79c5e27b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇿🇦 v2rayfree.eu.org - 南非  9, server: 156.225.67.82, port: 56926, type: vmess, uuid: 3fd637ad-46fe-4f85-a6e8-86b00bca1122, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  10, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 5ed7cbef-49b8-4110-b5ed-e6c3d3463144, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 v2rayfree.eu.org - 日本  11, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 5ed7cbef-49b8-4110-b5ed-e6c3d3463144, skip-cert-verify: false, udp: true}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12, server: 203.30.188.1, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 154.v2ray3.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13, server: us1.sharecentrepro.com, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: us1.sharecentrepro.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14, server: st.acrouri.tk, port: 443, type: vmess, uuid: 295df99f-ad0e-4973-93fe-edb90270f7a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: st.acrouri.tk}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15, server: hk80.8b750e3e20aa.sanfen001.pics, port: 80, type: vmess, uuid: 66a41246-5c49-4411-a091-232f69f2dcc1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+  - {name: 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16, server: 0kxedm1x8q8lksmj20.xingbayun.buzz, port: 443, type: vmess, uuid: 399004bf-eaf0-4532-b139-ca4e79c5e27b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17, server: quranweb40.xyz, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /current_time, headers: {Host: quranweb40.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18, server: ai.com, port: 8880, type: vmess, uuid: be35f39f-571d-4240-8ab2-8055aae3a53e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: poland.seeworld.pro}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19, server: 104.21.234.238, port: 443, type: vmess, uuid: 128a73ee-a5a3-4dce-a832-5c3f60841032, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp03.cctvvip.ml}}, udp: true}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20, server: 203.24.108.9, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: clash1.ssr-free2.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21, server: pyptom.cf, port: 443, type: vmess, uuid: 46bfdb59-83c6-4710-877e-c809b5a90dff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vpnneo, headers: {Host: pyptom.cf}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22, server: 77.v2ray1.xyz, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 77.v2ray1.xyz, network: ws, ws-opts: {path: /, headers: {Host: 77.v2ray1.xyz}}, udp: true}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23, server: 203.30.190.2, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 77.v2ray1.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24, server: 154.v2ray3.xyz, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ECTCJ0DF, headers: {Host: 154.v2ray3.xyz}}, udp: true}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  25, server: 625tw.ljydw.top, port: 80, type: trojan, password: 5ed7cbef-49b8-4110-b5ed-e6c3d3463144, skip-cert-verify: false, udp: true}
+  - {name: v2rayfree.eu.org - 欧盟  26, server: 45.80.111.53, port: 443, type: vmess, uuid: 0b873cff-11ab-4716-c41a-04f886135091, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 200.aquabazi.site}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27, server: v20.emovpn.life, port: 8443, type: vmess, uuid: 01e5d674-9212-47a8-8653-298e21be6560, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v20.emovpn.xyz, network: ws, ws-opts: {path: /, headers: {Host: v20.emovpn.xyz}}, udp: true}
+  - {name: v2rayfree.eu.org - 欧盟  29, server: legenderyserversirn.ddns.net, port: 443, type: vmess, uuid: DDB05F7A-A4A3-4F34-B730-FCC7ACB3B17F, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /speedtest, headers: {Host: Amsterdam.kotick.site}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30, server: surongwei.eu.org, port: 443, type: vmess, uuid: 6093eefb-7ab6-41df-aba0-d5fa58147e10, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: surongwei.eu.org}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31, server: generates-guitar-comparing-un.trycloudflare.com, port: 443, type: vmess, uuid: ef0a75a6-bd97-11ed-afa1-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: generates-guitar-comparing-un.trycloudflare.com, network: ws, ws-opts: {path: "/vmess?ed=2048", headers: {Host: generates-guitar-comparing-un.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32, server: oracle.blowm1k.club, port: 443, type: trojan, password: a98f320a-f8c5-5bc0-be60-1bf4b7be9498, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 v2rayfree.eu.org - 加拿大  33, server: 805tw.ljydw.top, port: 443, type: trojan, password: 5ed7cbef-49b8-4110-b5ed-e6c3d3463144, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34, server: new8.hucloud-dns.xyz, port: 443, type: vmess, uuid: f11786fc-abf0-40e8-8177-992c699cc95f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /0fa5cea95e7/, headers: {Host: new8.hucloud-dns.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35, server: sogood.linefriends.com, port: 443, type: vmess, uuid: acd17818-d434-49ae-80a6-d194bcaf6392, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vvip, headers: {Host: sgray.jagoan.vip}}, udp: true}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36, server: 203.24.108.2, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /A2DJOPFT, headers: {Host: 77.v2ray1.xyz}}, udp: true}
+  - {name: 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37, server: 203.30.191.1, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: clash1.ssr-free2.xyz}}, udp: true}
+  - {name: v2rayfree.eu.org - 欧盟  38, server: doinb.ml, port: 443, type: vmess, uuid: c2f89bc3-e151-411c-a2ea-7f3ef63a5408, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ikidvws, headers: {Host: jp.lzgsm.tk}}, udp: true}
+  - {name: v2rayfree.eu.org - 欧盟  39, server: 45.85.119.121, port: 443, type: vmess, uuid: 5632cdd9-910b-4976-8195-6111a68b6336, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: gemws.mainssh.xyz, network: ws, ws-opts: {path: /vmess, headers: {Host: gemws.mainssh.xyz}}, udp: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40, server: Tokyo.v2ray.online, port: 443, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: Tokyo.v2ray.online, network: ws, ws-opts: {path: /, headers: {Host: Tokyo.v2ray.online}}, udp: true}
+  - {name: 🇬🇧 v2rayfree.eu.org - 英国  41, server: kt.p.mkitty.top, port: 443, type: trojan, password: 45c40b80-3d85-47aa-b6e4-3e0e2a066842, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -45,76 +53,92 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -122,38 +146,46 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -173,44 +205,50 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -218,76 +256,92 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -295,38 +349,46 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -343,38 +405,46 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费高速v2ray、clash节点:www.v2rayfree.eu.org
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 1
-      - 🇯🇵 v2rayfree.eu.org - 日本  2
-      - 🇺🇸 v2rayfree.eu.org - 美国Microsoft数据中心 3
-      - 🇨🇳 v2rayfree.eu.org - 台湾省台北市中华电信 4
-      - 🇺🇸 v2rayfree.eu.org - 美国  5
-      - 🇭🇰 v2rayfree.eu.org - 香港Amazon数据中心 6
-      - 🇯🇵 v2rayfree.eu.org - 日本  7
-      - 🇮🇹 v2rayfree.eu.org - 意大利  8
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 9
-      - 🇮🇳 v2rayfree.eu.org - 印度  10
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 11
-      - 🇺🇸 v2rayfree.eu.org - 美国  12
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 13
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 14
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 15
-      - 🇮🇩 v2rayfree.eu.org - 印度尼西亚  16
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 17
-      - 🇸🇪 v2rayfree.eu.org - 瑞典  18
-      - 🇺🇸 v2rayfree.eu.org - 美国  19
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 20
-      - 🇨🇦 v2rayfree.eu.org - 加拿大  21
-      - v2rayfree.eu.org - 广东省移动 22
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点(shopify) 23
-      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 24
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 25
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 26
-      - v2rayfree.eu.org - 欧盟  27
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 28
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 29
-      - 🇸🇪 v2rayfree.eu.org - 瑞典Oracle Corporation 30
-      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 31
-      - 🇺🇸 v2rayfree.eu.org - 美国加利福尼亚州洛杉矶IT7网络 32
+      - 🇯🇵 v2rayfree.eu.org - 日本  1
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 2
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 3
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 4
+      - 🇿🇦 v2rayfree.eu.org - 南非  5
+      - 🇯🇵 v2rayfree.eu.org - 日本  6
+      - v2rayfree.eu.org - 亚太地区  7
+      - 🇯🇵 v2rayfree.eu.org - 日本东京Amazon数据中心 8
+      - 🇿🇦 v2rayfree.eu.org - 南非  9
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  10
+      - 🇯🇵 v2rayfree.eu.org - 日本  11
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Lyndhurst Secondary College 12
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 v2rayfree.eu.org - 美国惠普HP 15
+      - 🇸🇬 v2rayfree.eu.org - 新加坡Amazon数据中心 16
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 18
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 19
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 20
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 21
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 22
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Langwarrin Secondary College 23
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 24
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  25
+      - v2rayfree.eu.org - 欧盟  26
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 27
+      - v2rayfree.eu.org - 欧盟  29
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 30
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 31
+      - 🇺🇸 v2rayfree.eu.org - 美国3COM公司企业网 32
+      - 🇨🇦 v2rayfree.eu.org - 加拿大  33
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 34
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 35
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 36
+      - 🇦🇺 v2rayfree.eu.org - 澳大利亚Cranbourne Secondary College 37
+      - v2rayfree.eu.org - 欧盟  38
+      - v2rayfree.eu.org - 欧盟  39
+      - 🇺🇸 v2rayfree.eu.org - 美国CloudFlare节点 40
+      - 🇬🇧 v2rayfree.eu.org - 英国  41
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
