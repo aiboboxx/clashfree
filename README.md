@@ -1,4 +1,4 @@
-#clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-08-23 01:34:23  
+#clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-08-23 12:58:45  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -26,52 +26,42 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 🇬🇧 更多免费节点:https://rss.uk.to/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.27.227, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.ilovescp.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: xjp.azzhuangaping.tw, port: 80, type: vmess, uuid: dd46dd47-8bc0-3f05-83fc-f0e551cc6fc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /adobe, headers: {Host: xjp.azzhuangaping.tw}}, udp: true}
-  - {name: 🇺🇸 美国 RF Engineering, server: 141.193.213.21, port: 80, type: vmess, uuid: a3673f7b-8146-4cfa-b192-2c96de24ab42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: tr-01vm.mr-radwan-daoud.de}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: vless.wyhkaa0.cf, port: 80, type: vmess, uuid: 87d0aa5d-09df-4785-d95d-6a0deed473be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: vless.wyhkaa0.cf}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.16.176.44, port: 443, type: vmess, uuid: 2cd39102-0799-4c61-abb6-2e7a258f0397, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: us-v.sshmax.xyz}}, udp: true}
-  - {name: 🇭🇰 香港 Microsoft数据中心, server: uk.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 13.wyhkaa0.gq, port: 2095, type: vmess, uuid: 32af4006-0698-4910-806c-b813074f36eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 13.wyhkaa0.gq}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: au-01.cloudlion.me, port: 2082, type: vmess, uuid: 476165e4-8862-4c50-a0f3-6a544017df09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: au-01.cloudlion.me}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 172.64.203.172, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.ilovescp.com}}, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 103.160.204.98, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /blue06, headers: {Host: ecc.vtcss.top}}, udp: true}
-  - {name: 🇸🇬 新加坡 Microsoft公司, server: de.stablize.top, port: 443, type: trojan, password: 8008b06e-2d1d-421c-9cdc-20af1f59093a, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1, server: hkjs.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港Microsoft数据中心 2, server: ap.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3, server: 67.21.64.84, port: 43123, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港Microsoft数据中心 4, server: sg.stablize.top, port: 443, type: trojan, password: 5e65f547-15ec-49f0-9fe6-2340cf1aa2e0, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港Microsoft数据中心 5, server: jp.stablize.top, port: 443, type: trojan, password: 5e65f547-15ec-49f0-9fe6-2340cf1aa2e0, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国Microsoft数据中心 6, server: in.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加州 7, server: 216.24.57.1, port: 443, type: vmess, uuid: a7ee85f4-2528-412e-994f-ce65f54754e4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dd2.1808.cf, network: ws, ws-opts: {path: a7ee85f4, headers: {Host: dd2.1808.cf}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d.freeh1.xyz}}, udp: true}
-  - {name: 🇿🇦 南非  10, server: 156.225.67.243, port: 43582, type: vmess, uuid: 990006bd-cb20-482f-9c97-f5fc65359605, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11, server: aujs.stablize.top, port: 443, type: trojan, password: 8008b06e-2d1d-421c-9cdc-20af1f59093a, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡Microsoft公司 12, server: usa.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡Microsoft公司 13, server: uk.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡Microsoft公司 14, server: uaejs.stablize.top, port: 443, type: trojan, password: 5e65f547-15ec-49f0-9fe6-2340cf1aa2e0, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡Microsoft公司 15, server: lu.stablize.top, port: 443, type: trojan, password: 5e65f547-15ec-49f0-9fe6-2340cf1aa2e0, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡Microsoft公司 16, server: chjs.stablize.top, port: 443, type: trojan, password: 8008b06e-2d1d-421c-9cdc-20af1f59093a, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国RF Engineering 17, server: 141.193.213.21, port: 80, type: vmess, uuid: a3673f7b-8146-4cfa-b192-2c96de24ab42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: tr-01vm.mr-radwan-daoud.de}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 18, server: 172.64.130.176, port: 80, type: vmess, uuid: f2982db2-23e3-430b-af54-e83ba84205fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: xby.daozhang.link}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 19, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 20, server: sdygarm.e5outllok.me, port: 80, type: vmess, uuid: c44ec7ca-fd87-4c44-b68c-1e8c4d7855ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 21, server: au-01.cloudlion.me, port: 2082, type: vmess, uuid: 476165e4-8862-4c50-a0f3-6a544017df09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: au-01.cloudlion.me}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 22, server: hk2.mianfenyun012.eu.org, port: 8080, type: vmess, uuid: 5d97b9d9-181c-4741-b70c-781aaa66a25e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sdfjv, headers: {Host: hk2.mianfenyun012.eu.org}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 23, server: vless.wyhkaa0.cf, port: 80, type: vmess, uuid: 87d0aa5d-09df-4785-d95d-6a0deed473be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: vless.wyhkaa0.cf}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 24, server: 104.16.176.44, port: 443, type: vmess, uuid: 2cd39102-0799-4c61-abb6-2e7a258f0397, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-v.sshmax.xyz}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 25, server: speedip.eu.org, port: 80, type: vmess, uuid: 72e8030a-96c2-4bdb-acfb-5bc02248f9f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v03.ssrsub.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 26, server: cloudflare.piaole.me, port: 443, type: vmess, uuid: 84c3faa1-27c8-4a3e-8ce9-e3edce3a6c6f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cloudflare.piaole.me}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 27, server: sg1.mianfenyun012.eu.org, port: 8080, type: vmess, uuid: cf35539e-2c06-4016-b2b6-cd6efa1ceb8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /djghdk, headers: {Host: sg1.mianfenyun012.eu.org}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 28, server: shs.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: shs.shabijichang.com}}, udp: true}
-  - {name: 亚太地区  29, server: 103.160.204.98, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /blue06, headers: {Host: ecc.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 30, server: yd1.992688.xyz, port: 8880, type: vmess, uuid: 27998387-fc3b-4237-9ac9-aba5d00bbd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 31, server: zfc.windowsupdate1.com, port: 443, type: vmess, uuid: 6abfe33a-1894-4f62-8879-83b71a35e5fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-1.acyun.tk}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 32, server: 172.67.254.29, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 33, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ikun, headers: {Host: us2.twittei.me}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 34, server: 104.27.43.111, port: 80, type: vmess, uuid: 185d6ff9-a0a7-4d39-f3e8-783b7a6bbc79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 35, server: 17.wyhkaa0.gq, port: 2095, type: vmess, uuid: 1e36655b-7d28-4513-d7f8-5f1a0c00a07d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 17.wyhkaa0.gq}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: soap2day.to, port: 443, type: vmess, uuid: 7522A28C-F9A1-40A0-BD92-67CF39AB5D5B, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Dusseldorf.bobbykotick.rip}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: shs.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: shs.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare公司CDN节点(shopify), server: 23.227.39.110, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.67.142.186, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.67.254.29, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: yd1.992688.xyz, port: 8880, type: vmess, uuid: 27998387-fc3b-4237-9ac9-aba5d00bbd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国  1, server: 137.175.86.188, port: 42151, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2, server: 209.141.42.111, port: 44359, type: vmess, uuid: 28f4492c-e5dc-42ba-acc3-74295384ff01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇷🇴 罗马尼亚  3, server: 37.120.193.102, port: 52920, type: vmess, uuid: 57170ff0-7180-4664-8f61-8debdda345f7, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇿🇦 南非  4, server: 156.225.67.46, port: 48413, type: vmess, uuid: 3ca912da-6ac2-418f-b9cf-45b6f694579b, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇿🇦 南非  5, server: 986.outline-vpn.cloud, port: 46412, type: vmess, uuid: a7fa8f14-4fb6-4280-9005-d6bbe99c5da9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇪🇸 西班牙Arsys网络 6, server: sp1.connecton.surf, port: 443, type: trojan, password: 41dbabe59a, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 8, server: 198.41.220.181, port: 80, type: vmess, uuid: a1a676e4-016e-4bf0-96fe-4b6aaf53abc2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sdgrm.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 9, server: ru1.mianfenyun012.eu.org, port: 80, type: vmess, uuid: c5964a63-d67c-4668-cdae-6443a1581e76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /jdbp606, headers: {Host: ru1.mianfenyun012.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 10, server: soap2day.to, port: 443, type: vmess, uuid: 7522A28C-F9A1-40A0-BD92-67CF39AB5D5B, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Dusseldorf.bobbykotick.rip}}, udp: true}
+  - {name: 🇯🇵 日本东京Amazon数据中心 11, server: ovokr.ovonice.com, port: 60005, type: trojan, password: c4117245-69ca-4970-a0b2-b5f2e5ee758e, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 12, server: wxll.e5outllok.me, port: 80, type: vmess, uuid: 170be339-5b5b-4df8-8068-316c9f933dd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: wxll.e5outllok.me}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 13, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d.freeh1.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 15, server: cloudconeaaa.gorgorchicken.one, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cloudconeaaa.gorgorchicken.one, network: ws, ws-opts: {path: /, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
+  - {name: 🇿🇦 南非  16, server: 156.225.67.243, port: 43582, type: vmess, uuid: 990006bd-cb20-482f-9c97-f5fc65359605, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 17, server: kianoosh.ddns.net, port: 443, type: vmess, uuid: E97A1F83-B0C6-48E5-82E1-556292153FA7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fn.mostafago.tk, network: ws, ws-opts: {path: /speedtest, headers: {Host: fn.mostafago.tk}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 18, server: sblarm.kaolll.tech, port: 80, type: vmess, uuid: fa0d5fc1-ad87-4126-b997-1ea3624442a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sblarm.kaolll.tech}}, udp: true}
+  - {name: 亚太地区  19, server: 103.184.45.26, port: 2052, type: vmess, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /blue99, headers: {Host: ecc.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 20, server: sg1.mianfenyun012.eu.org, port: 8080, type: vmess, uuid: cf35539e-2c06-4016-b2b6-cd6efa1ceb8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /djghdk, headers: {Host: sg1.mianfenyun012.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 21, server: yd1.992688.xyz, port: 8880, type: vmess, uuid: 27998387-fc3b-4237-9ac9-aba5d00bbd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国加州 22, server: 216.24.57.1, port: 443, type: vmess, uuid: a7ee85f4-2528-412e-994f-ce65f54754e4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dd2.1808.cf, network: ws, ws-opts: {path: a7ee85f4, headers: {Host: dd2.1808.cf}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 23, server: 104.16.176.44, port: 443, type: vmess, uuid: 2cd39102-0799-4c61-abb6-2e7a258f0397, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-v.sshmax.xyz}}, udp: true}
+  - {name: 🇺🇸 美国RF Engineering 24, server: 141.193.213.21, port: 80, type: vmess, uuid: a3673f7b-8146-4cfa-b192-2c96de24ab42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: tr-01vm.mr-radwan-daoud.de}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 25, server: 104.31.16.14, port: 443, type: vmess, uuid: 7d5e6501-fb94-42a3-9a61-aa8a300846d1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmesschannel:@hopev2ray, headers: {Host: gb4vm.cdn-03.live}}, udp: true}
+  - {name: 🇯🇵 日本东京Amazon数据中心 26, server: ovous.ovonice.com, port: 60004, type: trojan, password: c4117245-69ca-4970-a0b2-b5f2e5ee758e, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 27, server: 13.wyhkaa0.gq, port: 2095, type: vmess, uuid: 32af4006-0698-4910-806c-b813074f36eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 13.wyhkaa0.gq}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 28, server: 104.27.192.240, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ecc.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 29, server: 172.67.142.186, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 30, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ikun, headers: {Host: us2.twittei.me}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -79,104 +69,84 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -184,52 +154,42 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -249,60 +209,46 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -310,104 +256,84 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -415,52 +341,42 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -477,52 +393,42 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 RF Engineering
       - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 Microsoft数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇸🇬 新加坡 Microsoft公司
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 1
-      - 🇭🇰 香港Microsoft数据中心 2
-      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 3
-      - 🇭🇰 香港Microsoft数据中心 4
-      - 🇭🇰 香港Microsoft数据中心 5
-      - 🇺🇸 美国Microsoft数据中心 6
-      - 🇺🇸 美国加州 7
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 8
-      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 9
-      - 🇿🇦 南非  10
-      - 🇺🇸 美国加利福尼亚州圣克拉拉Microsoft公司 11
-      - 🇸🇬 新加坡Microsoft公司 12
-      - 🇸🇬 新加坡Microsoft公司 13
-      - 🇸🇬 新加坡Microsoft公司 14
-      - 🇸🇬 新加坡Microsoft公司 15
-      - 🇸🇬 新加坡Microsoft公司 16
-      - 🇺🇸 美国RF Engineering 17
-      - 🇺🇸 美国CloudFlare节点 18
-      - 🇺🇸 美国CloudFlare节点 19
+      - 🇺🇸 美国  1
+      - 🇺🇸 美国内华达州拉斯维加斯BuyVM数据中心 2
+      - 🇷🇴 罗马尼亚  3
+      - 🇿🇦 南非  4
+      - 🇿🇦 南非  5
+      - 🇪🇸 西班牙Arsys网络 6
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇺🇸 美国CloudFlare节点 9
+      - 🇺🇸 美国CloudFlare公司CDN节点 10
+      - 🇯🇵 日本东京Amazon数据中心 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇿🇦 南非  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
+      - 🇺🇸 美国CloudFlare公司CDN节点 18
+      - 亚太地区  19
       - 🇺🇸 美国CloudFlare公司CDN节点 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇺🇸 美国CloudFlare节点 22
-      - 🇺🇸 美国CloudFlare节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇺🇸 美国加州 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国RF Engineering 24
       - 🇺🇸 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 美国CloudFlare公司CDN节点 26
+      - 🇯🇵 日本东京Amazon数据中心 26
       - 🇺🇸 美国CloudFlare公司CDN节点 27
       - 🇺🇸 美国CloudFlare公司CDN节点 28
-      - 亚太地区  29
+      - 🇺🇸 美国CloudFlare节点 29
       - 🇺🇸 美国CloudFlare节点 30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare节点 32
-      - 🇺🇸 美国CloudFlare节点 33
-      - 🇺🇸 美国CloudFlare公司CDN节点 34
-      - 🇺🇸 美国CloudFlare公司CDN节点 35
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
