@@ -1,4 +1,4 @@
-#clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-08-26 01:32:55  
+#clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-08-26 12:55:18  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -26,7 +26,32 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 🇬🇧 更多免费节点:https://rss.uk.to/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: scw-fr.iiio.wiki, port: 2082, type: vmess, uuid: 250f4331-8c3e-4b87-a86b-5c5fbf9ddba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: scw-fr.iiio.wiki}}, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 103.160.204.70, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tui.vtcss.top}}, udp: true}
+  - {name: 🇨🇳 广东省广州市 移动, server: gz-2.jdweblink.lol, port: 15001, type: vmess, uuid: be55ddb3-d7b9-3472-aa60-fb34442ddf92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zh-cn/news, headers: {Host: gz-2.jdweblink.lol}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: sg1.mianfenyun012.eu.org, port: 8080, type: vmess, uuid: cf35539e-2c06-4016-b2b6-cd6efa1ceb8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /djghdk, headers: {Host: sg1.mianfenyun012.eu.org}}, udp: true}
+  - {name: 🇭🇰 香港 v2rayfree.eu.org, server: 156.245.8.145, port: 443, type: vmess, uuid: 63b4b829-7f01-4e26-b037-f04b1f098765, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.32159877.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省深圳市 移动, server: 183.232.249.189, port: 59902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 广东省佛山市+移动, server: 183.232.170.32, port: 30004, type: ss, cipher: aes-128-gcm, password: g12sQi#ss#&amp;1, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.67.183.40, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: dp3.scproxy.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ikun, headers: {Host: us2.twittei.me}}, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1, server: 64.32.4.53, port: 43556, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2, server: ci.outline-vpn.cloud, port: 43123, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3, server: 45.199.138.184, port: 47313, type: vmess, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4, server: 45.199.138.170, port: 46765, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f013421b, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5, server: 64.32.21.241, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6, server: 173.245.49.236, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: 104.25.80.96, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ecc.vtcss.top}}, udp: true}
+  - {name: 亚太地区  8, server: 103.160.204.162, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ecc.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 9, server: fr-01.cloudlion.me, port: 2082, type: vmess, uuid: 4c03971a-6f10-48bb-beab-956806b868dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fr-01.cloudlion.me}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 10, server: yd1.992688.xyz, port: 8880, type: vmess, uuid: 27998387-fc3b-4237-9ac9-aba5d00bbd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 11, server: 172.67.142.186, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 12, server: 104.18.236.126, port: 8080, type: vmess, uuid: 74a890ab-5c4b-4f35-aea4-5fc2459bebd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ecc.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 13, server: wxll.e5outllok.me, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: wxll.e5outllok.me}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 14, server: scw-fr.iiio.wiki, port: 2082, type: vmess, uuid: 250f4331-8c3e-4b87-a86b-5c5fbf9ddba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: scw-fr.iiio.wiki}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 15, server: cf.fovi.tk, port: 443, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxlux.fovi.tk}}, udp: true}
+  - {name: 🇺🇸 美国加州 16, server: 216.24.57.1, port: 443, type: vmess, uuid: a7ee85f4-2528-412e-994f-ce65f54754e4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: a7ee85f4, headers: {Host: dd2.1808.cf}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 17, server: shs.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: shs.shabijichang.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -34,14 +59,64 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -49,7 +124,32 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -69,11 +169,37 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇭🇰 香港 v2rayfree.eu.org
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -81,14 +207,64 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -96,7 +272,32 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -113,7 +314,32 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 更多免费节点:https://rss.uk.to/
-      - 🇬🇧 订阅链接已失效，请到https://rss.uk.to/注册获取
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇭🇰 香港 v2rayfree.eu.org
+      - 🇨🇳 广东省深圳市 移动
+      - 广东省佛山市+移动
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 美国加利福尼亚州洛杉矶SharkTech数据中心 2
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 3
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 4
+      - 🇺🇸 美国加利福尼亚州洛杉矶Sharktech数据中心 5
+      - 🇺🇸 美国弗吉尼亚州阿什本NV NEXT数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 亚太地区  8
+      - 🇺🇸 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 🇺🇸 美国加州 16
+      - 🇺🇸 美国CloudFlare节点 17
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
