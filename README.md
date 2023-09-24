@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-09-23 12:55:43  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-09-24 01:40:19  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -26,26 +26,26 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 更多免费节点:https://560888.xyz/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: b10af5ff-4d04-4fc7-ab43-8a3b15481d19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.67.99.73, port: 80, type: vmess, uuid: 6278dc83-1389-4d16-8ebb-0b8590b03582, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.75.246, port: 80, type: vmess, uuid: 81fc114e-44d7-44c7-9912-942453b03154, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: bl.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房, server: 45.199.138.164, port: 48944, type: vmess, uuid: 65ea6727-4461-47a7-a5c4-fef2c67f2f79, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 上海市+电信, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: f149711f-19fd-4af5-92ea-524b1c4efcac, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 172.67.32.83, port: 80, type: vmess, uuid: 01754500-e814-447e-967a-5a4045fc388a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
-  - {name: 广东省 移动, server: 183.240.232.81, port: 33271, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: hdlb.shabijichang.com, port: 80, type: vmess, uuid: 53701585-591f-48a3-9515-8831ed0524ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hdlb.shabijichang.com}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 1, server: 183.233.187.233, port: 49553, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港电讯盈科有限公司 2, server: hkt.123ddns.xyz, port: 55455, type: vmess, uuid: d2ce45e6-9f22-492d-d81d-d639067a7583, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkt.123ddns.xyz}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 3, server: cf.yx.alue.link, port: 2052, type: vmess, uuid: fe5edf04-c2af-4ac5-84ee-16d43024decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lu.wx.alue.link}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 4, server: 51fly99.win, port: 443, type: vmess, uuid: 9681f99e-d251-477a-d777-1d01ee550481, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 51fly99.win}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 137.175.23.179, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1695380351751, headers: {Host: www.22866947.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.32.83, port: 80, type: vmess, uuid: 01754500-e814-447e-967a-5a4045fc388a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: 5e48a497-f4ae-4129-afd6-ba26d75b792a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房, server: 45.199.138.209, port: 50447, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省深圳市 移动, server: aobre-1092-v2-7.r-kcd-b.iote.bond, port: 39918, type: vmess, uuid: a590e692-4c8d-42dd-ba80-b1765a34f699, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: cdn.cjhh.lol}}, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1, server: 45.199.138.209, port: 50447, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 荷兰  2, server: 46.182.107.217, port: 443, type: vmess, uuid: 3e016c4d-986e-42df-838c-6046f3d89ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1695380351751, headers: {Host: www.56427994.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 3, server: 183.233.187.233, port: 49553, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 4, server: 172.67.32.83, port: 80, type: vmess, uuid: 01754500-e814-447e-967a-5a4045fc388a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
   - {name: 🇺🇸 美国CloudFlare节点 5, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 70a93fcb-f8c0-4916-96b5-8c54f3394708, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sdyg.shabijichang.com}}, udp: true}
-  - {name: 🇨🇳 广东省深圳市移动 6, server: aobre-1092-v2-7.r-kcd-b.iote.bond, port: 39918, type: vmess, uuid: a590e692-4c8d-42dd-ba80-b1765a34f699, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: cdn.cjhh.lol}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 7, server: 172.67.99.73, port: 80, type: vmess, uuid: 6278dc83-1389-4d16-8ebb-0b8590b03582, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 8, server: 172.67.32.83, port: 80, type: vmess, uuid: 01754500-e814-447e-967a-5a4045fc388a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 9, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: 5e48a497-f4ae-4129-afd6-ba26d75b792a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 10, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: b10af5ff-4d04-4fc7-ab43-8a3b15481d19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 11, server: 104.20.224.95, port: 80, type: vmess, uuid: e6be60d7-8b79-4bd3-86ba-6291b1ead2f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ld.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 12, server: wnd.shabijichang.com, port: 80, type: vmess, uuid: 53701585-591f-48a3-9515-8831ed0524ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: wnd.shabijichang.com}}, udp: true}
+  - {name: 🇨🇳 广东省深圳市移动 6, server: vxyfa-1080-v2-2.d-kcd.tuil.xyz, port: 39928, type: vmess, uuid: a590e692-4c8d-42dd-ba80-b1765a34f699, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: edge.cjhh.mom}}, udp: true}
+  - {name: 🇨🇳 广东省深圳市移动 7, server: aobre-1092-v2-7.r-kcd-b.iote.bond, port: 39918, type: vmess, uuid: a590e692-4c8d-42dd-ba80-b1765a34f699, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: cdn.cjhh.lol}}, udp: true}
+  - {name: 🇺🇸 美国  8, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 7e7f8398-bd39-49d8-9ce6-e48ffef463dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /2TokGE9A/, headers: {Host: us6.cachexy.cf}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 9, server: 172.67.99.73, port: 80, type: vmess, uuid: 6278dc83-1389-4d16-8ebb-0b8590b03582, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sls.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 10, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: 5e48a497-f4ae-4129-afd6-ba26d75b792a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 11, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 6503fb21-5a73-4fcb-9d2d-bf04e8ff380b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mm.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 12, server: wnd.shabijichang.com, port: 80, type: vmess, uuid: 53701585-591f-48a3-9515-8831ed0524ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: wnd.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 13, server: 104.20.224.95, port: 80, type: vmess, uuid: e6be60d7-8b79-4bd3-86ba-6291b1ead2f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ld.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 14, server: 104.21.75.246, port: 80, type: vmess, uuid: 81fc114e-44d7-44c7-9912-942453b03154, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: bl.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 15, server: fhc.shabijichang.com, port: 80, type: vmess, uuid: b10af5ff-4d04-4fc7-ab43-8a3b15481d19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -53,52 +53,52 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -106,26 +106,26 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -145,31 +145,30 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 香港电讯盈科有限公司 2
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -177,52 +176,52 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -230,26 +229,26 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -266,26 +265,26 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://560888.xyz/
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
-      - 🇨🇳 上海市+电信
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 广东省 移动
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省广州市移动 1
-      - 🇭🇰 香港电讯盈科有限公司 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
+      - 🇨🇳 广东省深圳市 移动
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 1
+      - 🇳🇱 荷兰  2
+      - 🇨🇳 广东省广州市移动 3
       - 🇺🇸 美国CloudFlare节点 4
       - 🇺🇸 美国CloudFlare节点 5
       - 🇨🇳 广东省深圳市移动 6
-      - 🇺🇸 美国CloudFlare节点 7
-      - 🇺🇸 美国CloudFlare节点 8
+      - 🇨🇳 广东省深圳市移动 7
+      - 🇺🇸 美国  8
       - 🇺🇸 美国CloudFlare节点 9
-      - 🇺🇸 美国CloudFlare公司CDN节点 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇸 美国CloudFlare节点 11
+      - 🇺🇸 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点 15
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
