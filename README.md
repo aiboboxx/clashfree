@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-10-27 01:36:47  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-10-27 12:58:09  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -39,31 +39,31 @@ dns:
   fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
-  - {name: 更多免费节点:https://560888.xyz/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 订阅链接已失效，请到https://560888.xyz/注册获取, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
+  - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
+  - {name: 订阅链接已失效，请到https://v2raya.eu.org/注册获取, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -82,8 +82,8 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -94,23 +94,23 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -126,8 +126,8 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 更多免费节点:https://560888.xyz/
-      - 订阅链接已失效，请到https://560888.xyz/注册获取
+      - 更多免费节点:https://v2raya.eu.org/
+      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
