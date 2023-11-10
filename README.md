@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-10 01:40:00  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-10 12:58:54  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -40,7 +40,40 @@ dns:
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 订阅链接已失效，请到https://v2raya.eu.org/注册获取, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
+  - {name: 亚太地区 v2rayfree.eu.org, server: 103.35.190.65, port: 443, type: vmess, uuid: ed531ebe-4971-47f9-a881-636d0b101a44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 103.35.190.65}}, udp: true}
+  - {name: 🇱🇹 立陶宛 v2rayfree.eu.org, server: 212.24.103.3, port: 2053, type: trojan, password: 2228e29d-942a-4ee8-b3c0-f4a846e3f355, skip-cert-verify: false, udp: true}
+  - {name: 广东省 移动, server: tg_mfbpn_d4.52vpn.eu.org, port: 11008, type: trojan, password: 85db6652-a747-3a0a-a170-422736076410, sni: alibaba-node.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房, server: 45.199.138.146, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1699193100388, headers: {Host: www.19229362.xyz}}, udp: true}
+  - {name: 乌克兰 v2rayfree.eu.org, server: 95.164.62.204, port: 80, type: vmess, uuid: 2ba1c86f-789f-4dd8-b52a-17d21164f2ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: be1.xv2ray.net}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: sgp-2.888401.xyz, port: 80, type: vmess, uuid: fb512649-3738-493c-887b-a93eb5fc1f60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgp-2.888401.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 104.31.16.120, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: edeen.makeup}}, udp: true}
+  - {name: 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2, server: 45.199.138.191, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1699280099138, headers: {Host: www.42077230.xyz}}, udp: true}
+  - {name: 湖南省+联通, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: download1hkt.windowsupdatea.com, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt1.windowsupdatea.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: de-1.8080.eu.org, port: 443, type: vmess, uuid: 03bad296-8170-4756-a6be-760198f13413, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xwdn8sj2aw, headers: {Host: de-1.8080.eu.org}}, udp: true}
+  - {name: 湖南省+联通 2, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 3d761afc-6dfd-49d9-9d0f-b79341391f26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v005.ssrsub.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: cf1.openxai.link, port: 8080, type: vmess, uuid: 91084a50-d31e-4bb2-fe5b-d9f7157d5f77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu6.openxai.link}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: it1.cou.gay, port: 443, type: vmess, uuid: 5d45a046-2328-481f-ac9e-90dfb7bb4027, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: "/it1?ed=2048", headers: {Host: it1.cou.gay}}, udp: true}
+  - {name: 🇭🇰 香港 电讯盈科有限公司 2, server: 112.120.127.9, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt2.windowsupdatea.com, skip-cert-verify: false, udp: true}
+  - {name: 亚太地区 v2rayfree.eu.org 2, server: 103.35.190.65, port: 443, type: vmess, uuid: ed531ebe-4971-47f9-a881-636d0b101a44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 103.35.190.65}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: sfmomastore.com, port: 80, type: vmess, uuid: 0580abe6-9aaf-40e2-ba33-0bc9f3b6ef2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ee1.xv2ray.net}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 172.67.123.23, port: 8080, type: vmess, uuid: 62b024bb-3e45-41eb-e8ff-60502a4e791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /a5.mianfenyun012.eu.org/vui2, headers: {Host: erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev}}, udp: true}
+  - {name: 安徽省合肥市移动 1, server: 112.29.94.23, port: 49006, type: vmess, uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国  2, server: 216.73.158.35, port: 443, type: vmess, uuid: 186b8bd9-6f05-48bc-80dc-f36e84ffa601, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vmess-rs-us01.globalssh.xyz, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇭🇰 香港ADCDATA数据中心 3, server: 194.156.98.179, port: 80, type: vmess, uuid: 0855b410-0e96-4d0a-9b6e-80830edec462, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 4, server: docs.digitalocean.com, port: 443, type: vmess, uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dIGIkAlA.ONlINeviSioNsTore.sITE}}, udp: true}
+  - {name: 乌克兰  5, server: 95.164.62.204, port: 80, type: vmess, uuid: 2ba1c86f-789f-4dd8-b52a-17d21164f2ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: be1.xv2ray.net}}, udp: true}
+  - {name: 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6, server: 45.58.152.70, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1699193100388, headers: {Host: www.54964745.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: q8.star-one.cfd, port: 2095, type: vmess, uuid: 26ffc94a-e138-495a-8196-70472934e033, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /forwardv2ray, headers: {Host: q8.star-one.cfd}}, udp: true}
+  - {name: 🇭🇰 香港BGP.NET CN2数据中心 8, server: 202.79.171.146, port: 30000, type: vmess, uuid: 7f37da61-c734-41b4-a8c2-eccfd6ca48f0, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/080218162423, headers: {Host: www.52948386.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 9, server: 183.233.187.214, port: 56265, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, servername: king.turbo021.link, udp: true}
+  - {name: 湖南省联通 10, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11, server: 45.199.138.191, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1699280099138, headers: {Host: www.42077230.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 12, server: 172.67.123.23, port: 8080, type: vmess, uuid: 62b024bb-3e45-41eb-e8ff-60502a4e791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /a5.mianfenyun012.eu.org/vui2, headers: {Host: erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev}}, udp: true}
+  - {name: 🇨🇳 中国阿里云 13, server: 8.222.198.105, port: 80, type: vmess, uuid: ffffffff-ffff-ffff-ffff-ffffffffffff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: warp.chigua.tk}}, udp: true}
+  - {name: 广东省移动 14, server: 120.233.43.47, port: 11013, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15, server: 45.199.138.146, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1699193100388, headers: {Host: www.19229362.xyz}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -48,14 +81,80 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -63,7 +162,40 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -83,11 +215,48 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -95,14 +264,80 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -110,7 +345,40 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -127,7 +395,40 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 订阅链接已失效，请到https://v2raya.eu.org/注册获取
+      - 亚太地区 v2rayfree.eu.org
+      - 🇱🇹 立陶宛 v2rayfree.eu.org
+      - 广东省 移动
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房
+      - 乌克兰 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 加利福尼亚州圣何塞MULTACOM机房 2
+      - 湖南省+联通
+      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 湖南省+联通 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇭🇰 香港 电讯盈科有限公司 2
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 安徽省合肥市移动 1
+      - 🇺🇸 美国  2
+      - 🇭🇰 香港ADCDATA数据中心 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 乌克兰  5
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇭🇰 香港BGP.NET CN2数据中心 8
+      - 🇨🇳 广东省广州市移动 9
+      - 湖南省联通 10
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇨🇳 中国阿里云 13
+      - 广东省移动 14
+      - 🇺🇸 美国加利福尼亚州圣何塞MULTACOM机房 15
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
