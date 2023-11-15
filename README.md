@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-14 12:59:11  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-15 01:43:09  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -40,56 +40,55 @@ dns:
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.18.203.232, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: edeen.makeup}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.18.155.42, port: 443, type: vmess, uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dIGIkAlA.ONlINeviSioNsTore.sITE}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: kansas.kotick.site, port: 443, type: vmess, uuid: 2f094845-e2bd-ebf7-deb7-995992436faf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /speedtest, headers: {Host: kansas.kotick.site}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: www.speedtest.net, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: edeen.makeup}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: ip.nofiltering2.sbs, port: 80, type: vmess, uuid: 0239b1ce-468c-45b3-8d2a-85b1c0b274d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: ca2.xv2ray.net}}, udp: true}
-  - {name: 广东省+移动, server: p1.bxy-fun1.com, port: 44101, type: ss, cipher: chacha20-ietf-poly1305, password: d7bee830-09aa-43b2-8945-3b341b8787db, udp: true}
-  - {name: 广东省 移动, server: tg_mfbpn_d4.52vpn.eu.org, port: 11004, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 湖南省+联通, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 172.67.229.37, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca6.tehme100.fun}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 162.159.135.234, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: octavi.cfd}}, udp: true}
-  - {name: 🇭🇰 香港 阿里云, server: n1698814075.aaigefm.cn, port: 443, type: vmess, uuid: f5d1e638-f78d-4e1b-90af-cc7944ea2de0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1698814075.aaigefm.cn}}, udp: true}
-  - {name: 🇭🇰 香港 阿里云 2, server: n1697685464.aaigefm.cn, port: 443, type: vmess, uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697685464.aaigefm.cn}}, udp: true}
-  - {name: 🇭🇰 香港 阿里云 3, server: n1697685464.aaigefm.cn, port: 443, type: vmess, uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697685464.aaigefm.cn}}, udp: true}
-  - {name: 🇨🇳 台湾省彰化县 中华电信, server: tc11.kq1.dynu.net, port: 443, type: vmess, uuid: 44209e14-2acf-4d62-ac06-5f7fe43e3591, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vbub1, headers: {Host: tc11.kq1.dynu.net}}, udp: true}
-  - {name: 🇨🇳 台湾省新北市 中华电信, server: b21.ntbq.dynu.net, port: 443, type: vmess, uuid: 38ff99d8-dbaf-430a-867e-200b89f4c70a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b21, headers: {Host: b21.ntbq.dynu.net}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: b8845e4b-3211-4898-9636-96cdf01f63fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
-  - {name: 🇨🇳 台湾省桃园市 中华电信, server: b24.ntbq.dynu.net, port: 443, type: vmess, uuid: 2e3f1868-eeff-4a5c-995e-9e1a2cdf1bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b24, headers: {Host: b24.ntbq.dynu.net}}, udp: true}
-  - {name: 广东省 移动 2, server: tg_mfbpn_d4.52vpn.eu.org, port: 11011, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 台湾省台北市 中华电信, server: download1tw.windowsupdatea.com, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-tw1.windowsupdatea.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 9, server: ip.nofiltering2.sbs, port: 80, type: vmess, uuid: 0239b1ce-468c-45b3-8d2a-85b1c0b274d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ca2.xv2ray.net}}, udp: true}
-  - {name: 广东省 移动 3, server: tg_mfbpn_d4.52vpn.eu.org, port: 11014, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 203.198.16.28, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt1.windowsupdatea.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 104.24.177.7, port: 2096, type: vmess, uuid: 0809f6b2-f5d8-472e-831e-48c2e61e461f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: frab.carfin.tech}}, udp: true}
-  - {name: 广东省 移动 4, server: tg_mfbpn_d4.52vpn.eu.org, port: 11005, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 台湾省 中华电信(HiNet)数据中心, server: b22.ntbq.dynu.net, port: 443, type: vmess, uuid: 2e3f1868-eeff-4a5c-995e-9e1a2cdf1bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b22, headers: {Host: b22.ntbq.dynu.net}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心, server: ak1732.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 🇭🇰 香港 阿里云, server: n1697685464.aaigefm.cn, port: 443, type: vmess, uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697685464.aaigefm.cn}}, udp: true}
+  - {name: 🇷🇺 俄罗斯 v2rayfree.eu.org, server: 80.92.205.112, port: 443, type: vmess, uuid: 4c90ba75-230b-4f8b-bbff-8efa0eb0415f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇭🇰 香港 ADCDATA数据中心, server: 194.156.98.179, port: 80, type: vmess, uuid: 0855b410-0e96-4d0a-9b6e-80830edec462, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇵🇱 波兰 v2rayfree.eu.org, server: v2node15.bipbupvpn.com, port: 10100, type: vmess, uuid: 75b28ee0-1c81-4130-8206-eb96e2305b03, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v2node15.bipbupvpn.com}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 2, server: 54.36.174.181, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇮🇪 爱尔兰 v2rayfree.eu.org, server: 54.247.17.175, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港 阿里云 2, server: n1699253769.aaigefm.cn, port: 443, type: vmess, uuid: 982fadd1-3e5f-4aa3-8552-ed6fda23414a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1699253769.aaigefm.cn}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 3, server: 54.36.174.181, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: freeyx.cloudflare88.eu.org, port: 80, type: vmess, uuid: 08b2ceb1-5917-42da-b02c-0f942754aac6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.iiio.wiki}}, udp: true}
+  - {name: 🇨🇳 台湾省台北市 中华电信, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 18a4f80a-e6ba-4763-80da-7188fdee9abb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.67.184.13, port: 80, type: vmess, uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc2.shabijichang.com}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 4, server: 54.36.174.181, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.36.223.82, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 5, server: 54.36.174.181, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 6, server: 54.36.174.181, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 7, server: 54.36.174.181, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 146.190.108.227, port: 1, type: trojan, password: !&lt;str&gt; 1, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 台湾省中华电信(HiNet)数据中心 1, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 6152dab2-5a09-44fe-9c14-3ece9dbbc4b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
-  - {name: 🇨🇳 台湾省中华电信(HiNet)数据中心 2, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 18a4f80a-e6ba-4763-80da-7188fdee9abb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
-  - {name: 🇨🇳 台湾省中华电信(HiNet)数据中心 3, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 2e3f1868-eeff-4a5c-995e-9e1a2cdf1bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 4, server: google.efnten.top, port: 443, type: vmess, uuid: 5f2ea531-29e4-4836-c60a-a739b8e6b0a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /5f2ea531-29e4-4836-c60a-a739b8e6b0a3, headers: {Host: king.turbo021.link}}, udp: true}
-  - {name: 🇨🇳 台湾省桃园市中华电信 5, server: b24.ntbq.dynu.net, port: 443, type: vmess, uuid: 2e3f1868-eeff-4a5c-995e-9e1a2cdf1bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b24, headers: {Host: b24.ntbq.dynu.net}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 6, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: b8845e4b-3211-4898-9636-96cdf01f63fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
-  - {name: 🇨🇳 台湾省桃园市中华电信 7, server: b24.ntbq.dynu.net, port: 443, type: vmess, uuid: d6bc538d-2496-4818-b160-2d5875ba9a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: b24.ntbq.dynu.net}}, udp: true}
-  - {name: 🇷🇺 俄罗斯  8, server: 80.92.205.112, port: 443, type: vmess, uuid: 4c90ba75-230b-4f8b-bbff-8efa0eb0415f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 9, server: docs.digitalocean.com, port: 443, type: vmess, uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dIGIkAlA.ONlINeviSioNsTore.sITE}}, udp: true}
-  - {name: 湖南省联通 10, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
-  - {name: 🇨🇳 台湾省新北市中华电信 11, server: b21.ntbq.dynu.net, port: 443, type: vmess, uuid: 38ff99d8-dbaf-430a-867e-200b89f4c70a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b21, headers: {Host: b21.ntbq.dynu.net}}, udp: true}
-  - {name: 🇨🇳 台湾省台北市中华电信 12, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: 42246552-d778-440f-bbb5-8f0f14139c50, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
-  - {name: 🇭🇰 香港阿里云 13, server: n1697685464.aaigefm.cn, port: 443, type: vmess, uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697685464.aaigefm.cn}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 14, server: ml2.shabijichang.com, port: 80, type: vmess, uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml2.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 15, server: ml3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml3.shabijichang.com}}, udp: true}
-  - {name: 🇨🇳 台湾省台北市中华电信 16, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: d6bc538d-2496-4818-b160-2d5875ba9a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 17, server: 198.41.192.4, port: 8080, type: vmess, uuid: f440527e-5243-4ca8-890c-5e05e4b3bb41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu1.openxai.link}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 18, server: hytron.io, port: 8080, type: vmess, uuid: 010c265f-5455-4141-ca23-4d69357ded0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: aktw.daozhang.love}}, udp: true}
-  - {name: 🇨🇿 捷克  19, server: 176.126.120.38, port: 55007, type: vmess, uuid: 46840da4-9dbe-476c-bc44-05ea3b7c7a87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 香港阿里云 20, server: n1697555560.aaigefm.cn, port: 443, type: vmess, uuid: 56691c3c-b9a5-440f-a678-478618854e75, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697555560.aaigefm.cn}}, udp: true}
-  - {name: 🇨🇳 台湾省台北市中华电信 21, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: 44209e14-2acf-4d62-ac06-5f7fe43e3591, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
-  - {name: 🇨🇳 台湾省中华电信(HiNet)数据中心 22, server: nbq11.ntbq.dynu.net, port: 443, type: vmess, uuid: 44209e14-2acf-4d62-ac06-5f7fe43e3591, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b11, headers: {Host: nbq11.ntbq.dynu.net}}, udp: true}
-  - {name: 广东省移动 23, server: 120.233.43.47, port: 11013, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 广东省移动 24, server: tg_mfbpn_d4.52vpn.eu.org, port: 11002, type: vmess, uuid: 85db6652-a747-3a0a-a170-422736076410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 台湾省台北市 中华电信 2, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: d6bc538d-2496-4818-b160-2d5875ba9a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org, server: 162.247.153.108, port: 28896, type: ss, cipher: chacha20-ietf-poly1305, password: jFDpUoKUDZPEGTBJRiLZgo, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 8, server: 54.36.174.181, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.18.203.232, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: edeen.makeup}}, udp: true}
+  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.11.163.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 9, server: 54.36.174.181, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 10, server: 54.36.174.181, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.97.3, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: odelia.autos}}, udp: true}
+  - {name: 🇨🇳 台湾省花莲县 中华电信, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: 42246552-d778-440f-bbb5-8f0f14139c50, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 11, server: ak1751.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇨🇳 台湾省台中市中华电信 1, server: tc11.kq1.dynu.net, port: 443, type: vmess, uuid: 18a4f80a-e6ba-4763-80da-7188fdee9abb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tc11.kq1.dynu.net}}, udp: true}
+  - {name: 🇨🇳 台湾省中华电信(HiNet)数据中心 2, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: 42246552-d778-440f-bbb5-8f0f14139c50, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
+  - {name: 🇨🇳 台湾省台北市中华电信 3, server: b24.ntbq.dynu.net, port: 443, type: vmess, uuid: d6bc538d-2496-4818-b160-2d5875ba9a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: b24.ntbq.dynu.net}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 4, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: dba20da9-40e7-48ba-8c99-e24ec84836a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+  - {name: 🇷🇺 俄罗斯  5, server: 80.92.205.112, port: 443, type: vmess, uuid: 4c90ba75-230b-4f8b-bbff-8efa0eb0415f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇨🇳 台湾省台中市中华电信 6, server: tc11.kq1.dynu.net, port: 443, type: vmess, uuid: 6152dab2-5a09-44fe-9c14-3ece9dbbc4b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tc11.kq1.dynu.net}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: ip.nofiltering2.sbs, port: 80, type: vmess, uuid: 0239b1ce-468c-45b3-8d2a-85b1c0b274d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: ca2.xv2ray.net}}, udp: true}
+  - {name: 🇵🇱 波兰  8, server: v2node15.bipbupvpn.com, port: 10100, type: vmess, uuid: 75b28ee0-1c81-4130-8206-eb96e2305b03, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v2node15.bipbupvpn.com}}, udp: true}
+  - {name: 🇨🇳 台湾省台北市中华电信 9, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 6152dab2-5a09-44fe-9c14-3ece9dbbc4b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
+  - {name: 🇨🇳 台湾省台北市中华电信 10, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: d6bc538d-2496-4818-b160-2d5875ba9a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 11, server: ml2.shabijichang.com, port: 80, type: vmess, uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml2.shabijichang.com}}, udp: true}
+  - {name: 🇭🇰 香港ADCDATA数据中心 12, server: 194.156.98.179, port: 80, type: vmess, uuid: 0855b410-0e96-4d0a-9b6e-80830edec462, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 湖南省联通 13, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 14, server: 172.67.184.13, port: 80, type: vmess, uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc2.shabijichang.com}}, udp: true}
+  - {name: 🇭🇰 香港阿里云 15, server: n1697685464.aaigefm.cn, port: 443, type: vmess, uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1697685464.aaigefm.cn}}, udp: true}
+  - {name: 🇭🇰 香港阿里云 16, server: n1699253769.aaigefm.cn, port: 443, type: vmess, uuid: 982fadd1-3e5f-4aa3-8552-ed6fda23414a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1699253769.aaigefm.cn}}, udp: true}
+  - {name: 🇭🇰 香港阿里云 17, server: n1698814075.aaigefm.cn, port: 443, type: vmess, uuid: f5d1e638-f78d-4e1b-90af-cc7944ea2de0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1698814075.aaigefm.cn}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 18, server: ml3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml3.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 19, server: hytron.io, port: 8080, type: vmess, uuid: 010c265f-5455-4141-ca23-4d69357ded0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: aktw.daozhang.love}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 20, server: 198.41.192.4, port: 8080, type: vmess, uuid: f440527e-5243-4ca8-890c-5e05e4b3bb41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu1.openxai.link}}, udp: true}
+  - {name: 🇨🇳 台湾省台北市中华电信 21, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: 18a4f80a-e6ba-4763-80da-7188fdee9abb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -97,112 +96,110 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -210,56 +207,55 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -279,81 +275,76 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
       - 🇭🇰 香港 阿里云
+      - 🇭🇰 香港 ADCDATA数据中心
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇨🇳 台湾省桃园市 中华电信
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇭🇰 香港阿里云 20
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -361,112 +352,110 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -474,56 +463,55 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -540,56 +528,55 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 广东省+移动
-      - 广东省 移动
-      - 湖南省+联通
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心
       - 🇭🇰 香港 阿里云
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇭🇰 香港 ADCDATA数据中心
+      - 🇵🇱 波兰 v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
+      - 🇮🇪 爱尔兰 v2rayfree.eu.org
       - 🇭🇰 香港 阿里云 2
-      - 🇭🇰 香港 阿里云 3
-      - 🇨🇳 台湾省彰化县 中华电信
-      - 🇨🇳 台湾省新北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇨🇳 台湾省桃园市 中华电信
-      - 广东省 移动 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
+      - 🇺🇸 美国 CloudFlare节点
       - 🇨🇳 台湾省台北市 中华电信
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 广东省 移动 3
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 10
-      - 广东省 移动 4
-      - 🇨🇳 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 台湾省台北市 中华电信 2
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 10
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇨🇳 台湾省花莲县 中华电信
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 11
+      - 🇨🇳 台湾省台中市中华电信 1
       - 🇨🇳 台湾省中华电信(HiNet)数据中心 2
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 3
-      - 🇺🇸 美国CloudFlare节点 4
-      - 🇨🇳 台湾省桃园市中华电信 5
-      - 🇺🇸 美国CloudFlare公司CDN节点 6
-      - 🇨🇳 台湾省桃园市中华电信 7
-      - 🇷🇺 俄罗斯  8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 湖南省联通 10
-      - 🇨🇳 台湾省新北市中华电信 11
-      - 🇨🇳 台湾省台北市中华电信 12
-      - 🇭🇰 香港阿里云 13
+      - 🇨🇳 台湾省台北市中华电信 3
+      - 🇺🇸 美国CloudFlare公司CDN节点 4
+      - 🇷🇺 俄罗斯  5
+      - 🇨🇳 台湾省台中市中华电信 6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇵🇱 波兰  8
+      - 🇨🇳 台湾省台北市中华电信 9
+      - 🇨🇳 台湾省台北市中华电信 10
+      - 🇺🇸 美国CloudFlare公司CDN节点 11
+      - 🇭🇰 香港ADCDATA数据中心 12
+      - 湖南省联通 13
       - 🇺🇸 美国CloudFlare节点 14
-      - 🇺🇸 美国CloudFlare公司CDN节点 15
-      - 🇨🇳 台湾省台北市中华电信 16
-      - 🇺🇸 美国CloudFlare节点 17
-      - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇨🇿 捷克  19
-      - 🇭🇰 香港阿里云 20
+      - 🇭🇰 香港阿里云 15
+      - 🇭🇰 香港阿里云 16
+      - 🇭🇰 香港阿里云 17
+      - 🇺🇸 美国CloudFlare节点 18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare节点 20
       - 🇨🇳 台湾省台北市中华电信 21
-      - 🇨🇳 台湾省中华电信(HiNet)数据中心 22
-      - 广东省移动 23
-      - 广东省移动 24
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
