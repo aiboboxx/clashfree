@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-18 12:57:10  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-11-19 01:46:49  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -40,30 +40,38 @@ dns:
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心, server: 54.36.174.181, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.36.26, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: cf2.openxai.link, port: 8080, type: vmess, uuid: 47396f9c-365d-4b99-ad1f-f7927164b4c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu3.openxai.link}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.96.3, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 2, server: 54.36.174.181, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.18.154.42, port: 443, type: vmess, uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dIGIkAlA.ONlINeviSioNsTore.sITE}}, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 3, server: 54.36.174.181, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点 2, server: 188.114.99.0, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心, server: 54.36.174.181, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 2, server: 54.36.174.181, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 3, server: 54.36.174.181, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: ml2.shabijichang.com, port: 80, type: vmess, uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml2.shabijichang.com}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 4, server: 54.36.174.181, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: speed.cloudflare.com, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: alvvin.click}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 5, server: 54.36.174.181, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇦🇹 奥地利 v2rayfree.eu.org, server: 193.46.56.210, port: 8443, type: vmess, uuid: b72694db-ed21-46c1-8923-325305fa787f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
   - {name: 安徽省 移动数据上网公共出口, server: 112.29.94.23, port: 49223, type: vmess, uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare公司CDN节点(shopify), server: 23.227.39.84, port: 8080, type: vmess, uuid: 969f1909-c0d3-4c30-813d-3aec5c838b7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /1IKYjV0r/, headers: {Host: dongtaiwang13.dtku47.xyz}}, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 4, server: ak1732.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: docs.digitalocean.com, port: 443, type: vmess, uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dIGIkAlA.ONlINeviSioNsTore.sITE}}, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 5, server: 54.36.174.181, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 6, server: 54.36.174.181, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 7, server: 54.36.174.181, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 8, server: 54.36.174.181, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 广东省 移动, server: 183.237.20.148, port: 50707, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.96.3, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: hytron.io, port: 8080, type: vmess, uuid: 010c265f-5455-4141-ca23-4d69357ded0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: aktw.daozhang.love}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 6, server: 54.36.174.181, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 7, server: 54.36.174.181, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 8, server: 54.36.174.181, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 104.31.16.120, port: 8443, type: vmess, uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /cloudconebbb, headers: {Host: cloudconebbb.gorgorchicken.one}}, udp: true}
   - {name: 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心, server: 51.81.186.195, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: YWE3M, udp: true}
-  - {name: 广东省移动 1, server: 183.237.20.148, port: 50707, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 湖南省联通 2, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 3, server: ml3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml3.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 4, server: 104.21.36.26, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 5, server: ml2.shabijichang.com, port: 80, type: vmess, uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml2.shabijichang.com}}, udp: true}
-  - {name: 🇭🇰 香港ADCDATA数据中心 6, server: 194.156.98.179, port: 80, type: vmess, uuid: 0855b410-0e96-4d0a-9b6e-80830edec462, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 7, server: 198.41.192.4, port: 8080, type: vmess, uuid: f440527e-5243-4ca8-890c-5e05e4b3bb41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu1.openxai.link}}, udp: true}
+  - {name: 🇫🇷 法国+格拉沃利讷OVH数据中心 9, server: ak1751.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1, server: 51.81.186.195, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: YWE3M, udp: true}
+  - {name: 安徽省合肥市移动 2, server: 112.29.94.23, port: 49223, type: vmess, uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 广东省移动 3, server: 183.237.20.148, port: 50707, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国格拉沃利讷OVH数据中心 4, server: 54.36.174.181, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 5, server: ml2.shabijichang.com, port: 80, type: vmess, uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ml2.shabijichang.com}}, udp: true}
+  - {name: 湖南省联通 6, server: bjcu.xzyunjiasu.icu, port: 33952, type: ss, cipher: aes-256-gcm, password: 5c8b210a-2f00-4292-964b-05281c7ad5d1, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 7, server: cc2.shabijichang.com, port: 80, type: vmess, uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc2.shabijichang.com}}, udp: true}
+  - {name: 🇫🇷 法国格拉沃利讷OVH数据中心 8, server: ak1751.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇫🇷 法国格拉沃利讷OVH数据中心 9, server: 54.36.174.181, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 🇫🇷 法国格拉沃利讷OVH数据中心 10, server: 54.36.174.181, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇦🇹 奥地利  11, server: 193.46.56.210, port: 8443, type: vmess, uuid: b72694db-ed21-46c1-8923-325305fa787f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本东京都Amazon数据中心 12, server: jp6.skynode.one, port: 8443, type: vmess, uuid: 861cb438-6731-3638-bbf1-153575f8a430, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp6.skynode.one}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 13, server: hytron.io, port: 8080, type: vmess, uuid: 010c265f-5455-4141-ca23-4d69357ded0d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: aktw.daozhang.love}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 14, server: cf1.openxai.link, port: 8080, type: vmess, uuid: 218996e0-5a6e-4806-8106-6b7b42e6d0d6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu4.openxai.link}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -72,29 +80,37 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -102,29 +118,37 @@ proxy-groups:
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -133,29 +157,37 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -176,34 +208,41 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 香港ADCDATA数据中心 6
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -212,29 +251,37 @@ proxy-groups:
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: 📲 电报信息
     type: select
     proxies:
@@ -242,29 +289,37 @@ proxy-groups:
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -273,29 +328,37 @@ proxy-groups:
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -313,29 +376,37 @@ proxy-groups:
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
       - 🇫🇷 法国+格拉沃利讷OVH数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 2
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 安徽省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify)
+      - 🇺🇸 美国 CloudFlare节点
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 4
-      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 5
+      - 🇦🇹 奥地利 v2rayfree.eu.org
+      - 安徽省 移动数据上网公共出口
+      - 广东省 移动
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 6
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 7
       - 🇫🇷 法国+格拉沃利讷OVH数据中心 8
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国弗吉尼亚州文特山农场+OVH数据中心
-      - 广东省移动 1
-      - 湖南省联通 2
-      - 🇺🇸 美国CloudFlare公司CDN节点 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 4
-      - 🇺🇸 美国CloudFlare公司CDN节点 5
-      - 🇭🇰 香港ADCDATA数据中心 6
+      - 🇫🇷 法国+格拉沃利讷OVH数据中心 9
+      - 🇺🇸 美国弗吉尼亚州文特山农场OVH数据中心 1
+      - 安徽省合肥市移动 2
+      - 广东省移动 3
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 4
+      - 🇺🇸 美国CloudFlare节点 5
+      - 湖南省联通 6
       - 🇺🇸 美国CloudFlare节点 7
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 8
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 9
+      - 🇫🇷 法国格拉沃利讷OVH数据中心 10
+      - 🇦🇹 奥地利  11
+      - 🇯🇵 日本东京都Amazon数据中心 12
+      - 🇺🇸 美国CloudFlare节点 13
+      - 🇺🇸 美国CloudFlare公司CDN节点 14
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
