@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-12-14 01:42:19  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2023-12-14 13:00:17  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,36 +36,34 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇸🇬 新加坡 Choopa数据中心, server: 45.32.124.52, port: 443, type: trojan, password: eb2e1cf1-ed01-4392-9c9f-ec0ea37c7221, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: singapore.com, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v005.ssrsub.com}}, udp: true}
-  - {name: 🇺🇸 美国 麻省理工学院, server: 18.134.116.43, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 惠普公司, server: 15.237.206.104, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v004.ssrsub.com}}, udp: true}
-  - {name: 🇮🇪 爱尔兰 v2rayfree.eu.org, server: 63.34.230.226, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本 东京阿里云, server: kkyx.yydsii.com, port: 80, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yxtw.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国 Lasalle大学, server: 139.84.144.10, port: 443, type: trojan, password: 4fc77152e665415b9986d5b9b8f43601, sni: www.gpt123.one, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 146.190.99.71, port: 21378, type: vmess, uuid: f9819b76-b627-4635-a9c5-c54c46a9db10, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Shalana, headers: {Host: media-exp1.licdn.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: XXX112.FORWARDV2RAYTELEGRAMCHANNEL.FUN, port: 2096, type: vmess, uuid: 1797383f-0203-40a4-a213-95403b2f7794, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: XXX112.FORWARDV2RAYTELEGRAMCHANNEL.FUN}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org 2, server: 146.190.99.71, port: 21378, type: vmess, uuid: f9819b76-b627-4635-a9c5-c54c46a9db10, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Shalana, headers: {Host: media-exp1.licdn.com}}, udp: true}
+  - {name: 🇺🇸 美国 Microsoft数据中心, server: waphk.mjt000.com, port: 443, type: trojan, password: c2c76420-257f-492a-b20f-6560f3bfa78d, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: cloudflare.cfgo.cc, port: 8080, type: vmess, uuid: 579fd6f1-7618-4fff-8635-9dba4a61df96, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc.992688.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: cf.openxai.link, port: 8080, type: vmess, uuid: e2695bd0-945f-4476-aac5-0e37bcdbd7fc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: eu5.openxai.link}}, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动, server: service.ouluyun9803.com, port: 26601, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: XXX112.FORWARDV2RAYTELEGRAMCHANNEL.FUN, port: 2096, type: vmess, uuid: 1797383f-0203-40a4-a213-95403b2f7794, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: XXX112.FORWARDV2RAYTELEGRAMCHANNEL.FUN}}, udp: true}
   - {name: 🇺🇸 美国 宾夕法尼亚州Coudersport, server: frontend.kuangbiaoyun.com, port: 40006, type: trojan, password: 57edfecf-5694-4a34-8072-54a4f0636a62, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 台湾省新北市 中华电信, server: mirai.route76.net, port: 443, type: vmess, uuid: ccf295c0-cdb7-43f1-9dca-7f15752704b4, alterId: 4, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: h2, h2-opts: {path: /cache, host: [mirai.route76.net]}, udp: true}
-  - {name: 🇹🇼 台湾省 中华电信(HiNet)数据中心, server: b23.ntbq.dynu.net, port: 443, type: vmess, uuid: f269e2fa-6c84-43fe-8e69-a240b8449e79, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /b23, headers: {Host: b23.ntbq.dynu.net}}, udp: true}
-  - {name: 🇨🇳 广东省广州市+移动, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: download1hkt.windowsupdatea.com, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt1.windowsupdatea.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.16.201, port: 2083, type: vmess, uuid: da37a316-d17b-493f-bd6e-b58a23e31823, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /foryourtestmyfriends2083, headers: {Host: foryourtestmyfriends.hesam5a.tk}}, udp: true}
-  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 159.223.207.182, port: 34428, type: trojan, password: zIvR7ryOXv, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省 移动, server: 183.240.232.93, port: 34001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省广州市+移动 2, server: service.ouluyun9803.com, port: 26601, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
-  - {name: 🇨🇳 广东省广州市+移动 3, server: service.ouluyun9803.com, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 1, server: 38.91.107.37, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false, udp: true}
-  - {name: 🇷🇺 俄罗斯  2, server: 62.133.60.134, port: 10001, type: vmess, uuid: 998d0aea-9540-11ee-9111-3fe7c1d34d71, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 62.133.60.134}}, udp: true}
-  - {name: 🇯🇵 日本东京Oracle云计算数据中心 3, server: kkyx.yydsii.com, port: 80, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yxtw.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 4, server: 38.91.107.37, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 5, server: scadn.yydsii.com, port: 8080, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 6, server: singapore.com, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v005.ssrsub.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: hexsen.com, port: 443, type: vmess, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: arthur-experienced-hate-maiden.trycloudflare.com}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 8, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 9, server: cloudflare.cfgo.cc, port: 8080, type: vmess, uuid: 579fd6f1-7618-4fff-8635-9dba4a61df96, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc.992688.xyz}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 10, server: service.ouluyun9803.com, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 11, server: cloud.dragonrzm.sbs, port: 8080, type: vmess, uuid: ce0d5151-7734-4189-b6ae-eb58e9af5603, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cloud.dragonrzm.sbs}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 12, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇹🇼 台湾省台北市 中华电信, server: download1tw.windowsupdatea.com, port: 443, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-tw1.windowsupdatea.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 2, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.71.132.91, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省广州市 移动, server: hk2.awslcn.info, port: 25242, type: vmess, uuid: b50cfa49-c0d7-4e52-b489-364d7955aae9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk2.awslcn.info}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: us-02.jikuai.xyz, port: 2082, type: vmess, uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-02.jikuai.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 3, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 4, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 5, server: service.ouluyun9803.com, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v005.ssrsub.com}}, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 6, server: service.ouluyun9803.com, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 7, server: service.ouluyun9803.com, port: 26602, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.21.16.201, port: 2083, type: vmess, uuid: da37a316-d17b-493f-bd6e-b58a23e31823, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: foryourtestmyfriends.hesam5a.tk, network: ws, ws-opts: {path: /foryourtestmyfriends2083, headers: {Host: foryourtestmyfriends.hesam5a.tk}}, udp: true}
+  - {name: 🇨🇳 广东省广州市+移动 8, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省移动 1, server: 183.240.232.93, port: 34001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 2, server: cloudflare.cfgo.cc, port: 8080, type: vmess, uuid: 579fd6f1-7618-4fff-8635-9dba4a61df96, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc.992688.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 3, server: zfc.windowsupdate1.com, port: 80, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jpyx.651568.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 4, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 5, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 6, server: service.ouluyun9803.com, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, tfo: false, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -73,72 +71,68 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -146,36 +140,34 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -195,43 +187,39 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇭🇰 香港 电讯盈科有限公司
+      - 🇹🇼 台湾省台北市 中华电信
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -239,72 +227,68 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -312,36 +296,34 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -358,36 +340,34 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇸🇬 新加坡 Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 麻省理工学院
-      - 🇺🇸 美国 惠普公司
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇯🇵 日本 东京阿里云
-      - 🇺🇸 美国 Lasalle大学
-      - 🇺🇸 美国 宾夕法尼亚州Coudersport
-      - 🇹🇼 台湾省新北市 中华电信
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 Microsoft数据中心
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇨🇳 广东省广州市+移动
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 宾夕法尼亚州Coudersport
+      - 🇹🇼 台湾省台北市 中华电信
       - 🇨🇳 广东省广州市+移动 2
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇳 广东省广州市+移动 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇷🇺 俄罗斯  2
-      - 🇯🇵 日本东京Oracle云计算数据中心 3
-      - 🇺🇸 美国华盛顿Cogent通信公司 4
-      - 🇺🇸 美国CloudFlare节点 5
-      - 🇺🇸 美国CloudFlare节点 6
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
-      - 🇨🇳 广东省广州市移动 8
-      - 🇺🇸 美国CloudFlare公司CDN节点 9
-      - 🇨🇳 广东省广州市移动 10
-      - 🇺🇸 美国CloudFlare公司CDN节点 11
-      - 🇨🇳 广东省广州市移动 12
+      - 🇨🇳 广东省广州市+移动 4
+      - 🇨🇳 广东省广州市+移动 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广东省广州市+移动 6
+      - 🇨🇳 广东省广州市+移动 7
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇨🇳 广东省广州市+移动 8
+      - 🇨🇳 广东省移动 1
+      - 🇺🇸 美国CloudFlare节点 2
+      - 🇺🇸 美国CloudFlare节点 3
+      - 🇨🇳 广东省广州市移动 4
+      - 🇨🇳 广东省广州市移动 5
+      - 🇨🇳 广东省广州市移动 6
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
