@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-01-05 01:43:10  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-01-05 12:58:54  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -35,102 +35,89 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇨🇳 广东省 移动, server: gbs.pptv-tv.store, port: 17728, client-fingerprint: chrome, type: trojan, password: 299a6171-b4ce-403a-8157-c3dad55ef3a2, skip-cert-verify: false, udp: true}
-  - {name: 亚太地区 v2rayfree.eu.org, server: vn1.5gtocdocao.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7a2c5296-683d-48db-9856-373cafac48b5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gtocdocao.com, headers: {Host: vn1.5gtocdocao.com}}, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 103.113.68.233, port: 80, client-fingerprint: chrome, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 103.113.68.233}}, udp: true}
-  - {name: 欧盟+v2rayfree.eu.org, server: 45.87.153.246, port: 6199, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, tfo: false, udp: true}
-  - {name: 欧盟+v2rayfree.eu.org 2, server: 45.8.147.80, port: 5741, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Q5CEiebSuSl2qFkfE4ztG2, tfo: false, udp: true}
-  - {name: 🇹🇼 台湾省 中华电信(HiNet)数据中心, server: b23.ntbq.dynu.net, port: 2024, client-fingerprint: chrome, type: vmess, uuid: 08ee510e-68e6-4a71-8d3a-1c576ffa3cac, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心, server: 132.145.132.227, port: 37121, client-fingerprint: chrome, type: vmess, uuid: 93845b50-26f6-4203-f5ad-4d231d4e8f45, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 132.145.132.227}}, udp: true}
-  - {name: 🇫🇷 法国+巴黎Online+S.A.S, server: 51.158.150.173, port: 8119, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false, udp: true}
-  - {name: 亚太地区 v2rayfree.eu.org 2, server: antiddos3.5gtocdocao.com, port: 443, client-fingerprint: chrome, type: trojan, password: 7a2c5296-683d-48db-9856-373cafac48b5, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 台湾省 中华电信(HiNet)数据中心 2, server: c11.twtc.dynu.net, port: 6899, client-fingerprint: chrome, type: vmess, uuid: 4c698ff1-ab96-4ce3-8c3a-e23ced87b441, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: web.parspack.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 5f797b91-c7ec-4178-d19e-9b069b70b446, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zUlA9.eSmAIlkORea.sHop}}, udp: true}
-  - {name: 🇯🇵 日本 东京都品川区Linode数据中心, server: 139.162.125.97, port: 49499, client-fingerprint: chrome, type: vmess, uuid: 3ce1d2e3-0e1b-4b00-921b-fcc0f8abe1f6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: kkyx.yydsii.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
-  - {name: 🇬🇧 英国 社会保险安全部, server: 51.21.15.71, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇪 瑞典 v2rayfree.eu.org, server: www.shopify.com, port: 2082, client-fingerprint: chrome, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: els_cdnone.yunjisuan.cf}}, udp: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: download1hkt.windowsupdatea.com, port: 443, client-fingerprint: chrome, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt1.windowsupdatea.com, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 浙江省 移动数据上网公共出口, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: scadn.yydsii.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org 2, server: ru1-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: ru1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: ironone.libertasiran.cloud, port: 443, client-fingerprint: chrome, type: trojan, password: LibertasLibertas, sni: ironone.libertasiran.cloud, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org, server: 45.58.39.13, port: 58428, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31LdYhP8Ae, tfo: false, udp: true}
-  - {name: 🇫🇷 法国+OVH+SAS, server: 217.182.198.219, port: 3389, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false, udp: true}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.11.231.24, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 法国+OVH+SAS 2, server: 217.182.198.219, port: 3306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心, server: 96.30.197.59, port: 56272, client-fingerprint: chrome, type: vmess, uuid: 8e8d5a10-7fd0-4818-8265-a4dc4a569d31, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: web.parspack.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 5f797b91-c7ec-4178-d19e-9b069b70b446, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zUlA9.eSmAIlkORea.sHop}}, udp: true}
-  - {name: 🇨🇿 捷克 v2rayfree.eu.org, server: jp.takeshi.wiki, port: 80, client-fingerprint: chrome, type: vmess, uuid: 803b8c6b-192e-4500-a919-485566f8e058, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司 2, server: download2hkt.windowsupdatea.com, port: 443, client-fingerprint: chrome, type: trojan, password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff, sni: glc-hkt2.windowsupdatea.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 172.67.179.37, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: octavi.cfd}}, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: lt2-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lt2-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇳🇱 荷兰 v2rayfree.eu.org, server: 46.182.107.15, port: 30000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702215223320, headers: {Host: 46.182.107.15}}, udp: true}
-  - {name: 🇨🇳 广东省广州市+移动, server: service.ouluyun9803.com, port: 50003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, tfo: false, udp: true}
-  - {name: 🇭🇰 香港 特别行政区, server: 154.90.39.63, port: 45343, client-fingerprint: chrome, type: vmess, uuid: 08aa8499-d616-4ff1-d6ab-ce0c522824aa, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇿 捷克 v2rayfree.eu.org 2, server: jp.takeshi.wiki, port: 80, client-fingerprint: chrome, type: vmess, uuid: a19f357b-c836-4cf6-9e43-72390e6a00df, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司, server: 38.91.100.27, port: 8080, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.54.185.113, port: 30000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702215223320, headers: {Host: www.73664999.xyz}}, udp: true}
-  - {name: 亚太地区 v2rayfree.eu.org 3, server: 103.154.63.16, port: 443, client-fingerprint: chrome, type: trojan, password: cb85c4a1-5ad3-4194-a919-2bbb5b987564, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 2, server: 95.164.69.115, port: 17728, client-fingerprint: chrome, type: trojan, password: 299a6171-b4ce-403a-8157-c3dad55ef3a2, sni: gbs.pptv-tv.store, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2, server: 132.145.132.227, port: 37121, client-fingerprint: chrome, type: vmess, uuid: 93845b50-26f6-4203-f5ad-4d231d4e8f45, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 132.145.132.227}}, udp: true}
-  - {name: 欧盟+v2rayfree.eu.org 3, server: 45.87.153.246, port: 6199, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: adenc35.fixedlfoat.top, port: 443, client-fingerprint: chrome, type: vmess, uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: adenc35.fixedlfoat.top}}, udp: true}
-  - {name: 🇺🇸 美国 阿里云, server: 47.236.140.139, port: 8443, client-fingerprint: chrome, type: trojan, password: 2d34956e-4449-4f8b-822f-b93690d89fdb, sni: global.download.synology.com, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 德国 v2rayfree.eu.org, server: sk1-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 06c2b568-b7df-4e80-9031-c83569397db4, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sk1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 欧盟+v2rayfree.eu.org 4, server: 45.8.147.80, port: 5741, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Q5CEiebSuSl2qFkfE4ztG2, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 华盛顿Cogent通信公司 2, server: 38.54.82.54, port: 41604, client-fingerprint: chrome, type: vmess, uuid: 54de50e5-5e4b-443f-d9b8-9e9e0eee865c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇻🇳 越南 v2rayfree.eu.org, server: vn7.5gsieutocdo.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gsieutocdo.club, headers: {Host: vn7.5gsieutocdo.com}}, udp: true}
-  - {name: 🇩🇪 德国 OneAndOne公司, server: 217.160.45.31, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 217.160.45.31}}, udp: true}
-  - {name: 🇮🇪 爱尔兰都柏林 亚马逊云, server: 3.254.12.147, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心 2, server: 35.178.123.47, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 1, server: 38.91.100.27, port: 5003, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 2, server: 38.91.100.27, port: 5004, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 3, server: 38.91.100.27, port: 8080, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false, udp: true}
-  - {name: 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4, server: 96.30.197.59, port: 56272, client-fingerprint: chrome, type: vmess, uuid: 8e8d5a10-7fd0-4818-8265-a4dc4a569d31, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 欧盟  5, server: 45.87.153.246, port: 6199, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, tfo: false, udp: true}
-  - {name: 欧盟  6, server: 45.8.147.80, port: 5741, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Q5CEiebSuSl2qFkfE4ztG2, tfo: false, udp: true}
-  - {name: 🇩🇪 德国OneAndOne公司 7, server: 217.160.45.31, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 217.160.45.31}}, udp: true}
-  - {name: 🇫🇷 法国巴黎Online S.A.S 8, server: 51.158.150.173, port: 8119, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false, udp: true}
-  - {name: 🇫🇷 法国OVH SAS 9, server: 217.182.198.219, port: 3306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false, udp: true}
-  - {name: 🇺🇦 乌克兰  10, server: lt2-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lt2-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇺🇦 乌克兰  11, server: 94.131.10.135, port: 8080, client-fingerprint: chrome, type: vmess, uuid: e2021c91-6e29-49d6-9641-14a8f2600e05, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 94.131.10.135}}, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12, server: 198.2.200.37, port: 30000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.61708240.xyz}}, udp: true}
-  - {name: 🇺🇦 乌克兰  13, server: ee1-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: ea85d824-2faa-4bb2-849b-a2965db4ce18, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ee1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇺🇦 乌克兰  14, server: 5.181.23.67, port: 80, client-fingerprint: chrome, type: vmess, uuid: ea85d824-2faa-4bb2-849b-a2965db4ce18, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: ee1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇳🇱 荷兰  15, server: 46.182.107.15, port: 30000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 46.182.107.15}}, udp: true}
-  - {name: 🇮🇳 印度  16, server: ru1-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ru1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇨🇿 捷克  17, server: 109.123.230.157, port: 80, client-fingerprint: chrome, type: vmess, uuid: 877aa2a8-5854-4cb2-9aba-4a1413a6b2de, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇨🇿 捷克  18, server: jp.takeshi.wiki, port: 80, client-fingerprint: chrome, type: vmess, uuid: 803b8c6b-192e-4500-a919-485566f8e058, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇮🇳 印度  19, server: 103.113.68.233, port: 8880, client-fingerprint: chrome, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 103.113.68.233}}, udp: true}
-  - {name: 🇫🇷 法国OVH SAS 20, server: 217.182.198.219, port: 2376, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 21, server: 104.18.154.42, port: 80, client-fingerprint: chrome, type: vmess, uuid: a2f27205-5b59-4a1d-e9ed-c78f7ab4b633, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Quran14.eSmAIlkORea.sHop}}, udp: true}
-  - {name: 🇩🇪 德国  22, server: sk1-vmess.sshmax.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 06c2b568-b7df-4e80-9031-c83569397db4, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sk1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 23, server: web.parspack.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 5f797b91-c7ec-4178-d19e-9b069b70b446, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zUlA9.eSmAIlkORea.sHop}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 24, server: www.glassdoor.com, port: 2082, client-fingerprint: chrome, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: els_cdnone.yunjisuan.cf}}, udp: true}
-  - {name: 🇨🇳 浙江省移动 25, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇨🇿 捷克  26, server: 109.123.230.157, port: 80, client-fingerprint: chrome, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: internet.life.com.by}}, udp: true}
-  - {name: 🇸🇪 瑞典  27, server: www.shopify.com, port: 2082, client-fingerprint: chrome, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: els_cdnone.yunjisuan.cf}}, udp: true}
-  - {name: 🇮🇷 伊朗  28, server: 81.12.27.4, port: 20554, client-fingerprint: chrome, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇦 乌克兰  29, server: 94.131.14.177, port: 80, client-fingerprint: chrome, type: vmess, uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 94.131.14.177}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 30, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 54d4d640-731c-4572-d0d4-e8a617816470, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: icu4.mac2win.top}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 31, server: zfc.windowsupdate1.com, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgyx.651568.xyz}}, udp: true}
-  - {name: 亚太地区  32, server: vip.zinok.pro, port: 443, client-fingerprint: chrome, type: trojan, password: mothai3456789080898, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 33, server: cc3.shabijichang.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc3.shabijichang.com}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 34, server: service.ouluyun9803.com, port: 20007, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, tfo: false, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 35, server: service.ouluyun9803.com, port: 50002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, tfo: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 36, server: 38.54.86.217, port: 56502, client-fingerprint: chrome, type: vmess, uuid: d20747ad-e689-4111-a46e-d5cf21ff4827, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 37, server: 38.54.82.54, port: 41604, client-fingerprint: chrome, type: vmess, uuid: 54de50e5-5e4b-443f-d9b8-9e9e0eee865c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇷 伊朗  38, server: ser52.gsmxssh.com, port: 20554, client-fingerprint: chrome, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇿 捷克  39, server: jp.takeshi.wiki, port: 80, client-fingerprint: chrome, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇨🇳 广东省广州市移动 40, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, tfo: false, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41, server: 192.74.249.4, port: 30000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.37790958.xyz}}, udp: true}
-  - {name: 🇨🇿 捷克  42, server: jp.takeshi.wiki, port: 80, client-fingerprint: chrome, type: vmess, uuid: a19f357b-c836-4cf6-9e43-72390e6a00df, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇭🇰 香港特别行政区 43, server: 154.90.39.63, port: 45343, client-fingerprint: chrome, type: vmess, uuid: 08aa8499-d616-4ff1-d6ab-ce0c522824aa, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44, server: 132.145.132.227, port: 37121, client-fingerprint: chrome, type: vmess, uuid: 93845b50-26f6-4203-f5ad-4d231d4e8f45, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 132.145.132.227}}, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 45, server: 38.180.98.215, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 773ac60d-36d7-45b5-c99e-a0e3903e2e3a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 38.180.98.215}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 46, server: 104.21.75.246, port: 80, client-fingerprint: chrome, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sbl2.shabijichang.com}}, udp: true}
+  - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
+  - {name: 🇫🇷 法国+OVH+SAS, server: 217.182.198.219, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇨🇿 捷克 v2rayfree.eu.org, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 803b8c6b-192e-4500-a919-485566f8e058, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: cc3.shabijichang.com, port: 80, type: vmess, uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cc3.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.54.185.113, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702215223320, headers: {Host: www.73664999.xyz}}, udp: true}
+  - {name: 🇧🇩 孟加拉 v2rayfree.eu.org, server: jp2.4gmienphi.asia, port: 443, type: trojan, password: 8c754298-ded9-4061-8c8a-8e2103468959, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 亚太地区 v2rayfree.eu.org, server: GAMEVIP2.5GTOCDOCAO.COM, port: 443, type: trojan, password: 7a2c5296-683d-48db-9856-373cafac48b5, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: a6.bcbot.in, port: 8880, type: vmess, uuid: 34acaece-96cd-4b86-8f26-937dd5fa8c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a6.bcbot.in}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: hk1.wenpblog.buzz, port: 443, type: vmess, uuid: 19827243-fae1-42ae-a494-0153dbf07ded, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /baseOn, headers: {Host: hk1.wenpblog.buzz}}, udp: true}
+  - {name: 🇺🇸 美国 华盛顿Cogent通信公司 2, server: 38.180.33.136, port: 50104, type: vmess, uuid: 790f6802-7535-4109-de6d-15f676d5e3f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress, server: 198.2.200.37, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702215223320, headers: {Host: 198.2.200.37}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: v4.cfnode.eu.org, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: 39fd1a57-1534-45da-844f-cb004da2bec0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 美国 华盛顿Cogent通信公司 3, server: 38.54.86.217, port: 56502, type: vmess, uuid: d20747ad-e689-4111-a46e-d5cf21ff4827, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: zfc.windowsupdate1.com, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgyx.651568.xyz}}, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: vn6.5gsieutocdo.com, port: 443, type: trojan, password: c95357eb-2869-4511-8940-f0dc5e1ec9b1, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.18.140.242, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 216.73.156.230, port: 443, type: trojan, password: 11e247e5-136d-45f1-844a-a7f054d36bab, sni: 216.73.156.230, skip-cert-verify: false, udp: true}
+  - {name: 亚太地区 v2rayfree.eu.org 2, server: antiddos3.5gtocdocao.com, port: 443, type: trojan, password: 7a2c5296-683d-48db-9856-373cafac48b5, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 惠普HP, server: 15.204.9.172, port: 443, type: trojan, password: opentunnel.net-12qwe, sni: www.yahoo.com, skip-cert-verify: false, udp: true}
+  - {name: 🇻🇳 越南 v2rayfree.eu.org, server: 103.74.107.237, port: 80, type: vmess, uuid: 7a2c5296-683d-48db-9856-373cafac48b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gtocdocao.com, headers: {Host: 103.74.107.237}}, udp: true}
+  - {name: 🇹🇼 台湾省新竹市 中华电信, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: 08ee510e-68e6-4a71-8d3a-1c576ffa3cac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: zfc.windowsupdate1.com, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
+  - {name: 欧盟+v2rayfree.eu.org, server: 45.8.147.80, port: 5741, type: ss, cipher: chacha20-ietf-poly1305, password: Q5CEiebSuSl2qFkfE4ztG2, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org 2, server: 199.188.106.226, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/221312281009, headers: {Host: www.53752665.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 4a4d3353-9d17-4f11-8c55-07d8a2974594, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+  - {name: 🇨🇳 浙江省 移动数据上网公共出口, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.75.47.212, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 162.159.200.1, port: 80, type: vmess, uuid: f46f5827-facb-4786-9bd3-24e4e5aedadc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ca3.889611.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 11, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: 4a4d3353-9d17-4f11-8c55-07d8a2974594, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 12, server: cf.fovi.tk, port: 443, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxlux.fovi.tk}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 13, server: 104.17.171.34, port: 80, type: vmess, uuid: 60be5ddb-c9f1-48ec-b0ee-f6bd4364b3ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ccs.hostmjj.com}}, udp: true}
+  - {name: 🇭🇰 香港+阿里云, server: 8.210.231.146, port: 1146, type: ss, cipher: aes-256-gcm, password: jmtgsmW40R, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org 2, server: hanoiidc2.5gsieutocdo.com, port: 443, type: trojan, password: c95357eb-2869-4511-8940-f0dc5e1ec9b1, sni: hanoiidc2.5gsieutocdo.com, skip-cert-verify: false, udp: true}
+  - {name: 欧盟+v2rayfree.eu.org 2, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 14, server: singapore.com, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v005.ssrsub.com}}, udp: true}
+  - {name: 🇹🇼 台湾省台北市 UCloud, server: 123.58.197.70, port: 443, type: vmess, uuid: 4ca0196c-05e7-45eb-9036-692c201f45fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 123.58.197.70}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org 3, server: 45.159.250.78, port: 8443, type: vmess, uuid: 48b10b02-2c60-4323-bc65-a11b15144745, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾省台中市中华电信 1, server: c11.twtc.dynu.net, port: 6899, type: vmess, uuid: 08ee510e-68e6-4a71-8d3a-1c576ffa3cac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾省新竹市中华电信 2, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: 2cc9955a-96ae-4eb6-80cc-33cbaf1650ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3, server: 198.2.200.37, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.61708240.xyz}}, udp: true}
+  - {name: 🇹🇼 台湾省新竹市中华电信 4, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: 08ee510e-68e6-4a71-8d3a-1c576ffa3cac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5, server: 192.74.249.4, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.37790958.xyz}}, udp: true}
+  - {name: 🇺🇦 乌克兰  6, server: 94.131.14.177, port: 80, type: vmess, uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 94.131.14.177}}, udp: true}
+  - {name: 欧盟  7, server: 45.8.147.80, port: 5741, type: ss, cipher: chacha20-ietf-poly1305, password: Q5CEiebSuSl2qFkfE4ztG2, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 8, server: a6.bcbot.in, port: 8880, type: vmess, uuid: 34acaece-96cd-4b86-8f26-937dd5fa8c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a6.bcbot.in}}, udp: true}
+  - {name: 🇮🇳 印度  9, server: 103.113.68.233, port: 8880, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 103.113.68.233}}, udp: true}
+  - {name: 🇮🇳 印度  10, server: ru1-vmess.sshmax.xyz, port: 80, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ru1-vmess.sshmax.xyz}}, udp: true}
+  - {name: 🇮🇷 伊朗  11, server: ser52.gsmxssh.com, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 12, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 4a4d3353-9d17-4f11-8c55-07d8a2974594, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 13, server: a4.bcbot.in, port: 8880, type: vmess, uuid: dd58b80f-8f61-427f-8643-66144c739187, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a4.bcbot.in}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 14, server: a5.bcbot.in, port: 8880, type: vmess, uuid: dc98db61-0ee2-4b55-855f-f62414f997d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a5.bcbot.in}}, udp: true}
+  - {name: 🇨🇿 捷克  15, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 803b8c6b-192e-4500-a919-485566f8e058, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇨🇿 捷克  16, server: 109.123.230.157, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇨🇿 捷克  17, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇺🇦 乌克兰  18, server: lt2-vmess.sshmax.xyz, port: 80, type: vmess, uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lt2-vmess.sshmax.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 19, server: 104.18.154.42, port: 80, type: vmess, uuid: a2f27205-5b59-4a1d-e9ed-c78f7ab4b633, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Quran14.eSmAIlkORea.sHop}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 20, server: web.parspack.com, port: 80, type: vmess, uuid: 5f797b91-c7ec-4178-d19e-9b069b70b446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zUlA9.eSmAIlkORea.sHop}}, udp: true}
+  - {name: 🇻🇳 越南  21, server: vn7.5gsieutocdo.com, port: 80, type: vmess, uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gsieutocdo.club, headers: {Host: vn7.5gsieutocdo.com}}, udp: true}
+  - {name: 🇨🇿 捷克  22, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: a19f357b-c836-4cf6-9e43-72390e6a00df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 23, server: 162.159.200.5, port: 80, type: vmess, uuid: f46f5827-facb-4786-9bd3-24e4e5aedadc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk3.889611.com}}, udp: true}
+  - {name: 亚太地区  24, server: 103.35.188.226, port: 80, type: vmess, uuid: 098e7cdd-03b4-435d-8c41-ea608fa637c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 103.35.188.226}}, udp: true}
+  - {name: 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25, server: 45.58.153.24, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702392255355, headers: {Host: www.77935707.xyz}}, udp: true}
+  - {name: 🇫🇷 法国OVH SAS 26, server: 217.182.198.219, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇨🇳 湖南省联通 27, server: yes.cnmjcn.net, port: 16626, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇨🇳 浙江省移动 28, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇨🇿 捷克  29, server: 109.123.230.157, port: 80, type: vmess, uuid: 877aa2a8-5854-4cb2-9aba-4a1413a6b2de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇺🇸 美国华盛顿Cogent通信公司 30, server: 38.54.86.217, port: 56502, type: vmess, uuid: d20747ad-e689-4111-a46e-d5cf21ff4827, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 31, server: zfc.windowsupdate1.com, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgyx.651568.xyz}}, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 32, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 33, server: 104.17.171.34, port: 80, type: vmess, uuid: 60be5ddb-c9f1-48ec-b0ee-f6bd4364b3ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ccs.hostmjj.com}}, udp: true}
+  - {name: 🇯🇵 日本阿里云 34, server: 47.91.28.15, port: 2052, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mgtow_cdn.yunjisuan.cf}}, udp: true}
+  - {name: 🇨🇳 河南省郑州市河南亿恩科技有限公司 35, server: 123.58.197.70, port: 443, type: vmess, uuid: 4ca0196c-05e7-45eb-9036-692c201f45fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 123.58.197.70}}, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 36, server: service.ouluyun9803.com, port: 50002, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, udp: true}
+  - {name: 🇫🇷 法国OVH SAS 37, server: 217.182.198.219, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 🇨🇳 福建省厦门市联通 38, server: ad.cutecloud.link, port: 33567, type: ss, cipher: chacha20-ietf-poly1305, password: 56633687-3c35-4bae-9a15-efff8eb67f98, udp: true}
+  - {name: 🇨🇳 广东省广州市移动 39, server: service.ouluyun9803.com, port: 20007, type: ss, cipher: chacha20-ietf-poly1305, password: 73637cec-699d-4d87-99af-0776ac880604, udp: true}
+  - {name: 🇺🇸 美国华盛顿Cogent通信公司 40, server: 38.180.98.215, port: 8080, type: vmess, uuid: 773ac60d-36d7-45b5-c99e-a0e3903e2e3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 38.180.98.215}}, udp: true}
+  - {name: 欧盟  41, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
+  - {name: 🇮🇷 伊朗  42, server: 81.12.27.4, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43, server: 132.145.132.227, port: 37121, type: vmess, uuid: 93845b50-26f6-4203-f5ad-4d231d4e8f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 132.145.132.227}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 44, server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sbl2.shabijichang.com}}, udp: true}
+  - {name: 亚太地区  45, server: 103.159.206.35, port: 31945, type: vmess, uuid: e2e511b0-7def-4e1b-d238-6cb5391b2e3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 103.159.206.35}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -138,202 +125,176 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -341,101 +302,88 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -455,111 +403,98 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇭🇰 香港 特别行政区
-      - 🇭🇰 香港特别行政区 43
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇭🇰 香港+阿里云
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇹🇼 台湾省新竹市中华电信 4
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -567,202 +502,176 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -770,101 +679,88 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -881,101 +777,88 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇨🇳 广东省 移动
-      - 亚太地区 v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心
-      - 🇫🇷 法国+巴黎Online+S.A.S
-      - 亚太地区 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 中华电信(HiNet)数据中心 2
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇯🇵 日本 东京都品川区Linode数据中心
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇬🇧 英国 社会保险安全部
-      - 🇸🇪 瑞典 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司
-      - 🇨🇳 浙江省 移动数据上网公共出口
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇮🇳 印度 v2rayfree.eu.org 2
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇫🇷 法国+OVH+SAS
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇫🇷 法国+OVH+SAS 2
-      - 🇺🇸 美国 乔治亚洲亚特兰大Choopa数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
       - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇭🇰 香港 电讯盈科有限公司 2
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 🇳🇱 荷兰 v2rayfree.eu.org
-      - 🇨🇳 广东省广州市+移动
-      - 🇭🇰 香港 特别行政区
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇺🇸 美国+华盛顿Cogent通信公司
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 华盛顿Cogent通信公司
-      - 亚太地区 v2rayfree.eu.org 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇺🇸 美国 弗吉尼亚州阿什本Oracle云计算数据中心 2
-      - 欧盟+v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 阿里云
-      - 🇩🇪 德国 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org 4
+      - 🇧🇩 孟加拉 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 华盛顿Cogent通信公司 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 华盛顿Cogent通信公司 3
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 亚太地区 v2rayfree.eu.org 2
+      - 🇺🇸 美国 惠普HP
       - 🇻🇳 越南 v2rayfree.eu.org
-      - 🇩🇪 德国 OneAndOne公司
-      - 🇮🇪 爱尔兰都柏林 亚马逊云
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
-      - 🇺🇸 美国华盛顿Cogent通信公司 2
-      - 🇺🇸 美国华盛顿Cogent通信公司 3
-      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 4
-      - 欧盟  5
-      - 欧盟  6
-      - 🇩🇪 德国OneAndOne公司 7
-      - 🇫🇷 法国巴黎Online S.A.S 8
-      - 🇫🇷 法国OVH SAS 9
-      - 🇺🇦 乌克兰  10
-      - 🇺🇦 乌克兰  11
-      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 12
-      - 🇺🇦 乌克兰  13
-      - 🇺🇦 乌克兰  14
-      - 🇳🇱 荷兰  15
-      - 🇮🇳 印度  16
+      - 🇹🇼 台湾省新竹市 中华电信
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 欧盟+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇨🇳 浙江省 移动数据上网公共出口
+      - 🇺🇸 美国 Amazon EC2服务器
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇭🇰 香港+阿里云
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 欧盟+v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 🇹🇼 台湾省台北市 UCloud
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇹🇼 台湾省台中市中华电信 1
+      - 🇹🇼 台湾省新竹市中华电信 2
+      - 🇺🇸 美国加利福尼亚州洛杉矶PetaExpress 3
+      - 🇹🇼 台湾省新竹市中华电信 4
+      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 5
+      - 🇺🇦 乌克兰  6
+      - 欧盟  7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇮🇳 印度  10
+      - 🇮🇷 伊朗  11
+      - 🇺🇸 美国CloudFlare节点 12
+      - 🇺🇸 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇨🇿 捷克  15
+      - 🇨🇿 捷克  16
       - 🇨🇿 捷克  17
-      - 🇨🇿 捷克  18
-      - 🇮🇳 印度  19
-      - 🇫🇷 法国OVH SAS 20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇩🇪 德国  22
-      - 🇺🇸 美国CloudFlare公司CDN节点 23
-      - 🇺🇸 美国CloudFlare公司CDN节点 24
-      - 🇨🇳 浙江省移动 25
-      - 🇨🇿 捷克  26
-      - 🇸🇪 瑞典  27
-      - 🇮🇷 伊朗  28
-      - 🇺🇦 乌克兰  29
-      - 🇺🇸 美国CloudFlare公司CDN节点 30
+      - 🇺🇦 乌克兰  18
+      - 🇺🇸 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 美国CloudFlare公司CDN节点 20
+      - 🇻🇳 越南  21
+      - 🇨🇿 捷克  22
+      - 🇺🇸 美国CloudFlare节点 23
+      - 亚太地区  24
+      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 25
+      - 🇫🇷 法国OVH SAS 26
+      - 🇨🇳 湖南省联通 27
+      - 🇨🇳 浙江省移动 28
+      - 🇨🇿 捷克  29
+      - 🇺🇸 美国华盛顿Cogent通信公司 30
       - 🇺🇸 美国CloudFlare节点 31
-      - 亚太地区  32
+      - 🇨🇳 广东省广州市移动 32
       - 🇺🇸 美国CloudFlare公司CDN节点 33
-      - 🇨🇳 广东省广州市移动 34
-      - 🇨🇳 广东省广州市移动 35
-      - 🇺🇸 美国华盛顿Cogent通信公司 36
-      - 🇺🇸 美国华盛顿Cogent通信公司 37
-      - 🇮🇷 伊朗  38
-      - 🇨🇿 捷克  39
-      - 🇨🇳 广东省广州市移动 40
-      - 🇺🇸 美国加利福尼亚州圣何塞PEG TECH数据中心 41
-      - 🇨🇿 捷克  42
-      - 🇭🇰 香港特别行政区 43
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 44
-      - 🇺🇸 美国华盛顿Cogent通信公司 45
-      - 🇺🇸 美国CloudFlare公司CDN节点 46
+      - 🇯🇵 日本阿里云 34
+      - 🇨🇳 河南省郑州市河南亿恩科技有限公司 35
+      - 🇨🇳 广东省广州市移动 36
+      - 🇫🇷 法国OVH SAS 37
+      - 🇨🇳 福建省厦门市联通 38
+      - 🇨🇳 广东省广州市移动 39
+      - 🇺🇸 美国华盛顿Cogent通信公司 40
+      - 欧盟  41
+      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 43
+      - 🇺🇸 美国CloudFlare公司CDN节点 44
+      - 亚太地区  45
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -1062,19 +945,19 @@ rules:
   - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
+  - DOMAIN-SUFFIX,bingapis.com,Ⓜ️ 微软服务
   - DOMAIN,app.adjust.com,🎯 全球直连
+  - DOMAIN,app.appsflyer.com,🎯 全球直连
   - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
   - DOMAIN,log.mmstat.com,🎯 全球直连
   - DOMAIN,sycm.mmstat.com,🎯 全球直连
   - DOMAIN-SUFFIX,blog.google,🎯 全球直连
   - DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
   - DOMAIN,clientservices.googleapis.com,🎯 全球直连
+  - DOMAIN,update.googleapis.com,🎯 全球直连
   - DOMAIN,dl.google.com,🎯 全球直连
   - DOMAIN,dl.l.google.com,🎯 全球直连
   - DOMAIN,update.googleapis.com,🎯 全球直连
-  - DOMAIN,translate.googleapis.com,🎯 全球直连
-  - DOMAIN,fonts.googleapis.com,🎯 全球直连
-  - DOMAIN,fonts.gstatic.com,🎯 全球直连
   - DOMAIN,mtalk.google.com,🎯 全球直连
   - DOMAIN,alt1-mtalk.google.com,🎯 全球直连
   - DOMAIN,alt2-mtalk.google.com,🎯 全球直连
@@ -1084,10 +967,10 @@ rules:
   - DOMAIN,alt6-mtalk.google.com,🎯 全球直连
   - DOMAIN,alt7-mtalk.google.com,🎯 全球直连
   - DOMAIN,alt8-mtalk.google.com,🎯 全球直连
-  - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
   - DOMAIN,fairplay.l.qq.com,🎯 全球直连
   - DOMAIN,livew.l.qq.com,🎯 全球直连
   - DOMAIN,vd.l.qq.com,🎯 全球直连
+  - DOMAIN,vi.l.qq.com,🎯 全球直连
   - DOMAIN,analytics.strava.com,🎯 全球直连
   - DOMAIN,msg.umeng.com,🎯 全球直连
   - DOMAIN,msg.umengcloud.com,🎯 全球直连
@@ -1239,7 +1122,6 @@ rules:
   - DOMAIN-SUFFIX,nichibenren.or.jp,🛑 全球拦截
   - DOMAIN-SUFFIX,nicorette.co.kr,🛑 全球拦截
   - DOMAIN-SUFFIX,adnet.sohu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,data.vod.itc.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,epro.sogou.com,🛑 全球拦截
   - DOMAIN-SUFFIX,go.sohu.com,🛑 全球拦截
   - DOMAIN-SUFFIX,golden1.sogou.com,🛑 全球拦截
@@ -2398,7 +2280,6 @@ rules:
   - DOMAIN-SUFFIX,alipay.dajiadou6.com,🛑 全球拦截
   - DOMAIN-SUFFIX,aliqqjd.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,alisinak.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,alistatic.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,alitianxia168.com,🛑 全球拦截
   - DOMAIN-SUFFIX,alitui.weibo.com,🛑 全球拦截
@@ -2515,7 +2396,6 @@ rules:
   - DOMAIN-SUFFIX,api-game.meizu.com,🛑 全球拦截
   - DOMAIN-SUFFIX,apihk.growingio.com,🛑 全球拦截
   - DOMAIN-SUFFIX,api-push.meizu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,api-shoulei-ssl.xunlei.com,🛑 全球拦截
   - DOMAIN-SUFFIX,apisoft.df0535.com,🛑 全球拦截
   - DOMAIN-SUFFIX,apk.idate520.com,🛑 全球拦截
   - DOMAIN-SUFFIX,apk.supfast.net,🛑 全球拦截
@@ -3117,7 +2997,6 @@ rules:
   - DOMAIN-SUFFIX,cca.mob.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ccb.uncle-ad.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ccbaihehq.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ccclub.cmbchina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cccrir.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ccr.yxdown.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cctyly.com,🛑 全球拦截
@@ -3157,7 +3036,6 @@ rules:
   - DOMAIN-SUFFIX,cdn.media.innity.net,🛑 全球拦截
   - DOMAIN-SUFFIX,cdn.millennialmedia.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cdn.mingmingtehui.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,cdn.moji.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cdn.moji002.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cdn.moogos.com,🛑 全球拦截
   - DOMAIN-SUFFIX,cdn.ndapp.com,🛑 全球拦截
@@ -4862,7 +4740,6 @@ rules:
   - DOMAIN-SUFFIX,huishenghuiying.com,🛑 全球拦截
   - DOMAIN-SUFFIX,humanding.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hunpingou.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,huoying666.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hv.code.tanwanyx.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hw6.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hwt.player888.cn,🛑 全球拦截
@@ -9451,7 +9328,6 @@ rules:
   - DOMAIN-SUFFIX,zzd6.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mackeeper.com,🛑 全球拦截
   - DOMAIN-SUFFIX,app-measurement.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,mob.com,🛑 全球拦截
   - DOMAIN-SUFFIX,api.joybj.com,🛑 全球拦截
   - DOMAIN-SUFFIX,api.whizzone.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mmstat.com,🛑 全球拦截
@@ -9932,6 +9808,8 @@ rules:
   - DOMAIN-SUFFIX,hypeapp.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,hypersnap.net,🛑 全球拦截
   - DOMAIN-SUFFIX,iconworkshop.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,idmchina.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,imazingchina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,imindmap.cc,🛑 全球拦截
   - DOMAIN-SUFFIX,jihehuaban.com.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,keyshot.cc,🛑 全球拦截
@@ -9952,6 +9830,7 @@ rules:
   - DOMAIN-SUFFIX,nicelabel.cc,🛑 全球拦截
   - DOMAIN-SUFFIX,ntfsformac.cc,🛑 全球拦截
   - DOMAIN-SUFFIX,ntfsformac.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,officesoftcn.com,🛑 全球拦截
   - DOMAIN-SUFFIX,overturechina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,passwordrecovery.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,pdfexpert.cc,🛑 全球拦截
@@ -9973,34 +9852,15 @@ rules:
   - DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
   - DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
   - DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
-  - DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+  - DOMAIN-KEYWORD,netflixdnstest,🎥 NETFLIX
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🎥 NETFLIX
   - DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
-  - IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
-  - IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
-  - IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
-  - IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
-  - IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
-  - IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
-  - IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
-  - IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
-  - IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
-  - IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
-  - IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
-  - IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
+  - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
   - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
   - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
   - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
   - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de,🌍 国外媒体
   - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
   - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
   - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
@@ -10023,16 +9883,20 @@ rules:
   - DOMAIN-SUFFIX,overcast.fm,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.io,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.tv,🌍 国外媒体
+  - DOMAIN-SUFFIX,abema-tv.com,🌍 国外媒体
   - DOMAIN-SUFFIX,ameba.jp,🌍 国外媒体
   - DOMAIN-SUFFIX,hayabusa.io,🌍 国外媒体
+  - DOMAIN-SUFFIX,hayabusa.media,🌍 国外媒体
+  - DOMAIN,api-abematv.bucketeer.jp,🌍 国外媒体
   - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,c4assets.com,🌍 国外媒体
   - DOMAIN-SUFFIX,channel4.com,🌍 国外媒体
   - DOMAIN-SUFFIX,aiv-cdn.net,🌍 国外媒体
   - DOMAIN-SUFFIX,aiv-delivery.net,🌍 国外媒体
   - DOMAIN-SUFFIX,amazonvideo.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,primevideo.com,🌍 国外媒体
   - DOMAIN-SUFFIX,media-amazon.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,primevideo.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,pv-cdn.net,🌍 国外媒体
   - DOMAIN,atv-ps.amazon.com,🌍 国外媒体
   - DOMAIN,fls-na.amazon.com,🌍 国外媒体
   - DOMAIN,avodmp4s3ww-a.akamaihd.net,🌍 国外媒体
@@ -10043,10 +9907,13 @@ rules:
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🌍 国外媒体
   - DOMAIN,d27xxe7juh1us6.cloudfront.net,🌍 国外媒体
   - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
+  - DOMAIN,tv.applemusic.com,🌍 国外媒体
   - DOMAIN,linear.tv.apple.com,🌍 国外媒体
   - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
+  - DOMAIN,uts-api.itunes.apple.com,🌍 国外媒体
   - DOMAIN-SUFFIX,bahamut.com.tw,🌍 国外媒体
   - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
+  - DOMAIN,bahamut.akamaized.net,🌍 国外媒体
   - DOMAIN,gamer-cds.cdn.hinet.net,🌍 国外媒体
   - DOMAIN,gamer2-cds.cdn.hinet.net,🌍 国外媒体
   - DOMAIN-SUFFIX,bbc.co.uk,🌍 国外媒体
@@ -10070,6 +9937,8 @@ rules:
   - DOMAIN-SUFFIX,discoveryplus.com,🌍 国外媒体
   - DOMAIN-SUFFIX,discoveryplus.in,🌍 国外媒体
   - DOMAIN-SUFFIX,dnitv.com,🌍 国外媒体
+  - DOMAIN,x-default-stgec.uplynk.com,🌍 国外媒体
+  - DOMAIN-KEYWORD,discovery.uplynk.com,🌍 国外媒体
   - DOMAIN-SUFFIX,bamgrid.com,🌍 国外媒体
   - DOMAIN-SUFFIX,disneyplus.com,🌍 国外媒体
   - DOMAIN-SUFFIX,disney-plus.net,🌍 国外媒体
@@ -10082,6 +9951,10 @@ rules:
   - DOMAIN-SUFFIX,encoretvb.com,🌍 国外媒体
   - DOMAIN,edge.api.brightcove.com,🌍 国外媒体
   - DOMAIN,bcbolt446c5271-a.akamaihd.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,ott.hinet.net,🌍 国外媒体
+  - DOMAIN-SUFFIX,hamivideo.hinet.net,🌍 国外媒体
+  - DOMAIN,hls-hichannel.cdn.hinet.net,🌍 国外媒体
+  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,🌍 国外媒体
   - DOMAIN-SUFFIX,hbo.com,🌍 国外媒体
   - DOMAIN-SUFFIX,hbogo.com,🌍 国外媒体
   - DOMAIN-SUFFIX,hbonow.com,🌍 国外媒体
@@ -10131,18 +10004,18 @@ rules:
   - IP-CIDR,203.74.95.153/32,🌍 国外媒体,no-resolve
   - IP-CIDR,203.211.4.169/32,🌍 国外媒体,no-resolve
   - IP-CIDR,203.211.4.193/32,🌍 国外媒体,no-resolve
+  - IP-CIDR,210.71.227.200/32,🌍 国外媒体,no-resolve
   - IP-CIDR,210.71.227.202/32,🌍 国外媒体,no-resolve
   - IP-CIDR,210.201.32.8/32,🌍 国外媒体,no-resolve
   - IP-CIDR,210.201.32.11/32,🌍 国外媒体,no-resolve
   - DOMAIN-SUFFIX,kktv.com.tw,🌍 国外媒体
   - DOMAIN-SUFFIX,kktv.me,🌍 国外媒体
   - DOMAIN,kktv-theater.kk.stream,🌍 国外媒体
+  - DOMAIN,theater-kktv.cdn.hinet.net,🌍 国外媒体
   - DOMAIN-SUFFIX,linetv.tw,🌍 国外媒体
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
   - DOMAIN-SUFFIX,litv.tv,🌍 国外媒体
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,api.mgtv.com,🌍 国外媒体
-  - DOMAIN,mobileso.bz.mgtv.com,🌍 国外媒体
   - DOMAIN-SUFFIX,channel5.com,🌍 国外媒体
   - DOMAIN-SUFFIX,my5.tv,🌍 国外媒体
   - DOMAIN,d349g9zuie06uo.cloudfront.net,🌍 国外媒体
@@ -10157,30 +10030,9 @@ rules:
   - DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
   - DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
   - DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
+  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
   - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-  - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-  - IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-  - IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-  - IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
   - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
   - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
   - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
@@ -10211,7 +10063,7 @@ rules:
   - DOMAIN-SUFFIX,tik-tokapi.com,🌍 国外媒体
   - DOMAIN-SUFFIX,tiktokcdn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,tiktokv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,-tiktokcdn-com,🌍 国外媒体
+  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
   - DOMAIN-SUFFIX,tver.jp,🌍 国外媒体
   - DOMAIN,edge.api.brightcove.com,🌍 国外媒体
   - DOMAIN-SUFFIX,viu.com,🌍 国外媒体
@@ -10224,22 +10076,28 @@ rules:
   - DOMAIN-SUFFIX,wetvinfo.com,🌍 国外媒体
   - IP-CIDR,150.109.28.51/32,🌍 国外媒体,no-resolve
   - DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
   - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,yt.be,🌍 国外媒体
   - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
   - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
   - DOMAIN,yt3.ggpht.com,🌍 国外媒体
   - DOMAIN-SUFFIX,acg.tv,🌏 国内媒体
   - DOMAIN-SUFFIX,acgvideo.com,🌏 国内媒体
   - DOMAIN-SUFFIX,b23.tv,🌏 国内媒体
-  - DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
-  - DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
   - DOMAIN-SUFFIX,bilibili.com,🌏 国内媒体
-  - DOMAIN-SUFFIX,biligame.com,🌏 国内媒体
-  - DOMAIN-SUFFIX,biligame.net,🌏 国内媒体
+  - DOMAIN-SUFFIX,bilibili.tv,🌏 国内媒体
+  - DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
+  - DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
   - DOMAIN-SUFFIX,bilivideo.com,🌏 国内媒体
   - DOMAIN-SUFFIX,hdslb.com,🌏 国内媒体
-  - DOMAIN-SUFFIX,im9.com,🌏 国内媒体
-  - DOMAIN-SUFFIX,smtcdns.net,🌏 国内媒体
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net,🌏 国内媒体
+  - DOMAIN,apiintl.biliapi.net,🌏 国内媒体
   - DOMAIN,intel-cache.m.iqiyi.com,🌏 国内媒体
   - DOMAIN,intel-cache.video.iqiyi.com,🌏 国内媒体
   - DOMAIN,intl-rcd.iqiyi.com,🌏 国内媒体
@@ -10257,6 +10115,7 @@ rules:
   - DOMAIN-SUFFIX,api.mob.app.letv.com,🌏 国内媒体
   - DOMAIN-SUFFIX,v.smtcdns.com,🌏 国内媒体
   - DOMAIN-SUFFIX,vv.video.qq.com,🌏 国内媒体
+  - DOMAIN-SUFFIX,youku.com,🌏 国内媒体
   - IP-CIDR,106.11.0.0/16,🌏 国内媒体,no-resolve
   - DOMAIN-SUFFIX,t.me,📲 电报信息
   - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
@@ -10270,29 +10129,295 @@ rules:
   - IP-CIDR,91.108.16.0/22,📲 电报信息,no-resolve
   - IP-CIDR,91.108.20.0/22,📲 电报信息,no-resolve
   - IP-CIDR,91.108.56.0/22,📲 电报信息,no-resolve
-  - IP-CIDR,95.161.64.0/20,📲 电报信息,no-resolve
+  - IP-CIDR,91.105.192.0/23,📲 电报信息,no-resolve
   - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
+  - IP-CIDR,185.76.151.0/24,📲 电报信息,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
+  - IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
+  - IP-CIDR6,2a0a:f280::/32,📲 电报信息,no-resolve
+  - DOMAIN-SUFFIX,9cache.com,🔰 节点选择
+  - DOMAIN-SUFFIX,9gag.com,🔰 节点选择
+  - DOMAIN-SUFFIX,abc.com,🔰 节点选择
+  - DOMAIN-SUFFIX,anchor.fm,🔰 节点选择
+  - DOMAIN-SUFFIX,archive.fo,🔰 节点选择
+  - DOMAIN-SUFFIX,archive.org,🔰 节点选择
+  - DOMAIN-SUFFIX,archive.ph,🔰 节点选择
+  - DOMAIN-SUFFIX,archiveofourown.org,🔰 节点选择
+  - DOMAIN-SUFFIX,artstation.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ask.com,🔰 节点选择
+  - DOMAIN-SUFFIX,avg.com,🔰 节点选择
+  - DOMAIN-SUFFIX,axios.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bandcamp.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bandwagonhost.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bbc.com,🔰 节点选择
+  - DOMAIN-SUFFIX,behance.net,🔰 节点选择
+  - DOMAIN-SUFFIX,bit.ly,🔰 节点选择
+  - DOMAIN-SUFFIX,bloglovin.com,🔰 节点选择
+  - DOMAIN-SUFFIX,blubrry.com,🔰 节点选择
+  - DOMAIN-SUFFIX,box.com,🔰 节点选择
+  - DOMAIN-SUFFIX,brave.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bullguard.com,🔰 节点选择
+  - DOMAIN-SUFFIX,castbox.fm,🔰 节点选择
+  - DOMAIN-SUFFIX,change.org,🔰 节点选择
+  - DOMAIN-SUFFIX,cloudcone.com,🔰 节点选择
+  - DOMAIN-SUFFIX,clyp.it,🔰 节点选择
+  - DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
+  - DOMAIN-SUFFIX,conoha.jp,🔰 节点选择
+  - DOMAIN-SUFFIX,coursehero.com,🔰 节点选择
+  - DOMAIN-SUFFIX,c-span.org,🔰 节点选择
+  - DOMAIN-SUFFIX,dailymotion.com,🔰 节点选择
+  - DOMAIN-SUFFIX,daum.net,🔰 节点选择
+  - DOMAIN-SUFFIX,deadline.com,🔰 节点选择
+  - DOMAIN-SUFFIX,depositphotos.com,🔰 节点选择
+  - DOMAIN-SUFFIX,deviantart.com,🔰 节点选择
+  - DOMAIN-SUFFIX,deviantart.net,🔰 节点选择
+  - DOMAIN-SUFFIX,disconnect.me,🔰 节点选择
+  - DOMAIN-SUFFIX,disqus.com,🔰 节点选择
+  - DOMAIN-SUFFIX,dlive.tv,🔰 节点选择
+  - DOMAIN-SUFFIX,dowjones.com,🔰 节点选择
+  - DOMAIN-SUFFIX,duckduckgo.com,🔰 节点选择
+  - DOMAIN-SUFFIX,earthcam.com,🔰 节点选择
+  - DOMAIN-SUFFIX,edx-cdn.org,🔰 节点选择
+  - DOMAIN-SUFFIX,encyclopedia.com,🔰 节点选择
+  - DOMAIN-SUFFIX,feeder.co,🔰 节点选择
+  - DOMAIN-SUFFIX,feedly.com,🔰 节点选择
+  - DOMAIN-SUFFIX,flickr.com,🔰 节点选择
+  - DOMAIN-SUFFIX,flipboard.com,🔰 节点选择
+  - DOMAIN-SUFFIX,flitto.com,🔰 节点选择
+  - DOMAIN-SUFFIX,foreignaffairs.com,🔰 节点选择
+  - DOMAIN-SUFFIX,foreignpolicy.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ft.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ftchinese.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ftimg.net,🔰 节点选择
+  - DOMAIN-SUFFIX,genius.com,🔰 节点选择
+  - DOMAIN-SUFFIX,getsync.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gfw.report,🔰 节点选择
+  - DOMAIN-SUFFIX,git.io,🔰 节点选择
+  - DOMAIN-SUFFIX,githack.com,🔰 节点选择
+  - DOMAIN-SUFFIX,graphql.org,🔰 节点选择
+  - DOMAIN-SUFFIX,hackmd.io,🔰 节点选择
+  - DOMAIN-SUFFIX,heroku.com,🔰 节点选择
+  - DOMAIN-SUFFIX,hket.com,🔰 节点选择
+  - DOMAIN-SUFFIX,huffpost.com,🔰 节点选择
+  - DOMAIN-SUFFIX,i-cable.com,🔰 节点选择
+  - DOMAIN-SUFFIX,imgur.com,🔰 节点选择
+  - DOMAIN-SUFFIX,independent.co.uk,🔰 节点选择
+  - DOMAIN-SUFFIX,inoreader.com,🔰 节点选择
+  - DOMAIN-SUFFIX,is.gd,🔰 节点选择
+  - DOMAIN-SUFFIX,issuu.com,🔰 节点选择
+  - DOMAIN-SUFFIX,istockphoto.com,🔰 节点选择
+  - DOMAIN-SUFFIX,justpaste.it,🔰 节点选择
+  - DOMAIN-SUFFIX,kakao.com,🔰 节点选择
+  - DOMAIN-SUFFIX,kobo.com,🔰 节点选择
+  - DOMAIN-SUFFIX,listennotes.com,🔰 节点选择
+  - DOMAIN-SUFFIX,livestream.com,🔰 节点选择
+  - DOMAIN-SUFFIX,mailchimp.com,🔰 节点选择
+  - DOMAIN-SUFFIX,matrix.org,🔰 节点选择
+  - DOMAIN-SUFFIX,medibang.com,🔰 节点选择
+  - DOMAIN-SUFFIX,medium.com,🔰 节点选择
+  - DOMAIN-SUFFIX,mega.co.nz,🔰 节点选择
+  - DOMAIN-SUFFIX,mega.io,🔰 节点选择
+  - DOMAIN-SUFFIX,mega.nz,🔰 节点选择
+  - DOMAIN-SUFFIX,mixlr.com,🔰 节点选择
+  - DOMAIN-SUFFIX,moon.fm,🔰 节点选择
+  - DOMAIN-SUFFIX,mubi.com,🔰 节点选择
+  - DOMAIN-SUFFIX,myspace.com,🔰 节点选择
+  - DOMAIN-SUFFIX,myspacecdn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nbcnews.com,🔰 节点选择
+  - DOMAIN-SUFFIX,neowin.net,🔰 节点选择
+  - DOMAIN-SUFFIX,newstatesman.com,🔰 节点选择
+  - DOMAIN-SUFFIX,newsweek.com,🔰 节点选择
+  - DOMAIN-SUFFIX,newyorker.com,🔰 节点选择
+  - DOMAIN-SUFFIX,now.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ok.ru,🔰 节点选择
+  - DOMAIN-SUFFIX,omny.fm,🔰 节点选择
+  - DOMAIN-SUFFIX,openvpn.net,🔰 节点选择
+  - DOMAIN-SUFFIX,owltail.com,🔰 节点选择
+  - DOMAIN-SUFFIX,oxfordscholarship.com,🔰 节点选择
+  - DOMAIN-SUFFIX,parsevideo.com,🔰 节点选择
+  - DOMAIN-SUFFIX,paste.ee,🔰 节点选择
+  - DOMAIN-SUFFIX,pastie.org,🔰 节点选择
+  - DOMAIN-SUFFIX,pcloud.com,🔰 节点选择
+  - DOMAIN-SUFFIX,peing.net,🔰 节点选择
+  - DOMAIN-SUFFIX,player.fm,🔰 节点选择
+  - DOMAIN-SUFFIX,podbean.com,🔰 节点选择
+  - DOMAIN-SUFFIX,prism-break.org,🔰 节点选择
+  - DOMAIN-SUFFIX,privoxy.org,🔰 节点选择
+  - DOMAIN-SUFFIX,proxifier.com,🔰 节点选择
+  - DOMAIN-SUFFIX,quora.com,🔰 节点选择
+  - DOMAIN-SUFFIX,quoracdn.net,🔰 节点选择
+  - DOMAIN-SUFFIX,qz.com,🔰 节点选择
+  - DOMAIN-SUFFIX,radioline.co,🔰 节点选择
+  - DOMAIN-SUFFIX,reabble.com,🔰 节点选择
+  - DOMAIN-SUFFIX,redditlist.com,🔰 节点选择
+  - DOMAIN-SUFFIX,resilio.com,🔰 节点选择
+  - DOMAIN-SUFFIX,rsshub.app,🔰 节点选择
+  - DOMAIN-SUFFIX,rthk.hk,🔰 节点选择
+  - DOMAIN-SUFFIX,scmp.com,🔰 节点选择
+  - DOMAIN-SUFFIX,scribd.com,🔰 节点选择
+  - DOMAIN-SUFFIX,search.com,🔰 节点选择
+  - DOMAIN-SUFFIX,shutterstock.com,🔰 节点选择
+  - DOMAIN-SUFFIX,signal.org,🔰 节点选择
+  - DOMAIN-SUFFIX,sketchappsources.com,🔰 节点选择
+  - DOMAIN-SUFFIX,slideshare.net,🔰 节点选择
+  - DOMAIN-SUFFIX,smartmailcloud.com,🔰 节点选择
+  - DOMAIN-SUFFIX,smh.com.au,🔰 节点选择
+  - DOMAIN-SUFFIX,speakerdeck.com,🔰 节点选择
+  - DOMAIN-SUFFIX,spideroak.com,🔰 节点选择
+  - DOMAIN-SUFFIX,spiegel.de,🔰 节点选择
+  - DOMAIN-SUFFIX,startpage.com,🔰 节点选择
+  - DOMAIN-SUFFIX,steemit.com,🔰 节点选择
+  - DOMAIN-SUFFIX,straitstimes.com,🔰 节点选择
+  - DOMAIN-SUFFIX,streamable.com,🔰 节点选择
+  - DOMAIN-SUFFIX,substack.com,🔰 节点选择
+  - DOMAIN-SUFFIX,swissinfo.ch,🔰 节点选择
+  - DOMAIN-SUFFIX,tapatalk.com,🔰 节点选择
+  - DOMAIN-SUFFIX,techspot.com,🔰 节点选择
+  - DOMAIN-SUFFIX,textnow.me,🔰 节点选择
+  - DOMAIN-SUFFIX,theage.com.au,🔰 节点选择
+  - DOMAIN-SUFFIX,theatlantic.com,🔰 节点选择
+  - DOMAIN-SUFFIX,theaustralian.com.au,🔰 节点选择
+  - DOMAIN-SUFFIX,theconversation.com,🔰 节点选择
+  - DOMAIN-SUFFIX,thediplomat.com,🔰 节点选择
+  - DOMAIN-SUFFIX,theguardian.com,🔰 节点选择
+  - DOMAIN-SUFFIX,theinitium.com,🔰 节点选择
+  - DOMAIN-SUFFIX,themoviedb.org,🔰 节点选择
+  - DOMAIN-SUFFIX,thetvdb.com,🔰 节点选择
+  - DOMAIN-SUFFIX,time.com,🔰 节点选择
+  - DOMAIN-SUFFIX,tineye.com,🔰 节点选择
+  - DOMAIN-SUFFIX,tiny.cc,🔰 节点选择
+  - DOMAIN-SUFFIX,torproject.org,🔰 节点选择
+  - DOMAIN-SUFFIX,tradingview.com,🔰 节点选择
+  - DOMAIN-SUFFIX,turbobit.net,🔰 节点选择
+  - DOMAIN-SUFFIX,tutanota.com,🔰 节点选择
+  - DOMAIN-SUFFIX,urbandictionary.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ustream.tv,🔰 节点选择
+  - DOMAIN-SUFFIX,v2ex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,venturebeat.com,🔰 节点选择
+  - DOMAIN-SUFFIX,viber.com,🔰 节点选择
+  - DOMAIN-SUFFIX,vimeo.com,🔰 节点选择
+  - DOMAIN-SUFFIX,voxer.com,🔰 节点选择
+  - DOMAIN-SUFFIX,vzw.com,🔰 节点选择
+  - DOMAIN-SUFFIX,washingtonpost.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wattpad.com,🔰 节点选择
+  - DOMAIN-SUFFIX,welt.de,🔰 节点选择
+  - DOMAIN-SUFFIX,whoer.net,🔰 节点选择
+  - DOMAIN-SUFFIX,wikimapia.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikiwand.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wire.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wireguard.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,worldcat.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wsj.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wsj.net,🔰 节点选择
+  - DOMAIN-SUFFIX,x.co,🔰 节点选择
+  - DOMAIN-SUFFIX,yandex.ru,🔰 节点选择
+  - DOMAIN-SUFFIX,you-get.org,🔰 节点选择
+  - DOMAIN-SUFFIX,zaobao.com,🔰 节点选择
+  - DOMAIN-SUFFIX,zello.com,🔰 节点选择
+  - DOMAIN-SUFFIX,zeronet.io,🔰 节点选择
+  - DOMAIN-SUFFIX,z-lib.org,🔰 节点选择
+  - DOMAIN-SUFFIX,zophar.net,🔰 节点选择
+  - DOMAIN-SUFFIX,zyxel.com,🔰 节点选择
+  - DOMAIN,lab.skk.moe,🔰 节点选择
+  - DOMAIN,ocsp.int-x3.letsencrypt.org,🔰 节点选择
+  - DOMAIN,a248.e.akamai.net,🔰 节点选择
+  - DOMAIN,a771.dscq.akamai.net,🔰 节点选择
   - DOMAIN-SUFFIX,amazon.co.jp,🔰 节点选择
   - DOMAIN,d3c33hcgiwev3.cloudfront.net,🔰 节点选择
   - DOMAIN,payments-jp.amazon.com,🔰 节点选择
   - DOMAIN,s3-ap-northeast-1.amazonaws.com,🔰 节点选择
   - DOMAIN,s3-ap-southeast-2.amazonaws.com,🔰 节点选择
-  - DOMAIN,a248.e.akamai.net,🔰 节点选择
-  - DOMAIN,a771.dscq.akamai.net,🔰 节点选择
+  - DOMAIN-SUFFIX,abc.xyz,🔰 节点选择
+  - DOMAIN-SUFFIX,admob.com,🔰 节点选择
+  - DOMAIN-SUFFIX,adsense.com,🔰 节点选择
+  - DOMAIN-SUFFIX,advertisercommunity.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ampproject.org,🔰 节点选择
+  - DOMAIN-SUFFIX,android.com,🔰 节点选择
+  - DOMAIN-SUFFIX,androidify.com,🔰 节点选择
+  - DOMAIN-SUFFIX,androidtv.com,🔰 节点选择
+  - DOMAIN-SUFFIX,api.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,apigee.com,🔰 节点选择
+  - DOMAIN-SUFFIX,appspot.com,🔰 节点选择
+  - DOMAIN-SUFFIX,blogblog.com,🔰 节点选择
+  - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
+  - DOMAIN-SUFFIX,chrome.com,🔰 节点选择
+  - DOMAIN-SUFFIX,chromium.org,🔰 节点选择
+  - DOMAIN-SUFFIX,debug.com,🔰 节点选择
+  - DOMAIN-SUFFIX,dialogflow.com,🔰 节点选择
+  - DOMAIN-SUFFIX,feedburner.com,🔰 节点选择
+  - DOMAIN-SUFFIX,firebaseio.com,🔰 节点选择
+  - DOMAIN-SUFFIX,g.co,🔰 节点选择
+  - DOMAIN-SUFFIX,getoutline.org,🔰 节点选择
+  - DOMAIN-SUFFIX,ggpht.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gmail.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gmodules.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gvt0.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gvt1.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gvt3.com,🔰 节点选择
+  - DOMAIN-SUFFIX,itasoftware.com,🔰 节点选择
+  - DOMAIN-SUFFIX,on2.com,🔰 节点选择
+  - DOMAIN-SUFFIX,recaptcha.net,🔰 节点选择
+  - DOMAIN-SUFFIX,schema.org,🔰 节点选择
+  - DOMAIN-SUFFIX,tensorflow.org,🔰 节点选择
+  - DOMAIN-SUFFIX,tenor.com,🔰 节点选择
+  - DOMAIN-SUFFIX,tfhub.dev,🔰 节点选择
+  - DOMAIN-SUFFIX,tiltbrush.com,🔰 节点选择
+  - DOMAIN-SUFFIX,waymo.com,🔰 节点选择
+  - DOMAIN-SUFFIX,web.dev,🔰 节点选择
+  - DOMAIN-SUFFIX,webmproject.org,🔰 节点选择
+  - DOMAIN-SUFFIX,webrtc.org,🔰 节点选择
+  - DOMAIN-SUFFIX,widevine.com,🔰 节点选择
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰 节点选择
+  - DOMAIN-SUFFIX,zynamics.com,🔰 节点选择
+  - DOMAIN-KEYWORD,google,🔰 节点选择
+  - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
+  - DOMAIN-SUFFIX,goog,🔰 节点选择
   - DOMAIN,testflight.apple.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gravatar.com,🔰 节点选择
+  - DOMAIN-SUFFIX,tumblr.com,🔰 节点选择
+  - DOMAIN-SUFFIX,videopress.com,🔰 节点选择
+  - DOMAIN-SUFFIX,wordpress.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bloomberg.cn,🔰 节点选择
+  - DOMAIN-SUFFIX,bloomberg.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bloomberg.de,🔰 节点选择
+  - DOMAIN-SUFFIX,bloombergview.com,🔰 节点选择
+  - DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
+  - DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
+  - DOMAIN,clubhouse.pubnubapi.com,🔰 节点选择
   - DOMAIN-SUFFIX,aex.com,🔰 节点选择
   - DOMAIN-SUFFIX,bibox.com,🔰 节点选择
   - DOMAIN-SUFFIX,binance.cc,🔰 节点选择
   - DOMAIN-SUFFIX,binance.com,🔰 节点选择
+  - DOMAIN-SUFFIX,binance.me,🔰 节点选择
+  - DOMAIN-SUFFIX,binance.us,🔰 节点选择
   - DOMAIN-SUFFIX,bitcointalk.org,🔰 节点选择
   - DOMAIN-SUFFIX,bitfinex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bithumb.com,🔰 节点选择
   - DOMAIN-SUFFIX,bitmex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bitstamp.net,🔰 节点选择
+  - DOMAIN-SUFFIX,bittrex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bybit.com,🔰 节点选择
+  - DOMAIN-SUFFIX,coinbase.com,🔰 节点选择
+  - DOMAIN-SUFFIX,coincheck.com,🔰 节点选择
+  - DOMAIN-SUFFIX,coingecko.com,🔰 节点选择
+  - DOMAIN-SUFFIX,coinmarketcap.com,🔰 节点选择
+  - DOMAIN-SUFFIX,coinone.co.kr,🔰 节点选择
+  - DOMAIN-SUFFIX,etherscan.io,🔰 节点选择
+  - DOMAIN-SUFFIX,ftx.com,🔰 节点选择
   - DOMAIN-SUFFIX,gate.io,🔰 节点选择
+  - DOMAIN-SUFFIX,gemini.com,🔰 节点选择
   - DOMAIN-SUFFIX,huobi.com,🔰 节点选择
+  - DOMAIN-SUFFIX,korbit.co.kr,🔰 节点选择
+  - DOMAIN-SUFFIX,kraken.com,🔰 节点选择
+  - DOMAIN-SUFFIX,kucoin.com,🔰 节点选择
+  - DOMAIN-SUFFIX,liquid.com,🔰 节点选择
   - DOMAIN-SUFFIX,okex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,okx.com,🔰 节点选择
+  - DOMAIN-SUFFIX,poloniex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,sushi.com,🔰 节点选择
   - DOMAIN-SUFFIX,uniswap.org,🔰 节点选择
   - DOMAIN-SUFFIX,zb.com,🔰 节点选择
   - DOMAIN-SUFFIX,discord.com,🔰 节点选择
@@ -10301,11 +10426,25 @@ rules:
   - DOMAIN-SUFFIX,dropbox.com,🔰 节点选择
   - DOMAIN-SUFFIX,dropboxapi.com,🔰 节点选择
   - DOMAIN-SUFFIX,dropboxusercontent.com,🔰 节点选择
+  - DOMAIN-SUFFIX,freetls.fastly.net,🔰 节点选择
+  - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,🔰 节点选择
+  - DOMAIN,github.global.ssl.fastly.net,🔰 节点选择
+  - DOMAIN,nytimes.map.fastly.net,🔰 节点选择
+  - DOMAIN-SUFFIX,line.me,🔰 节点选择
+  - DOMAIN-SUFFIX,line-apps.com,🔰 节点选择
+  - DOMAIN-SUFFIX,line-scdn.net,🔰 节点选择
+  - DOMAIN-SUFFIX,naver.jp,🔰 节点选择
+  - IP-CIDR,103.2.30.0/23,🔰 节点选择,no-resolve
+  - IP-CIDR,125.209.208.0/20,🔰 节点选择,no-resolve
+  - IP-CIDR,147.92.128.0/17,🔰 节点选择,no-resolve
+  - IP-CIDR,203.104.144.0/21,🔰 节点选择,no-resolve
+  - DOMAIN-SUFFIX,accountkit.com,🔰 节点选择
   - DOMAIN-SUFFIX,cdninstagram.com,🔰 节点选择
-  - DOMAIN-SUFFIX,facebook.com,🔰 节点选择
-  - DOMAIN-SUFFIX,facebook.net,🔰 节点选择
+  - DOMAIN-SUFFIX,f8.com,🔰 节点选择
+  - DOMAIN-SUFFIX,facebookmail.com,🔰 节点选择
   - DOMAIN-SUFFIX,fb.com,🔰 节点选择
   - DOMAIN-SUFFIX,fb.me,🔰 节点选择
+  - DOMAIN-SUFFIX,fb.watch,🔰 节点选择
   - DOMAIN-SUFFIX,fbaddins.com,🔰 节点选择
   - DOMAIN-SUFFIX,fbcdn.net,🔰 节点选择
   - DOMAIN-SUFFIX,fbsbx.com,🔰 节点选择
@@ -10315,517 +10454,137 @@ rules:
   - DOMAIN-SUFFIX,messenger.com,🔰 节点选择
   - DOMAIN-SUFFIX,oculus.com,🔰 节点选择
   - DOMAIN-SUFFIX,oculuscdn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,readyatdawn.com,🔰 节点选择
   - DOMAIN-SUFFIX,rocksdb.org,🔰 节点选择
   - DOMAIN-SUFFIX,whatsapp.com,🔰 节点选择
   - DOMAIN-SUFFIX,whatsapp.net,🔰 节点选择
+  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
+  - DOMAIN-SUFFIX,aka.ms,🔰 节点选择
+  - DOMAIN-SUFFIX,github.blog,🔰 节点选择
   - DOMAIN-SUFFIX,github.com,🔰 节点选择
   - DOMAIN-SUFFIX,github.io,🔰 节点选择
+  - DOMAIN-SUFFIX,githubassets.com,🔰 节点选择
   - DOMAIN-SUFFIX,githubusercontent.com,🔰 节点选择
-  - DOMAIN-SUFFIX,appspot.com,🔰 节点选择
-  - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
-  - DOMAIN-SUFFIX,getoutline.org,🔰 节点选择
-  - DOMAIN-SUFFIX,gvt0.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gvt3.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ytimg.com,🔰 节点选择
-  - DOMAIN-KEYWORD,google,🔰 节点选择
-  - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
-  - DOMAIN-SUFFIX,line.me,🔰 节点选择
-  - DOMAIN-SUFFIX,line-apps.com,🔰 节点选择
-  - DOMAIN-SUFFIX,line-scdn.net,🔰 节点选择
-  - DOMAIN-SUFFIX,naver.jp,🔰 节点选择
-  - IP-CIDR,103.2.30.0/23,🔰 节点选择,no-resolve
-  - IP-CIDR,125.209.208.0/20,🔰 节点选择,no-resolve
-  - IP-CIDR,147.92.128.0/17,🔰 节点选择,no-resolve
-  - IP-CIDR,203.104.144.0/21,🔰 节点选择,no-resolve
-  - DOMAIN-SUFFIX,aka.ms,🔰 节点选择
   - DOMAIN-SUFFIX,onedrive.live.com,🔰 节点选择
   - DOMAIN-SUFFIX,streaming.mediaservices.windows.net,🔰 节点选择
   - DOMAIN,assets1.xboxlive.com,🔰 节点选择
   - DOMAIN,assets2.xboxlive.com,🔰 节点选择
   - DOMAIN,az416426.vo.msecnd.net,🔰 节点选择
   - DOMAIN,az668014.vo.msecnd.net,🔰 节点选择
-  - DOMAIN-SUFFIX,nyt.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytchina.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytcn.me,🔰 节点选择
-  - DOMAIN-SUFFIX,nytco.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytimes.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytimg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytlog.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytstyle.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.at,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.ca,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.co.uk,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.de,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.fr,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.se,🔰 节点选择
+  - DOMAIN-SUFFIX,pinimg.com,🔰 节点选择
+  - DOMAIN-KEYWORD,.pinterest.,🔰 节点选择
   - DOMAIN-SUFFIX,pixiv.net,🔰 节点选择
   - DOMAIN-SUFFIX,pixiv.org,🔰 节点选择
   - DOMAIN-SUFFIX,pximg.net,🔰 节点选择
   - DOMAIN-SUFFIX,redd.it,🔰 节点选择
   - DOMAIN-SUFFIX,reddit.com,🔰 节点选择
   - DOMAIN-SUFFIX,redditmedia.com,🔰 节点选择
+  - DOMAIN-SUFFIX,redditstatic.com,🔰 节点选择
+  - DOMAIN-SUFFIX,reuters.com,🔰 节点选择
+  - DOMAIN-SUFFIX,reutersmedia.net,🔰 节点选择
+  - DOMAIN-SUFFIX,steamcommunity.com,🔰 节点选择
+  - DOMAIN-SUFFIX,legra.ph,🔰 节点选择
+  - DOMAIN-SUFFIX,t.me,🔰 节点选择
+  - DOMAIN-SUFFIX,tdesktop.com,🔰 节点选择
   - DOMAIN-SUFFIX,telegra.ph,🔰 节点选择
+  - DOMAIN-SUFFIX,telegram.me,🔰 节点选择
   - DOMAIN-SUFFIX,telegram.org,🔰 节点选择
+  - DOMAIN-SUFFIX,telesco.pe,🔰 节点选择
   - IP-CIDR,91.108.4.0/22,🔰 节点选择,no-resolve
   - IP-CIDR,91.108.8.0/22,🔰 节点选择,no-resolve
   - IP-CIDR,91.108.12.0/22,🔰 节点选择,no-resolve
   - IP-CIDR,91.108.16.0/22,🔰 节点选择,no-resolve
   - IP-CIDR,91.108.20.0/22,🔰 节点选择,no-resolve
   - IP-CIDR,91.108.56.0/22,🔰 节点选择,no-resolve
-  - IP-CIDR,95.161.64.0/20,🔰 节点选择,no-resolve
+  - IP-CIDR,91.105.192.0/23,🔰 节点选择,no-resolve
   - IP-CIDR,149.154.160.0/20,🔰 节点选择,no-resolve
+  - IP-CIDR,185.76.151.0/24,🔰 节点选择,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,🔰 节点选择,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,🔰 节点选择,no-resolve
   - IP-CIDR6,2001:67c:4e8::/48,🔰 节点选择,no-resolve
-  - DOMAIN-SUFFIX,pscp.tv,🔰 节点选择
+  - IP-CIDR6,2001:b28:f23c::/48,🔰 节点选择,no-resolve
+  - IP-CIDR6,2a0a:f280::/32,🔰 节点选择,no-resolve
+  - DOMAIN-SUFFIX,economist.com,🔰 节点选择
+  - DOMAIN-SUFFIX,static-economist.com,🔰 节点选择
+  - DOMAIN-SUFFIX,newyorktimes.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nyt.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nytco.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nytimes.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nytimg.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nytlog.com,🔰 节点选择
+  - DOMAIN-SUFFIX,nytstyle.com,🔰 节点选择
+  - DOMAIN-SUFFIX,tmagazine.com,🔰 节点选择
   - DOMAIN-SUFFIX,periscope.tv,🔰 节点选择
+  - DOMAIN-SUFFIX,pscp.tv,🔰 节点选择
   - DOMAIN-SUFFIX,t.co,🔰 节点选择
+  - DOMAIN-SUFFIX,tweetdeck.com,🔰 节点选择
   - DOMAIN-SUFFIX,twimg.co,🔰 节点选择
   - DOMAIN-SUFFIX,twimg.com,🔰 节点选择
   - DOMAIN-SUFFIX,twitpic.com,🔰 节点选择
   - DOMAIN-SUFFIX,twitter.com,🔰 节点选择
+  - DOMAIN-SUFFIX,twitter.jp,🔰 节点选择
   - DOMAIN-SUFFIX,vine.co,🔰 节点选择
+  - DOMAIN-SUFFIX,mediawiki.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikibooks.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikidata.org,🔰 节点选择
   - DOMAIN-SUFFIX,wikileaks.org,🔰 节点选择
-  - DOMAIN-SUFFIX,wikimapia.org,🔰 节点选择
   - DOMAIN-SUFFIX,wikimedia.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikimediafoundation.org,🔰 节点选择
   - DOMAIN-SUFFIX,wikinews.org,🔰 节点选择
   - DOMAIN-SUFFIX,wikipedia.org,🔰 节点选择
   - DOMAIN-SUFFIX,wikiquote.org,🔰 节点选择
-  - DOMAIN-SUFFIX,4shared.com,🔰 节点选择
-  - DOMAIN-SUFFIX,9cache.com,🔰 节点选择
-  - DOMAIN-SUFFIX,9gag.com,🔰 节点选择
-  - DOMAIN-SUFFIX,abc.com,🔰 节点选择
-  - DOMAIN-SUFFIX,abc.net.au,🔰 节点选择
-  - DOMAIN-SUFFIX,abebooks.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ao3.org,🔰 节点选择
-  - DOMAIN-SUFFIX,apigee.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apkcombo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apk-dl.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apkfind.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apkmirror.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apkmonk.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apkpure.com,🔰 节点选择
-  - DOMAIN-SUFFIX,aptoide.com,🔰 节点选择
-  - DOMAIN-SUFFIX,archive.is,🔰 节点选择
-  - DOMAIN-SUFFIX,archive.org,🔰 节点选择
-  - DOMAIN-SUFFIX,archiveofourown.com,🔰 节点选择
-  - DOMAIN-SUFFIX,archiveofourown.org,🔰 节点选择
-  - DOMAIN-SUFFIX,arte.tv,🔰 节点选择
-  - DOMAIN-SUFFIX,artstation.com,🔰 节点选择
-  - DOMAIN-SUFFIX,arukas.io,🔰 节点选择
-  - DOMAIN-SUFFIX,ask.com,🔰 节点选择
-  - DOMAIN-SUFFIX,avg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,avgle.com,🔰 节点选择
-  - DOMAIN-SUFFIX,badoo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bandcamp.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bandwagonhost.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bangkokpost.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bbc.com,🔰 节点选择
-  - DOMAIN-SUFFIX,behance.net,🔰 节点选择
-  - DOMAIN-SUFFIX,biggo.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,bit.ly,🔰 节点选择
-  - DOMAIN-SUFFIX,bloglovin.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bloomberg.cn,🔰 节点选择
-  - DOMAIN-SUFFIX,bloomberg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,blubrry.com,🔰 节点选择
-  - DOMAIN-SUFFIX,book.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,booklive.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,books.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,boslife.net,🔰 节点选择
-  - DOMAIN-SUFFIX,box.com,🔰 节点选择
-  - DOMAIN-SUFFIX,brave.com,🔰 节点选择
-  - DOMAIN-SUFFIX,businessinsider.com,🔰 节点选择
-  - DOMAIN-SUFFIX,buzzfeed.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bwh1.net,🔰 节点选择
-  - DOMAIN-SUFFIX,castbox.fm,🔰 节点选择
-  - DOMAIN-SUFFIX,cbc.ca,🔰 节点选择
-  - DOMAIN-SUFFIX,cdw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,change.org,🔰 节点选择
-  - DOMAIN-SUFFIX,channelnewsasia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ck101.com,🔰 节点选择
-  - DOMAIN-SUFFIX,clarionproject.org,🔰 节点选择
-  - DOMAIN-SUFFIX,cloudcone.com,🔰 节点选择
-  - DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
-  - DOMAIN-SUFFIX,clyp.it,🔰 节点选择
-  - DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,comparitech.com,🔰 节点选择
-  - DOMAIN-SUFFIX,conoha.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,crucial.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cts.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,cw.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,cyberctm.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cyclingnews.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dailymotion.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dailyview.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,dandanzan.com,🔰 节点选择
-  - DOMAIN-SUFFIX,daum.net,🔰 节点选择
-  - DOMAIN-SUFFIX,daumcdn.net,🔰 节点选择
-  - DOMAIN-SUFFIX,dcard.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,deadline.com,🔰 节点选择
-  - DOMAIN-SUFFIX,deepdiscount.com,🔰 节点选择
-  - DOMAIN-SUFFIX,depositphotos.com,🔰 节点选择
-  - DOMAIN-SUFFIX,deviantart.com,🔰 节点选择
-  - DOMAIN-SUFFIX,disconnect.me,🔰 节点选择
-  - DOMAIN-SUFFIX,disqus.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dlercloud.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dmhy.org,🔰 节点选择
-  - DOMAIN-SUFFIX,dns2go.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dowjones.com,🔰 节点选择
-  - DOMAIN-SUFFIX,duckduckgo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,duyaoss.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dynu.com,🔰 节点选择
-  - DOMAIN-SUFFIX,earthcam.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ebookservice.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,economist.com,🔰 节点选择
-  - DOMAIN-SUFFIX,edgecastcdn.net,🔰 节点选择
-  - DOMAIN-SUFFIX,edx-cdn.org,🔰 节点选择
-  - DOMAIN-SUFFIX,elpais.com,🔰 节点选择
-  - DOMAIN-SUFFIX,enanyang.my,🔰 节点选择
-  - DOMAIN-SUFFIX,encyclopedia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,esoir.be,🔰 节点选择
-  - DOMAIN-SUFFIX,etherscan.io,🔰 节点选择
-  - DOMAIN-SUFFIX,euronews.com,🔰 节点选择
-  - DOMAIN-SUFFIX,evozi.com,🔰 节点选择
-  - DOMAIN-SUFFIX,exblog.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,feeder.co,🔰 节点选择
-  - DOMAIN-SUFFIX,feedly.com,🔰 节点选择
-  - DOMAIN-SUFFIX,feedx.net,🔰 节点选择
-  - DOMAIN-SUFFIX,firech.at,🔰 节点选择
-  - DOMAIN-SUFFIX,flickr.com,🔰 节点选择
-  - DOMAIN-SUFFIX,flipboard.com,🔰 节点选择
-  - DOMAIN-SUFFIX,flitto.com,🔰 节点选择
-  - DOMAIN-SUFFIX,foreignpolicy.com,🔰 节点选择
-  - DOMAIN-SUFFIX,fortawesome.com,🔰 节点选择
-  - DOMAIN-SUFFIX,freetls.fastly.net,🔰 节点选择
-  - DOMAIN-SUFFIX,friday.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,ft.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ftchinese.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ftimg.net,🔰 节点选择
-  - DOMAIN-SUFFIX,genius.com,🔰 节点选择
-  - DOMAIN-SUFFIX,getlantern.org,🔰 节点选择
-  - DOMAIN-SUFFIX,getsync.com,🔰 节点选择
-  - DOMAIN-SUFFIX,globalvoices.org,🔰 节点选择
-  - DOMAIN-SUFFIX,goo.ne.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,goodreads.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gov.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,gravatar.com,🔰 节点选择
-  - DOMAIN-SUFFIX,greatfire.org,🔰 节点选择
-  - DOMAIN-SUFFIX,gumroad.com,🔰 节点选择
-  - DOMAIN-SUFFIX,heroku.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hightail.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hk01.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hkbf.org,🔰 节点选择
-  - DOMAIN-SUFFIX,hkbookcity.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hkej.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hket.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hootsuite.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hudson.org,🔰 节点选择
-  - DOMAIN-SUFFIX,huffpost.com,🔰 节点选择
-  - DOMAIN-SUFFIX,hyread.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,ibtimes.com,🔰 节点选择
-  - DOMAIN-SUFFIX,i-cable.com,🔰 节点选择
-  - DOMAIN-SUFFIX,icij.org,🔰 节点选择
-  - DOMAIN-SUFFIX,icoco.com,🔰 节点选择
-  - DOMAIN-SUFFIX,imgur.com,🔰 节点选择
-  - DOMAIN-SUFFIX,independent.co.uk,🔰 节点选择
-  - DOMAIN-SUFFIX,initiummall.com,🔰 节点选择
-  - DOMAIN-SUFFIX,inoreader.com,🔰 节点选择
-  - DOMAIN-SUFFIX,insecam.org,🔰 节点选择
-  - DOMAIN-SUFFIX,ipfs.io,🔰 节点选择
-  - DOMAIN-SUFFIX,issuu.com,🔰 节点选择
-  - DOMAIN-SUFFIX,istockphoto.com,🔰 节点选择
-  - DOMAIN-SUFFIX,japantimes.co.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,jiji.com,🔰 节点选择
-  - DOMAIN-SUFFIX,jinx.com,🔰 节点选择
-  - DOMAIN-SUFFIX,jkforum.net,🔰 节点选择
-  - DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
-  - DOMAIN-SUFFIX,joinmastodon.org,🔰 节点选择
-  - DOMAIN-SUFFIX,justmysocks.net,🔰 节点选择
-  - DOMAIN-SUFFIX,justpaste.it,🔰 节点选择
-  - DOMAIN-SUFFIX,kadokawa.co.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,kakao.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kakaocorp.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kik.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kingkong.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,knowyourmeme.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kobo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kobobooks.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kodingen.com,🔰 节点选择
-  - DOMAIN-SUFFIX,lemonde.fr,🔰 节点选择
-  - DOMAIN-SUFFIX,lepoint.fr,🔰 节点选择
-  - DOMAIN-SUFFIX,lihkg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,limbopro.xyz,🔰 节点选择
-  - DOMAIN-SUFFIX,listennotes.com,🔰 节点选择
-  - DOMAIN-SUFFIX,livestream.com,🔰 节点选择
-  - DOMAIN-SUFFIX,logimg.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,logmein.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mail.ru,🔰 节点选择
-  - DOMAIN-SUFFIX,mailchimp.com,🔰 节点选择
-  - DOMAIN-SUFFIX,marc.info,🔰 节点选择
-  - DOMAIN-SUFFIX,matters.news,🔰 节点选择
-  - DOMAIN-SUFFIX,maying.co,🔰 节点选择
-  - DOMAIN-SUFFIX,medium.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mega.nz,🔰 节点选择
-  - DOMAIN-SUFFIX,mergersandinquisitions.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mingpao.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mixi.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,mixlr.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mobile01.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mubi.com,🔰 节点选择
-  - DOMAIN-SUFFIX,myspace.com,🔰 节点选择
-  - DOMAIN-SUFFIX,myspacecdn.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nanyang.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nationalinterest.org,🔰 节点选择
-  - DOMAIN-SUFFIX,naver.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nbcnews.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ndr.de,🔰 节点选择
-  - DOMAIN-SUFFIX,neowin.net,🔰 节点选择
-  - DOMAIN-SUFFIX,newstapa.org,🔰 节点选择
-  - DOMAIN-SUFFIX,nexitally.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nhk.or.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,nii.ac.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,nikkei.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nitter.net,🔰 节点选择
-  - DOMAIN-SUFFIX,nofile.io,🔰 节点选择
-  - DOMAIN-SUFFIX,notion.so,🔰 节点选择
-  - DOMAIN-SUFFIX,now.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nrk.no,🔰 节点选择
-  - DOMAIN-SUFFIX,nuget.org,🔰 节点选择
-  - DOMAIN-SUFFIX,nyaa.si,🔰 节点选择
-  - DOMAIN-SUFFIX,ok.ru,🔰 节点选择
-  - DOMAIN-SUFFIX,on.cc,🔰 节点选择
-  - DOMAIN-SUFFIX,orientaldaily.com.my,🔰 节点选择
-  - DOMAIN-SUFFIX,overcast.fm,🔰 节点选择
-  - DOMAIN-SUFFIX,paltalk.com,🔰 节点选择
-  - DOMAIN-SUFFIX,parsevideo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pawoo.net,🔰 节点选择
-  - DOMAIN-SUFFIX,pbxes.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pcdvd.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pchome.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pcloud.com,🔰 节点选择
-  - DOMAIN-SUFFIX,peing.net,🔰 节点选择
-  - DOMAIN-SUFFIX,picacomic.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pinimg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,player.fm,🔰 节点选择
-  - DOMAIN-SUFFIX,plurk.com,🔰 节点选择
-  - DOMAIN-SUFFIX,po18.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,potato.im,🔰 节点选择
-  - DOMAIN-SUFFIX,potatso.com,🔰 节点选择
-  - DOMAIN-SUFFIX,prism-break.org,🔰 节点选择
-  - DOMAIN-SUFFIX,proxifier.com,🔰 节点选择
-  - DOMAIN-SUFFIX,pt.im,🔰 节点选择
-  - DOMAIN-SUFFIX,pts.org.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pubu.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pubu.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pureapk.com,🔰 节点选择
-  - DOMAIN-SUFFIX,quora.com,🔰 节点选择
-  - DOMAIN-SUFFIX,quoracdn.net,🔰 节点选择
-  - DOMAIN-SUFFIX,qz.com,🔰 节点选择
-  - DOMAIN-SUFFIX,radio.garden,🔰 节点选择
-  - DOMAIN-SUFFIX,rakuten.co.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,rarbgprx.org,🔰 节点选择
-  - DOMAIN-SUFFIX,reabble.com,🔰 节点选择
-  - DOMAIN-SUFFIX,readingtimes.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,readmoo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,redbubble.com,🔰 节点选择
-  - DOMAIN-SUFFIX,resilio.com,🔰 节点选择
-  - DOMAIN-SUFFIX,reuters.com,🔰 节点选择
-  - DOMAIN-SUFFIX,reutersmedia.net,🔰 节点选择
-  - DOMAIN-SUFFIX,rfi.fr,🔰 节点选择
-  - DOMAIN-SUFFIX,roadshow.hk,🔰 节点选择
-  - DOMAIN-SUFFIX,rsshub.app,🔰 节点选择
-  - DOMAIN-SUFFIX,scmp.com,🔰 节点选择
-  - DOMAIN-SUFFIX,scribd.com,🔰 节点选择
-  - DOMAIN-SUFFIX,seatguru.com,🔰 节点选择
-  - DOMAIN-SUFFIX,shadowsocks.org,🔰 节点选择
-  - DOMAIN-SUFFIX,shindanmaker.com,🔰 节点选择
-  - DOMAIN-SUFFIX,shopee.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,signal.org,🔰 节点选择
-  - DOMAIN-SUFFIX,sina.com.hk,🔰 节点选择
-  - DOMAIN-SUFFIX,slideshare.net,🔰 节点选择
-  - DOMAIN-SUFFIX,softfamous.com,🔰 节点选择
-  - DOMAIN-SUFFIX,spiegel.de,🔰 节点选择
-  - DOMAIN-SUFFIX,startpage.com,🔰 节点选择
-  - DOMAIN-SUFFIX,steamcommunity.com,🔰 节点选择
-  - DOMAIN-SUFFIX,steemit.com,🔰 节点选择
-  - DOMAIN-SUFFIX,steemitwallet.com,🔰 节点选择
-  - DOMAIN-SUFFIX,straitstimes.com,🔰 节点选择
-  - DOMAIN-SUFFIX,streamable.com,🔰 节点选择
-  - DOMAIN-SUFFIX,streema.com,🔰 节点选择
-  - DOMAIN-SUFFIX,substack.com,🔰 节点选择
-  - DOMAIN-SUFFIX,t66y.com,🔰 节点选择
-  - DOMAIN-SUFFIX,tapatalk.com,🔰 节点选择
-  - DOMAIN-SUFFIX,teco-hk.org,🔰 节点选择
-  - DOMAIN-SUFFIX,teco-mo.org,🔰 节点选择
-  - DOMAIN-SUFFIX,teddysun.com,🔰 节点选择
-  - DOMAIN-SUFFIX,textnow.me,🔰 节点选择
-  - DOMAIN-SUFFIX,theguardian.com,🔰 节点选择
-  - DOMAIN-SUFFIX,theinitium.com,🔰 节点选择
-  - DOMAIN-SUFFIX,themoviedb.org,🔰 节点选择
-  - DOMAIN-SUFFIX,thetvdb.com,🔰 节点选择
-  - DOMAIN-SUFFIX,time.com,🔰 节点选择
-  - DOMAIN-SUFFIX,tineye.com,🔰 节点选择
-  - DOMAIN-SUFFIX,tiny.cc,🔰 节点选择
-  - DOMAIN-SUFFIX,tinyurl.com,🔰 节点选择
-  - DOMAIN-SUFFIX,torproject.org,🔰 节点选择
-  - DOMAIN-SUFFIX,tumblr.com,🔰 节点选择
-  - DOMAIN-SUFFIX,turbobit.net,🔰 节点选择
-  - DOMAIN-SUFFIX,tutanota.com,🔰 节点选择
-  - DOMAIN-SUFFIX,tvboxnow.com,🔰 节点选择
-  - DOMAIN-SUFFIX,udn.com,🔰 节点选择
-  - DOMAIN-SUFFIX,unseen.is,🔰 节点选择
-  - DOMAIN-SUFFIX,upmedia.mg,🔰 节点选择
-  - DOMAIN-SUFFIX,uptodown.com,🔰 节点选择
-  - DOMAIN-SUFFIX,urbandictionary.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ustream.tv,🔰 节点选择
-  - DOMAIN-SUFFIX,uwants.com,🔰 节点选择
-  - DOMAIN-SUFFIX,v2ex.com,🔰 节点选择
-  - DOMAIN-SUFFIX,v2fly.org,🔰 节点选择
-  - DOMAIN-SUFFIX,v2ray.com,🔰 节点选择
-  - DOMAIN-SUFFIX,viber.com,🔰 节点选择
-  - DOMAIN-SUFFIX,videopress.com,🔰 节点选择
-  - DOMAIN-SUFFIX,vimeo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,voachinese.com,🔰 节点选择
-  - DOMAIN-SUFFIX,voanews.com,🔰 节点选择
-  - DOMAIN-SUFFIX,voxer.com,🔰 节点选择
-  - DOMAIN-SUFFIX,vzw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,w3schools.com,🔰 节点选择
-  - DOMAIN-SUFFIX,washingtonpost.com,🔰 节点选择
-  - DOMAIN-SUFFIX,wattpad.com,🔰 节点选择
-  - DOMAIN-SUFFIX,whoer.net,🔰 节点选择
-  - DOMAIN-SUFFIX,wikiwand.com,🔰 节点选择
-  - DOMAIN-SUFFIX,winudf.com,🔰 节点选择
-  - DOMAIN-SUFFIX,wire.com,🔰 节点选择
-  - DOMAIN-SUFFIX,wn.com,🔰 节点选择
-  - DOMAIN-SUFFIX,wordpress.com,🔰 节点选择
-  - DOMAIN-SUFFIX,worldcat.org,🔰 节点选择
-  - DOMAIN-SUFFIX,wsj.com,🔰 节点选择
-  - DOMAIN-SUFFIX,wsj.net,🔰 节点选择
-  - DOMAIN-SUFFIX,xhamster.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xn--90wwvt03e.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xnxx.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xvideos.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yadi.sk,🔰 节点选择
+  - DOMAIN-SUFFIX,wikisource.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikiversity.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wikivoyage.org,🔰 节点选择
+  - DOMAIN-SUFFIX,wiktionary.org,🔰 节点选择
   - DOMAIN-SUFFIX,yahoo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yandex.ru,🔰 节点选择
-  - DOMAIN-SUFFIX,ycombinator.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yesasia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yes-news.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yomiuri.co.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,you-get.org,🔰 节点选择
-  - DOMAIN-SUFFIX,zaobao.com,🔰 节点选择
-  - DOMAIN-SUFFIX,zello.com,🔰 节点选择
-  - DOMAIN-SUFFIX,zeronet.io,🔰 节点选择
-  - DOMAIN-SUFFIX,z-lib.org,🔰 节点选择
-  - DOMAIN-SUFFIX,zoom.us,🔰 节点选择
-  - DOMAIN,cc.tvbs.com.tw,🔰 节点选择
-  - DOMAIN,ocsp.int-x3.letsencrypt.org,🔰 节点选择
-  - DOMAIN,us.weibo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,edu,🔰 节点选择
-  - DOMAIN-SUFFIX,gov,🔰 节点选择
-  - DOMAIN-SUFFIX,mil,🔰 节点选择
-  - DOMAIN-SUFFIX,abc.xyz,🔰 节点选择
-  - DOMAIN-SUFFIX,advertisercommunity.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ampproject.org,🔰 节点选择
-  - DOMAIN-SUFFIX,android.com,🔰 节点选择
-  - DOMAIN-SUFFIX,androidify.com,🔰 节点选择
-  - DOMAIN-SUFFIX,autodraw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,capitalg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,certificate-transparency.org,🔰 节点选择
-  - DOMAIN-SUFFIX,chrome.com,🔰 节点选择
-  - DOMAIN-SUFFIX,chromeexperiments.com,🔰 节点选择
-  - DOMAIN-SUFFIX,chromestatus.com,🔰 节点选择
-  - DOMAIN-SUFFIX,chromium.org,🔰 节点选择
-  - DOMAIN-SUFFIX,creativelab5.com,🔰 节点选择
-  - DOMAIN-SUFFIX,debug.com,🔰 节点选择
-  - DOMAIN-SUFFIX,deepmind.com,🔰 节点选择
-  - DOMAIN-SUFFIX,dialogflow.com,🔰 节点选择
-  - DOMAIN-SUFFIX,firebaseio.com,🔰 节点选择
-  - DOMAIN-SUFFIX,getmdl.io,🔰 节点选择
-  - DOMAIN-SUFFIX,ggpht.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gmail.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gmodules.com,🔰 节点选择
-  - DOMAIN-SUFFIX,godoc.org,🔰 节点选择
-  - DOMAIN-SUFFIX,gstatic.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gv.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gwtproject.org,🔰 节点选择
-  - DOMAIN-SUFFIX,itasoftware.com,🔰 节点选择
-  - DOMAIN-SUFFIX,madewithcode.com,🔰 节点选择
-  - DOMAIN-SUFFIX,material.io,🔰 节点选择
-  - DOMAIN-SUFFIX,page.link,🔰 节点选择
-  - DOMAIN-SUFFIX,polymer-project.org,🔰 节点选择
-  - DOMAIN-SUFFIX,recaptcha.net,🔰 节点选择
-  - DOMAIN-SUFFIX,shattered.io,🔰 节点选择
-  - DOMAIN-SUFFIX,synergyse.com,🔰 节点选择
-  - DOMAIN-SUFFIX,telephony.goog,🔰 节点选择
-  - DOMAIN-SUFFIX,tensorflow.org,🔰 节点选择
-  - DOMAIN-SUFFIX,tfhub.dev,🔰 节点选择
-  - DOMAIN-SUFFIX,tiltbrush.com,🔰 节点选择
-  - DOMAIN-SUFFIX,waveprotocol.org,🔰 节点选择
-  - DOMAIN-SUFFIX,waymo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,webmproject.org,🔰 节点选择
-  - DOMAIN-SUFFIX,webrtc.org,🔰 节点选择
-  - DOMAIN-SUFFIX,whatbrowser.org,🔰 节点选择
-  - DOMAIN-SUFFIX,widevine.com,🔰 节点选择
-  - DOMAIN-SUFFIX,x.company,🔰 节点选择
-  - DOMAIN-SUFFIX,youtu.be,🔰 节点选择
-  - DOMAIN-SUFFIX,yt.be,🔰 节点选择
-  - DOMAIN-SUFFIX,ytimg.com,🔰 节点选择
-  - DOMAIN-SUFFIX,t.me,🔰 节点选择
-  - DOMAIN-SUFFIX,tdesktop.com,🔰 节点选择
-  - DOMAIN-SUFFIX,telegram.me,🔰 节点选择
-  - DOMAIN-SUFFIX,telesco.pe,🔰 节点选择
-  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
-  - DOMAIN-SUFFIX,facebookmail.com,🔰 节点选择
-  - DOMAIN-SUFFIX,noxinfluencer.com,🔰 节点选择
-  - DOMAIN-SUFFIX,smartmailcloud.com,🔰 节点选择
-  - DOMAIN-SUFFIX,weebly.com,🔰 节点选择
-  - DOMAIN-SUFFIX,twitter.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
-  - DOMAIN,books.itunes.apple.com,🔰 节点选择
-  - DOMAIN,api-glb-sea.smoot.apple.com,🔰 节点选择
-  - DOMAIN,beta.music.apple.com,🔰 节点选择
-  - DOMAIN,tv.apple.com,🔰 节点选择
-  - DOMAIN,apps.apple.com,🔰 节点选择
-  - DOMAIN,itunes.apple.com,🔰 节点选择
-  - DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
-  - DOMAIN,lookup-api.apple.com,🔰 节点选择
+  - DOMAIN,search.yahoo.co.jp,🔰 节点选择
+  - DOMAIN-SUFFIX,yadi.sk,🔰 节点选择
+  - DOMAIN,disk.yandex.com,🔰 节点选择
+  - DOMAIN-SUFFIX,aicoin.com,🔰 节点选择
+  - DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
+  - DOMAIN-SUFFIX,engadget.com,🔰 节点选择
+  - DOMAIN-SUFFIX,ifixit.com,🔰 节点选择
+  - DOMAIN-SUFFIX,terabox.com,🔰 节点选择
+  - DOMAIN-SUFFIX,zaobao.com.sg,🔰 节点选择
+  - DOMAIN,addons.mozilla.org,🔰 节点选择
+  - DOMAIN,wego.here.com,🔰 节点选择
   - DOMAIN-SUFFIX,go.dev,🔰 节点选择
   - DOMAIN-SUFFIX,golang.org,🔰 节点选择
+  - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
+  - DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
+  - DOMAIN,amp-api.podcasts.apple.com,🔰 节点选择
+  - DOMAIN,beta.music.apple.com,🔰 节点选择
+  - DOMAIN,books.itunes.apple.com,🔰 节点选择
+  - DOMAIN,lookup-api.apple.com,🔰 节点选择
+  - DOMAIN,radio.itunes.apple.com,🔰 节点选择
+  - DOMAIN,apps.apple.com,🔰 节点选择
+  - DOMAIN,books.apple.com,🔰 节点选择
+  - DOMAIN,itunes.apple.com,🔰 节点选择
+  - DOMAIN,tv.apple.com,🔰 节点选择
+  - DOMAIN,gateway.icloud.com,🔰 节点选择
+  - DOMAIN-SUFFIX,apple.news,🔰 节点选择
+  - DOMAIN,news-assets.apple.com,🔰 节点选择
+  - DOMAIN,news-client.apple.com,🔰 节点选择
+  - DOMAIN,news-client-search.apple.com,🔰 节点选择
+  - DOMAIN,news-edge.apple.com,🔰 节点选择
+  - DOMAIN,news-events.apple.com,🔰 节点选择
+  - DOMAIN,apple.comscoreresearch.com,🔰 节点选择
   - DOMAIN-SUFFIX,bing.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
-  - DOMAIN-SUFFIX,dubox.com,🔰 节点选择
-  - DOMAIN-SUFFIX,duboxcdn.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ifixit.com,🔰 节点选择
-  - DOMAIN-SUFFIX,mangakakalot.com,🔰 节点选择
-  - DOMAIN-SUFFIX,shopeemobile.com,🔰 节点选择
-  - DOMAIN-SUFFIX,sushi.com,🔰 节点选择
-  - DOMAIN,appleid.apple.com,🔰 节点选择
-  - DOMAIN,developer.apple.com,🔰 节点选择
-  - DOMAIN,www.icloud.com,🔰 节点选择
-  - DOMAIN,ocsp.apple.com,🔰 节点选择
-  - DOMAIN,xp.apple.com,🔰 节点选择
-  - DOMAIN,cacerts.digicert.com,🔰 节点选择
-  - DOMAIN,crl3.digicert.com,🔰 节点选择
-  - DOMAIN,crl4.digicert.com,🔰 节点选择
-  - DOMAIN,ocsp.digicert.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cloudcone.com.cn,🔰 节点选择
-  - DOMAIN-SUFFIX,inkbunny.net,🔰 节点选择
-  - DOMAIN-SUFFIX,metapix.net,🔰 节点选择
-  - DOMAIN-SUFFIX,s3.amazonaws.com,🔰 节点选择
-  - DOMAIN-SUFFIX,zaobao.com.sg,🔰 节点选择
-  - DOMAIN,international-gfe.download.nvidia.com,🔰 节点选择
+  - DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
+  - DOMAIN-SUFFIX,licdn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,msn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,skype.com,🔰 节点选择
   - DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
   - DOMAIN-SUFFIX,apple.co,🍎 苹果服务
   - DOMAIN-SUFFIX,apple.com,🍎 苹果服务
   - DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
   - DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,apple-livephotoskit.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,apple-mapkit.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,applemusic.com,🍎 苹果服务
   - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,apzones.com,🍎 苹果服务
   - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
   - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
   - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
@@ -10833,101 +10592,16 @@ rules:
   - DOMAIN-SUFFIX,me.com,🍎 苹果服务
   - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
   - DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
+  - DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
+  - DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
   - DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
-  - IP-CIDR,17.0.0.0/8,🍎 苹果服务,no-resolve
-  - IP-CIDR,63.92.224.0/19,🍎 苹果服务,no-resolve
-  - IP-CIDR,65.199.22.0/23,🍎 苹果服务,no-resolve
-  - IP-CIDR,139.178.128.0/18,🍎 苹果服务,no-resolve
-  - IP-CIDR,144.178.0.0/19,🍎 苹果服务,no-resolve
-  - IP-CIDR,192.35.50.0/24,🍎 苹果服务,no-resolve
-  - IP-CIDR,198.183.17.0/24,🍎 苹果服务,no-resolve
-  - IP-CIDR,205.180.175.0/24,🍎 苹果服务,no-resolve
-  - DOMAIN-SUFFIX,qhres.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qhimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alibaba.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alibabausercontent.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alicdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alikunlun.com,🎯 全球直连
-  - DOMAIN-SUFFIX,alipay.com,🎯 全球直连
-  - DOMAIN-SUFFIX,amap.com,🎯 全球直连
-  - DOMAIN-SUFFIX,autonavi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dingtalk.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mxhichina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,soku.com,🎯 全球直连
-  - DOMAIN-SUFFIX,taobao.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
-  - DOMAIN-SUFFIX,ykimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,youku.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiami.net,🎯 全球直连
-  - DOMAIN-SUFFIX,aaplimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,apple.co,🎯 全球直连
-  - DOMAIN-SUFFIX,apple.com,🎯 全球直连
-  - DOMAIN-SUFFIX,apple-cloudkit.com,🎯 全球直连
-  - DOMAIN-SUFFIX,appstore.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cdn-apple.com,🎯 全球直连
-  - DOMAIN-SUFFIX,icloud.com,🎯 全球直连
-  - DOMAIN-SUFFIX,icloud-content.com,🎯 全球直连
-  - DOMAIN-SUFFIX,me.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mzstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,baidubcr.com,🎯 全球直连
-  - DOMAIN-SUFFIX,baidupan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,baidupcs.com,🎯 全球直连
-  - DOMAIN-SUFFIX,bdimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,bdstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 全球直连
-  - DOMAIN-SUFFIX,battle.net,🎯 全球直连
-  - DOMAIN-SUFFIX,blizzard.com,🎯 全球直连
-  - DOMAIN-SUFFIX,acgvideo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,biliapi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,biliapi.net,🎯 全球直连
-  - DOMAIN-SUFFIX,bilibili.com,🎯 全球直连
-  - DOMAIN-SUFFIX,bilibili.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,hdslb.com,🎯 全球直连
-  - DOMAIN-SUFFIX,feiliao.com,🎯 全球直连
-  - DOMAIN-SUFFIX,pstatp.com,🎯 全球直连
-  - DOMAIN-SUFFIX,snssdk.com,🎯 全球直连
-  - DOMAIN-SUFFIX,iesdouyin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,toutiao.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cctv.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cctvpic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,livechina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,21cn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,didialift.com,🎯 全球直连
-  - DOMAIN-SUFFIX,didiglobal.com,🎯 全球直连
-  - DOMAIN-SUFFIX,udache.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hitv.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mgtv.com,🎯 全球直连
-  - DOMAIN-SUFFIX,iqiyi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,iqiyipic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,71.am,🎯 全球直连
-  - DOMAIN-SUFFIX,jd.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jd.hk,🎯 全球直连
-  - DOMAIN-SUFFIX,jdpay.com,🎯 全球直连
-  - DOMAIN-SUFFIX,360buyimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,iciba.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ksosoft.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meitu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meitudata.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meitustat.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meipai.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dianping.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dpfile.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meituan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meituan.net,🎯 全球直连
-  - DOMAIN-SUFFIX,duokan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mi-img.com,🎯 全球直连
-  - DOMAIN-SUFFIX,miui.com,🎯 全球直连
-  - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiaomi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiaomi.net,🎯 全球直连
-  - DOMAIN-SUFFIX,visualstudio.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hotmail.com,🎯 全球直连
-  - DOMAIN-SUFFIX,outlook.com,🎯 全球直连
+  - DOMAIN-SUFFIX,flyert.com,🎯 全球直连
+  - DOMAIN-SUFFIX,gandi.net,🎯 全球直连
+  - DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
+  - DOMAIN,download.jetbrains.com,🎯 全球直连
+  - DOMAIN,origin-a.akamaihd.net,🎯 全球直连
   - DOMAIN,outlook.office365.com,🎯 全球直连
+  - DOMAIN,smtp-mail.outlook.com,🎯 全球直连
   - DOMAIN,smtp.office365.com,🎯 全球直连
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,update.microsoft.com,🎯 全球直连
@@ -10936,70 +10610,15 @@ rules:
   - DOMAIN,download.microsoft.com,🎯 全球直连
   - DOMAIN,wustat.windows.com,🎯 全球直连
   - DOMAIN,ntservicepack.microsoft.com,🎯 全球直连
-  - DOMAIN-SUFFIX,163.com,🎯 全球直连
-  - DOMAIN-SUFFIX,126.com,🎯 全球直连
-  - DOMAIN-SUFFIX,126.net,🎯 全球直连
-  - DOMAIN-SUFFIX,127.net,🎯 全球直连
-  - DOMAIN-SUFFIX,163yun.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lofter.com,🎯 全球直连
-  - DOMAIN-SUFFIX,netease.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ydstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,youdao.com,🎯 全球直连
   - DOMAIN-SUFFIX,paypal.com,🎯 全球直连
   - DOMAIN-SUFFIX,paypal.me,🎯 全球直连
+  - DOMAIN-SUFFIX,paypal-mktg.com,🎯 全球直连
   - DOMAIN-SUFFIX,paypalobjects.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,weibo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,weibocdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sohu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sohucs.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sohu-inc.com,🎯 全球直连
-  - DOMAIN-SUFFIX,v-56.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sogo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sogou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sogoucdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamcontent.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steampowered.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gtimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,idqqimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,igamecj.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myapp.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myqcloud.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qq.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qqmail.com,🎯 全球直连
-  - DOMAIN-SUFFIX,servicewechat.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tencent.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tencent-cloud.net,🎯 全球直连
-  - DOMAIN-SUFFIX,tenpay.com,🎯 全球直连
-  - DOMAIN-SUFFIX,wechat.com,🎯 全球直连
-  - DOMAIN,file-igamecj.akamaized.net,🎯 全球直连
-  - IP-CIDR,101.32.104.4/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.104.41/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.104.56/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.118.25/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.133.16/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.133.53/32,🎯 全球直连,no-resolve
-  - IP-CIDR,101.32.133.209/32,🎯 全球直连,no-resolve
-  - IP-CIDR,129.226.3.47/32,🎯 全球直连,no-resolve
-  - IP-CIDR,129.226.107.244/32,🎯 全球直连,no-resolve
+  - DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连
+  - DOMAIN-SUFFIX,steamserver.net,🎯 全球直连
   - IP-CIDR,182.254.116.0/24,🎯 全球直连,no-resolve
+  - IP-CIDR,203.205.238.0/23,🎯 全球直连,no-resolve
   - IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
-  - DOMAIN-SUFFIX,ccgslb.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ccgslb.net,🎯 全球直连
-  - DOMAIN-SUFFIX,chinanetcenter.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meixincdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ourdvs.com,🎯 全球直连
-  - DOMAIN-SUFFIX,staticdn.net,🎯 全球直连
-  - DOMAIN-SUFFIX,wangsu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ipip.net,🎯 全球直连
-  - DOMAIN-SUFFIX,ip.la,🎯 全球直连
-  - DOMAIN-SUFFIX,ip.sb,🎯 全球直连
-  - DOMAIN-SUFFIX,ip-cdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ipv6-test.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myip.la,🎯 全球直连
-  - DOMAIN-SUFFIX,test-ipv6.com,🎯 全球直连
-  - DOMAIN-SUFFIX,whatismyip.com,🎯 全球直连
   - DOMAIN,ip.istatmenus.app,🎯 全球直连
   - DOMAIN,sms.imagetasks.com,🎯 全球直连
   - DOMAIN-SUFFIX,netspeedtestmaster.com,🎯 全球直连
@@ -11036,129 +10655,7 @@ rules:
   - DOMAIN-SUFFIX,springsunday.net,🎯 全球直连
   - DOMAIN-SUFFIX,tjupt.org,🎯 全球直连
   - DOMAIN-SUFFIX,totheglory.im,🎯 全球直连
-  - DOMAIN-SUFFIX,cn,🎯 全球直连
-  - DOMAIN-SUFFIX,115.com,🎯 全球直连
-  - DOMAIN-SUFFIX,360in.com,🎯 全球直连
-  - DOMAIN-SUFFIX,51ym.me,🎯 全球直连
-  - DOMAIN-SUFFIX,8686c.com,🎯 全球直连
-  - DOMAIN-SUFFIX,99.com,🎯 全球直连
-  - DOMAIN-SUFFIX,abchina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,accuweather.com,🎯 全球直连
-  - DOMAIN-SUFFIX,agora.io,🎯 全球直连
-  - DOMAIN-SUFFIX,aicoinstorge.com,🎯 全球直连
-  - DOMAIN-SUFFIX,air-matters.com,🎯 全球直连
-  - DOMAIN-SUFFIX,air-matters.io,🎯 全球直连
-  - DOMAIN-SUFFIX,aixifan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,amd.com,🎯 全球直连
-  - DOMAIN-SUFFIX,b612.net,🎯 全球直连
-  - DOMAIN-SUFFIX,bdatu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,beitaichufang.com,🎯 全球直连
-  - DOMAIN-SUFFIX,booking.com,🎯 全球直连
-  - DOMAIN-SUFFIX,bstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cailianpress.com,🎯 全球直连
-  - DOMAIN-SUFFIX,camera360.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chaoxing.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chaoxing.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chinaso.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chuimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,chunyu.mobi,🎯 全球直连
-  - DOMAIN-SUFFIX,cmbchina.com,🎯 全球直连
-  - DOMAIN-SUFFIX,cmbimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,coolapk.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ctrip.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dfcfw.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dji.net,🎯 全球直连
-  - DOMAIN-SUFFIX,docschina.org,🎯 全球直连
-  - DOMAIN-SUFFIX,douban.com,🎯 全球直连
-  - DOMAIN-SUFFIX,doubanio.com,🎯 全球直连
-  - DOMAIN-SUFFIX,douyu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dxycdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dytt8.net,🎯 全球直连
-  - DOMAIN-SUFFIX,eastmoney.com,🎯 全球直连
-  - DOMAIN-SUFFIX,eudic.net,🎯 全球直连
-  - DOMAIN-SUFFIX,feng.com,🎯 全球直连
-  - DOMAIN-SUFFIX,fengkongcloud.com,🎯 全球直连
-  - DOMAIN-SUFFIX,frdic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,futu5.com,🎯 全球直连
-  - DOMAIN-SUFFIX,futunn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gandi.net,🎯 全球直连
-  - DOMAIN-SUFFIX,gcores.com,🎯 全球直连
-  - DOMAIN-SUFFIX,geilicdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,getpricetag.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gifshow.com,🎯 全球直连
-  - DOMAIN-SUFFIX,godic.net,🎯 全球直连
-  - DOMAIN-SUFFIX,heweather.net,🎯 全球直连
-  - DOMAIN-SUFFIX,hicloud.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hongxiu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hostbuf.com,🎯 全球直连
-  - DOMAIN-SUFFIX,huxiucdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,huya.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ibm.com,🎯 全球直连
-  - DOMAIN-SUFFIX,infinitynewtab.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ithome.com,🎯 全球直连
-  - DOMAIN-SUFFIX,java.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jianguoyun.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jianshu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,jianshu.io,🎯 全球直连
-  - DOMAIN-SUFFIX,jidian.im,🎯 全球直连
-  - DOMAIN-SUFFIX,kaiyanapp.com,🎯 全球直连
-  - DOMAIN-SUFFIX,kaspersky-labs.com,🎯 全球直连
-  - DOMAIN-SUFFIX,keepcdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,kkmh.com,🎯 全球直连
-  - DOMAIN-SUFFIX,lanzous.com,🎯 全球直连
-  - DOMAIN-SUFFIX,licdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,linkedin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,luojilab.com,🎯 全球直连
-  - DOMAIN-SUFFIX,maoyan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,maoyun.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,mls-cdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mobike.com,🎯 全球直连
-  - DOMAIN-SUFFIX,moke.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mubu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myzaker.com,🎯 全球直连
-  - DOMAIN-SUFFIX,nim-lang-cn.org,🎯 全球直连
-  - DOMAIN-SUFFIX,ntp.org,🎯 全球直连
-  - DOMAIN-SUFFIX,nvidia.com,🎯 全球直连
-  - DOMAIN-SUFFIX,oracle.com,🎯 全球直连
-  - DOMAIN-SUFFIX,plex.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,qidian.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qweather.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qyer.com,🎯 全球直连
-  - DOMAIN-SUFFIX,qyerstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,raychase.net,🎯 全球直连
-  - DOMAIN-SUFFIX,ronghub.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ruguoapp.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sankuai.com,🎯 全球直连
-  - DOMAIN-SUFFIX,scomper.me,🎯 全球直连
-  - DOMAIN-SUFFIX,sm.ms,🎯 全球直连
-  - DOMAIN-SUFFIX,smzdm.com,🎯 全球直连
-  - DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
-  - DOMAIN-SUFFIX,snwx.com,🎯 全球直连
-  - DOMAIN-SUFFIX,s-reader.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sspai.com,🎯 全球直连
-  - DOMAIN-SUFFIX,subhd.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,takungpao.com,🎯 全球直连
-  - DOMAIN-SUFFIX,teamviewer.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tianyancha.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tophub.today,🎯 全球直连
-  - DOMAIN-SUFFIX,uning.com,🎯 全球直连
-  - DOMAIN-SUFFIX,weather.com,🎯 全球直连
-  - DOMAIN-SUFFIX,weico.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,weidian.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiachufang.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xiaoka.tv,🎯 全球直连
-  - DOMAIN-SUFFIX,ximalaya.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xinhuanet.com,🎯 全球直连
-  - DOMAIN-SUFFIX,xmcdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,yangkeduo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,yizhibo.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhangzishi.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,zhihu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhihuishu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
-  - DOMAIN,download.jetbrains.com,🎯 全球直连
-  - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
+  - GEOIP,CN,🎯 全球直连,no-resolve
   - PROCESS-NAME,aria2c,🎯 全球直连
   - PROCESS-NAME,fdm,🎯 全球直连
   - PROCESS-NAME,Folx,🎯 全球直连
