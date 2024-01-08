@@ -16,85 +16,65 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 更多免费节点:https://v2raya.eu.org/, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 103.197.184.41, port: 443, type: trojan, password: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心, server: 95.179.128.114, port: 80, type: vmess, uuid: a6292090-afe1-4640-97a7-4f1d1d877cf1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Av8czorIlYicU6D349brWUw6a, headers: {Host: 95.179.128.114}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.193.52.43, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心, server: 45.58.153.25, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702961716738, headers: {Host: 45.58.153.25}}, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org 2, server: 103.113.68.233, port: 8880, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: "%7B%22host%22:%22103.113.68.233%22%7D"}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: kkyx.yydsii.com, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.17.184.241, port: 80, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mg_cdn.yunjisuan.cf}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.69.239.243, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇿 捷克 v2rayfree.eu.org, server: 109.123.230.157, port: 80, type: vmess, uuid: 877aa2a8-5854-4cb2-9aba-4a1413a6b2de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 18.199.63.241, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国+伦敦Microsoft公司, server: 51.142.73.20, port: 6961, type: ss, cipher: chacha20-ietf-poly1305, password: tAoWzuKvNOPrsLc4fAEOno, udp: true}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org, server: 169.197.141.186, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: tvX1v#NSFP_LG_bJ, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: cover.mac2win.top, port: 8080, type: vmess, uuid: 54d4d640-731c-4572-d0d4-e8a617816470, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: icu4.mac2win.top}}, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: 94.131.14.177, port: 2082, type: vmess, uuid: 2c5fee13-f08b-4ba8-86db-27dd51cb9781, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 94.131.14.177}}, udp: true}
-  - {name: 欧盟+v2rayfree.eu.org, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
-  - {name: 🇯🇵 日本 东京Choopa数据中心, server: 167.179.111.237, port: 14935, type: vmess, uuid: e961894f-8e90-472f-98d3-09402e4be453, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心 3, server: 13.39.117.5, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 2, server: 91.242.229.77, port: 80, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nl2.xv2ray.net}}, udp: true}
-  - {name: 🇹🇼 台湾省 v2rayfree.eu.org, server: 45.121.48.196, port: 10001, type: vmess, uuid: 0ed35629-919a-4891-ba0f-13cd198f863b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
-  - {name: 🇻🇳 越南 v2rayfree.eu.org, server: vn7.5gsieutocdo.com, port: 80, type: vmess, uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gsieutocdo.club, headers: {Host: vn7.5gsieutocdo.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: sbl2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sbl2.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: v4.cfnode.eu.org, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 108.165.113.99, port: 443, type: vmess, uuid: ef22fad3-652a-48fc-e80a-46faa3a6a787, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 108.165.113.99}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心 4, server: 13.37.99.139, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org 3, server: hanoi4.speed4g.click, port: 80, type: vmess, uuid: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /speed4g.click, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.17.110.63, port: 80, type: vmess, uuid: f9ab87c5-c542-4c10-a486-b59c91550787, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: PARspacK51.eSMAIlkOrEA.sHoP}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心 5, server: 18.171.112.248, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国+伦敦Microsoft公司 2, server: 51.142.78.104, port: 34817, type: ss, cipher: chacha20-ietf-poly1305, password: 8Kjl37BExQuKSDgRhcFMC9, udp: true}
-  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 52.30.248.186, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇿 捷克 v2rayfree.eu.org 2, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇮🇷 伊朗 v2rayfree.eu.org, server: 81.12.27.4, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心, server: 13.49.52.12, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司, server: 38.68.134.202, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 英国+v2rayfree.eu.org, server: 145.239.6.202, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: 🇮🇷 伊朗 v2rayfree.eu.org 2, server: 81.12.27.4, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: zfc.windowsupdate1.com, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgyx.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 1, server: 38.68.134.202, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇬🇧 英国伦敦Microsoft公司 2, server: 51.142.73.20, port: 6961, type: ss, cipher: chacha20-ietf-poly1305, password: tAoWzuKvNOPrsLc4fAEOno, udp: true}
-  - {name: 🇺🇦 乌克兰  3, server: 91.242.229.77, port: 80, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nl2.xv2ray.net}}, udp: true}
-  - {name: 🇬🇧 英国伦敦Microsoft公司 4, server: 51.145.68.57, port: 13751, type: ss, cipher: chacha20-ietf-poly1305, password: KlJlXXe9KjQX4mh4xC05c9, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 5, server: 38.68.134.202, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: 🇩🇪 德国OneAndOne公司 6, server: 217.160.45.31, port: 8880, type: vmess, uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 217.160.45.31}}, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 7, server: 38.68.134.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: 🇯🇵 日本东京Choopa数据中心 8, server: 167.179.111.237, port: 14935, type: vmess, uuid: e961894f-8e90-472f-98d3-09402e4be453, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国麻省理工学院 9, server: series-a2-me.samanehha.co, port: 443, type: ss, cipher: chacha20-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true}
-  - {name: 🇫🇷 法国巴黎Online S.A.S 10, server: 51.158.150.168, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 11, server: 38.54.185.112, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1701091133409, headers: {Host: www.73664999.xyz}}, udp: true}
-  - {name: 🇺🇦 乌克兰  12, server: 94.131.14.177, port: 2082, type: vmess, uuid: 2c5fee13-f08b-4ba8-86db-27dd51cb9781, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 94.131.14.177}}, udp: true}
-  - {name: 🇨🇳 安徽省合肥市移动 13, server: 112.28.208.10, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 14, server: 104.17.184.241, port: 80, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mg_cdn.yunjisuan.cf}}, udp: true}
-  - {name: 🇭🇰 香港特别行政区 15, server: 154.90.39.63, port: 45343, type: vmess, uuid: 08aa8499-d616-4ff1-d6ab-ce0c522824aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 16, server: 38.54.185.111, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1700657625181, headers: {Host: www.73664999.xyz}}, udp: true}
-  - {name: 🇺🇦 乌克兰  17, server: 95.164.69.27, port: 80, type: vmess, uuid: cd4a6d0d-4b26-4ee1-8a42-c2878b5c3b2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: internet.life.com.by}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 18, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
-  - {name: 🇮🇳 印度  19, server: ru1-vmess.sshmax.xyz, port: 80, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: ru1-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇮🇳 印度  20, server: hanoi4.speed4g.click, port: 80, type: vmess, uuid: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 21, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
-  - {name: 🇨🇿 捷克  22, server: 109.123.230.157, port: 80, type: vmess, uuid: 877aa2a8-5854-4cb2-9aba-4a1413a6b2de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 欧盟  23, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
-  - {name: 🇮🇳 印度  24, server: 103.113.68.233, port: 80, type: vmess, uuid: fddb3781-7e15-4731-a933-94db110b4bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 103.113.68.233}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 25, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: 4363bdc0-b2b3-4dec-9611-9db0ce651312, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
-  - {name: 🇨🇿 捷克  26, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: a19f357b-c836-4cf6-9e43-72390e6a00df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇨🇿 捷克  27, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 803b8c6b-192e-4500-a919-485566f8e058, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇨🇿 捷克  28, server: 109.123.230.157, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: internet.life.com.by}}, udp: true}
-  - {name: 🇨🇿 捷克  29, server: jp.takeshi.wiki, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇻🇳 越南  30, server: vn7.5gsieutocdo.com, port: 80, type: vmess, uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gsieutocdo.club, headers: {Host: vn7.5gsieutocdo.com}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare节点 31, server: cover.mac2win.top, port: 8080, type: vmess, uuid: 54d4d640-731c-4572-d0d4-e8a617816470, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: icu4.mac2win.top}}, udp: true}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 32, server: v4.cfnode.eu.org, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
-  - {name: 乌兹别克斯坦  33, server: 37.110.209.228, port: 80, type: vmess, uuid: ecba5b33-f768-4d8a-b004-b29e8e5c676f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: sazgar.serveirc.com}}, udp: true}
-  - {name: 🇨🇳 福建省厦门市联通 34, server: ad.cutecloud.link, port: 33567, type: ss, cipher: chacha20-ietf-poly1305, password: 56633687-3c35-4bae-9a15-efff8eb67f98, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 35, server: 38.180.98.215, port: 8080, type: vmess, uuid: 773ac60d-36d7-45b5-c99e-a0e3903e2e3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 38.180.98.215}}, udp: true}
-  - {name: 🇨🇳 浙江省移动 36, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37, server: 45.58.153.24, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1702392255355, headers: {Host: www.77935707.xyz}}, udp: true}
-  - {name: 利比亚  38, server: 197.215.140.234, port: 80, type: vmess, uuid: 22aa72b1-605b-4807-8a81-fb414cbb409c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: mizban888.servecounterstrike.com}}, udp: true}
-  - {name: 🇺🇸 美国华盛顿Cogent通信公司 39, server: 38.54.108.222, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: 🇮🇷 伊朗  40, server: ser52.gsmxssh.com, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41, server: 132.145.132.227, port: 37121, type: vmess, uuid: 93845b50-26f6-4203-f5ad-4d231d4e8f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 132.145.132.227}}, udp: true}
-  - {name: 🇮🇷 伊朗  42, server: 81.12.27.4, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: mehdi7.mehdimoghaddam.fun, port: 2052, type: vmess, uuid: f4b9203b-78df-425b-ab70-5ab006405884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: mehdi7.mehdimoghaddam.fun}}, udp: true}
+  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 52.213.173.7, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 浙江省 移动数据上网公共出口, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: 91.242.229.77, port: 80, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nl2.xv2ray.net}}, udp: true}
+  - {name: 🇭🇰 香港 特别行政区, server: 154.90.39.63, port: 45343, type: vmess, uuid: 08aa8499-d616-4ff1-d6ab-ce0c522824aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: glasco.fx-trader.shop, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
+  - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.180.33.136, port: 50104, type: vmess, uuid: 790f6802-7535-4109-de6d-15f676d5e3f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: hanoi4.speed4g.click, port: 443, type: trojan, password: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: mehdi15.mehdimoghaddam.fun, port: 2095, type: vmess, uuid: f14b7672-1272-437d-8ce1-e9dfff517e47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: mehdi15.mehdimoghaddam.fun}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: kkyx.yydsii.com, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 172.67.229.34, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca6.tehme100.fun}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: us3e-mmnnfr9dop0.v2freevpn.com, port: 80, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v118-fccxmxm35, headers: {Host: us3e-mmnnfr9dop0.v2freevpn.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: d0eeeadb-f223-42bf-a239-99c3377c9b40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/geg/44?ed=2048", headers: {Host: uspz.edge.233.tw}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: kr-01.gujuji.top, port: 8080, type: vmess, uuid: 32a1d578-16ea-49a9-b49e-3f9efc64b9cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: www.visa.com.tw, port: 8880, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mgthree_cdn.yunjisuan.cf}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 104.18.140.242, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 11, server: mehdi9.mehdimoghaddam.fun, port: 8880, type: vmess, uuid: 4f92e557-efa9-40d6-a673-7ccce4c9826f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: mehdi9.mehdimoghaddam.fun}}, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 2, server: 95.164.69.27, port: 80, type: vmess, uuid: cd4a6d0d-4b26-4ee1-8a42-c2878b5c3b2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 12, server: 104.17.49.177, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkyx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 13, server: 162.159.200.4, port: 80, type: vmess, uuid: afbcaa39-6654-45a8-998f-2ea6935faa30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ca3.889611.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 14, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 32a1d578-16ea-49a9-b49e-3f9efc64b9cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+  - {name: 乌兹别克斯坦 v2rayfree.eu.org, server: 37.110.209.228, port: 80, type: vmess, uuid: ecba5b33-f768-4d8a-b004-b29e8e5c676f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: sazgar.serveirc.com}}, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 3, server: 95.164.69.27, port: 80, type: vmess, uuid: cd4a6d0d-4b26-4ee1-8a42-c2878b5c3b2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心, server: 54.70.33.158, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 英国+伦敦Microsoft公司, server: 51.145.68.57, port: 13751, type: ss, cipher: chacha20-ietf-poly1305, password: KlJlXXe9KjQX4mh4xC05c9, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org 2, server: 103.197.184.41, port: 443, type: trojan, password: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, sni: dl.kgvn.garenanow.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 15, server: cover.mac2win.top, port: 8080, type: vmess, uuid: 54d4d640-731c-4572-d0d4-e8a617816470, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: icu4.mac2win.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 16, server: 162.159.200.5, port: 80, type: vmess, uuid: afbcaa39-6654-45a8-998f-2ea6935faa30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk3.889611.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 17, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 18, server: 104.21.91.73, port: 443, type: vmess, uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: adenc35.fixedlfoat.top}}, udp: true}
+  - {name: 🇹🇼 台湾省 中华电信(HiNet)数据中心, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: d3f5c39d-610c-4b98-9b01-d5b847033cf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 19, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: 32a1d578-16ea-49a9-b49e-3f9efc64b9cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+  - {name: 🇬🇧 英国伦敦Microsoft公司 1, server: 51.142.78.104, port: 34817, type: ss, cipher: chacha20-ietf-poly1305, password: 8Kjl37BExQuKSDgRhcFMC9, udp: true}
+  - {name: 🇬🇧 英国伦敦Microsoft公司 2, server: 51.145.68.57, port: 13751, type: ss, cipher: chacha20-ietf-poly1305, password: KlJlXXe9KjQX4mh4xC05c9, udp: true}
+  - {name: 🇺🇸 美国Microsoft数据中心 3, server: 20.2.89.180, port: 41365, type: vmess, uuid: 872caf99-bf5a-4f62-9bc9-57c047048141, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.netflix.com}}, udp: true}
+  - {name: 🇺🇸 美国Amazon数据中心 4, server: series-a2-me.samanehha.co, port: 443, type: ss, cipher: chacha20-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true}
+  - {name: 🇺🇦 乌克兰  5, server: 91.242.229.69, port: 2086, type: vmess, uuid: 88c216b8-56c6-4f34-bcfd-e198ce11f7d6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: nl1.xv2ray.net}}, udp: true}
+  - {name: 🇺🇦 乌克兰  6, server: 91.242.229.77, port: 80, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nl2.xv2ray.net}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 8, server: hexsen.com, port: 443, type: vmess, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: "/argo-vmess?ed=2048", headers: {Host: us.king361.cf}}, udp: true}
+  - {name: 🇮🇳 印度  9, server: 103.197.184.41, port: 80, type: vmess, uuid: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 10, server: 172.66.47.74, port: 80, type: vmess, uuid: 3339ad80-7964-438a-8622-b565112df7cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray?ed=2048", headers: {Host: f.irV2ray.sbs}}, udp: true}
+  - {name: 🇺🇦 乌克兰  11, server: 95.164.69.27, port: 80, type: vmess, uuid: cd4a6d0d-4b26-4ee1-8a42-c2878b5c3b2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇷🇺 俄罗斯莫斯科JustHost 12, server: 45.144.2.113, port: 80, type: vmess, uuid: afbcaa39-6654-45a8-998f-2ea6935faa30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.apple.com}}, udp: true}
+  - {name: 🇮🇳 印度  13, server: hanoi4.speed4g.click, port: 80, type: vmess, uuid: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /speed4g.click, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 14, server: mtnc.nimserver.top, port: 443, type: vmess, uuid: 2a456600-5611-4d90-964a-8eb6fcd6048b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: rs2.nimserver.top}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 15, server: 162.159.135.232, port: 2087, type: vmess, uuid: 1523c9d0-5e35-4dcb-b652-0bda0c2f7d04, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: new.alooo.site, network: ws, ws-opts: {path: /, headers: {Host: new.alooo.site}}, udp: true}
+  - {name: 利比亚  16, server: 197.215.140.234, port: 80, type: vmess, uuid: 22aa72b1-605b-4807-8a81-fb414cbb409c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: mizban888.servecounterstrike.com}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 17, server: v4.cfnode.eu.org, port: 8080, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 18, server: ir2.sibdoni.com, port: 2083, type: vmess, uuid: 69c7a7f2-fdd3-421b-ab02-50f0c7d6fe2c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info, network: ws, ws-opts: {path: /graphql, headers: {Host: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info}}, udp: true}
+  - {name: 🇺🇸 美国  19, server: 154.26.157.244, port: 80, type: vmess, uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /takeshi.wiki, headers: {Host: 154.26.157.244}}, udp: true}
+  - {name: 🇺🇸 美国Amazon数据中心 20, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
+  - {name: 🇺🇸 美国CloudFlare节点 21, server: nla.yj2022.gq, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /doxwPZje9wMMZi4m9xY8GkU5zT3Hs4kRDL4W3nistSRmDw3x2, headers: {Host: nla.yj2022.gq}}, udp: true}
+  - {name: 🇨🇳 浙江省移动 22, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 23, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
+  - {name: 🇹🇼 台湾省  24, server: 45.121.48.196, port: 10001, type: vmess, uuid: 0ed35629-919a-4891-ba0f-13cd198f863b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 伊朗  25, server: ser52.gsmxssh.com, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 伊朗  26, server: 81.12.27.4, port: 20554, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国  27, server: 108.165.113.99, port: 443, type: vmess, uuid: ef22fad3-652a-48fc-e80a-46faa3a6a787, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 108.165.113.99}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -102,170 +82,130 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -273,85 +213,65 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -371,91 +291,72 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇹🇼 台湾省 v2rayfree.eu.org
-      - 🇭🇰 香港特别行政区 15
+      - 🇭🇰 香港 特别行政区
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇹🇼 台湾省  24
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -463,170 +364,130 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -634,85 +495,65 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -729,85 +570,65 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 更多免费节点:https://v2raya.eu.org/
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇳🇱 荷兰 阿姆斯特丹Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹Sharktech数据中心
-      - 🇮🇳 印度 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇿 捷克 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Microsoft公司
-      - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇨🇳 浙江省 移动数据上网公共出口
       - 🇺🇦 乌克兰 v2rayfree.eu.org
-      - 欧盟+v2rayfree.eu.org
-      - 🇯🇵 日本 东京Choopa数据中心
-      - 🇺🇸 美国 Amazon数据中心 3
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
-      - 🇹🇼 台湾省 v2rayfree.eu.org
+      - 🇭🇰 香港 特别行政区
+      - 🇺🇸 美国 CloudFlare节点 2
+      - 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇻🇳 越南 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 4
-      - 🇮🇳 印度 v2rayfree.eu.org 3
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇺🇸 美国 Amazon数据中心 5
-      - 🇬🇧 英国+伦敦Microsoft公司 2
-      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
-      - 🇨🇿 捷克 v2rayfree.eu.org 2
-      - 🇮🇷 伊朗 v2rayfree.eu.org
-      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
-      - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇬🇧 英国+v2rayfree.eu.org
-      - 🇮🇷 伊朗 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 8
-      - 🇺🇸 美国华盛顿Cogent通信公司 1
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 12
+      - 🇺🇸 美国 CloudFlare节点 13
+      - 🇺🇸 美国 CloudFlare节点 14
+      - 乌兹别克斯坦 v2rayfree.eu.org
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 3
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇬🇧 英国+伦敦Microsoft公司
+      - 🇮🇳 印度 v2rayfree.eu.org 2
+      - 🇺🇸 美国 CloudFlare节点 15
+      - 🇺🇸 美国 CloudFlare节点 16
+      - 🇺🇸 美国 CloudFlare节点 17
+      - 🇺🇸 美国 CloudFlare节点 18
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
+      - 🇺🇸 美国 CloudFlare节点 19
+      - 🇬🇧 英国伦敦Microsoft公司 1
       - 🇬🇧 英国伦敦Microsoft公司 2
-      - 🇺🇦 乌克兰  3
-      - 🇬🇧 英国伦敦Microsoft公司 4
-      - 🇺🇸 美国华盛顿Cogent通信公司 5
-      - 🇩🇪 德国OneAndOne公司 6
-      - 🇺🇸 美国华盛顿Cogent通信公司 7
-      - 🇯🇵 日本东京Choopa数据中心 8
-      - 🇺🇸 美国麻省理工学院 9
-      - 🇫🇷 法国巴黎Online S.A.S 10
-      - 🇺🇸 美国华盛顿Cogent通信公司 11
-      - 🇺🇦 乌克兰  12
-      - 🇨🇳 安徽省合肥市移动 13
-      - 🇺🇸 美国CloudFlare公司CDN节点 14
-      - 🇭🇰 香港特别行政区 15
-      - 🇺🇸 美国华盛顿Cogent通信公司 16
-      - 🇺🇦 乌克兰  17
+      - 🇺🇸 美国Microsoft数据中心 3
+      - 🇺🇸 美国Amazon数据中心 4
+      - 🇺🇦 乌克兰  5
+      - 🇺🇦 乌克兰  6
+      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 美国CloudFlare节点 8
+      - 🇮🇳 印度  9
+      - 🇺🇸 美国CloudFlare节点 10
+      - 🇺🇦 乌克兰  11
+      - 🇷🇺 俄罗斯莫斯科JustHost 12
+      - 🇮🇳 印度  13
+      - 🇺🇸 美国CloudFlare节点 14
+      - 🇺🇸 美国CloudFlare节点 15
+      - 利比亚  16
+      - 🇺🇸 美国CloudFlare公司CDN节点 17
       - 🇺🇸 美国CloudFlare公司CDN节点 18
-      - 🇮🇳 印度  19
-      - 🇮🇳 印度  20
-      - 🇺🇸 美国CloudFlare公司CDN节点 21
-      - 🇨🇿 捷克  22
-      - 欧盟  23
-      - 🇮🇳 印度  24
-      - 🇺🇸 美国CloudFlare节点 25
-      - 🇨🇿 捷克  26
-      - 🇨🇿 捷克  27
-      - 🇨🇿 捷克  28
-      - 🇨🇿 捷克  29
-      - 🇻🇳 越南  30
-      - 🇺🇸 美国CloudFlare节点 31
-      - 🇺🇸 美国CloudFlare公司CDN节点 32
-      - 乌兹别克斯坦  33
-      - 🇨🇳 福建省厦门市联通 34
-      - 🇺🇸 美国华盛顿Cogent通信公司 35
-      - 🇨🇳 浙江省移动 36
-      - 🇳🇱 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 37
-      - 利比亚  38
-      - 🇺🇸 美国华盛顿Cogent通信公司 39
-      - 🇮🇷 伊朗  40
-      - 🇺🇸 美国弗吉尼亚州阿什本Oracle云计算数据中心 41
-      - 🇮🇷 伊朗  42
+      - 🇺🇸 美国  19
+      - 🇺🇸 美国Amazon数据中心 20
+      - 🇺🇸 美国CloudFlare节点 21
+      - 🇨🇳 浙江省移动 22
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇹🇼 台湾省  24
+      - 🇮🇷 伊朗  25
+      - 🇮🇷 伊朗  26
+      - 🇺🇸 美国  27
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
