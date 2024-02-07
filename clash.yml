@@ -16,33 +16,41 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 高性价比机场:https://kfcloud.xyz/, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 18.184.106.221, port: 13403, client-fingerprint: chrome, type: trojan, password: FTWSxHGQCHl9, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心, server: 18.219.179.79, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Xerox, server: 13.50.9.186, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.17.25.1, port: 80, client-fingerprint: chrome, type: vmess, uuid: 113a74cc-f13b-48ec-bbb2-2bbab77a2f35, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kr1.ljyyds.top}}, udp: true}
+  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.8.148.89, port: 14666, client-fingerprint: chrome, type: trojan, password: P7kP0WUwW6YJ, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: 91.242.229.77, port: 80, client-fingerprint: chrome, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 91.242.229.77}}, udp: true}
   - {name: 🇺🇸 美国+Amazon数据中心, server: java.ct.arvancode.eu.Org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
+  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 13.212.244.13, port: 14653, client-fingerprint: chrome, type: trojan, password: jvdRJNXJERQO, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA), server: 57.180.58.239, port: 14650, client-fingerprint: chrome, type: trojan, password: W8ietaaHwvzQ, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.22.51.162, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: s12.956256.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1b5857d5-a7b8-445b-bcc8-f34745e75929, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: caonimashabiwanyi21.daxiongda.top}}, udp: true}
+  - {name: 🇺🇸 美国 纽约美联社, server: s1.956256.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1b5857d5-a7b8-445b-bcc8-f34745e75929, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: caonimashabiwanyi4.daxiongda.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: www.blueberrywindow.online, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.blueberrywindow.online}}, udp: true}
   - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, client-fingerprint: chrome, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: server31.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, udp: true}
-  - {name: 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2, server: 18.216.240.87, port: 13408, client-fingerprint: chrome, type: trojan, password: RrSTynVjEnvB, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省 移动, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2, server: 18.185.183.33, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: server32.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.98.0, port: 443, client-fingerprint: chrome, type: trojan, password: 01596265-168b-46a7-bcb7-25662c7a9546, sni: hdfy7c1.foriran2.eu.org, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: fYn1ncaQMA1foaK1hpquM}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.21.94.99, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.blueberrywindow.online}}, udp: true}
-  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心, server: 35.183.20.244, port: 13402, client-fingerprint: chrome, type: trojan, password: F1Ub9Un1ncgy, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国+Amazon数据中心 2, server: jseyu.arvancode.eu.Org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.97.94.114, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: server31.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.21.73.14, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /adenc35.fixedlfoat.top/linkws, headers: {Host: yaghoob55freenodes.repaco69437403.workers.dev}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: server20.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 7ee41eb4-0594-4e2d-92a7-5dd3ee513692, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server20.beheshtbaneh.com}}, udp: true}
-  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.144.2.113, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1cb996c8-e5bf-40d2-9a3c-149b3b721c5f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 45.144.2.113}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: www.crispyrainbow.biz, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.crispyrainbow.biz}}, udp: true}
-  - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
-  - {name: 🇺🇸 美国+Amazon数据中心 3, server: series-a1.samanehha.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
-  - {name: 🇺🇸 美国+Amazon数据中心 4, server: java.ct.arvancode.eu.org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 9, server: www.darkroom.lol, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 104.17.123.55, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 1d47288a-699d-45ca-b4f0-4e5b36940e6f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/qZTtpya?ed=2048", headers: {Host: pq.kmoljklj.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.67.221.183, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.blueberrywindow.online}}, udp: true}
+  - {name: 🇩🇰 丹麦 v2rayfree.eu.org, server: 185.162.228.99, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /www.blueberrywindow.online/, headers: {Host: uare-rice-0f92.nojojoy404.workers.dev}}, udp: true}
+  - {name: 🇺🇸 美国+Amazon数据中心 2, server: java.ct.arvancode.eu.org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
+  - {name: 🇩🇪 德国 黑森州法兰克福AMazon数据中心, server: 3.123.23.123, port: 14653, client-fingerprint: chrome, type: trojan, password: fznk10We2KDc, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省江门市+移动, server: service.ouluyun9803.com, port: 21001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
+  - {name: 🇹🇼 台湾省 晟崴科技股份有限公司, server: 103.118.29.229, port: 443, client-fingerprint: chrome, type: trojan, password: eb9e8a52-0fec-4a10-8d16-af3b32874933, sni: 3sao.5gtocdocao.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 江苏省 移动, server: east.eeeeeef998.buzz, port: 15005, client-fingerprint: chrome, type: trojan, password: 414dff55-922a-4dc8-b5d3-b6517942b25a, sni: data.steamdownload.top, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心, server: 18.236.169.194, port: 14647, client-fingerprint: chrome, type: trojan, password: z7i3PEKs1oBh, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国 首尔Amazon数据中心, server: 52.79.40.28, port: 14644, client-fingerprint: chrome, type: trojan, password: U6vymdQMKQwA, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国+麻省理工学院, server: fast_2ray_telchannelll.fast2rayy.eu.org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false, udp: true}
+  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 34.240.244.171, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 18.184.106.221, port: 14646, client-fingerprint: chrome, type: trojan, password: EHGfjf1gkpoq, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 德国 黑森州法兰克福Linode数据中心, server: 172.105.84.14, port: 443, client-fingerprint: chrome, type: trojan, password: 4ad00feb-ab70-4c12-9da1-d610e8a90f7d, sni: 172.105.84.14, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国+麻省理工学院 2, server: jseyu.arvancode.eu.Org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false, udp: true}
+  - {name: 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心, server: 13.48.9.192, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心, server: 35.182.77.185, port: 14617, client-fingerprint: chrome, type: trojan, password: SQYKaGuctkI7, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心, server: 54.249.52.175, port: 14664, client-fingerprint: chrome, type: trojan, password: CBL5b2yx8Xo4, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.153.130.6, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: server20.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 7ee41eb4-0594-4e2d-92a7-5dd3ee513692, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server20.beheshtbaneh.com}}, udp: true}
+  - {name: 🇬🇧 英国+伦敦Amazon数据中心, server: 3.8.111.232, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false, udp: true}
+  - {name: 🇯🇵 日本东京 Oracle Cloud, server: s6.956256.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1b5857d5-a7b8-445b-bcc8-f34745e75929, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: ip.sb, port: 80, client-fingerprint: chrome, type: vmess, uuid: 113a74cc-f13b-48ec-bbb2-2bbab77a2f35, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kr1.ljyyds.top}}, udp: true}
+  - {name: 🇺🇸 美国 纽约美联社 2, server: 165.1.66.37, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1b5857d5-a7b8-445b-bcc8-f34745e75929, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: caonimashabiwanyi4.daxiongda.top}}, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
+  - {name: 🇨🇭 瑞士 Oracle Corporation, server: s13.956256.xyz, port: 80, client-fingerprint: chrome, type: vmess, uuid: 1b5857d5-a7b8-445b-bcc8-f34745e75929, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: caonimashabiwanyi20.daxiongda.top}}, udp: true}
   - {name: 🇷🇺 俄罗斯  1, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
   - {name: 🇮🇳 印度  2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
   - {name: 🇮🇳 印度  3, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}, udp: true}
@@ -64,33 +72,41 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -111,33 +127,41 @@ proxy-groups:
     interval: 300
     proxies:
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -159,33 +183,41 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -219,33 +251,41 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -264,6 +304,7 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -271,33 +312,41 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -318,33 +367,41 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -366,33 +423,41 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -423,33 +488,41 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
-      - 🇺🇸 美国 Xerox
-      - 🇺🇸 美国 CloudFlare节点
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心
-      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇺🇸 美国 纽约美联社
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
-      - 🇨🇳 广东省 移动
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+Amazon数据中心 2
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇺🇸 美国 CloudFlare节点 7
-      - 🇷🇺 俄罗斯 莫斯科JustHost
-      - 🇺🇸 美国 CloudFlare节点 8
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国+Amazon数据中心 3
-      - 🇺🇸 美国+Amazon数据中心 4
+      - 🇩🇪 德国 黑森州法兰克福AMazon数据中心
       - 🇨🇳 广东省江门市+移动
-      - 🇺🇸 美国 CloudFlare节点 9
-      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇹🇼 台湾省 晟崴科技股份有限公司
+      - 🇨🇳 江苏省 移动
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇺🇸 美国+麻省理工学院
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
+      - 🇺🇸 美国+麻省理工学院 2
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇯🇵 日本 东京都亚马逊(Amazon)公司数据中心
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇬🇧 英国+伦敦Amazon数据中心
+      - 🇯🇵 日本东京 Oracle Cloud
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 纽约美联社 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇨🇭 瑞士 Oracle Corporation
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
