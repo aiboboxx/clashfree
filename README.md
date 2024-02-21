@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-21 01:36:42  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-21 12:56:27  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,37 +44,38 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 高性价比机场:https://kfcloud.xyz/, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 麻省理工学院, server: 18.118.228.169, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国 首尔Amazon数据中心, server: 3.34.51.177, port: 17412, client-fingerprint: chrome, type: trojan, password: tkubBjVhFtOu, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.171.75.22, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省 移动, server: m.cnmjcn.com, port: 16648, client-fingerprint: chrome, type: vmess, uuid: e418915e-6459-414d-bc76-bbcbda621f0f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 1e85f722cb07adf2cffdbcd31ee19a14.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.225.202, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 Alabanza, server: 65.109.242.89, port: 443, client-fingerprint: chrome, type: trojan, password: n8KmWr0Tdr, sni: winstonsilver.click, skip-cert-verify: false, network: ws, ws-opts: {path: /HyhfFJHhuuGFDRE, headers: {Host: winstonsilver.click}}, udp: true}
-  - {name: 🇺🇸 美国+麻省理工学院, server: java.ct.arvancode.eu.Org, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH, server: 142.4.97.71, port: 36000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /path/271624282113, headers: {Host: www.31033708.xyz}}, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Linode数据中心, server: 139.162.136.141, port: 443, client-fingerprint: chrome, type: trojan, password: 7ffbe17b-2754-494d-867c-32cb25b62b0d, sni: 139.162.136.141, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心, server: 159.69.12.205, port: 25365, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON, tfo: false, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 35.156.196.177, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: cfcdn3.sanfencdn9.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 9a557d02-12ff-4da8-8669-1824cfdefe1f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/VDXcaM7r, headers: {Host: GWYp69Yujp2.yofnhkfc.xyz}}, udp: true}
-  - {name: 🇺🇸 北美地区 v2rayfree.eu.org, server: 23.137.248.47, port: 8080, client-fingerprint: chrome, type: vmess, uuid: c65dd227-86bb-5854-bdf7-54c9c16acdb2, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 亚太地区 v2rayfree.eu.org, server: 103.154.63.16, port: 443, client-fingerprint: chrome, type: trojan, password: 5bae27f5-3b8e-48f3-b91f-30fc680ea78f, sni: 103.154.63.16, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 上海市 电信, server: 101.89.154.94, port: 19979, client-fingerprint: chrome, type: vmess, uuid: 941f470e-34e8-3bb0-9b1e-b2c0b4fdb212, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-  - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心, server: 35.177.101.255, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 麻省理工学院 2, server: 18.132.229.110, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 惠普HP, server: 16.170.17.237, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 湖南省 联通, server: yes.cnmjcn.net, port: 16648, client-fingerprint: chrome, type: vmess, uuid: e418915e-6459-414d-bc76-bbcbda621f0f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 1e85f722cb07adf2cffdbcd31ee19a14.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇺🇸 美国+华盛顿州昆西Microsoft公司, server: 51.143.138.80, port: 64507, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: YJgPhpBF3wEoy3H5CxXyUS, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.17.123.55, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 1d47288a-699d-45ca-b4f0-4e5b36940e6f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/qZTtpya?ed=2048", headers: {Host: pq.kmoljklj.top}}, udp: true}
-  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2, server: 52.195.222.75, port: 17408, client-fingerprint: chrome, type: trojan, password: ULJb5dyOD1DG, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: www.ywnouvbale.biz, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.ywnouvbale.biz}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动 2, server: service.ouluyun9803.com, port: 21003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.232.226.92, port: 443, client-fingerprint: chrome, type: trojan, password: 36d0e77b-9c00-4d8c-b263-a0a2dd54ad75, sni: 172.232.226.92, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国+麻省理工学院 2, server: series-a1.samanehha.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
-  - {name: 🇹🇼 台湾省新竹市 中华电信, server: 114.37.144.148, port: 5681, client-fingerprint: chrome, type: vmess, uuid: 3bd62189-aebd-4b36-9dfd-335457d70420, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.21.225.115, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动 3, server: service.ouluyun9803.com, port: 20005, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
+  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 52.214.241.156, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.171.57.156, port: 12641, client-fingerprint: chrome, type: trojan, password: sbM3QuV1uhfn, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: cf.openxai.link, port: 8080, client-fingerprint: chrome, type: vmess, uuid: c18beb85-c67b-46ed-b8cc-4cbfeae5f194, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: eu1.openxai.link}}, udp: true}
+  - {name: 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心, server: 54.185.28.246, port: 12643, client-fingerprint: chrome, type: trojan, password: f3hOfFxc1Rrc, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 惠普公司, server: 16.16.222.37, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.17.123.55, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 1d47288a-699d-45ca-b4f0-4e5b36940e6f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/qZTtpya?ed=2048", headers: {Host: pq.kmoljklj.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.225.37, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 13.41.103.220, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: fastly.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 66ccb11f-75a7-4282-8a60-31fed447401d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: nmsl.kp}}, udp: true}
+  - {name: 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心, server: 18.221.241.66, port: 12645, client-fingerprint: chrome, type: trojan, password: NpINtM9vyHWD, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心, server: 52.60.254.243, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 四川省 联通数据上网公共出口, server: yes.cnmjcn.net, port: 16648, client-fingerprint: chrome, type: vmess, uuid: e418915e-6459-414d-bc76-bbcbda621f0f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 1e85f722cb07adf2cffdbcd31ee19a14.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH, server: 142.4.99.9, port: 38000, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /path/271624282113, headers: {Host: www.22103619.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 162.159.136.253, port: 8080, client-fingerprint: chrome, type: vmess, uuid: ade73e62-7554-40a8-9314-195a372bae28, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/7bFcoRZS?ed=2048", headers: {Host: xentain.kmoljklj.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.21.225.229, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇷🇺 俄罗斯 v2rayfree.eu.org, server: 176.120.65.202, port: 2053, client-fingerprint: chrome, type: trojan, password: 09191dbf-e7f7-4e7d-b405-c4785ea992bf, sni: ftp.debian.org, skip-cert-verify: false, udp: true}
+  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.8.144.51, port: 12666, client-fingerprint: chrome, type: trojan, password: YNH85Az8SqdK, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.21.224.24, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇨🇳 广西河池市 联通, server: yes.cnmjcn.net, port: 16632, client-fingerprint: chrome, type: vmess, uuid: e418915e-6459-414d-bc76-bbcbda621f0f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 1e85f722cb07adf2cffdbcd31ee19a14.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.21.225.34, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.21.225.253, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心 3, server: 18.153.127.246, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心, server: 3.223.230.19, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2, server: 52.15.87.232, port: 12671, client-fingerprint: chrome, type: trojan, password: 9LAr1iOd1u1p, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: cfcdn3.sanfencdn9.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: 9a557d02-12ff-4da8-8669-1824cfdefe1f, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/VDXcaM7r, headers: {Host: GWYp69Yujp2.yofnhkfc.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 10, server: yhnsb3.shabijichang.com, port: 80, client-fingerprint: chrome, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yhnsb3.shabijichang.com}}, udp: true}
+  - {name: 🇯🇵 日本 v2rayfree.eu.org, server: 43.201.251.251, port: 12648, client-fingerprint: chrome, type: trojan, password: YeBzMV5yJoHa, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 83.217.9.178, port: 1080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Rklf6QPk4MhOuqh4lElAvg, tfo: false, udp: true}
+  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 18.136.103.178, port: 12638, client-fingerprint: chrome, type: trojan, password: ttAtbIBUUtBK, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省 移动, server: m.cnmjcn.com, port: 16620, client-fingerprint: chrome, type: vmess, uuid: c99074bd-bacd-48b5-9561-da069c481602, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fe5be62428b65a2ce7a22d9997b4c9d0.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 11, server: 104.18.154.42, port: 80, client-fingerprint: chrome, type: vmess, uuid: 71476bd3-1655-4028-8dd0-254c8a0b7d65, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us3.visaapp.top}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 12, server: us65.netfilx.live, port: 80, client-fingerprint: chrome, type: vmess, uuid: 60f12435-bb55-4da2-cb7d-4fea34ecfa37, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us65.netfilx.live}}, udp: true}
   - {name: 🇷🇺 俄罗斯  1, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
   - {name: 🇮🇳 印度  2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
   - {name: 🇮🇳 印度  3, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}, udp: true}
@@ -96,37 +97,38 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -147,37 +149,38 @@ proxy-groups:
     interval: 300
     proxies:
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -199,37 +202,38 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -263,37 +267,38 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -312,7 +317,6 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -320,37 +324,38 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -371,37 +376,38 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -423,37 +429,38 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -484,37 +491,38 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
-      - 🇺🇸 美国 麻省理工学院
-      - 🇰🇷 韩国 首尔Amazon数据中心
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
       - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 Alabanza
-      - 🇺🇸 美国+麻省理工学院
-      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
-      - 🇩🇪 德国+巴伐利亚州纽伦堡Hetzner数据中心
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心
+      - 🇺🇸 美国 惠普公司
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 北美地区 v2rayfree.eu.org
-      - 亚太地区 v2rayfree.eu.org
-      - 🇨🇳 上海市 电信
-      - 🇷🇺 俄罗斯+v2rayfree.eu.org
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 麻省理工学院 2
-      - 🇺🇸 美国 惠普HP
-      - 🇨🇳 湖南省 联通
-      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心 2
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 Fastly全球Anycast节点
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 四川省 联通数据上网公共出口
+      - 🇺🇸 美国 加利福尼亚州圣何塞PEG TECH
       - 🇺🇸 美国 CloudFlare节点 4
-      - 🇨🇳 广东省江门市+移动 2
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇺🇸 美国+麻省理工学院 2
-      - 🇹🇼 台湾省新竹市 中华电信
       - 🇺🇸 美国 CloudFlare节点 5
-      - 🇨🇳 广东省江门市+移动 3
+      - 🇷🇺 俄罗斯 v2rayfree.eu.org
+      - 🇬🇧 英国 伦敦Amazon数据中心
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇳 广西河池市 联通
+      - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 CloudFlare节点 8
+      - 🇺🇸 美国 Amazon数据中心 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
+      - 🇺🇸 美国 俄亥俄州都柏林Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 9
+      - 🇺🇸 美国 CloudFlare节点 10
+      - 🇯🇵 日本 v2rayfree.eu.org
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 11
+      - 🇺🇸 美国 CloudFlare节点 12
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
