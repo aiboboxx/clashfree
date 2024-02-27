@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-27 01:34:41  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-02-27 12:55:21  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,130 +44,96 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 高性价比机场:https://kfcloud.xyz/, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.225.211, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.21.225.128, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: www.ywnouvbale.biz, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.ywnouvbale.biz}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.16.77.74, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.21.225.176, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.21.226.61, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.21.225.107, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.96.113, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt4.ir}}, udp: true}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.8.35.92, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点, server: 103.21.244.156, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 41eeccfd-18e6-40b3-933d-c7000120ec2c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 41eeccfd-18e6-40b3-933d-c7000120ec2c-vm, headers: {Host: larger-marketing-amounts-skin.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.21.228.20, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 9, server: 104.21.225.4, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 104.21.225.7, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 11, server: 172.67.136.12, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.ywnouvbale.biz}}, udp: true}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心 2, server: 35.178.93.49, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 12, server: www.velvetmountain.shop, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.velvetmountain.shop}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 13, server: 198.41.219.14, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 41eeccfd-18e6-40b3-933d-c7000120ec2c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 41eeccfd-18e6-40b3-933d-c7000120ec2c-vm, headers: {Host: larger-marketing-amounts-skin.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 14, server: 104.21.225.96, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 15, server: 104.21.225.35, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 16, server: 104.21.236.64, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 17, server: 104.21.231.36, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 18, server: 104.21.225.145, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 19, server: 104.21.238.90, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 20, server: 104.21.238.74, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 21, server: 172.67.253.194, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 22, server: 104.21.226.106, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 23, server: 104.21.225.164, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 24, server: 104.21.229.27, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 25, server: 104.21.225.87, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: es-full.privateip.net, port: 443, client-fingerprint: chrome, type: trojan, password: b556587e-6b3a-4cca-b379-714bfae91515, sni: es-full.privateip.net, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 26, server: 104.21.225.106, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 27, server: www.darkroom.lol, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 28, server: 104.21.239.75, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 29, server: 190.93.246.113, port: 8080, client-fingerprint: chrome, type: vmess, uuid: d26363ff-8810-4591-8b77-d2f45e2b9f41, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm, headers: {Host: bibliographic-sword-sequence-advertisers.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 30, server: 104.21.225.206, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 31, server: 104.21.226.136, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 32, server: 104.21.225.181, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动, server: service.ouluyun9803.com, port: 20009, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 33, server: 172.67.254.36, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 34, server: 104.21.236.83, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 35, server: 104.21.226.122, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 36, server: 104.21.225.81, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 37, server: 104.21.229.26, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点 2, server: 188.114.97.196, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动 2, server: service.ouluyun9803.com, port: 21004, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 38, server: 104.21.225.83, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 39, server: 104.21.225.149, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai08", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 40, server: 172.67.253.158, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 41, server: 104.21.226.78, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 42, server: 104.21.225.68, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 43, server: 104.21.225.222, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 2, server: it-full.privateip.net, port: 443, client-fingerprint: chrome, type: trojan, password: 915dc116-70c6-403b-8a03-18d885c311bf, sni: it-full.privateip.net, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 44, server: 190.93.244.25, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 41eeccfd-18e6-40b3-933d-c7000120ec2c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 41eeccfd-18e6-40b3-933d-c7000120ec2c-vm, headers: {Host: larger-marketing-amounts-skin.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 45, server: 104.21.239.79, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 46, server: 104.21.236.61, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇨🇳 江苏省镇江市 联通IDC机房, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 47, server: 104.24.208.37, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点 3, server: 188.114.96.25, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 48, server: 104.21.225.99, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇨🇳 广东省江门市+移动 3, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 49, server: 104.21.226.52, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇨🇳 四川省凉山州西昌市 电信, server: 221.237.254.183, port: 9002, client-fingerprint: chrome, type: vmess, uuid: 16a27b46-6892-40f4-96cd-c7ebf2d39771, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 221.237.254.183}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 50, server: 104.21.225.235, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 51, server: 104.21.225.183, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 52, server: 172.67.253.230, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 53, server: 173.245.58.10, port: 8080, client-fingerprint: chrome, type: vmess, uuid: e6b124d8-7a82-463d-b360-a3a3a19f7dc2, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: e6b124d8-7a82-463d-b360-a3a3a19f7dc2-vm, headers: {Host: pcs-referenced-camera-concerns.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 54, server: 190.93.247.105, port: 8080, client-fingerprint: chrome, type: vmess, uuid: d26363ff-8810-4591-8b77-d2f45e2b9f41, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm, headers: {Host: bibliographic-sword-sequence-advertisers.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 55, server: 104.21.226.43, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 56, server: 104.21.226.128, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 57, server: 104.21.224.24, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 58, server: 104.21.225.50, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 59, server: 190.93.247.214, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 60, server: 104.21.227.37, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 61, server: s1c.v2.v001sss.xyz, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 62, server: 104.21.225.195, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 63, server: 172.67.254.191, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 64, server: 104.21.225.187, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 65, server: 108.162.196.31, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 66, server: 104.21.225.80, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点 4, server: 188.114.98.96, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 67, server: 104.21.225.97, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 68, server: server31.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 69, server: 104.21.225.100, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 70, server: 104.21.236.80, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点, server: 173.245.49.249, port: 8080, client-fingerprint: chrome, type: vmess, uuid: d26363ff-8810-4591-8b77-d2f45e2b9f41, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm, headers: {Host: bibliographic-sword-sequence-advertisers.trycloudflare.com}}, udp: true}
-  - {name: 🇫🇷 法国 巴黎Amazon数据中心, server: 52.47.191.156, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA), server: 57.180.30.152, port: 12642, client-fingerprint: chrome, type: trojan, password: TV1WhBMW024A, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.230.53, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.21.225.94, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.67.255.79, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心, server: 34.200.221.187, port: 12654, client-fingerprint: chrome, type: trojan, password: XqPUw9da26j9, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.21.225.180, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org, server: 95.164.116.35, port: 443, client-fingerprint: chrome, type: trojan, password: c38059a9-02f4-436c-891e-3818cd601e5a, sni: 95.164.116.35, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇦 乌克兰+v2rayfree.eu.org, server: 95.164.9.144, port: 2927, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ug4Fu79SEREdFGlt2sUyT4, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.58.234.238, port: 12630, client-fingerprint: chrome, type: trojan, password: ZZNLtQCYx4ZV, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.21.226.61, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.25.255.254, port: 443, client-fingerprint: chrome, type: trojan, password: a6292090-afe1-4640-97a7-4f1d1d877cf1, sni: hdfy8c1.foriran.me, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: 8bHUAD5IX0lC5KffvrsN6rqb}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 198.41.219.235, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.21.226.136, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: 104.21.225.47, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 172.67.217.144, port: 80, client-fingerprint: chrome, type: vmess, uuid: 85674552-ce41-44d9-bb2a-50f76450b3d8, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lv1.xv2ray.net}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 11, server: 190.93.247.214, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.136.52.87, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 12, server: 104.21.237.67, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 13, server: 172.67.255.204, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 14, server: 104.21.226.14, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.97.109, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 15, server: 104.21.225.206, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 16, server: 104.21.234.51, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 17, server: 104.21.225.105, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点 2, server: 188.114.98.96, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 18, server: 104.21.239.95, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 19, server: de-01.cloudlion.me, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: de-01.cloudlion.me}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 20, server: 104.21.225.187, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 21, server: 104.21.232.61, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 22, server: 104.21.238.70, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 23, server: cfcdn3.sanfencdn9.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: de6969ab-ec16-4263-8c11-9187e8ca0782, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/Zo98PYfE, headers: {Host: kvjqqknzjp6.yofnhkfc.xyz}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 24, server: 104.21.225.92, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 25, server: 172.67.254.191, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
   - {name: 🇰🇷 韩国 蘑菇主机BGP数据中心, server: 103.214.68.57, port: 10003, client-fingerprint: chrome, type: trojan, password: 6x8HcghsjS, sni: yes998.chickenkiller.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 71, server: 104.21.226.133, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 72, server: 104.21.232.60, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 73, server: 104.21.225.178, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 74, server: 104.21.239.95, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 75, server: 104.21.225.175, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 76, server: us65.netfilx.live, port: 80, client-fingerprint: chrome, type: vmess, uuid: 60f12435-bb55-4da2-cb7d-4fea34ecfa37, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us65.netfilx.live}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 77, server: 104.21.225.180, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 78, server: 104.21.225.157, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 79, server: 104.21.226.53, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 80, server: 104.21.225.54, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai08", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 81, server: 104.21.225.61, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.38.248.44, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 82, server: 104.21.225.154, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇮🇪 爱尔兰 v2rayfree.eu.org, server: 99.80.98.145, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 44.217.205.218, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国+伦敦Amazon数据中心, server: series-a2-me.samanehha.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2LVVFxxHJSBMdGdl, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 83, server: 104.21.225.205, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 84, server: 104.21.225.151, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai08", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 85, server: 104.21.226.100, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 86, server: 104.21.82.183, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}, udp: true}
-  - {name: 🇨🇳 中国 阿里云, server: mg.xxmd.online, port: 6002, client-fingerprint: chrome, type: trojan, password: 54b33e78-61f4-46e8-8d58-4404eef1a329, sni: mg.xxmd.online, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 87, server: 104.21.231.56, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 88, server: 104.21.233.67, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 89, server: 104.21.226.204, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 90, server: 104.21.226.33, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 91, server: 104.21.225.212, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 92, server: 162.159.136.253, port: 8080, client-fingerprint: chrome, type: vmess, uuid: ade73e62-7554-40a8-9314-195a372bae28, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/7bFcoRZS?ed=2048", headers: {Host: xentain.kmoljklj.top}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 93, server: 104.21.225.53, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 94, server: 104.21.226.250, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 95, server: 172.67.253.190, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 96, server: 104.21.226.196, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 97, server: 104.21.225.122, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 98, server: 104.21.229.46, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 99, server: 104.21.225.246, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 100, server: 172.67.186.4, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3069ecb6-dd75-4e24-a30d-ec55747d83a1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: 3069ecb6-dd75-4e24-a30d-ec55747d83a1-vm, headers: {Host: nest-emily-healing-h.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 101, server: 104.21.225.74, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 102, server: 104.21.235.75, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 26, server: 104.21.225.96, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 27, server: 104.21.225.122, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 28, server: 172.67.254.36, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 29, server: 104.21.233.49, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 30, server: 104.21.236.83, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 31, server: 104.21.238.90, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 32, server: 104.21.236.80, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 33, server: 104.21.225.82, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇦 乌克兰 v2rayfree.eu.org 2, server: kz-full.privateip.net, port: 443, client-fingerprint: chrome, type: trojan, password: 180c7f40-c29e-445d-8056-ae92f3b451d7, sni: kz-full.privateip.net, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 34, server: 104.21.230.50, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 35, server: 104.21.239.75, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 36, server: 104.21.228.21, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 37, server: 104.21.226.33, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 38, server: 104.21.69.44, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt4.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 39, server: 104.21.229.26, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 40, server: 104.21.225.154, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 麻省理工学院, server: 18.143.170.156, port: 12636, client-fingerprint: chrome, type: trojan, password: eNnl4KDk9aqA, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 41, server: 104.21.225.246, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.8.35.92, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 42, server: 104.21.225.228, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 43, server: 104.21.225.1, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 44, server: 104.21.235.75, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 45, server: 104.21.225.197, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 46, server: 104.21.228.43, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心, server: 13.48.254.32, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 47, server: 104.21.226.10, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 48, server: 104.21.225.183, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 49, server: 104.21.225.78, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 50, server: 104.21.226.196, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 51, server: 141.101.115.173, port: 8080, client-fingerprint: chrome, type: vmess, uuid: e6b124d8-7a82-463d-b360-a3a3a19f7dc2, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: e6b124d8-7a82-463d-b360-a3a3a19f7dc2-vm, headers: {Host: pcs-referenced-camera-concerns.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 52, server: 104.21.225.217, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 53, server: 104.21.239.77, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 54, server: 104.21.225.248, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 Xerox, server: 13.50.115.102, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省江门市+移动, server: service.ouluyun9803.com, port: 21004, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, tfo: false, udp: true}
+  - {name: 🇯🇵 日本 v2rayfree.eu.org, server: 43.202.37.27, port: 12629, client-fingerprint: chrome, type: trojan, password: T4wppBl4lJ49, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 55, server: 104.21.225.212, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 56, server: 172.67.241.154, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 13.36.213.114, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾省 中华电信(HiNet)数据中心, server: nb22.ntbq.dynu.net, port: 12002, client-fingerprint: chrome, type: vmess, uuid: b6cd1e64-484a-431a-90c2-41bb0d579ee6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 57, server: 104.21.225.232, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 58, server: 104.21.226.12, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心, server: 54.254.192.204, port: 12645, client-fingerprint: chrome, type: trojan, password: TWk4zDefWg2w, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 59, server: 104.21.238.73, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 60, server: 173.245.58.226, port: 8080, client-fingerprint: chrome, type: vmess, uuid: d26363ff-8810-4591-8b77-d2f45e2b9f41, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: d26363ff-8810-4591-8b77-d2f45e2b9f41-vm, headers: {Host: bibliographic-sword-sequence-advertisers.trycloudflare.com}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon EC2服务器 2, server: 3.96.172.252, port: 12661, client-fingerprint: chrome, type: trojan, password: VrS201ktFLny, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 61, server: 104.21.225.238, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 62, server: 104.21.233.68, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 63, server: 104.21.225.148, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 64, server: 104.21.225.251, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇯🇵 日本 东京Amazon数据中心, server: 13.231.41.180, port: 12663, client-fingerprint: chrome, type: trojan, password: O1zy2XVeRr4M, sni: www.myethblog.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 65, server: 104.21.225.97, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳@WangCai_8", headers: {Host: a.prapt5.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 66, server: 104.24.208.37, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}, udp: true}
+  - {name: 🇺🇸 美国+华盛顿州昆西Microsoft公司, server: 51.143.138.171, port: 9424, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: EaCRQJmijrVP3uZuCwDLr9, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 67, server: 172.67.253.194, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: my1.tooters.ir}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 68, server: 104.21.225.179, port: 80, client-fingerprint: chrome, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.prapt5.ir}}, udp: true}
   - {name: 🇷🇺 俄罗斯  1, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
   - {name: 🇮🇳 印度  2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
   - {name: 🇮🇳 印度  3, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}, udp: true}
@@ -189,27 +155,31 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -218,7 +188,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -226,93 +196,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -333,27 +265,31 @@ proxy-groups:
     interval: 300
     proxies:
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -362,7 +298,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -370,93 +306,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -478,27 +376,31 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -507,7 +409,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -515,93 +417,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -635,27 +499,31 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -664,7 +532,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -672,93 +540,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -777,6 +607,7 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -784,27 +615,31 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -813,7 +648,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -821,93 +656,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -928,27 +725,31 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -957,7 +758,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -965,93 +766,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -1073,27 +836,31 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -1102,7 +869,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -1110,93 +877,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -1227,27 +956,31 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 高性价比机场:https://kfcloud.xyz/
+      - 🇫🇷 法国 国际航空电讯集团公司(SITA)
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 3
+      - 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 4
+      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇺🇦 乌克兰+v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 5
       - 🇺🇸 美国 CloudFlare节点 6
       - 🇺🇸 美国 CloudFlare节点 7
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-      - 🇬🇧 英国 伦敦Amazon数据中心
-      - 🇺🇸 美国加利福尼亚州圣何塞 Cloudflare节点
       - 🇺🇸 美国 CloudFlare节点 8
       - 🇺🇸 美国 CloudFlare节点 9
       - 🇺🇸 美国 CloudFlare节点 10
       - 🇺🇸 美国 CloudFlare节点 11
-      - 🇬🇧 英国 伦敦Amazon数据中心 2
+      - 🇺🇸 美国 Amazon EC2服务器
       - 🇺🇸 美国 CloudFlare节点 12
       - 🇺🇸 美国 CloudFlare节点 13
       - 🇺🇸 美国 CloudFlare节点 14
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 15
       - 🇺🇸 美国 CloudFlare节点 16
       - 🇺🇸 美国 CloudFlare节点 17
+      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
       - 🇺🇸 美国 CloudFlare节点 18
       - 🇺🇸 美国 CloudFlare节点 19
       - 🇺🇸 美国 CloudFlare节点 20
@@ -1256,7 +989,7 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 23
       - 🇺🇸 美国 CloudFlare节点 24
       - 🇺🇸 美国 CloudFlare节点 25
-      - 🇺🇦 乌克兰 v2rayfree.eu.org
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
       - 🇺🇸 美国 CloudFlare节点 26
       - 🇺🇸 美国 CloudFlare节点 27
       - 🇺🇸 美国 CloudFlare节点 28
@@ -1264,93 +997,55 @@ proxy-groups:
       - 🇺🇸 美国 CloudFlare节点 30
       - 🇺🇸 美国 CloudFlare节点 31
       - 🇺🇸 美国 CloudFlare节点 32
-      - 🇨🇳 广东省江门市+移动
       - 🇺🇸 美国 CloudFlare节点 33
+      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 34
       - 🇺🇸 美国 CloudFlare节点 35
       - 🇺🇸 美国 CloudFlare节点 36
       - 🇺🇸 美国 CloudFlare节点 37
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 2
-      - 🇨🇳 广东省江门市+移动 2
       - 🇺🇸 美国 CloudFlare节点 38
       - 🇺🇸 美国 CloudFlare节点 39
       - 🇺🇸 美国 CloudFlare节点 40
+      - 🇺🇸 美国 麻省理工学院
       - 🇺🇸 美国 CloudFlare节点 41
+      - 🇬🇧 英国 伦敦Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 42
       - 🇺🇸 美国 CloudFlare节点 43
-      - 🇺🇦 乌克兰 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 44
       - 🇺🇸 美国 CloudFlare节点 45
       - 🇺🇸 美国 CloudFlare节点 46
-      - 🇨🇳 江苏省镇江市 联通IDC机房
+      - 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 47
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 3
       - 🇺🇸 美国 CloudFlare节点 48
-      - 🇨🇳 广东省江门市+移动 3
       - 🇺🇸 美国 CloudFlare节点 49
-      - 🇨🇳 四川省凉山州西昌市 电信
       - 🇺🇸 美国 CloudFlare节点 50
       - 🇺🇸 美国 CloudFlare节点 51
       - 🇺🇸 美国 CloudFlare节点 52
       - 🇺🇸 美国 CloudFlare节点 53
       - 🇺🇸 美国 CloudFlare节点 54
+      - 🇺🇸 美国 Xerox
+      - 🇨🇳 广东省江门市+移动
+      - 🇯🇵 日本 v2rayfree.eu.org
       - 🇺🇸 美国 CloudFlare节点 55
       - 🇺🇸 美国 CloudFlare节点 56
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇹🇼 台湾省 中华电信(HiNet)数据中心
       - 🇺🇸 美国 CloudFlare节点 57
       - 🇺🇸 美国 CloudFlare节点 58
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇺🇸 美国 CloudFlare节点 59
       - 🇺🇸 美国 CloudFlare节点 60
+      - 🇺🇸 美国 Amazon EC2服务器 2
       - 🇺🇸 美国 CloudFlare节点 61
       - 🇺🇸 美国 CloudFlare节点 62
       - 🇺🇸 美国 CloudFlare节点 63
       - 🇺🇸 美国 CloudFlare节点 64
+      - 🇯🇵 日本 东京Amazon数据中心
       - 🇺🇸 美国 CloudFlare节点 65
       - 🇺🇸 美国 CloudFlare节点 66
-      - 🇧🇷 巴西圣保罗 CloudFlare节点 4
+      - 🇺🇸 美国+华盛顿州昆西Microsoft公司
       - 🇺🇸 美国 CloudFlare节点 67
       - 🇺🇸 美国 CloudFlare节点 68
-      - 🇺🇸 美国 CloudFlare节点 69
-      - 🇺🇸 美国 CloudFlare节点 70
-      - 🇺🇸 美国弗吉尼亚州阿什本 CloudFlare节点
-      - 🇫🇷 法国 巴黎Amazon数据中心
-      - 🇰🇷 韩国 蘑菇主机BGP数据中心
-      - 🇺🇸 美国 CloudFlare节点 71
-      - 🇺🇸 美国 CloudFlare节点 72
-      - 🇺🇸 美国 CloudFlare节点 73
-      - 🇺🇸 美国 CloudFlare节点 74
-      - 🇺🇸 美国 CloudFlare节点 75
-      - 🇺🇸 美国 CloudFlare节点 76
-      - 🇺🇸 美国 CloudFlare节点 77
-      - 🇺🇸 美国 CloudFlare节点 78
-      - 🇺🇸 美国 CloudFlare节点 79
-      - 🇺🇸 美国 CloudFlare节点 80
-      - 🇺🇸 美国 CloudFlare节点 81
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 82
-      - 🇮🇪 爱尔兰 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心 2
-      - 🇬🇧 英国+伦敦Amazon数据中心
-      - 🇺🇸 美国 CloudFlare节点 83
-      - 🇺🇸 美国 CloudFlare节点 84
-      - 🇺🇸 美国 CloudFlare节点 85
-      - 🇺🇸 美国 CloudFlare节点 86
-      - 🇨🇳 中国 阿里云
-      - 🇺🇸 美国 CloudFlare节点 87
-      - 🇺🇸 美国 CloudFlare节点 88
-      - 🇺🇸 美国 CloudFlare节点 89
-      - 🇺🇸 美国 CloudFlare节点 90
-      - 🇺🇸 美国 CloudFlare节点 91
-      - 🇺🇸 美国 CloudFlare节点 92
-      - 🇺🇸 美国 CloudFlare节点 93
-      - 🇺🇸 美国 CloudFlare节点 94
-      - 🇺🇸 美国 CloudFlare节点 95
-      - 🇺🇸 美国 CloudFlare节点 96
-      - 🇺🇸 美国 CloudFlare节点 97
-      - 🇺🇸 美国 CloudFlare节点 98
-      - 🇺🇸 美国 CloudFlare节点 99
-      - 🇺🇸 美国 CloudFlare节点 100
-      - 🇺🇸 美国 CloudFlare节点 101
-      - 🇺🇸 美国 CloudFlare节点 102
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
