@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-05-06 12:58:10  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-05-07 01:42:30  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,42 +44,44 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
-  - {name: 🇨🇳 甘肃省兰州市 移动, server: zf.lalayun.cyou, port: 47931, client-fingerprint: chrome, type: vmess, uuid: b1553abe-6f1f-3288-bfc2-908b2f9fc4fc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk.lalayunssl.xyz}}, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机, server: 149.202.82.172, port: 8000, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false, udp: true}
-  - {name: 🇷🇺 俄罗斯 v2rayfree.eu.org, server: 91.107.159.46, port: 38288, client-fingerprint: chrome, type: vmess, uuid: 4cf4bdd2-ee06-469b-b919-b890052ee48b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.199.122.19, port: 12615, client-fingerprint: chrome, type: trojan, password: jUYjbUEc0LTf, sni: appsvs.shop, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省佛山市 移动, server: 183.232.199.61, port: 61001, client-fingerprint: chrome, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省佛山市 移动 2, server: 183.232.199.28, port: 21006, client-fingerprint: chrome, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2, server: 149.202.82.172, port: 8119, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.18.36.119, port: 2052, client-fingerprint: chrome, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}, udp: true}
-  - {name: 🇺🇸 美国 惠普HP, server: 16.170.107.162, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇷🇺 俄罗斯 v2rayfree.eu.org 2, server: hk-full.privateip.net, port: 443, client-fingerprint: chrome, type: vmess, uuid: f2c48b2f-c581-4d7d-846e-8bd97d93bd65, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: hk-full.privateip.net}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: fcdn.flha.ru, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fcdn.flha.ru}}, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3, server: 149.202.82.172, port: 8881, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false, udp: true}
+  - {name: 🇮🇹 意大利+v2rayfree.eu.org, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
+  - {name: 🇨🇳 安徽省 移动数据上网公共出口, server: 112.29.94.23, port: 46011, client-fingerprint: chrome, type: trojan, password: MyYoZhfX, sni: 112.29.94.23, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: acjp2.cloudflarest.link, port: 80, client-fingerprint: chrome, type: vmess, uuid: 42507d7c-bc67-4534-8ffc-6b9234b74018, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: mai.nekoneko.buzz}}, udp: true}
+  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心, server: 35.183.132.96, port: 13426, client-fingerprint: chrome, type: trojan, password: acBeWBxRf56f, sni: appsvs.shop, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 广东省江门市 移动, server: 120.238.122.243, port: 40259, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.21.8.157, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}, udp: true}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org, server: 23.162.200.213, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false, udp: true}
+  - {name: 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心, server: sg08.421421.xyz, port: 20230, client-fingerprint: chrome, type: trojan, password: 0f408453-2589-4fc2-bf9d-22e0cef8b8d2, sni: 421421.xyz, skip-cert-verify: false, udp: true}
   - {name: 🇨🇳 湖北省武汉市 联通, server: data-jp-v1.usabooks.com.cn, port: 20301, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-jp-v1.usabooks.com.cn}}, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 18.194.173.181, port: 12633, client-fingerprint: chrome, type: trojan, password: 0TJaGXe5amIw, sni: appsvs.shop, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 浙江省丽水市 移动, server: 183.249.207.244, port: 22386, client-fingerprint: chrome, type: trojan, password: MyYoZhfX, sni: 183.249.207.244, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.99.183.216, port: 12625, client-fingerprint: chrome, type: trojan, password: Nufrh2spI9Fl, sni: appsvs.shop, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省 移动, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇨🇳 四川省 联通数据上网公共出口, server: yes.cnmjcn.net, port: 16632, client-fingerprint: chrome, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}, udp: true}
   - {name: 🇺🇸 美国 CloudFlare节点 3, server: www.darkroom.lol, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, udp: true}
-  - {name: 🇨🇳 广东省广州市 移动, server: 120.232.242.117, port: 41492, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4, server: 149.202.82.172, port: 9101, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false, udp: true}
-  - {name: 🇷🇺 俄罗斯 v2rayfree.eu.org 3, server: 185.236.233.111, port: 2053, client-fingerprint: chrome, type: trojan, password: ba74833c-8c0f-4dcd-8cbc-13e3c32d3765, sni: ftp.debian.org, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.21.8.157, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}, udp: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2, server: 18.194.145.135, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 广东省中山市 广东移动中山市分公司, server: 218.204.178.2, port: 13486, client-fingerprint: chrome, type: vmess, uuid: 61b81abc-320b-49c1-893c-f3ddd45880de, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: waphk.xlb8.eu.org}}, udp: true}
-  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心, server: 52.195.177.138, port: 12639, client-fingerprint: chrome, type: trojan, password: DsmLpgOyFhrK, sni: appsvs.shop, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 172.67.172.219, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
-  - {name: 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5, server: 149.202.82.172, port: 8008, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 172.64.150.2, port: 443, client-fingerprint: chrome, type: trojan, password: c5a16410-1fc2-497d-8619-c2dbb5c6fd1b, sni: PROOFoLlowEer.bArTaRiNPANELLiranFoLlowErBeGIRiraNpANELllIKeaRzOn.ir, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: RcROfMA5fjuoI8bSL}, udp: true}
-  - {name: 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6, server: 149.202.82.172, port: 2375, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false, udp: true}
+  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 13.228.71.227, port: 13428, client-fingerprint: chrome, type: trojan, password: 0qvt8PYq1VBZ, sni: appsvs.shop, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本 东京Amazon数据中心, server: 13.114.230.8, port: 13413, client-fingerprint: chrome, type: trojan, password: t3ouNWzxcyyv, sni: appsvs.shop, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pendar.onthewifi.com}}, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.168.216.140, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 45.59.185.130, port: 25176, client-fingerprint: chrome, type: trojan, password: CMLiu, sni: trojan.classelivre.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: trojan.classelivre.eu.org}}, udp: true}
+  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 34.243.67.20, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 阿里云, server: 47.236.171.205, port: 2087, client-fingerprint: chrome, type: trojan, password: CMLiu, sni: trojan.classelivre.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: trojan.classelivre.eu.org}}, udp: true}
+  - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 46.226.164.2, port: 16006, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Bd3FRq4bMQwowHRCZ3v2xm, tfo: false, udp: true}
   - {name: 🇨🇳 广东省汕头市 移动, server: 183.240.179.195, port: 15601, client-fingerprint: chrome, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: yh4.dtku41.xyz, port: 8080, client-fingerprint: chrome, type: vmess, uuid: ef8c954e-014f-4b36-8273-9b5086afab34, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: ef8c954e-014f-4b36-8273-9b5086afab34-vm, headers: {Host: dual-nothing-prep-exit.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.16.192.1, port: 443, client-fingerprint: chrome, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: sherasheba.com, skip-cert-verify: false, network: ws, ws-opts: {path: /6b777a91, headers: {Host: sherasheba.com}}, udp: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 9, server: cfcdn1.sanfencdn9.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}, udp: true}
-  - {name: 🇯🇵 日本 东京都Amazon数据中心, server: 18.183.241.142, port: 12631, client-fingerprint: chrome, type: trojan, password: 2OqynEjOsioj, sni: appsvs.shop, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 2, server: 216.39.250.113, port: 7002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false, udp: true}
+  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.97.79, port: 443, client-fingerprint: chrome, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}, udp: true}
+  - {name: 🇰🇷 韩国 蘑菇主机BGP数据中心, server: 103.214.68.57, port: 10003, client-fingerprint: chrome, type: trojan, password: 6x8HcghsjS, sni: 103.214.68.57, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 18.158.31.112, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 172.67.164.78, port: 80, client-fingerprint: chrome, type: vmess, uuid: 42507d7c-bc67-4534-8ffc-6b9234b74018, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: mai.nekoneko.buzz}}, udp: true}
+  - {name: 🇨🇳 广东省 移动, server: data-us-v1.shwjfkw.cn, port: 20401, client-fingerprint: chrome, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: server31.beheshtbaneh.com, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.18.19.191, port: 2052, client-fingerprint: chrome, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}, udp: true}
+  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2, server: 52.60.84.99, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 3, server: 154.47.20.240, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org 2, server: 170.64.141.34, port: 443, client-fingerprint: chrome, type: trojan, password: a7cf1378-0ccf-43c2-8f26-56f5c8e540cf, sni: 170.64.141.34, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 172.67.199.185, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
+  - {name: 🇺🇸 美国 波特兰50Network网络公司, server: 161.129.39.66, port: 53151, client-fingerprint: chrome, type: trojan, password: CMLiu, sni: trojan.classelivre.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: trojan.classelivre.eu.org}}, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 172.67.185.79, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
+  - {name: 🇮🇹 意大利+v2rayfree.eu.org 2, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false, udp: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: 172.67.172.67, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
+  - {name: 🇯🇵 日本 东京Amazon数据中心 2, server: 13.113.195.243, port: 13403, client-fingerprint: chrome, type: trojan, password: CaXVxUzCCDm5, sni: appsvs.shop, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org 3, server: in-full.privateip.net, port: 443, client-fingerprint: chrome, type: vmess, uuid: 69a83c73-f255-44e5-a8f4-eb145f0bba48, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: in-full.privateip.net}}, udp: true}
+  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心, server: 52.195.177.138, port: 13416, client-fingerprint: chrome, type: trojan, password: N9mAVBsYBL93, sni: appsvs.shop, skip-cert-verify: false, udp: true}
   - {name: 🇷🇺 俄罗斯  1, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false, udp: true}
   - {name: 🇮🇳 印度  2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
   - {name: 🇮🇳 印度  3, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}, udp: true}
@@ -101,42 +103,44 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -157,42 +161,44 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -214,42 +220,44 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -283,42 +291,44 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -337,6 +347,7 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -344,42 +355,44 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -400,42 +413,44 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -457,42 +472,44 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -523,42 +540,44 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇨🇳 甘肃省兰州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org
-      - 🇺🇸 美国 Amazon数据中心
-      - 🇨🇳 广东省佛山市 移动
-      - 🇨🇳 广东省佛山市 移动 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 2
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇨🇳 安徽省 移动数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 惠普HP
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 2
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心
+      - 🇨🇳 广东省江门市 移动
       - 🇺🇸 美国 CloudFlare节点 2
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 3
+      - 🇺🇸 美国+v2rayfree.eu.org
+      - 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心
       - 🇨🇳 湖北省武汉市 联通
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
-      - 🇨🇳 浙江省丽水市 移动
-      - 🇺🇸 美国 Amazon EC2服务器
-      - 🇨🇳 广东省 移动
-      - 🇨🇳 四川省 联通数据上网公共出口
       - 🇺🇸 美国 CloudFlare节点 3
-      - 🇨🇳 广东省广州市 移动
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 4
-      - 🇷🇺 俄罗斯 v2rayfree.eu.org 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2
-      - 🇨🇳 广东省中山市 广东移动中山市分公司
-      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
-      - 🇺🇸 美国 CloudFlare节点 5
-      - 🇺🇸 美国科罗拉多州布隆菲尔德市+Level3
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 5
-      - 🇺🇸 美国 CloudFlare节点 6
-      - 🇫🇷 法国+OVH机房SAS硬盘BGP主机 6
+      - 🇸🇬 新加坡 Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇺🇸 美国 Amazon数据中心
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇮🇪 爱尔兰 都柏林Amazon数据中心
+      - 🇺🇸 美国 阿里云
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇨🇳 广东省汕头市 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
+      - 🇧🇷 巴西圣保罗 CloudFlare节点
+      - 🇰🇷 韩国 蘑菇主机BGP数据中心
+      - 🇺🇸 美国 Amazon数据中心 2
+      - 🇺🇸 美国 CloudFlare节点 4
+      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国 CloudFlare节点 6
+      - 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心 2
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇺🇸 美国 v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 7
+      - 🇺🇸 美国 波特兰50Network网络公司
       - 🇺🇸 美国 CloudFlare节点 8
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
       - 🇺🇸 美国 CloudFlare节点 9
-      - 🇯🇵 日本 东京都Amazon数据中心
+      - 🇯🇵 日本 东京Amazon数据中心 2
+      - 🇺🇸 美国 v2rayfree.eu.org 3
+      - 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
