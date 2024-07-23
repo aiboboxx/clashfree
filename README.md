@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-07-22 13:01:19  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-07-23 01:51:47  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,11 +44,14 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.19.57.24, port: 2052, client-fingerprint: chrome, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: cdn2.freegradely.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.64.233.17, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.19.58.175, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip14.freegradely.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.19.47.113, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&amp;Telegram🇨🇳 @WangCai2", headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.20.25.146, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 🇨🇳 江苏省 移动, server: 36.151.195.77, port: 20819, client-fingerprint: chrome, type: trojan, password: MfqALmAJ, sni: 36.151.195.77, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: cfcdn3.sanfencdn9.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: 78c40177-c364-480d-bd77-76e9d89f69b4, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/Zo98PYfE, headers: {Host: kvjqqknzjp6.yofnhkfc.xyz}}}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress, server: 198.2.234.98, port: 39771, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇨🇳 江苏省镇江市+移动, server: tw03.jjjjjj.icu, port: 30401, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b, tfo: false}
+  - {name: 🇨🇳 河北省+中移铁通, server: nn.auozzjs.lol, port: 10002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b, tfo: false}
+  - {name: 🇨🇳 江苏省镇江市+移动 2, server: bgp3.jjjjjj.icu, port: 50003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b, tfo: false}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 155.724064.xyz, port: 443, client-fingerprint: chrome, type: vmess, uuid: 64917049-d265-477f-a4cf-b5076e746270, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sbudvws, headers: {Host: 155.724064.xyz}}}
+  - {name: 🇨🇳 江苏省镇江市+移动 3, server: hk15.jjjjjj.icu, port: 53251, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b, tfo: false}
   - {name: 🇷🇺 俄罗斯  1, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false}
   - {name: 🇮🇳 印度  2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}}
   - {name: 🇮🇳 印度  3, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}}
@@ -70,11 +73,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -95,11 +101,14 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -121,11 +130,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -151,11 +163,14 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -176,11 +191,14 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -202,11 +220,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
@@ -237,11 +258,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇨🇳 江苏省 移动
       - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇺🇸 美国加利福尼亚州洛杉矶 PetaExpress
+      - 🇨🇳 江苏省镇江市+移动
+      - 🇨🇳 河北省+中移铁通
+      - 🇨🇳 江苏省镇江市+移动 2
+      - 🇺🇸 美国 v2rayfree.eu.org
+      - 🇨🇳 江苏省镇江市+移动 3
       - 🇷🇺 俄罗斯  1
       - 🇮🇳 印度  2
       - 🇮🇳 印度  3
