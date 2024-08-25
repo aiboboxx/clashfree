@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-08-25 08:49:11  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-08-25 12:58:00  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,18 +44,16 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-1, server: 13.214.209.23, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-2, server: 34.219.130.214, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-4, server: 18.236.64.79, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-5, server: 34.219.154.160, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-6, server: 35.87.35.207, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-9, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-10, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-11, server: singapore.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-12, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-20, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-22, server: ip.sb, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-24, server: japan.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-2, server: 18.236.64.79, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-3, server: 34.219.154.160, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-5, server: 13.214.209.23, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-14, server: russia.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-15, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-17, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-18, server: 23.227.38.3, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-22, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-31, server: 172.64.166.22, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-37, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
   - {name: 2|d*********g.com_0, server: 104.19.51.232, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_1, server: 23.227.38.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_2, server: 104.16.148.244, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
@@ -449,18 +447,16 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -853,18 +849,16 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1258,18 +1252,16 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1690,18 +1682,16 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2094,18 +2084,16 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2499,18 +2487,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2913,18 +2899,16 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-1
       - 0|-https://t.me/MrXbin-2
-      - 0|-https://t.me/MrXbin-4
+      - 0|-https://t.me/MrXbin-3
       - 0|-https://t.me/MrXbin-5
-      - 0|-https://t.me/MrXbin-6
-      - 0|-https://t.me/MrXbin-9
-      - 0|-https://t.me/MrXbin-10
-      - 0|-https://t.me/MrXbin-11
-      - 0|-https://t.me/MrXbin-12
-      - 0|-https://t.me/MrXbin-20
+      - 0|-https://t.me/MrXbin-14
+      - 0|-https://t.me/MrXbin-15
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-18
       - 0|-https://t.me/MrXbin-22
-      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-37
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
