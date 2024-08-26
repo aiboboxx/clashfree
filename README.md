@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-08-26 01:56:09  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-08-26 04:49:31  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,20 +44,20 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-1, server: 18.236.64.79, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-3, server: 34.219.154.160, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-4, server: 35.87.35.207, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-5, server: 34.219.130.214, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-14, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-16, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-21, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-30, server: singapore.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-35, server: 23.227.38.3, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-37, server: 172.64.166.22, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-39, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: "0,12|CN_speednode_0028", server: cn2.cdn.xfltd-cdn.top, port: 12070, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
+  - {name: 0|-https://t.me/MrXbin-1, server: 34.219.130.214, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-3, server: 35.87.35.207, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-4, server: 18.236.64.79, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-5, server: 34.219.154.160, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-14, server: 172.64.166.22, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-17, server: russia.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-19, server: 23.227.38.3, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-24, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-27, server: 23.227.38.6, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.dtku47.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-29, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-31, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-33, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
   - {name: "0,12|CN_speednode_0014", server: cn2.cdn.xfltd-cdn.top, port: 12071, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
-  - {name: "0,12|CN_speednode_0027", server: cn2.cdn.xfltd-cdn.top, port: 12075, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
+  - {name: "0,12|CN_speednode_0028", server: cn2.cdn.xfltd-cdn.top, port: 12070, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 2|d*********g.com_0, server: 104.19.51.232, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_1, server: 23.227.38.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_2, server: 104.16.148.244, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
@@ -183,6 +183,7 @@ proxies:
   - {name: 12|CN_speednode_0024, server: cn2.cdn.xfltd-cdn.top, port: 12067, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 12|CN_speednode_0025, server: cn2.cdn.xfltd-cdn.top, port: 12041, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 12|CN_speednode_0026, server: cn2.cdn.xfltd-cdn.top, port: 12065, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
+  - {name: 12|CN_speednode_0027, server: cn2.cdn.xfltd-cdn.top, port: 12075, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 12|CN_speednode_0029, server: cn2.cdn.xfltd-cdn.top, port: 12068, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 12|CN_speednode_0030, server: cn2.cdn.xfltd-cdn.top, port: 12066, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
   - {name: 12|CN_speednode_0031, server: cn2.cdn.xfltd-cdn.top, port: 12069, client-fingerprint: chrome, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: false}
@@ -458,15 +459,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -592,6 +593,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -866,15 +868,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1000,6 +1002,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -1275,15 +1278,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1409,6 +1412,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -1712,15 +1716,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1846,6 +1850,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -2120,15 +2125,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2254,6 +2259,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -2529,15 +2535,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2663,6 +2669,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
@@ -2947,15 +2954,15 @@ proxy-groups:
       - 0|-https://t.me/MrXbin-4
       - 0|-https://t.me/MrXbin-5
       - 0|-https://t.me/MrXbin-14
-      - 0|-https://t.me/MrXbin-16
-      - 0|-https://t.me/MrXbin-21
-      - 0|-https://t.me/MrXbin-30
-      - 0|-https://t.me/MrXbin-35
-      - 0|-https://t.me/MrXbin-37
-      - 0|-https://t.me/MrXbin-39
-      - 0,12|CN_speednode_0028
+      - 0|-https://t.me/MrXbin-17
+      - 0|-https://t.me/MrXbin-19
+      - 0|-https://t.me/MrXbin-24
+      - 0|-https://t.me/MrXbin-27
+      - 0|-https://t.me/MrXbin-29
+      - 0|-https://t.me/MrXbin-31
+      - 0|-https://t.me/MrXbin-33
       - 0,12|CN_speednode_0014
-      - 0,12|CN_speednode_0027
+      - 0,12|CN_speednode_0028
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -3081,6 +3088,7 @@ proxy-groups:
       - 12|CN_speednode_0024
       - 12|CN_speednode_0025
       - 12|CN_speednode_0026
+      - 12|CN_speednode_0027
       - 12|CN_speednode_0029
       - 12|CN_speednode_0030
       - 12|CN_speednode_0031
