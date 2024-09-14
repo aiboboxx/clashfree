@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-09-14 08:48:55  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-09-14 13:00:04  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,13 +44,15 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|-https://t.me/MrXbin-107, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-115, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-121, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-122, server: 172.64.166.22, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-125, server: 23.227.38.6, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.dtku47.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-128, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
-  - {name: 0|-https://t.me/MrXbin-130, server: 23.227.38.3, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-21, server: 43.201.112.173, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|-https://t.me/MrXbin-60, server: singapore.com, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-74, server: 23.227.38.6, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.dtku47.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-75, server: 172.64.167.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-76, server: 23.227.38.3, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-81, server: 172.64.166.22, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-82, server: 172.64.166.28, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-84, server: 172.64.175.213, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.1457230.xyz}}}
+  - {name: 0|-https://t.me/MrXbin-86, server: 172.64.198.249, port: 2086, client-fingerprint: chrome, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1457230.xyz}}}
   - {name: 2|d*********g.com_0, server: 104.19.51.232, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_1, server: 23.227.38.5, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
   - {name: 2|d*********g.com_2, server: 104.16.148.244, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip006.freegradely.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip006.freegradely.xyz}}}
@@ -63,38 +65,38 @@ proxies:
   - {name: "4|d*********g.com_1 #2", server: 23.227.38.6, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip005.3196772.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip005.3196772.xyz}}}
   - {name: "4|d*********g.com_2 #2", server: 104.19.51.232, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip005.3196772.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip005.3196772.xyz}}}
   - {name: "4|d*********g.com_3 #2", server: 104.19.38.62, port: 2086, client-fingerprint: chrome, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip005.3196772.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip005.3196772.xyz}}}
-  - {name: 🇭🇰 7|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇭🇰 7|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇭🇰 7|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇹🇼 7|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇹🇼 7|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇹🇼 7|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇯🇵 7|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇯🇵 7|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇯🇵 7|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇸🇬 7|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇸🇬 7|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇸🇬 7|🇸🇬 新加坡 03 | 1x SG, server: free.2weradf.xyz, port: 36175, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇰🇷 7|🇰🇷 韩国 01 | 1x KR, server: free.2weradf.xyz, port: 36311, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇰🇷 7|🇰🇷 韩国 02 | 1x KR, server: free.2weradf.xyz, port: 36313, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇰🇷 7|🇰🇷 韩国 03 | 1x KR, server: free.2weradf.xyz, port: 36315, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇵🇭 7|🇵🇭 菲律宾 01 | 1x PH, server: free.2weradf.xyz, port: 36341, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇺🇸 7|🇺🇸 美国 【国外直连】, server: free.2weradf.xyz, port: 36211, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇺🇸 7|🇺🇸 美国住宅IP 02 | 1x US Los Angel..., server: free.2weradf.xyz, port: 36213, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇺🇸 7|🇺🇸 美国 03 | 1x US Washington, server: free.2weradf.xyz, port: 36215, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇬🇧 7|🇬🇧 英国住宅IP 01 | 1x UK, server: free.2weradf.xyz, port: 36271, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇲🇾 7|🇲🇾马来西亚 01 | 1x MY, server: free.2weradf.xyz, port: 36721, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇪🇸 7|🇮🇳西班牙 01 | 1x ES, server: free.2weradf.xyz, port: 36741, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇹🇭 7|🇹🇭泰国 01 | 1x TH, server: free.2weradf.xyz, port: 36731, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇮🇳 7|🇮🇳 印度 01 | 1x IN, server: free.2weradf.xyz, port: 36371, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇦🇺 7|🇦🇺 澳大利亚 01 | 1x AU, server: free.2weradf.xyz, port: 36411, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇨🇦 7|🇨🇦 加拿大 01 | 1x CA, server: free.2weradf.xyz, port: 36441, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇩🇪 7|🇩🇪 德国 01 | 1x DE, server: free.2weradf.xyz, port: 36471, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇷🇺 7|🇷🇺 俄罗斯 01 | 1x RU, server: free.2weradf.xyz, port: 36511, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇹🇷 7|🇹🇷 土耳其 01 | 1x TR, server: free.2weradf.xyz, port: 36571, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇺🇦 7|🇺🇦 乌克兰 01 | 1x UA, server: free.2weradf.xyz, port: 36611, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇻🇳 7|🇻🇳 越南 01 | 1x VN, server: free.2weradf.xyz, port: 36641, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
-  - {name: 🇧🇷 7|🇧🇷 巴西 01 | 1x BR, server: free.2weradf.xyz, port: 36671, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2ZkNjkxMi00Njg5LTQxZTEtYTQ5Yi1jMjE5ZGFiN2JjMTU, tfo: false}
+  - {name: 🇭🇰 7|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇭🇰 7|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇭🇰 7|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇹🇼 7|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇹🇼 7|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇹🇼 7|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇯🇵 7|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇯🇵 7|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇯🇵 7|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇸🇬 7|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇸🇬 7|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇸🇬 7|🇸🇬 新加坡 03 | 1x SG, server: free.2weradf.xyz, port: 36175, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇰🇷 7|🇰🇷 韩国 01 | 1x KR, server: free.2weradf.xyz, port: 36311, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇰🇷 7|🇰🇷 韩国 02 | 1x KR, server: free.2weradf.xyz, port: 36313, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇰🇷 7|🇰🇷 韩国 03 | 1x KR, server: free.2weradf.xyz, port: 36315, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇵🇭 7|🇵🇭 菲律宾 01 | 1x PH, server: free.2weradf.xyz, port: 36341, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇺🇸 7|🇺🇸 美国 【国外直连】, server: free.2weradf.xyz, port: 36211, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇺🇸 7|🇺🇸 美国住宅IP 02 | 1x US Los Angel..., server: free.2weradf.xyz, port: 36213, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇺🇸 7|🇺🇸 美国 03 | 1x US Washington, server: free.2weradf.xyz, port: 36215, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇬🇧 7|🇬🇧 英国住宅IP 01 | 1x UK, server: free.2weradf.xyz, port: 36271, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇲🇾 7|🇲🇾马来西亚 01 | 1x MY, server: free.2weradf.xyz, port: 36721, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇪🇸 7|🇮🇳西班牙 01 | 1x ES, server: free.2weradf.xyz, port: 36741, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇹🇭 7|🇹🇭泰国 01 | 1x TH, server: free.2weradf.xyz, port: 36731, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇮🇳 7|🇮🇳 印度 01 | 1x IN, server: free.2weradf.xyz, port: 36371, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇦🇺 7|🇦🇺 澳大利亚 01 | 1x AU, server: free.2weradf.xyz, port: 36411, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇨🇦 7|🇨🇦 加拿大 01 | 1x CA, server: free.2weradf.xyz, port: 36441, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇩🇪 7|🇩🇪 德国 01 | 1x DE, server: free.2weradf.xyz, port: 36471, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇷🇺 7|🇷🇺 俄罗斯 01 | 1x RU, server: free.2weradf.xyz, port: 36511, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇹🇷 7|🇹🇷 土耳其 01 | 1x TR, server: free.2weradf.xyz, port: 36571, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇺🇦 7|🇺🇦 乌克兰 01 | 1x UA, server: free.2weradf.xyz, port: 36611, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇻🇳 7|🇻🇳 越南 01 | 1x VN, server: free.2weradf.xyz, port: 36641, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
+  - {name: 🇧🇷 7|🇧🇷 巴西 01 | 1x BR, server: free.2weradf.xyz, port: 36671, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTAxNWM3Ny02MDg3LTRlODQtOTVmYS1iNWY2NTM0NDk5ZDk, tfo: false}
   - {name: 🇭🇰 9|🇭🇰香港 【国外直连】, server: free.2apzhfa.xyz, port: 31141, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmY2Y0YThiOC01NWYxLTRjMmUtOWY0Mi05MGE4MjllN2NjY2U, tfo: false}
   - {name: 🇭🇰 9|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmY2Y0YThiOC01NWYxLTRjMmUtOWY0Mi05MGE4MjllN2NjY2U, tfo: false}
   - {name: 🇭🇰 9|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, client-fingerprint: chrome, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmY2Y0YThiOC01NWYxLTRjMmUtOWY0Mi05MGE4MjllN2NjY2U, tfo: false}
@@ -512,13 +514,15 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -979,13 +983,15 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1447,13 +1453,15 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -1939,13 +1947,15 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2406,13 +2416,15 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -2874,13 +2886,15 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
@@ -3351,13 +3365,15 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|-https://t.me/MrXbin-107
-      - 0|-https://t.me/MrXbin-115
-      - 0|-https://t.me/MrXbin-121
-      - 0|-https://t.me/MrXbin-122
-      - 0|-https://t.me/MrXbin-125
-      - 0|-https://t.me/MrXbin-128
-      - 0|-https://t.me/MrXbin-130
+      - 0|-https://t.me/MrXbin-21
+      - 0|-https://t.me/MrXbin-60
+      - 0|-https://t.me/MrXbin-74
+      - 0|-https://t.me/MrXbin-75
+      - 0|-https://t.me/MrXbin-76
+      - 0|-https://t.me/MrXbin-81
+      - 0|-https://t.me/MrXbin-82
+      - 0|-https://t.me/MrXbin-84
+      - 0|-https://t.me/MrXbin-86
       - 2|d*********g.com_0
       - 2|d*********g.com_1
       - 2|d*********g.com_2
