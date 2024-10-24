@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-24 04:50:04  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-24 08:51:02  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,9 +44,9 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, client-fingerprint: chrome, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}}
-  - {name: 🇵🇱 波兰+v2rayfree.eu.org, server: 193.243.147.128, port: 40368, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 7BcLdsO1WweoGD0X, tfo: false}
-  - {name: 🇮🇹 意大利+v2rayfree.eu.org, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
+  - {name: 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: www.darkroom.lol, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.21.82.183, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}}
   - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false}
 proxy-groups:
   - name: 🔰 节点选择
@@ -55,9 +55,9 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: ♻️ 自动选择
     type: url-test
@@ -65,9 +65,9 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: 🌍 国外媒体
     type: select
@@ -76,9 +76,9 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: 🌏 国内媒体
     type: select
@@ -91,9 +91,9 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: 📲 电报信息
     type: select
@@ -101,9 +101,9 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: 🍎 苹果服务
     type: select
@@ -112,9 +112,9 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
   - name: 🎯 全球直连
     type: select
@@ -132,9 +132,9 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇵🇱 波兰+v2rayfree.eu.org
-      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇷🇺 俄罗斯+v2rayfree.eu.org
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
