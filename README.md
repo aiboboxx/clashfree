@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-26 04:49:10  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-26 08:49:09  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -42,25 +42,44 @@ dns:
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
-proxies: ~
+proxies:
+  - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
+  - {name: 🇮🇹 意大利+v2rayfree.eu.org, server: service.ouluyun9803.com, port: 20005, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
+  - {name: 🇮🇹 意大利+v2rayfree.eu.org 2, server: service.ouluyun9803.com, port: 20003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pendar.onthewifi.com}}}
+  - {name: 🇮🇳 印度 v2rayfree.eu.org 2, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - DIRECT
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -71,17 +90,32 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -97,6 +131,11 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇮🇹 意大利+v2rayfree.eu.org 2
+      - 🇮🇳 印度 v2rayfree.eu.org
+      - 🇮🇳 印度 v2rayfree.eu.org 2
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
