@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-03 16:48:59  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-03 20:49:14  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,14 +44,13 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 38.75.136.117, port: 2376, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: 0|--1, server: 45.87.175.188, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
   - {name: 0|--3, server: 156.146.38.168, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--4, server: 45.87.175.164, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--19, server: 172.64.166.2, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip12.6016725.xyz}}}
-  - {name: 0|--24, server: 172.64.167.44, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip16.6929198.xyz}}}
-  - {name: 0|--32, server: 172.64.167.8, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip11.6016725.xyz}}}
-  - {name: 0|--34, server: 172.64.166.9, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip11.6016725.xyz}}}
-  - {name: 0|--37, server: 172.64.166.8, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip12.6016725.xyz}}}
+  - {name: 0|--4, server: 38.75.136.117, port: 2376, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: 0|--27, server: n002.kovmk.website, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 6dde3b3f-0a00-448a-a406-26d0960d1655, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: n002.kovmk.website, network: ws, ws-opts: {path: /xyz, headers: {Host: daohang.kovmk.website}}}
+  - {name: 0|--31, server: m003.mmzhk.website, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 6dde3b3f-0a00-448a-a406-26d0960d1655, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: m003.mmzhk.website, network: ws, ws-opts: {path: /xyz, headers: {Host: daohang.mmzhk.website}}}
+  - {name: 0|--32, server: m003.mmzhk.website, port: 8080, client-fingerprint: chrome, type: vmess, uuid: c3d1b53d-8cbe-4455-a009-bfa08e55f11d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /xyz, headers: {Host: daohang.mmzhk.website}}}
+  - {name: 0|--34, server: speedtest.net, port: 443, client-fingerprint: chrome, type: vmess, uuid: 57727d7d-8873-4000-b3f4-33a93fcfdd51, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: mehrjavan.ir, network: ws, ws-opts: {path: /m28jcoZZUhkqg6pk11, headers: {Host: mehrjavan.ir}}}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -135,11 +134,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -222,11 +220,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -310,11 +307,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -418,11 +414,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -505,11 +500,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -593,11 +587,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -690,11 +683,10 @@ proxy-groups:
       - 0|--1
       - 0|--3
       - 0|--4
-      - 0|--19
-      - 0|--24
+      - 0|--27
+      - 0|--31
       - 0|--32
       - 0|--34
-      - 0|--37
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
