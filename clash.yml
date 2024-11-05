@@ -16,16 +16,14 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--3, server: 3.138.200.105, port: 1093, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cE7iaxN0dgyugxTb8EqRqQ, tfo: false}
-  - {name: 0|--5, server: 212.102.53.195, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--10, server: 35.93.4.218, port: 5052, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: FqoIyKig0g54YdCoMWTybb, tfo: false}
-  - {name: 0|--11, server: 35.93.40.37, port: 28351, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ca0Is1g0AH3W18oOH3RlJy, tfo: false}
+  - {name: 0|--1, server: 212.102.53.195, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: "🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian", server: 156.146.38.168, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--26, server: 172.64.167.15, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip16.6929198.xyz}}}
-  - {name: 0|--34, server: russia.com, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip11.6016725.xyz}}}
-  - {name: 0|--36, server: 172.64.166.22, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip20.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip20.6016725.xyz}}}
-  - {name: 0|--42, server: 172.64.175.88, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip18.6929198.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
-  - {name: 0|--45, server: 172.67.173.142, port: 443, client-fingerprint: chrome, type: vmess, uuid: b87e29df-7dd9-4c0c-8530-b2847e27522c, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: cjuzius.zdzdzd.xyz, network: ws, ws-opts: {path: /juzi, headers: {Host: cjuzius.zdzdzd.xyz}}}
+  - {name: 0|--19, server: 172.64.99.22, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip18.6929198.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
+  - {name: 0|--33, server: 172.64.166.22, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip20.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip20.6016725.xyz}}}
+  - {name: 0|--35, server: 172.64.166.9, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip11.6016725.xyz}}}
+  - {name: 0|--36, server: 172.64.166.2, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip18.6929198.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
+  - {name: 0|--40, server: dkzbofzkop.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /rbqqvws, headers: {Host: dkzbofzkop.com}}}
+  - {name: 0|--44, server: m003.mmzhk.website, port: 8080, client-fingerprint: chrome, type: vmess, uuid: c3d1b53d-8cbe-4455-a009-bfa08e55f11d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /xyz, headers: {Host: daohang.mmzhk.website}}}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -247,16 +245,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -477,16 +473,14 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -708,16 +702,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -961,16 +953,14 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1191,16 +1181,14 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1422,16 +1410,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1662,16 +1648,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--3
-      - 0|--5
-      - 0|--10
-      - 0|--11
+      - 0|--1
       - 🇺🇸 0,13|🇺🇸 美国3|@ripaojiedian
-      - 0|--26
-      - 0|--34
+      - 0|--19
+      - 0|--33
+      - 0|--35
       - 0|--36
-      - 0|--42
-      - 0|--45
+      - 0|--40
+      - 0|--44
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
