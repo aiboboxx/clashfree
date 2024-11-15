@@ -16,30 +16,36 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 45.87.175.188, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--2, server: 77.246.97.187, port: 7749, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 7kJQs2RYHhViTYWaf1RobB, tfo: false}
-  - {name: 0|--3, server: 23.157.40.113, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
-  - {name: 0|--4, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--5, server: 45.87.175.188, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
-  - {name: 0|--6, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
-  - {name: 0|--7, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--1, server: 38.75.136.117, port: 5003, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: 0|--2, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--3, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--4, server: 23.157.40.113, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: 0|--5, server: 45.87.175.192, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
+  - {name: 0|--6, server: 45.87.175.192, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--7, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--8, server: 205.134.180.150, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, tfo: false}
   - {name: 0|--9, server: 45.87.175.188, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--11, server: 45.87.175.192, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--12, server: 45.87.175.192, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
-  - {name: 0|--13, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--14, server: 45.87.175.164, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--15, server: 54.187.244.22, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--16, server: 221.139.79.57, port: 54345, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--17, server: 45.87.175.192, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--18, server: 213.108.23.243, port: 15584, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: gNz73UbALLdO4RKGc99Gul, tfo: false}
-  - {name: 0|--19, server: 45.87.175.157, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--40, server: 38.75.137.121, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 38.75.137.121, network: ws, ws-opts: {path: /linkvws, headers: {Host: 38.75.137.121}}}
-  - {name: 0|--41, server: 185.49.231.102, port: 5115, client-fingerprint: chrome, type: vmess, uuid: 48a00d77-ecef-4ea9-8d60-c7ea8ea0ea09, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 0|--42, server: speedtest.net, port: 443, client-fingerprint: chrome, type: vmess, uuid: 57727d7d-8873-4000-b3f4-33a93fcfdd51, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: mehrjavan.ir, network: ws, ws-opts: {path: /m28jcoZZUhkqg6pk11, headers: {Host: mehrjavan.ir}}}
-  - {name: 0|--44, server: 216.221.214.50, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
-  - {name: 0|--46, server: 20.246.127.166, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
-  - {name: 0|--47, server: 192.0.54.172, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--13, server: 45.87.175.188, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--15, server: 169.197.141.84, port: 9090, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 0|--16, server: 169.197.141.84, port: 8091, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
+  - {name: 0|--24, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
+  - {name: 0|--28, server: 38.75.136.117, port: 2376, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: 0|--29, server: 45.87.175.164, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--48, server: 172.64.175.88, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip18.6929198.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
+  - {name: 0|--49, server: speedtest.net, port: 443, client-fingerprint: chrome, type: vmess, uuid: 57727d7d-8873-4000-b3f4-33a93fcfdd51, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: mehrjavan.ir, network: ws, ws-opts: {path: /m28jcoZZUhkqg6pk11, headers: {Host: mehrjavan.ir}}}
+  - {name: 0|--51, server: 194.76.18.113, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--54, server: 172.64.166.22, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip20.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip20.6016725.xyz}}}
+  - {name: 0|--55, server: 185.49.231.102, port: 5115, client-fingerprint: chrome, type: vmess, uuid: 48a00d77-ecef-4ea9-8d60-c7ea8ea0ea09, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 0|--56, server: 38.75.137.121, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 38.75.137.121, network: ws, ws-opts: {path: /linkvws, headers: {Host: 38.75.137.121}}}
+  - {name: 0|--57, server: 149.7.16.194, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws, headers: {Host: 149.7.16.194}}}
+  - {name: 0|--59, server: 192.0.54.172, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--60, server: 80.158.63.104, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--61, server: 211.248.216.119, port: 17443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--64, server: 212.183.88.77, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--66, server: 216.221.214.50, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
+  - {name: 0|--68, server: 172.245.68.220, port: 17524, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com}}}
   - {name: "0,15|DE_speednode_0010", server: 3.127.197.237, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 0|--70, server: 216.128.147.13, port: 443, client-fingerprint: chrome, type: trojan, password: wkmY1R4EcP, sni: z-v2-003274.kailib.com, skip-cert-verify: false}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -148,23 +154,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -272,23 +284,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -397,23 +415,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -539,23 +563,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -663,23 +693,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -788,23 +824,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -922,23 +964,29 @@ proxy-groups:
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
-      - 0|--11
-      - 0|--12
       - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
-      - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--40
-      - 0|--41
-      - 0|--42
-      - 0|--44
-      - 0|--46
-      - 0|--47
+      - 0|--24
+      - 0|--28
+      - 0|--29
+      - 0|--48
+      - 0|--49
+      - 0|--51
+      - 0|--54
+      - 0|--55
+      - 0|--56
+      - 0|--57
+      - 0|--59
+      - 0|--60
+      - 0|--61
+      - 0|--64
+      - 0|--66
+      - 0|--68
       - 0,15|DE_speednode_0010
+      - 0|--70
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
