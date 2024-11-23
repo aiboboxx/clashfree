@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-23 04:49:41  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-23 08:50:28  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,13 +44,13 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--2, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--21, server: 188.114.96.3, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
-  - {name: 0|--22, server: 172.67.175.56, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--1, server: 194.87.82.28, port: 12224, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2fwufOmJ9ELfN4umzcHBfV, tfo: false}
+  - {name: 0|--18, server: 188.114.96.3, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--23, server: 172.67.175.56, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
   - {name: 0|--26, server: 172.67.71.160, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
-  - {name: 0|--28, server: 188.114.97.2, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
-  - {name: 0|--32, server: 45.149.12.84, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/linkws#@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1/?ed=2560", headers: {Host: obdii.cfd}}}
+  - {name: 0|--28, server: 45.149.12.84, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/linkws#@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1/?ed=2560", headers: {Host: obdii.cfd}}}
+  - {name: 0|--30, server: 188.114.97.2, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--31, server: 185.146.173.59, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -88,111 +88,63 @@ proxies:
   - {name: 🇯🇵 14|日本特殊|@ripaojiedian, server: 54.199.66.30, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇰🇷 14|韩国特殊|@ripaojiedian, server: 3.112.124.200, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 35.89.254.222, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
-  - {name: 15|AE_speednode_0001, server: 181.214.1.71, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
+  - {name: 15|AT_speednode_0001, server: 212.183.88.242, port: 443, client-fingerprint: chrome, type: vless, uuid: a13df940-020c-465f-bc89-ee5279b5cd6a, tls: false, tfo: false, skip-cert-verify: false, servername: dw.ylks.xyz, network: ws, ws-opts: {path: /bluesecurity=tlssecurity=tls, headers: {Host: dw.ylks.xyz}}}
   - {name: 15|AT_speednode_0002, server: 212.183.88.242, port: 443, client-fingerprint: chrome, type: vless, uuid: a13df940-020c-465f-bc89-ee5279b5cd6a, tls: true, tfo: false, skip-cert-verify: false, servername: dw.ylks.xyz, network: ws, ws-opts: {path: /bluefp=chrome, headers: {Host: dw.ylks.xyz}}}
-  - {name: 15|AT_speednode_0003, server: 212.183.88.242, port: 443, client-fingerprint: chrome, type: vless, uuid: a13df940-020c-465f-bc89-ee5279b5cd6a, tls: false, tfo: false, skip-cert-verify: false, servername: dw.ylks.xyz, network: ws, ws-opts: {path: /bluesecurity=tlssecurity=tls, headers: {Host: dw.ylks.xyz}}}
-  - {name: 15|BG_speednode_0004, server: 31.13.248.74, port: 8000, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|CA_speednode_0005, server: 81.19.140.78, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|CH_speednode_0006, server: 185.18.250.126, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|CH_speednode_0007, server: 185.18.250.200, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|CN_speednode_0008, server: 36.151.192.198, port: 36900, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.198, skip-cert-verify: false}
-  - {name: 15|CR_speednode_0009, server: 190.93.244.0, port: 2086, client-fingerprint: chrome, type: vless, uuid: 636b1684-b26c-4a9c-bc6e-8e1197a36d74, tls: false, tfo: false, skip-cert-verify: false, servername: workerr.hashdiler.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: workerr.hashdiler.workers.dev}}}
-  - {name: 15|CR_speednode_0010, server: 190.93.245.245, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|CR_speednode_0011, server: 190.93.247.56, port: 8080, client-fingerprint: chrome, type: vless, uuid: 87cf378a-ae8c-4f05-b342-f836ffdf9b2a, tls: false, tfo: false, skip-cert-verify: false, servername: legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz., network: ws, ws-opts: {path: "/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed=2560", headers: {Host: legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.}}}
-  - {name: 15|DE_speednode_0012, server: 188.245.203.136, port: 2096, client-fingerprint: chrome, type: vless, uuid: 5e3647f8-1744-4a06-83b0-d6343ec84f62, tls: true, tfo: false, skip-cert-verify: false, servername: mcc.rayanfmusic.IR, network: ws, ws-opts: {path: "/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed=2096fp=ios", headers: {Host: mcc.rayanfmusic.IR}}}
-  - {name: 15|DE_speednode_0013, server: 92.118.190.71, port: 55555, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|DE_speednode_0014, server: 185.103.253.35, port: 443, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com}}}
-  - {name: 15|DE_speednode_0015, server: 37.120.184.206, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|ES_speednode_0016, server: 194.164.170.244, port: 2053, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
-  - {name: 15|ES_speednode_0017, server: 94.250.246.200, port: 8080, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|GB_speednode_0018, server: 194.36.55.67, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|GB_speednode_0019, server: 194.36.55.16, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|HK_speednode_0020, server: 8.218.132.79, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|HK_speednode_0021, server: 59.149.204.218, port: 54321, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|IR_speednode_0022, server: 94.182.136.181, port: 2222, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|JP_speednode_0023, server: 18.179.44.127, port: 443, client-fingerprint: chrome, type: trojan, password: b21dc611-652c-3081-bd10-b239f2ae25e4, sni: steampipe-kr.akamaized.net, skip-cert-verify: false}
-  - {name: 15|JP_speednode_0024, server: 35.75.8.137, port: 443, client-fingerprint: chrome, type: trojan, password: b21dc611-652c-3081-bd10-b239f2ae25e4, sni: steampipe-partner.akamaized.net, skip-cert-verify: false}
-  - {name: 15|KR_speednode_0025, server: 119.205.51.190, port: 50000, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com}}}
-  - {name: 15|KR_speednode_0026, server: 222.108.94.228, port: 50000, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com}}}
-  - {name: 15|KR_speednode_0027, server: 61.79.32.239, port: 19017, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com}}}
-  - {name: 15|KR_speednode_0028, server: 14.43.88.180, port: 33890, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|KR_speednode_0029, server: 106.242.64.238, port: 30015, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org}}}
-  - {name: 15|KZ_speednode_0030, server: 31.43.179.49, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|LU_speednode_0037, server: 188.42.89.163, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|MD_speednode_0038, server: 95.164.22.239, port: 2501, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|MD_speednode_0039, server: 95.164.22.239, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0040, server: 2.58.56.31, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0041, server: 45.94.31.109, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0042, server: 103.214.68.133, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0043, server: 45.94.31.109, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0044, server: 45.94.31.75, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0045, server: 45.94.31.75, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|NL_speednode_0046, server: 195.200.19.139, port: 6060, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|RO_speednode_0047, server: 146.70.254.235, port: 8443, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
-  - {name: 15|RO_speednode_0048, server: 146.70.254.232, port: 8443, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
-  - {name: 15|RU_speednode_0051, server: 185.59.218.232, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|RU_speednode_0052, server: 185.148.107.92, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|RU_speednode_0053, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: "/Telegram@V2ray_Alpha/?ed=2048security=tls", headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|RU_speednode_0054, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlsfp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|RU_speednode_0055, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|RU_speednode_0056, server: 185.22.155.139, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560fp=chrome", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|RU_speednode_0057, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlssecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|RU_speednode_0058, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /fp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|RU_speednode_0059, server: 91.227.18.81, port: 2053, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
-  - {name: 15|RU_speednode_0060, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlsfp=chromefp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
-  - {name: 15|SE_speednode_0061, server: 95.164.51.24, port: 2501, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|SE_speednode_0062, server: 185.146.173.58, port: 8080, client-fingerprint: chrome, type: vless, uuid: 26757718-95ee-406d-8c9a-bb5c4cfdd9ac, tls: false, tfo: false, skip-cert-verify: false, servername: lc80.lebasnoo.ir., network: ws, ws-opts: {path: /servernett, headers: {Host: lc80.lebasnoo.ir.}}}
-  - {name: 15|SG_speednode_0063, server: 168.138.178.6, port: 19990, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com, network: ws, ws-opts: {path: /edgetunnel.2424014450.workers.dev/proxyIP=proxyip.sg.fxxk.dedyn.iofp=random, headers: {Host: 8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com}}}
-  - {name: 15|TR_speednode_0064, server: 95.164.116.22, port: 2501, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|US_speednode_0065, server: VPNCSTOMIZE.fastly80-3.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 458f30b9-5ed9-477e-9d7a-9b587c02fea2, tls: false, tfo: false, skip-cert-verify: false, servername: api.nhl.ir, network: ws, ws-opts: {path: "/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed", headers: {Host: api.nhl.ir}}}
-  - {name: 15|US_speednode_0066, server: 151.101.65.210, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: pooleno.ir, network: ws, ws-opts: {path: "/GGPPfZ3NKyOoKNiK?ed=2560fp=firefox", headers: {Host: pooleno.ir}}}
-  - {name: 15|US_speednode_0067, server: 199.232.5.101, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=chrome", headers: {Host: mefa.ir}}}
-  - {name: 15|US_speednode_0068, server: 199.232.5.79, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: mefa.ir}}}
-  - {name: 15|US_speednode_0069, server: 199.232.5.79, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=chrome", headers: {Host: mefa.ir}}}
-  - {name: 15|US_speednode_0070, server: 172.67.175.9, port: 80, client-fingerprint: chrome, type: vless, uuid: ea9148b9-13b7-41cf-8911-94234e7c3fcf, tls: false, tfo: false, skip-cert-verify: false, servername: private-codmhttp.teqqlzdw.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: private-codmhttp.teqqlzdw.workers.dev}}}
-  - {name: 15|US_speednode_0071, server: 199.232.32.247, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0072, server: 104.17.26.104, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0073, server: 104.17.212.83, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0074, server: 199.232.8.68, port: 443, client-fingerprint: chrome, type: vless, uuid: 80772220-3e7d-5f06-ae29-96672b8fa6df, tls: true, tfo: false, skip-cert-verify: false, servername: ELiv2RAy-jOiN.cOm, network: ws, ws-opts: {path: /fp=qq, headers: {Host: ELiv2RAy-jOiN.cOm}}}
-  - {name: 15|US_speednode_0075, server: 104.18.126.133, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0076, server: 199.232.33.127, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: mefa.ir}}}
-  - {name: 15|US_speednode_0077, server: 104.16.192.62, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0078, server: 140.248.152.40, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0079, server: 104.16.201.49, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0080, server: 167.82.97.248, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: backtory.com, network: ws, ws-opts: {path: /security=tls, headers: {Host: backtory.com}}}
-  - {name: 15|US_speednode_0081, server: 199.232.6.53, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0082, server: 172.66.45.10, port: 443, client-fingerprint: chrome, type: vless, uuid: 70ea7a10-de3e-4922-bc7c-4dd7c2cef882, tls: false, tfo: false, skip-cert-verify: false, servername: newtunnel-2xm.pages.dev, network: ws, ws-opts: {path: /vlesssecurity=tls, headers: {Host: newtunnel-2xm.pages.dev}}}
-  - {name: 15|US_speednode_0083, server: 104.17.70.154, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0084, server: 199.232.7.154, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0085, server: 172.66.44.106, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: MabdI.PAGeS.DEv, network: ws, ws-opts: {path: "/9GqWAHqtHAZpMxkq?ed=2560fp=randomized", headers: {Host: MabdI.PAGeS.DEv}}}
-  - {name: 15|US_speednode_0086, server: 199.232.5.66, port: 443, client-fingerprint: chrome, type: vless, uuid: c8127c55-420b-5801-966b-a0e0dc237032, tls: true, tfo: false, skip-cert-verify: false, servername: ELiV2RaY-0.cOm, network: ws, ws-opts: {path: /fp=qq, headers: {Host: ELiV2RaY-0.cOm}}}
-  - {name: 15|US_speednode_0087, server: 165.154.134.125, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
-  - {name: 15|US_speednode_0088, server: bestcf.onecf.eu.org, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0089, server: 108.162.198.34, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0090, server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: c921c664-d82d-4317-b4d0-7640cc9aa760, tls: false, tfo: false, skip-cert-verify: false, servername: TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir, network: ws, ws-opts: {path: "/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480", headers: {Host: TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir}}}
-  - {name: 15|US_speednode_0091, server: 199.232.8.31, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0092, server: 140.248.152.40, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0093, server: 104.17.46.20, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0094, server: 104.21.234.71, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.us.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0095, server: unlimiteddev.fastly80-3.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 60483bc2-ba33-46aa-bedd-20056a505aca, tls: false, tfo: false, skip-cert-verify: false, servername: UNLIMITEDDEV.channel-telegram-1.ir, network: ws, ws-opts: {path: "/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=chrome", headers: {Host: UNLIMITEDDEV.channel-telegram-1.ir}}}
-  - {name: 15|US_speednode_0096, server: 104.19.240.243, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0097, server: 104.18.12.229, port: 8443, client-fingerprint: chrome, type: vless, uuid: ffd3906e-60c9-451e-8ed1-7114107e102c, tls: false, tfo: false, skip-cert-verify: false, servername: pardazeshvpn-tg70.pages.dev, network: ws, ws-opts: {path: /security=tls, headers: {Host: pardazeshvpn-tg70.pages.dev}}}
-  - {name: 15|US_speednode_0098, server: 199.232.32.247, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0099, server: NUFiLTER.fastly80-2.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 651d818e-4d5c-4180-a295-1db7a8fabc71, tls: false, tfo: false, skip-cert-verify: false, servername: Berim3arekar.net, network: ws, ws-opts: {path: "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048", headers: {Host: Berim3arekar.net}}}
-  - {name: 15|US_speednode_0100, server: cfip.xxxxxxxx.tk, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0101, server: 199.232.32.234, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: behdasht.hrtc.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: behdasht.hrtc.ir}}}
-  - {name: 15|US_speednode_0102, server: 104.21.92.73, port: 443, client-fingerprint: chrome, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: trojan.putata.us.kg}}}
-  - {name: 15|US_speednode_0103, server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz, port: 443, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com}}}
-  - {name: 15|US_speednode_0104, server: www.wto.org, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0105, server: 199.181.197.247, port: 80, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: false, tfo: false, skip-cert-verify: false, servername: edgetunnel.2424014450.workers.dev, network: ws, ws-opts: {path: /proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome, headers: {Host: edgetunnel.2424014450.workers.dev}}}
-  - {name: 15|US_speednode_0106, server: 104.19.34.51, port: 443, client-fingerprint: chrome, type: vless, uuid: 113dd109-540e-4497-9d47-eed30315260f, tls: true, tfo: false, skip-cert-verify: false, servername: 478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com, network: ws, ws-opts: {path: "/edgetunnel.2424014450.workers.dev/?ed=2560fp=random", headers: {Host: 478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com}}}
-  - {name: 15|US_speednode_0107, server: 199.232.0.21, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
-  - {name: 15|US_speednode_0108, server: 104.22.52.235, port: 80, client-fingerprint: chrome, type: vless, uuid: b5cdabf0-e048-4fa2-90da-9379b1a4926e, tls: false, tfo: false, skip-cert-verify: false, servername: cc.ailicf.us.kg, network: ws, ws-opts: {path: /b5cdabf0-e04, headers: {Host: cc.ailicf.us.kg}}}
-  - {name: 15|US_speednode_0109, server: 104.22.53.235, port: 80, client-fingerprint: chrome, type: vless, uuid: b5cdabf0-e048-4fa2-90da-9379b1a4926e, tls: false, tfo: false, skip-cert-verify: false, servername: cc.ailicf.us.kg, network: ws, ws-opts: {path: /b5cdabf0-e04, headers: {Host: cc.ailicf.us.kg}}}
-  - {name: 15|US_speednode_0110, server: 172.67.27.46, port: 80, client-fingerprint: chrome, type: vless, uuid: b5cdabf0-e048-4fa2-90da-9379b1a4926e, tls: false, tfo: false, skip-cert-verify: false, servername: cc.ailicf.us.kg, network: ws, ws-opts: {path: /b5cdabf0-e04, headers: {Host: cc.ailicf.us.kg}}}
-  - {name: 15|US_speednode_0112, server: 104.21.65.53, port: 80, client-fingerprint: chrome, type: vless, uuid: 243ff879-b317-4430-894e-767a131db2ca, tls: false, tfo: false, skip-cert-verify: false, servername: tr1-vless.ctunnel.xyz, network: ws, ws-opts: {path: "/vless#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro?ed=2048fp=chrome", headers: {Host: tr1-vless.ctunnel.xyz}}}
-  - {name: 15|US_speednode_0113, server: 104.19.198.103, port: 80, client-fingerprint: chrome, type: vless, uuid: 243ff879-b317-4430-894e-767a131db2ca, tls: false, tfo: false, skip-cert-verify: false, servername: tr1-vless.ctunnel.xyz, network: ws, ws-opts: {path: "/vless#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro?ed=2048", headers: {Host: tr1-vless.ctunnel.xyz}}}
-  - {name: 15|VN_speednode_0115, server: 152.32.255.24, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|BG_speednode_0003, server: 31.13.248.74, port: 8000, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|CA_speednode_0004, server: 81.19.140.78, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|CN_speednode_0005, server: 36.151.192.198, port: 36900, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.198, skip-cert-verify: false}
+  - {name: 15|CR_speednode_0006, server: 190.93.247.56, port: 8080, client-fingerprint: chrome, type: vless, uuid: 87cf378a-ae8c-4f05-b342-f836ffdf9b2a, tls: false, tfo: false, skip-cert-verify: false, servername: legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz., network: ws, ws-opts: {path: "/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed=2560", headers: {Host: legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.}}}
+  - {name: 15|DE_speednode_0007, server: 92.118.190.71, port: 55555, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|DE_speednode_0008, server: 37.120.184.206, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|ES_speednode_0009, server: 194.164.170.244, port: 2053, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
+  - {name: 15|ES_speednode_0010, server: 94.250.246.200, port: 8080, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|MD_speednode_0011, server: 95.164.22.239, port: 2501, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|MD_speednode_0012, server: 95.164.22.239, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0013, server: 45.94.31.109, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0014, server: 2.58.56.31, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0015, server: 45.94.31.109, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0016, server: 45.94.31.75, port: 2003, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0017, server: 45.94.31.75, port: 1001, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0018, server: 103.214.68.133, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|NL_speednode_0019, server: 195.200.19.139, port: 6060, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|RO_speednode_0020, server: 146.70.254.235, port: 8443, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
+  - {name: 15|RU_speednode_0021, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: "/Telegram@V2ray_Alpha/?ed=2048security=tls", headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|RU_speednode_0022, server: 185.22.155.139, port: 587, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560fp=chrome", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|RU_speednode_0023, server: 91.227.18.81, port: 2053, client-fingerprint: chrome, type: vless, uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd, tls: false, tfo: false, skip-cert-verify: false, servername: happy.mianfeicf.lol, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: happy.mianfeicf.lol}}}
+  - {name: 15|RU_speednode_0024, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlssecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|RU_speednode_0025, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /fp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|RU_speednode_0026, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|RU_speednode_0027, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlsfp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|RU_speednode_0028, server: 188.42.145.159, port: 443, client-fingerprint: chrome, type: vless, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, tls: false, tfo: false, skip-cert-verify: false, servername: VIrgiNiavPn-nL.pagEs.dEv, network: ws, ws-opts: {path: /security=tlsfp=chromefp=chromesecurity=tls, headers: {Host: VIrgiNiavPn-nL.pagEs.dEv}}}
+  - {name: 15|SE_speednode_0029, server: 185.146.173.58, port: 8080, client-fingerprint: chrome, type: vless, uuid: 26757718-95ee-406d-8c9a-bb5c4cfdd9ac, tls: false, tfo: false, skip-cert-verify: false, servername: lc80.lebasnoo.ir., network: ws, ws-opts: {path: /servernett, headers: {Host: lc80.lebasnoo.ir.}}}
+  - {name: 15|TR_speednode_0030, server: 95.164.116.22, port: 2501, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, servername: a.mifeng.us.kg, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: a.mifeng.us.kg}}}
+  - {name: 15|US_speednode_0031, server: VPNCSTOMIZE.fastly80-3.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 458f30b9-5ed9-477e-9d7a-9b587c02fea2, tls: false, tfo: false, skip-cert-verify: false, servername: api.nhl.ir, network: ws, ws-opts: {path: "/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed", headers: {Host: api.nhl.ir}}}
+  - {name: 15|US_speednode_0032, server: 151.101.65.210, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: pooleno.ir, network: ws, ws-opts: {path: "/GGPPfZ3NKyOoKNiK?ed=2560fp=firefox", headers: {Host: pooleno.ir}}}
+  - {name: 15|US_speednode_0033, server: 172.67.175.9, port: 80, client-fingerprint: chrome, type: vless, uuid: ea9148b9-13b7-41cf-8911-94234e7c3fcf, tls: false, tfo: false, skip-cert-verify: false, servername: private-codmhttp.teqqlzdw.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: private-codmhttp.teqqlzdw.workers.dev}}}
+  - {name: 15|US_speednode_0034, server: 199.232.5.101, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=chrome", headers: {Host: mefa.ir}}}
+  - {name: 15|US_speednode_0035, server: 199.232.5.79, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=chrome", headers: {Host: mefa.ir}}}
+  - {name: 15|US_speednode_0036, server: 199.232.6.53, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0037, server: 199.232.33.127, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: mefa.ir}}}
+  - {name: 15|US_speednode_0038, server: 199.232.32.247, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0039, server: 199.232.5.79, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: mefa.ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: mefa.ir}}}
+  - {name: 15|US_speednode_0040, server: 140.248.152.40, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0041, server: 199.232.8.68, port: 443, client-fingerprint: chrome, type: vless, uuid: 80772220-3e7d-5f06-ae29-96672b8fa6df, tls: true, tfo: false, skip-cert-verify: false, servername: ELiv2RAy-jOiN.cOm, network: ws, ws-opts: {path: /fp=qq, headers: {Host: ELiv2RAy-jOiN.cOm}}}
+  - {name: 15|US_speednode_0042, server: 199.232.32.234, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: behdasht.hrtc.ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: behdasht.hrtc.ir}}}
+  - {name: 15|US_speednode_0043, server: 199.232.8.31, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0044, server: 199.232.7.154, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0045, server: 167.82.97.248, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: backtory.com, network: ws, ws-opts: {path: /security=tls, headers: {Host: backtory.com}}}
+  - {name: 15|US_speednode_0046, server: 140.248.152.40, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: /security=tls, headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0047, server: 199.232.0.21, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0048, server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: c921c664-d82d-4317-b4d0-7640cc9aa760, tls: false, tfo: false, skip-cert-verify: false, servername: TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir, network: ws, ws-opts: {path: "/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480", headers: {Host: TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir}}}
+  - {name: 15|US_speednode_0049, server: NUFiLTER.fastly80-2.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 651d818e-4d5c-4180-a295-1db7a8fabc71, tls: false, tfo: false, skip-cert-verify: false, servername: Berim3arekar.net, network: ws, ws-opts: {path: "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048", headers: {Host: Berim3arekar.net}}}
+  - {name: 15|US_speednode_0050, server: unlimiteddev.fastly80-3.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 60483bc2-ba33-46aa-bedd-20056a505aca, tls: false, tfo: false, skip-cert-verify: false, servername: UNLIMITEDDEV.channel-telegram-1.ir, network: ws, ws-opts: {path: "/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=chrome", headers: {Host: UNLIMITEDDEV.channel-telegram-1.ir}}}
+  - {name: 15|US_speednode_0051, server: 172.66.44.106, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: MabdI.PAGeS.DEv, network: ws, ws-opts: {path: "/9GqWAHqtHAZpMxkq?ed=2560fp=randomized", headers: {Host: MabdI.PAGeS.DEv}}}
+  - {name: 15|US_speednode_0052, server: 104.18.12.229, port: 8443, client-fingerprint: chrome, type: vless, uuid: ffd3906e-60c9-451e-8ed1-7114107e102c, tls: false, tfo: false, skip-cert-verify: false, servername: pardazeshvpn-tg70.pages.dev, network: ws, ws-opts: {path: /security=tls, headers: {Host: pardazeshvpn-tg70.pages.dev}}}
+  - {name: 15|US_speednode_0053, server: 199.232.32.247, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: Sanjeshp.Ir, network: ws, ws-opts: {path: "/H?ed=2560fp=randomized", headers: {Host: Sanjeshp.Ir}}}
+  - {name: 15|US_speednode_0054, server: 172.66.45.10, port: 443, client-fingerprint: chrome, type: vless, uuid: 70ea7a10-de3e-4922-bc7c-4dd7c2cef882, tls: false, tfo: false, skip-cert-verify: false, servername: newtunnel-2xm.pages.dev, network: ws, ws-opts: {path: /vlesssecurity=tls, headers: {Host: newtunnel-2xm.pages.dev}}}
+  - {name: 15|US_speednode_0055, server: 199.232.5.66, port: 443, client-fingerprint: chrome, type: vless, uuid: c8127c55-420b-5801-966b-a0e0dc237032, tls: true, tfo: false, skip-cert-verify: false, servername: ELiV2RaY-0.cOm, network: ws, ws-opts: {path: /fp=qq, headers: {Host: ELiV2RaY-0.cOm}}}
+  - {name: 15|US_speednode_0056, server: 104.21.92.73, port: 443, client-fingerprint: chrome, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: trojan.putata.us.kg}}}
+  - {name: 15|US_speednode_0059, server: 104.19.198.103, port: 80, client-fingerprint: chrome, type: vless, uuid: 243ff879-b317-4430-894e-767a131db2ca, tls: false, tfo: false, skip-cert-verify: false, servername: tr1-vless.ctunnel.xyz, network: ws, ws-opts: {path: "/vless#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro?ed=2048", headers: {Host: tr1-vless.ctunnel.xyz}}}
   - {name: "16|d*********g.com_2 #3", server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: www.zitian.cn}
   - {name: 3, server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: false}
 proxy-groups:
@@ -203,12 +155,12 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -246,111 +198,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: ♻️ 自动选择
@@ -360,12 +264,12 @@ proxy-groups:
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -403,111 +307,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: 🌍 国外媒体
@@ -518,12 +374,12 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -561,111 +417,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: 🌏 国内媒体
@@ -695,12 +503,12 @@ proxy-groups:
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -738,111 +546,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: 📲 电报信息
@@ -852,12 +612,12 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -895,111 +655,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: 🍎 苹果服务
@@ -1010,12 +722,12 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1053,111 +765,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
   - name: 🎯 全球直连
@@ -1177,12 +841,12 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
-      - 0|--21
-      - 0|--22
+      - 0|--18
+      - 0|--23
       - 0|--26
       - 0|--28
-      - 0|--32
+      - 0|--30
+      - 0|--31
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1220,111 +884,63 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇰🇷 14|韩国特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
-      - 15|AE_speednode_0001
+      - 15|AT_speednode_0001
       - 15|AT_speednode_0002
-      - 15|AT_speednode_0003
-      - 15|BG_speednode_0004
-      - 15|CA_speednode_0005
-      - 15|CH_speednode_0006
-      - 15|CH_speednode_0007
-      - 15|CN_speednode_0008
-      - 15|CR_speednode_0009
-      - 15|CR_speednode_0010
-      - 15|CR_speednode_0011
-      - 15|DE_speednode_0012
-      - 15|DE_speednode_0013
-      - 15|DE_speednode_0014
-      - 15|DE_speednode_0015
-      - 15|ES_speednode_0016
-      - 15|ES_speednode_0017
-      - 15|GB_speednode_0018
-      - 15|GB_speednode_0019
-      - 15|HK_speednode_0020
-      - 15|HK_speednode_0021
-      - 15|IR_speednode_0022
-      - 15|JP_speednode_0023
-      - 15|JP_speednode_0024
-      - 15|KR_speednode_0025
-      - 15|KR_speednode_0026
-      - 15|KR_speednode_0027
-      - 15|KR_speednode_0028
-      - 15|KR_speednode_0029
-      - 15|KZ_speednode_0030
-      - 15|LU_speednode_0037
-      - 15|MD_speednode_0038
-      - 15|MD_speednode_0039
-      - 15|NL_speednode_0040
-      - 15|NL_speednode_0041
-      - 15|NL_speednode_0042
-      - 15|NL_speednode_0043
-      - 15|NL_speednode_0044
-      - 15|NL_speednode_0045
-      - 15|NL_speednode_0046
-      - 15|RO_speednode_0047
-      - 15|RO_speednode_0048
-      - 15|RU_speednode_0051
-      - 15|RU_speednode_0052
-      - 15|RU_speednode_0053
-      - 15|RU_speednode_0054
-      - 15|RU_speednode_0055
-      - 15|RU_speednode_0056
-      - 15|RU_speednode_0057
-      - 15|RU_speednode_0058
-      - 15|RU_speednode_0059
-      - 15|RU_speednode_0060
-      - 15|SE_speednode_0061
-      - 15|SE_speednode_0062
-      - 15|SG_speednode_0063
-      - 15|TR_speednode_0064
-      - 15|US_speednode_0065
-      - 15|US_speednode_0066
-      - 15|US_speednode_0067
-      - 15|US_speednode_0068
-      - 15|US_speednode_0069
-      - 15|US_speednode_0070
-      - 15|US_speednode_0071
-      - 15|US_speednode_0072
-      - 15|US_speednode_0073
-      - 15|US_speednode_0074
-      - 15|US_speednode_0075
-      - 15|US_speednode_0076
-      - 15|US_speednode_0077
-      - 15|US_speednode_0078
-      - 15|US_speednode_0079
-      - 15|US_speednode_0080
-      - 15|US_speednode_0081
-      - 15|US_speednode_0082
-      - 15|US_speednode_0083
-      - 15|US_speednode_0084
-      - 15|US_speednode_0085
-      - 15|US_speednode_0086
-      - 15|US_speednode_0087
-      - 15|US_speednode_0088
-      - 15|US_speednode_0089
-      - 15|US_speednode_0090
-      - 15|US_speednode_0091
-      - 15|US_speednode_0092
-      - 15|US_speednode_0093
-      - 15|US_speednode_0094
-      - 15|US_speednode_0095
-      - 15|US_speednode_0096
-      - 15|US_speednode_0097
-      - 15|US_speednode_0098
-      - 15|US_speednode_0099
-      - 15|US_speednode_0100
-      - 15|US_speednode_0101
-      - 15|US_speednode_0102
-      - 15|US_speednode_0103
-      - 15|US_speednode_0104
-      - 15|US_speednode_0105
-      - 15|US_speednode_0106
-      - 15|US_speednode_0107
-      - 15|US_speednode_0108
-      - 15|US_speednode_0109
-      - 15|US_speednode_0110
-      - 15|US_speednode_0112
-      - 15|US_speednode_0113
-      - 15|VN_speednode_0115
+      - 15|BG_speednode_0003
+      - 15|CA_speednode_0004
+      - 15|CN_speednode_0005
+      - 15|CR_speednode_0006
+      - 15|DE_speednode_0007
+      - 15|DE_speednode_0008
+      - 15|ES_speednode_0009
+      - 15|ES_speednode_0010
+      - 15|MD_speednode_0011
+      - 15|MD_speednode_0012
+      - 15|NL_speednode_0013
+      - 15|NL_speednode_0014
+      - 15|NL_speednode_0015
+      - 15|NL_speednode_0016
+      - 15|NL_speednode_0017
+      - 15|NL_speednode_0018
+      - 15|NL_speednode_0019
+      - 15|RO_speednode_0020
+      - 15|RU_speednode_0021
+      - 15|RU_speednode_0022
+      - 15|RU_speednode_0023
+      - 15|RU_speednode_0024
+      - 15|RU_speednode_0025
+      - 15|RU_speednode_0026
+      - 15|RU_speednode_0027
+      - 15|RU_speednode_0028
+      - 15|SE_speednode_0029
+      - 15|TR_speednode_0030
+      - 15|US_speednode_0031
+      - 15|US_speednode_0032
+      - 15|US_speednode_0033
+      - 15|US_speednode_0034
+      - 15|US_speednode_0035
+      - 15|US_speednode_0036
+      - 15|US_speednode_0037
+      - 15|US_speednode_0038
+      - 15|US_speednode_0039
+      - 15|US_speednode_0040
+      - 15|US_speednode_0041
+      - 15|US_speednode_0042
+      - 15|US_speednode_0043
+      - 15|US_speednode_0044
+      - 15|US_speednode_0045
+      - 15|US_speednode_0046
+      - 15|US_speednode_0047
+      - 15|US_speednode_0048
+      - 15|US_speednode_0049
+      - 15|US_speednode_0050
+      - 15|US_speednode_0051
+      - 15|US_speednode_0052
+      - 15|US_speednode_0053
+      - 15|US_speednode_0054
+      - 15|US_speednode_0055
+      - 15|US_speednode_0056
+      - 15|US_speednode_0059
       - "16|d*********g.com_2 #3"
       - 3
 rules:
