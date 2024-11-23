@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-23 02:09:13  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-23 04:49:41  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,10 +44,13 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 221.139.79.57, port: 54345, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--2, server: 194.87.82.28, port: 12224, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2fwufOmJ9ELfN4umzcHBfV, tfo: false}
-  - {name: 0|--3, server: 45.87.175.154, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--25, server: 188.114.96.3, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--1, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--2, server: 45.87.175.178, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--21, server: 188.114.96.3, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--22, server: 172.67.175.56, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--26, server: 172.67.71.160, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--28, server: 188.114.97.2, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
+  - {name: 0|--32, server: 45.149.12.84, port: 443, client-fingerprint: chrome, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/linkws#@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1/?ed=2560", headers: {Host: obdii.cfd}}}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -201,8 +204,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -355,8 +361,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -510,8 +519,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -684,8 +696,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -838,8 +853,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -993,8 +1011,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -1157,8 +1178,11 @@ proxy-groups:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
       - 0|--2
-      - 0|--3
-      - 0|--25
+      - 0|--21
+      - 0|--22
+      - 0|--26
+      - 0|--28
+      - 0|--32
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
