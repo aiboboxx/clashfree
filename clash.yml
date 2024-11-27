@@ -16,10 +16,7 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--2, server: 45.87.175.157, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--3, server: 193.108.119.230, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: "0,15|US_speednode_0044", server: 34.215.226.60, port: 443, client-fingerprint: chrome, type: trojan, password: 24273330-85c9-3a6e-a0fd-58a6076a3a85, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: false}
-  - {name: "0,15|JP_speednode_0020", server: 18.179.44.127, port: 443, client-fingerprint: chrome, type: trojan, password: 24273330-85c9-3a6e-a0fd-58a6076a3a85, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: false}
+  - {name: 0|--1, server: 193.108.119.230, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
   - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
@@ -58,6 +55,7 @@ proxies:
   - {name: 15|CR_speednode_0014, server: 190.93.247.155, port: 2095, client-fingerprint: chrome, type: vless, uuid: 1f19c0e8-74b5-4cd9-cc59-a6e6d75af944, tls: false, tfo: false, skip-cert-verify: false, servername: Da8.speedtest.Hopeserver1.tech., network: ws, ws-opts: {path: /ed=2082, headers: {Host: Da8.speedtest.Hopeserver1.tech.}}}
   - {name: 15|CR_speednode_0015, server: 190.93.245.137, port: 443, client-fingerprint: chrome, type: vless, uuid: 0948673a-e607-4629-a07e-c70e1122fb73, tls: true, tfo: false, skip-cert-verify: false, servername: Ruc80.TehrANsiMAn.co.UK., network: ws, ws-opts: {path: "/?ed=2560fp=chrome", headers: {Host: Ruc80.TehrANsiMAn.co.UK.}}}
   - {name: 15|GB_speednode_0019, server: 217.163.76.107, port: 8443, client-fingerprint: chrome, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: edgood.889876.xyz, network: ws, ws-opts: {path: "/?ed=2048fp=chrome", headers: {Host: edgood.889876.xyz}}}
+  - {name: 15|JP_speednode_0020, server: 18.179.44.127, port: 443, client-fingerprint: chrome, type: trojan, password: 24273330-85c9-3a6e-a0fd-58a6076a3a85, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: false}
   - {name: 15|JP_speednode_0021, server: 35.75.8.137, port: 443, client-fingerprint: chrome, type: trojan, password: 24273330-85c9-3a6e-a0fd-58a6076a3a85, sni: steampipe-kr.akamaized.net, skip-cert-verify: false}
   - {name: 15|SE_speednode_0022, server: 185.146.173.58, port: 80, client-fingerprint: chrome, type: vless, uuid: f151bde4-6981-4ad9-bd01-dd34ad792a3e, tls: false, tfo: false, skip-cert-verify: false, servername: m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs., network: ws, ws-opts: {path: "/Omid?ed=2560", headers: {Host: m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.}}}
   - {name: 15|SE_speednode_0023, server: 185.146.173.58, port: 8080, client-fingerprint: chrome, type: vless, uuid: 9bb724c7-1435-4d91-a0f4-08c995e76762, tls: false, tfo: false, skip-cert-verify: false, servername: lc82.lebasnoo.ir., network: ws, ws-opts: {path: /servernett, headers: {Host: lc82.lebasnoo.ir.}}}
@@ -81,6 +79,7 @@ proxies:
   - {name: 15|US_speednode_0041, server: 199.232.7.29, port: 443, client-fingerprint: chrome, type: vless, uuid: fe2f9fd4-7ef5-4235-88c3-85f1f90a868f, tls: true, tfo: false, skip-cert-verify: false, servername: ELiv2-ELEnA.ir, network: ws, ws-opts: {path: /VLESSfp=qq, headers: {Host: ELiv2-ELEnA.ir}}}
   - {name: 15|US_speednode_0042, server: 104.20.19.168, port: 80, client-fingerprint: chrome, type: vless, uuid: 5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26, tls: false, tfo: false, skip-cert-verify: false, servername: worker-floral-sun-5945.miyenep837.workers.DEV, network: ws, ws-opts: {path: "/vless-ws/?ed=2048", headers: {Host: worker-floral-sun-5945.miyenep837.workers.DEV}}}
   - {name: 15|US_speednode_0043, server: 199.232.3.80, port: 443, client-fingerprint: chrome, type: vless, uuid: 9be0950e-a7b3-5e38-83b4-217ccc4488a0, tls: true, tfo: false, skip-cert-verify: false, servername: ELIV2RAY-JOIN.COM, network: ws, ws-opts: {path: /fp=qq, headers: {Host: ELIV2RAY-JOIN.COM}}}
+  - {name: 15|US_speednode_0044, server: 34.215.226.60, port: 443, client-fingerprint: chrome, type: trojan, password: 24273330-85c9-3a6e-a0fd-58a6076a3a85, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: false}
   - {name: 15|US_speednode_0045, server: 151.101.66.219, port: 80, client-fingerprint: chrome, type: vless, uuid: d57488fc-a7fd-48d5-e3b3-64308afbfc31, tls: false, tfo: false, skip-cert-verify: false, servername: XpnTeam.ir, network: ws, ws-opts: {path: "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048", headers: {Host: XpnTeam.ir}}}
   - {name: 15|US_speednode_0046, server: 104.21.21.147, port: 443, client-fingerprint: chrome, type: vless, uuid: 18cb1e84-aec2-44b3-aadd-5d040f47a842, tls: false, tfo: false, skip-cert-verify: false, servername: pardazeshvpn-tg44.pages.dev, network: ws, ws-opts: {path: /@VPNHTTPInjectorfreesecurity=tls, headers: {Host: pardazeshvpn-tg44.pages.dev}}}
   - {name: 15|US_speednode_0047, server: 172.66.47.103, port: 443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: PPal03.Pages.dEv, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: PPal03.Pages.dEv}}}
@@ -110,10 +109,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -152,6 +148,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -175,6 +172,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -203,10 +201,7 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -245,6 +240,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -268,6 +264,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -297,10 +294,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -339,6 +333,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -362,6 +357,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -409,10 +405,7 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -451,6 +444,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -474,6 +468,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -502,10 +497,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -544,6 +536,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -567,6 +560,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -596,10 +590,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -638,6 +629,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -661,6 +653,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
@@ -699,10 +692,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--2
-      - 0|--3
-      - 0,15|US_speednode_0044
-      - 0,15|JP_speednode_0020
+      - 0|--1
       - "3,4,5|d*********g.com_0 #2"
       - "3,4,5|d*********g.com_1 #2"
       - "3,4,5|d*********g.com_2 #2"
@@ -741,6 +731,7 @@ proxy-groups:
       - 15|CR_speednode_0014
       - 15|CR_speednode_0015
       - 15|GB_speednode_0019
+      - 15|JP_speednode_0020
       - 15|JP_speednode_0021
       - 15|SE_speednode_0022
       - 15|SE_speednode_0023
@@ -764,6 +755,7 @@ proxy-groups:
       - 15|US_speednode_0041
       - 15|US_speednode_0042
       - 15|US_speednode_0043
+      - 15|US_speednode_0044
       - 15|US_speednode_0045
       - 15|US_speednode_0046
       - 15|US_speednode_0047
