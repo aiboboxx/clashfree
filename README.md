@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-27 16:54:17  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-11-27 20:49:08  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,12 +44,12 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
+  - {name: 0|--1, server: 38.110.1.46, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
   - {name: 0|--2, server: 193.108.119.230, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--23, server: 172.64.166.22, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: ip20.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip20.6016725.xyz}}}
-  - {name: "3,4,5|d*********g.com_0 #2", server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
-  - {name: "3,4,5|d*********g.com_1 #2", server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
-  - {name: "3,4,5|d*********g.com_2 #2", server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
-  - {name: "3,4,5|d*********g.com_3 #2", server: 104.21.238.203, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
+  - {name: 5|d*********g.com_0, server: 104.21.238.200, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
+  - {name: 5|d*********g.com_1, server: 104.21.238.201, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
+  - {name: 5|d*********g.com_2, server: 104.21.238.202, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
+  - {name: 5|d*********g.com_3, server: 104.21.238.203, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: http1.9290254.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: http1.9290254.xyz}}}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.242, port: 14505, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.242, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.151.192.196, port: 42395, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.196, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 183.236.51.23, port: 53002, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
@@ -129,8 +129,8 @@ proxies:
   - {name: 15|US_speednode_0069, server: 172.66.47.19, port: 443, client-fingerprint: chrome, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: false, tfo: false, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: /Telegram:security=tlssecurity=tls, headers: {Host: pardazeshvpn-tg85.pages.dev}}}
   - {name: 15|US_speednode_0072, server: 172.66.47.19, port: 443, client-fingerprint: chrome, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: false, tfo: false, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: /Telegram:security=tls, headers: {Host: pardazeshvpn-tg85.pages.dev}}}
   - {name: 15|US_speednode_0076, server: 151.101.64.155, port: 80, client-fingerprint: chrome, type: vless, uuid: 8090defd-1f27-4bf9-b513-6ddbe42a979a, tls: false, tfo: false, skip-cert-verify: false, servername: UNLIMITEDDEV.channel-telegram-1.ir, network: ws, ws-opts: {path: "/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480", headers: {Host: UNLIMITEDDEV.channel-telegram-1.ir}}}
-  - {name: "16|d*********g.com_2 #3", server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: www.zitian.cn}
-  - {name: 3, server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: false}
+  - {name: "16|d*********g.com_2 #1", server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: www.zitian.cn}
+  - {name: 1, server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: false}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -138,12 +138,12 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -223,20 +223,20 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -316,8 +316,8 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -325,12 +325,12 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -410,8 +410,8 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -437,12 +437,12 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -522,20 +522,20 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -615,8 +615,8 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -624,12 +624,12 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -709,8 +709,8 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -727,12 +727,12 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
-      - 0|--23
-      - "3,4,5|d*********g.com_0 #2"
-      - "3,4,5|d*********g.com_1 #2"
-      - "3,4,5|d*********g.com_2 #2"
-      - "3,4,5|d*********g.com_3 #2"
+      - 5|d*********g.com_0
+      - 5|d*********g.com_1
+      - 5|d*********g.com_2
+      - 5|d*********g.com_3
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -812,8 +812,8 @@ proxy-groups:
       - 15|US_speednode_0069
       - 15|US_speednode_0072
       - 15|US_speednode_0076
-      - "16|d*********g.com_2 #3"
-      - 3
+      - "16|d*********g.com_2 #1"
+      - 1
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
