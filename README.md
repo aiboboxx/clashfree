@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-10 13:16:25  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-10 16:54:52  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,15 +44,9 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 34.216.74.178, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--2, server: 54.169.5.182, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--3, server: 54.185.18.43, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--4, server: 54.200.220.184, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--5, server: 43.206.233.92, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--44, server: 190.93.245.103, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
-  - {name: 0|--67, server: 190.93.245.80, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
-  - {name: 0|--76, server: 172.64.166.33, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip12.6016725.xyz}}}
-  - {name: "0,15|US_speednode_0078", server: 89.187.181.172, port: 43118, client-fingerprint: chrome, type: trojan, password: ypDt8RkT7J, sni: egcmi.phooeyunfold.com, skip-cert-verify: false}
+  - {name: 0|--1, server: 34.215.84.62, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--3, server: 149.34.244.82, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 0|--61, server: 190.93.245.80, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.239, port: 42395, client-fingerprint: chrome, type: trojan, password: DNUMdmnJ, sni: 36.151.192.239, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.151.192.203, port: 25241, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.203, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 183.236.48.158, port: 50052, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
@@ -92,6 +86,7 @@ proxies:
   - {name: 15|US_speednode_0043, server: 199.232.8.123, port: 80, client-fingerprint: chrome, type: vless, uuid: d578322a-266b-479d-9eda-f1b41324e721, tls: false, tfo: false, skip-cert-verify: false, servername: IRANINGOAT2.IR, network: ws, ws-opts: {path: "/RsAMasAPMX5yb1YZ?ed=2560fp=chromefp=chrome", headers: {Host: IRANINGOAT2.IR}}}
   - {name: 15|US_speednode_0052, server: 199.232.255.25, port: 443, client-fingerprint: chrome, type: vless, uuid: 4822eda6-e0a4-5952-944d-79a93594b7d5, tls: true, tfo: false, skip-cert-verify: false, servername: TEHRANARGO.cc, network: ws, ws-opts: {path: "/Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO?ed=2560fp=qq", headers: {Host: TEHRANARGO.cc}}}
   - {name: 15|US_speednode_0074, server: 151.101.2.219, port: 80, client-fingerprint: chrome, type: vless, uuid: 21116e83-f40b-4f97-a1f1-7bb1c5ea4609, tls: false, tfo: false, skip-cert-verify: false, servername: snapp.com, network: ws, ws-opts: {path: "/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048", headers: {Host: snapp.com}}}
+  - {name: 15|US_speednode_0078, server: 89.187.181.172, port: 43118, client-fingerprint: chrome, type: trojan, password: ypDt8RkT7J, sni: egcmi.phooeyunfold.com, skip-cert-verify: false}
   - {name: 15|US_speednode_0099, server: 104.16.155.10, port: 443, client-fingerprint: chrome, type: vless, uuid: 4a41de72-af20-4a1b-a561-85caf016d414, tls: true, tfo: false, skip-cert-verify: false, servername: hkone.111677.xyz, network: ws, ws-opts: {path: /4a41de72-af20-4a1b-a561-85caf016d414fp=chrome, headers: {Host: hkone.111677.xyz}}}
   - {name: 15|US_speednode_0100, server: 104.17.213.241, port: 443, client-fingerprint: chrome, type: vless, uuid: 4a41de72-af20-4a1b-a561-85caf016d414, tls: true, tfo: false, skip-cert-verify: false, servername: hkone.111677.xyz, network: ws, ws-opts: {path: /4a41de72-af20-4a1b-a561-85caf016d414fp=chrome, headers: {Host: hkone.111677.xyz}}}
   - {name: 15|US_speednode_0101, server: 104.19.48.236, port: 443, client-fingerprint: chrome, type: vless, uuid: 4a41de72-af20-4a1b-a561-85caf016d414, tls: true, tfo: false, skip-cert-verify: false, servername: hkone.111677.xyz, network: ws, ws-opts: {path: /4a41de72-af20-4a1b-a561-85caf016d414fp=chrome, headers: {Host: hkone.111677.xyz}}}
@@ -105,14 +100,8 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -152,6 +141,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -164,14 +154,8 @@ proxy-groups:
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -211,6 +195,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -224,14 +209,8 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -271,6 +250,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -306,14 +286,8 @@ proxy-groups:
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -353,6 +327,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -365,14 +340,8 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -412,6 +381,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -425,14 +395,8 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -472,6 +436,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
@@ -494,14 +459,8 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
-      - 0|--2
       - 0|--3
-      - 0|--4
-      - 0|--5
-      - 0|--44
-      - 0|--67
-      - 0|--76
-      - 0,15|US_speednode_0078
+      - 0|--61
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -541,6 +500,7 @@ proxy-groups:
       - 15|US_speednode_0043
       - 15|US_speednode_0052
       - 15|US_speednode_0074
+      - 15|US_speednode_0078
       - 15|US_speednode_0099
       - 15|US_speednode_0100
       - 15|US_speednode_0101
