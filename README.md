@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-12 16:55:16  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-12 20:49:15  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,16 +44,19 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--2, server: 217.30.10.18, port: 9056, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, tfo: false}
-  - {name: 0|--5, server: 107.155.57.11, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--6, server: 217.30.10.18, port: 9005, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, tfo: false}
-  - {name: 0|--8, server: 68.183.235.122, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--9, server: 217.30.10.18, port: 9027, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, tfo: false}
-  - {name: "0,15|HK_speednode_0005", server: 0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green, port: 44991, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: us1.bilibili.com, skip-cert-verify: false}
-  - {name: 0|--146, server: 1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green, port: 48539, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: false}
+  - {name: 0|--1, server: 54.169.5.182, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--2, server: 68.183.227.236, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--4, server: 38.110.1.46, port: 7001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: 0|--5, server: 38.110.1.46, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
+  - {name: 0|--6, server: 38.110.1.46, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: 0|--7, server: 38.110.1.46, port: 8080, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 0|--8, server: 38.110.1.46, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 0|--86, server: 57.129.24.124, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
+  - {name: 0|--94, server: eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green, port: 49089, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: jp12.bilibili.com, skip-cert-verify: false}
+  - {name: 0|--95, server: 1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green, port: 48539, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: false}
   - {name: "0,15|HK_speednode_0004", server: ddbfb45e8b47580a5b2c2b5e43fa9213.v1.cac.node-is.green, port: 41790, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: us1.bilibili.com, skip-cert-verify: false}
-  - {name: 0|--151, server: 7c0bb8d8872425b41520a1a9ad77fa89.v1.cac.node-is.green, port: 49782, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: jp12.bilibili.com, skip-cert-verify: false}
-  - {name: 0|--152, server: eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green, port: 49089, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: jp12.bilibili.com, skip-cert-verify: false}
+  - {name: "0,15|HK_speednode_0005", server: 0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green, port: 44991, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: us1.bilibili.com, skip-cert-verify: false}
+  - {name: 0|--100, server: 7c0bb8d8872425b41520a1a9ad77fa89.v1.cac.node-is.green, port: 49782, client-fingerprint: chrome, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: jp12.bilibili.com, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.239, port: 42395, client-fingerprint: chrome, type: trojan, password: DNUMdmnJ, sni: 36.151.192.239, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.151.192.203, port: 25241, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.203, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: hk1.tiljkc.top, port: 39041, client-fingerprint: chrome, type: vmess, uuid: edd1ca31-bdf4-377e-bc3a-76635a33c9cd, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
@@ -117,16 +120,19 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -189,16 +195,19 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -262,16 +271,19 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -355,16 +367,19 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -427,16 +442,19 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -500,16 +518,19 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -582,16 +603,19 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|--1
       - 0|--2
+      - 0|--4
       - 0|--5
       - 0|--6
+      - 0|--7
       - 0|--8
-      - 0|--9
-      - 0,15|HK_speednode_0005
-      - 0|--146
+      - 0|--86
+      - 0|--94
+      - 0|--95
       - 0,15|HK_speednode_0004
-      - 0|--151
-      - 0|--152
+      - 0,15|HK_speednode_0005
+      - 0|--100
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
