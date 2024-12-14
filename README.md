@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-14 16:50:22  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-14 20:49:15  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -45,8 +45,10 @@ dns:
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
   - {name: 0|--1, server: 169.150.210.233, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--2, server: 18.237.72.225, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--3, server: 23.251.121.242, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--2, server: 194.5.215.59, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--3, server: 18.237.72.225, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--4, server: 23.251.121.242, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: "0,15|IN_speednode_0004", server: prime-gator.treefrog761.one, port: 443, client-fingerprint: chrome, type: trojan, password: 3648425794742788096, sni: prime-gator.treefrog761.one, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.239, port: 42395, client-fingerprint: chrome, type: trojan, password: DNUMdmnJ, sni: 36.151.192.239, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.151.192.203, port: 25241, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.203, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: hk02.51feitu.com, port: 10002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 718b6119-17fb-4700-a3ed-32e8417a3daa, tfo: false}
@@ -83,7 +85,6 @@ proxies:
   - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 54.151.196.32, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 15|CY_speednode_0002, server: cnamefuckxxs.yuchen.icu, port: 443, client-fingerprint: chrome, type: vless, uuid: ff072857-d08f-4fc9-a52e-30946d0926cd, tls: true, tfo: false, skip-cert-verify: false, servername: venom90.pages.dev, network: ws, ws-opts: {path: "/?ed=2048fp=random", headers: {Host: venom90.pages.dev}}}
   - {name: 15|IN_speednode_0003, server: loving-boa.treefrog761.one, port: 443, client-fingerprint: chrome, type: trojan, password: 3648425794742788096, sni: loving-boa.treefrog761.one, skip-cert-verify: false}
-  - {name: 15|IN_speednode_0004, server: prime-gator.treefrog761.one, port: 443, client-fingerprint: chrome, type: trojan, password: 3648425794742788096, sni: prime-gator.treefrog761.one, skip-cert-verify: false}
   - {name: 15|SE_speednode_0005, server: 129.151.204.91, port: 443, client-fingerprint: chrome, type: vless, uuid: 9df625ba-7d04-405d-9d54-2c8c1e5fbccb, tls: false, tfo: false, skip-cert-verify: false, servername: cc.aimercc.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: cc.aimercc.filegear-sg.me}}}
   - {name: 15|SE_speednode_0006, server: www.shopify.com, port: 443, client-fingerprint: chrome, type: vless, uuid: ff072857-d08f-4fc9-a52e-30946d0926cd, tls: true, tfo: false, skip-cert-verify: false, servername: venom90.pages.dev, network: ws, ws-opts: {path: "/?ed=2048fp=random", headers: {Host: venom90.pages.dev}}}
   - {name: 15|SE_speednode_0007, server: www.shopify.com, port: 2087, client-fingerprint: chrome, type: vless, uuid: ff072857-d08f-4fc9-a52e-30946d0926cd, tls: true, tfo: false, skip-cert-verify: false, servername: venom90.pages.dev, network: ws, ws-opts: {path: "/?ed=2048fp=random", headers: {Host: venom90.pages.dev}}}
@@ -176,6 +177,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -212,7 +215,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -304,6 +306,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -340,7 +344,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -433,6 +436,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -469,7 +474,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -579,6 +583,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -615,7 +621,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -707,6 +712,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -743,7 +750,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -836,6 +842,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -872,7 +880,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
@@ -974,6 +981,8 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
+      - 0,15|IN_speednode_0004
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -1010,7 +1019,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 15|CY_speednode_0002
       - 15|IN_speednode_0003
-      - 15|IN_speednode_0004
       - 15|SE_speednode_0005
       - 15|SE_speednode_0006
       - 15|SE_speednode_0007
