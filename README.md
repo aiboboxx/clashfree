@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-23 04:49:23  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-12-23 08:50:32  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,37 +44,41 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--2, server: 217.30.10.18, port: 9042, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, tfo: false}
-  - {name: 0|--3, server: 52.32.68.164, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian", server: 52.68.44.53, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--5, server: 13.114.67.166, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--6, server: 54.218.229.170, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--7, server: 212.102.53.193, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--9, server: 79.110.53.169, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--10, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--11, server: 45.87.175.181, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--12, server: 34.222.132.123, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--13, server: 45.87.175.154, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--14, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
-  - {name: 0|--15, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--16, server: 52.79.248.193, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--17, server: 23.251.121.242, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--18, server: 193.108.119.230, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--19, server: 43.203.243.93, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--20, server: 34.222.136.128, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--21, server: 149.34.244.82, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--22, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--23, server: 38.110.1.46, port: 8080, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
-  - {name: 0|--24, server: 38.110.1.46, port: 6679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: 0|--25, server: 54.201.174.149, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--26, server: 68.183.227.4, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--27, server: 38.110.1.46, port: 7001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
   - {name: "🇬🇧 0,13|🇬🇧 英国|@ripaojiedian", server: 146.70.61.18, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--29, server: 217.30.10.18, port: 9024, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, tfo: false}
-  - {name: 0|--30, server: 169.150.210.233, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--31, server: 107.155.57.11, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--32, server: 194.5.215.59, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--2, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
+  - {name: 0|--3, server: 23.251.121.242, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--4, server: 43.203.243.93, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--5, server: 217.30.10.18, port: 9038, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, tfo: false}
+  - {name: 0|--6, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--7, server: 34.222.136.128, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--8, server: 18.181.152.92, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--9, server: 13.114.67.166, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--10, server: 54.201.174.149, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--11, server: 52.79.248.193, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--12, server: 51.15.15.82, port: 989, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: 0|--14, server: 107.155.57.11, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--15, server: 194.5.215.59, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--16, server: 212.102.53.193, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 0|--17, server: 217.30.10.18, port: 9018, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, tfo: false}
+  - {name: 0|--18, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--19, server: 45.87.175.199, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--20, server: 193.108.119.230, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--21, server: 45.87.175.171, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
+  - {name: 0|--22, server: 38.110.1.46, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: 0|--23, server: 45.87.175.154, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--24, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--25, server: 149.34.244.82, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 0|--26, server: 3.35.206.24, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--27, server: 217.30.10.18, port: 9064, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, tfo: false}
+  - {name: 0|--28, server: 217.30.10.18, port: 9045, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, tfo: false}
+  - {name: 0|--29, server: 217.30.10.18, port: 9088, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, tfo: false}
+  - {name: 0|--30, server: 38.110.1.46, port: 7001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: 0|--31, server: 38.110.1.46, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 0|--32, server: 52.32.68.164, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--33, server: 169.150.210.233, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--34, server: 51.158.244.38, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--35, server: 43.200.1.13, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "0,15|US_speednode_0014", server: jobsfortheworldtoday.com, port: 443, client-fingerprint: chrome, type: trojan, password: 71409d3e488548e8bb076d229778f008, sni: jobsfortheworldtoday.com, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.239, port: 42395, client-fingerprint: chrome, type: trojan, password: DNUMdmnJ, sni: 36.151.192.239, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 223.113.54.145, port: 36442, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 223.113.54.145, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.234.102.229, port: 52908, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
@@ -88,6 +92,7 @@ proxies:
   - {name: 🇯🇵 13|🇯🇵 日本2|@ripaojiedian, server: vmvmvm123.jmvks.cn, port: 32002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: de6a05b7-6770-46b8-81b5-70675391db6a, tfo: false}
   - {name: 🇰🇷 13|🇰🇷 韩国|@ripaojiedian, server: 45.94.68.206, port: 35384, client-fingerprint: chrome, type: vmess, uuid: b3e95701-dbd0-4a2f-a701-6ec815fb5ad2, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: "🇺🇸 13,14|美国|@ripaojiedian", server: America.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 33f6d8b0-81f8-4fce-b3df-79dc8fd6d8c5, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: us.anycast.us.kg, network: grpc, grpc-opts: {grpc-mode: none, grpc-service-name: /}}
+  - {name: 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian, server: 52.68.44.53, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian, server: 18.181.162.137, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian, server: 54.238.219.226, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: "🇻🇳 13,14|越南|@ripaojiedian", server: vn.mjt000.com, port: 443, client-fingerprint: chrome, type: trojan, password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c, sni: vn.mjt000.com, skip-cert-verify: false}
@@ -106,33 +111,13 @@ proxies:
   - {name: 🇯🇵 14|日本特殊|@ripaojiedian, server: 18.181.162.137, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 54.238.219.226, port: 443, client-fingerprint: chrome, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇬🇧 14|英国|@ripaojiedian, server: 146.70.61.18, port: 8080, client-fingerprint: chrome, type: ss, cipher: ss, password: //cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg, tfo: false}
-  - {name: 15|CR_speednode_0001, server: 190.93.246.128, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|DE_speednode_0004, server: 212.224.93.93, port: 443, client-fingerprint: chrome, type: vless, uuid: 14ba4514-3846-45c0-aec6-444e5451b95c, tls: false, tfo: false, skip-cert-verify: false, servername: blog.codegethub.org, network: ws, ws-opts: {path: /ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls, headers: {Host: blog.codegethub.org}}}
-  - {name: 15|HK_speednode_0007, server: 8.218.148.106, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0011, server: 8.222.132.145, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0012, server: 47.245.120.119, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0013, server: 8.222.135.109, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0014, server: 8.219.55.76, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0015, server: 8.219.79.144, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|SG_speednode_0016, server: 8.219.129.213, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|SG_speednode_0017, server: 8.222.239.199, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|SG_speednode_0018, server: 47.245.87.17, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|SG_speednode_0019, server: 8.222.247.175, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|SG_speednode_0020, server: 8.222.222.203, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|SG_speednode_0021, server: 47.245.126.194, port: 443, client-fingerprint: chrome, type: vless, uuid: 1aae9657-c653-495d-e8ad-8ca52916cea8, tls: false, tfo: false, skip-cert-verify: false, servername: de.bolagskontaktstockholm.se, network: ws, ws-opts: {path: /wssecurity=tls, headers: {Host: de.bolagskontaktstockholm.se}}}
-  - {name: 15|US_speednode_0022, server: 104.24.139.27, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0025, server: 172.64.160.120, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0028, server: 104.24.186.216, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0029, server: 104.24.136.104, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0030, server: 104.24.49.64, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0031, server: 188.114.97.158, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0032, server: 104.18.38.147, port: 8443, client-fingerprint: chrome, type: vless, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, tls: false, tfo: false, skip-cert-verify: false, servername: server39.998877.best, network: ws, ws-opts: {path: "/drtgoiuy/fd?ed=2560security=tls", headers: {Host: server39.998877.best}}}
-  - {name: 15|US_speednode_0033, server: 172.64.149.109, port: 8443, client-fingerprint: chrome, type: vless, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, tls: false, tfo: false, skip-cert-verify: false, servername: server39.998877.best, network: ws, ws-opts: {path: "/drtgoiuy/fd?ed=2560security=tls", headers: {Host: server39.998877.best}}}
-  - {name: 15|US_speednode_0034, server: 104.24.49.64, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: false, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: /security=tls, headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0035, server: 104.16.59.58, port: 443, client-fingerprint: chrome, type: vless, uuid: 31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1, tls: true, tfo: false, skip-cert-verify: false, servername: lhxt.xiaomi.win, network: ws, ws-opts: {path: "/?ed=2560fp=random", headers: {Host: lhxt.xiaomi.win}}}
-  - {name: 15|US_speednode_0036, server: 199.232.125.43, port: 443, client-fingerprint: chrome, type: vless, uuid: ec1540bf-39b1-5901-bc00-4aa9c81e27af, tls: false, tfo: false, skip-cert-verify: false, servername: ELI-V2-RAY.COM, network: ws, ws-opts: {path: /security=tls, headers: {Host: ELI-V2-RAY.COM}}}
-  - {name: 15|US_speednode_0040, server: AT3.fast.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: ff45f39c-0055-48c5-962e-c2684e613e75, tls: false, tfo: false, skip-cert-verify: false, servername: kazemi211zerofun.coM, network: ws, ws-opts: {path: "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80", headers: {Host: kazemi211zerofun.coM}}}
-  - {name: 15|US_speednode_0041, server: us6.998998.best, port: 8443, client-fingerprint: chrome, type: vless, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, tls: false, tfo: false, skip-cert-verify: false, servername: server39.998877.best, network: ws, ws-opts: {path: "/drtgoiuy/fd?ed=2560security=tls", headers: {Host: server39.998877.best}}}
+  - {name: 15|CH_speednode_0001, server: 185.18.250.12, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, tfo: false, skip-cert-verify: false, servername: ana-SErVICe.xAbjCDZ.wORkErs.deV, network: ws, ws-opts: {path: "/1Y6MN5DFV8zB82Ai?ed=2560", headers: {Host: ana-SErVICe.xAbjCDZ.wORkErs.deV}}}
+  - {name: 15|CN_speednode_0005, server: 36.151.192.201, port: 34185, client-fingerprint: chrome, type: trojan, password: QwwHvrnN, sni: 36.151.192.201, skip-cert-verify: false}
+  - {name: 15|DE_speednode_0007, server: 45.63.117.50, port: 443, client-fingerprint: chrome, type: vless, uuid: fcf99985-147b-4c71-c3f2-f448e5a379f1, tls: true, tfo: false, skip-cert-verify: false, servername: cpanel3.sassanidempire.com, network: ws, ws-opts: {path: /wsfp=chrome, headers: {Host: cpanel3.sassanidempire.com}}}
+  - {name: 15|FR_speednode_0008, server: yournextcareerstep.online, port: 443, client-fingerprint: chrome, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: yournextcareerstep.online, skip-cert-verify: false}
+  - {name: 15|FR_speednode_0009, server: yournextcareerstep.online, port: 443, client-fingerprint: chrome, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: yournextcareerstep.online, skip-cert-verify: false}
+  - {name: 15|JP_speednode_0012, server: 4.189.216.218, port: 443, client-fingerprint: chrome, type: vless, uuid: 4c5f4cf8-b30a-4658-84bb-f0145dd123d4, tls: true, tfo: false, skip-cert-verify: false, servername: high.work.lzg.me, network: ws, ws-opts: {path: /4c5f4cf8-b30a-4658-84bb-f0145dd123d4fp=chrome, headers: {Host: high.work.lzg.me}}}
+  - {name: 15|US_speednode_0015, server: 216.24.57.130, port: 8880, client-fingerprint: chrome, type: vless, uuid: 1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa, tls: false, tfo: false, skip-cert-verify: false, servername: mohsenfitshr.wibibin259.workers.dev, network: ws, ws-opts: {path: "/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560", headers: {Host: mohsenfitshr.wibibin259.workers.dev}}}
   - {name: 16|d*********g.com_2, server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: www.zitian.cn}
   - {name: 16|d*********g.com_3, server: 42.236.73.72, port: 443, client-fingerprint: chrome, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: false}
 proxy-groups:
@@ -142,18 +127,18 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -168,11 +153,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -186,6 +175,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -204,33 +194,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: ♻️ 自动选择
@@ -239,18 +209,18 @@ proxy-groups:
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -265,11 +235,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -283,6 +257,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -301,33 +276,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: 🌍 国外媒体
@@ -337,18 +292,18 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -363,11 +318,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -381,6 +340,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -399,33 +359,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: 🌏 国内媒体
@@ -455,18 +395,18 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -481,11 +421,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -499,6 +443,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -517,33 +462,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: 📲 电报信息
@@ -552,18 +477,18 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -578,11 +503,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -596,6 +525,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -614,33 +544,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: 🍎 苹果服务
@@ -650,18 +560,18 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -676,11 +586,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -694,6 +608,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -712,33 +627,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: 🎯 全球直连
@@ -757,18 +652,18 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|--1
+      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国特殊|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
       - 0|--14
       - 0|--15
       - 0|--16
@@ -783,11 +678,15 @@ proxy-groups:
       - 0|--25
       - 0|--26
       - 0|--27
-      - 🇬🇧 0,13|🇬🇧 英国|@ripaojiedian
+      - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
       - 0|--32
+      - 0|--33
+      - 0|--34
+      - 0|--35
+      - 0,15|US_speednode_0014
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -801,6 +700,7 @@ proxy-groups:
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇺🇸 13,14|美国|@ripaojiedian
+      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇻🇳 13,14|越南|@ripaojiedian
@@ -819,33 +719,13 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|CR_speednode_0001
-      - 15|DE_speednode_0004
-      - 15|HK_speednode_0007
-      - 15|SG_speednode_0011
-      - 15|SG_speednode_0012
-      - 15|SG_speednode_0013
-      - 15|SG_speednode_0014
-      - 15|SG_speednode_0015
-      - 15|SG_speednode_0016
-      - 15|SG_speednode_0017
-      - 15|SG_speednode_0018
-      - 15|SG_speednode_0019
-      - 15|SG_speednode_0020
-      - 15|SG_speednode_0021
-      - 15|US_speednode_0022
-      - 15|US_speednode_0025
-      - 15|US_speednode_0028
-      - 15|US_speednode_0029
-      - 15|US_speednode_0030
-      - 15|US_speednode_0031
-      - 15|US_speednode_0032
-      - 15|US_speednode_0033
-      - 15|US_speednode_0034
-      - 15|US_speednode_0035
-      - 15|US_speednode_0036
-      - 15|US_speednode_0040
-      - 15|US_speednode_0041
+      - 15|CH_speednode_0001
+      - 15|CN_speednode_0005
+      - 15|DE_speednode_0007
+      - 15|FR_speednode_0008
+      - 15|FR_speednode_0009
+      - 15|JP_speednode_0012
+      - 15|US_speednode_0015
       - 16|d*********g.com_2
       - 16|d*********g.com_3
 rules:
