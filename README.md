@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-04 08:49:04  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-04 13:01:27  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,29 +44,32 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 221.150.109.90, port: 41748, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--2, server: 203.234.238.140, port: 19533, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--3, server: 52.68.44.53, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--5, server: 43.203.127.152, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--6, server: p229.panda004.net, port: 40244, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--7, server: 168.126.234.230, port: 25730, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--9, server: 168.126.234.232, port: 25415, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--11, server: p241.panda004.net, port: 59974, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--12, server: 185.77.217.121, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: X7eoEBrARWsBUiVfchVEdH, tfo: false}
-  - {name: 0|--13, server: 168.126.234.233, port: 40915, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--14, server: 210.217.18.70, port: 3231, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--15, server: 54.178.84.59, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--16, server: 210.217.18.69, port: 59974, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--17, server: p227.panda004.net, port: 33551, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--18, server: 103.36.91.32, port: 8388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: 0|--19, server: 107.155.57.11, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--20, server: 146.70.61.18, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--21, server: 169.150.210.233, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--22, server: 43.203.122.162, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--23, server: 125.141.26.12, port: 33551, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--24, server: 212.102.53.197, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--25, server: uk-dc1.yangon.club, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 0|--26, server: 52.79.73.137, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--1, server: 217.30.10.18, port: 9060, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, tfo: false}
+  - {name: 0|--2, server: p230.panda004.net, port: 41748, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--3, server: 168.126.234.232, port: 25415, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--4, server: 43.203.127.152, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--5, server: 203.234.238.140, port: 19533, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--6, server: 52.32.68.164, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--7, server: p234.panda004.net, port: 43249, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--8, server: 222.112.15.140, port: 43249, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--9, server: 3.35.206.24, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--10, server: p228.panda004.net, port: 21215, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--11, server: 185.189.160.98, port: 64759, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--12, server: 221.150.109.90, port: 41748, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--15, server: 217.30.10.18, port: 9020, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, tfo: false}
+  - {name: 0|--16, server: 217.30.10.18, port: 9064, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, tfo: false}
+  - {name: 0|--17, server: 107.155.57.11, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--18, server: 217.30.10.18, port: 9014, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, tfo: false}
+  - {name: 0|--19, server: 169.150.210.233, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--20, server: 217.30.10.18, port: 9018, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, tfo: false}
+  - {name: 0|--21, server: 217.30.10.18, port: 9003, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, tfo: false}
+  - {name: 0|--22, server: 212.102.53.197, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 0|--23, server: 45.87.175.157, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--24, server: 23.251.121.242, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--25, server: 43.203.122.162, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--26, server: 217.30.10.18, port: 9027, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, tfo: false}
+  - {name: 0|--27, server: uk-dc1.yangon.club, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 0|--28, server: 217.30.10.18, port: 9041, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, tfo: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.150.215.196, port: 18681, client-fingerprint: chrome, type: trojan, password: vzhXXZVw, sni: 36.150.215.196, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.234.102.229, port: 52908, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港4|@ripaojiedian, server: 120.198.71.214, port: 34493, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
@@ -117,14 +120,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -137,6 +141,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -186,14 +192,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -206,6 +213,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -256,14 +265,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -276,6 +286,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -346,14 +358,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -366,6 +379,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -415,14 +430,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -435,6 +451,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -485,14 +503,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -505,6 +524,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
@@ -564,14 +585,15 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
+      - 0|--4
       - 0|--5
       - 0|--6
       - 0|--7
+      - 0|--8
       - 0|--9
+      - 0|--10
       - 0|--11
       - 0|--12
-      - 0|--13
-      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
@@ -584,6 +606,8 @@ proxy-groups:
       - 0|--24
       - 0|--25
       - 0|--26
+      - 0|--27
+      - 0|--28
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
