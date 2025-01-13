@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-13 16:52:14  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-13 20:48:53  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,31 +44,36 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 13.250.30.129, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--5, server: 112.213.102.228, port: 4231, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--6, server: 54.179.104.38, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--7, server: 13.229.248.183, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--10, server: 3.1.204.240, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--11, server: 125.141.31.100, port: 17725, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--12, server: 54.180.9.243, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--13, server: 27.255.82.135, port: 61891, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--14, server: 35.94.52.140, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--1, server: 221.150.109.88, port: 59686, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--2, server: 210.217.18.69, port: 30956, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--3, server: 3.1.204.240, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--4, server: 13.229.248.183, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--5, server: 54.179.76.173, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--8, server: 54.180.9.243, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--11, server: 195.15.254.25, port: 54748, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ghBuJ9pZOF9MohhGyPjo3rvilQhlw9NzBDlOVDonQN0=, tfo: false}
+  - {name: 0|--12, server: 35.89.145.123, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--13, server: 13.124.147.239, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--14, server: 13.113.190.198, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 0|--15, server: 13.125.199.174, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--17, server: 222.112.15.141, port: 38471, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--18, server: 13.112.239.190, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--19, server: 210.217.18.69, port: 30956, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--21, server: 18.142.51.90, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--22, server: 27.255.82.134, port: 46283, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--25, server: 203.234.238.147, port: 41951, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--27, server: 221.150.109.88, port: 59686, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--28, server: 54.169.119.131, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--29, server: 221.150.109.21, port: 7855, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--16, server: 18.183.217.250, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--17, server: 18.183.178.120, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--18, server: 27.255.82.49, port: 61089, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--19, server: 168.126.234.233, port: 40915, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--20, server: 125.141.31.100, port: 17725, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--21, server: 112.213.102.228, port: 4231, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--22, server: 203.234.238.147, port: 41951, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--23, server: 13.112.239.190, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--24, server: 54.179.104.38, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--25, server: 54.169.119.131, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--26, server: 13.250.30.129, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--27, server: 18.142.51.90, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--28, server: 27.255.82.135, port: 61891, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--29, server: 13.124.195.238, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 0|--30, server: 54.179.150.222, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--31, server: 54.179.76.173, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--33, server: 13.229.99.83, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--34, server: 13.113.190.198, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--31, server: 13.229.99.83, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--32, server: 222.112.15.141, port: 38471, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--33, server: 221.150.109.21, port: 7855, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
   - {name: 0|--45, server: yx1.changyouVPN.top, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 85c7eba1-dfba-4f3e-9f7a-833fa729dc19, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: yg.changyouVPN.top}}}
-  - {name: 0|--46, server: 5.39.252.204, port: 55899, client-fingerprint: chrome, type: vmess, uuid: 791a9aad-1a8b-435d-862e-627f41025d73, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 5.39.252.204}}}
   - {name: "0,15|DE_speednode_0006", server: 3.127.116.35, port: 1935, client-fingerprint: chrome, type: trojan, password: Oe5CMj3tiO, sni: x2ger-amazon.devefun.net, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 223.113.54.145, port: 36442, client-fingerprint: chrome, type: trojan, password: vzhXXZVw, sni: 223.113.54.145, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.150.215.220, port: 48544, client-fingerprint: chrome, type: trojan, password: vzhXXZVw, sni: 36.150.215.220, skip-cert-verify: false}
@@ -134,30 +139,35 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -222,30 +232,35 @@ proxy-groups:
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -311,30 +326,35 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -416,30 +436,35 @@ proxy-groups:
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -504,30 +529,35 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -593,30 +623,35 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
@@ -691,30 +726,35 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 0|--1
+      - 0|--2
+      - 0|--3
+      - 0|--4
       - 0|--5
-      - 0|--6
-      - 0|--7
-      - 0|--10
+      - 0|--8
       - 0|--11
       - 0|--12
       - 0|--13
       - 0|--14
       - 0|--15
+      - 0|--16
       - 0|--17
       - 0|--18
       - 0|--19
+      - 0|--20
       - 0|--21
       - 0|--22
+      - 0|--23
+      - 0|--24
       - 0|--25
+      - 0|--26
       - 0|--27
       - 0|--28
       - 0|--29
       - 0|--30
       - 0|--31
+      - 0|--32
       - 0|--33
-      - 0|--34
       - 0|--45
-      - 0|--46
       - 0,15|DE_speednode_0006
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13,14|香港2|@ripaojiedian
