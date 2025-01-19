@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-19 02:09:20  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-01-19 04:48:52  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,39 +44,36 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|--1, server: 51.13.182.236, port: 6870, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: M7x1mGNOwhPiRB9jSxZJNy, tfo: false}
-  - {name: 0|--2, server: 45.87.175.171, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
-  - {name: 0|--3, server: 121.170.203.147, port: 37041, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--1, server: 218.237.185.230, port: 31066, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--2, server: 211.178.105.134, port: 51633, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--3, server: 221.168.44.72, port: 27973, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--4, server: 45.140.146.223, port: 8388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: YjJiYzBj, tfo: false}
+  - {name: 0|--5, server: p196.panda001.net, port: 27973, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--6, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: 0|--8, server: 45.87.175.171, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, tfo: false}
+  - {name: 0|--9, server: 68.183.227.45, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 0|--10, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: 0|--11, server: 121.170.203.147, port: 37041, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--12, server: 218.38.103.150, port: 28902, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--13, server: 218.50.149.114, port: 34847, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--14, server: 121.170.203.148, port: 4563, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--15, server: 125.141.31.103, port: 43104, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--16, server: 168.126.234.233, port: 40915, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--17, server: 13.125.6.123, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--23, server: 51.13.182.236, port: 6870, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: M7x1mGNOwhPiRB9jSxZJNy, tfo: false}
+  - {name: 0|--24, server: 51.13.182.231, port: 3089, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: J0lgxy4mb52CIJ8UUcEgts, tfo: false}
+  - {name: 0|--25, server: 54.179.76.173, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|--26, server: 125.141.31.100, port: 17725, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
   - {name: "🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian", server: p221.panda001.net, port: 43104, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--5, server: 45.140.146.223, port: 8388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: YjJiYzBj, tfo: false}
-  - {name: 0|--6, server: 125.141.31.103, port: 43104, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--7, server: p196.panda001.net, port: 27973, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--10, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--11, server: 54.179.76.173, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--12, server: p232.panda004.net, port: 59686, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--13, server: 51.13.182.231, port: 3089, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: J0lgxy4mb52CIJ8UUcEgts, tfo: false}
-  - {name: 0|--15, server: 217.144.106.226, port: 11122, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XpG6mphc, tfo: false}
-  - {name: 0|--16, server: beesyar.org, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: 0|--17, server: 154.197.26.237, port: 8388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: 0|--18, server: 68.183.227.45, port: 8080, client-fingerprint: chrome, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|--19, server: 45.87.175.166, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: 0|--20, server: 218.50.149.114, port: 34847, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--21, server: 218.38.103.150, port: 28902, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--22, server: 54.95.11.184, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--23, server: 213.109.147.242, port: 62685, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, tfo: false}
-  - {name: 0|--27, server: 168.126.234.233, port: 40915, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--31, server: p239.panda004.net, port: 15041, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--32, server: 125.141.26.12, port: 30778, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--33, server: 125.141.31.100, port: 17725, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--34, server: p231.panda004.net, port: 61238, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--35, server: 121.170.203.148, port: 4563, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--36, server: 168.126.234.232, port: 58989, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--37, server: 54.218.237.217, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--38, server: 13.125.6.123, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|--39, server: 221.168.44.72, port: 27973, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
-  - {name: 0|--55, server: 212.192.12.70, port: 17926, client-fingerprint: chrome, type: vmess, uuid: dae301f8-eeda-473f-aa6c-306b5061c48d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 212.192.12.70}}}
-  - {name: "0,15|US_speednode_0099", server: t37.emoyes.top, port: 657, client-fingerprint: chrome, type: trojan, password: c9d1e9e4-2812-4a50-a113-a6c914e9c832, sni: www.python.org, skip-cert-verify: false}
+  - {name: 0|--28, server: p231.panda004.net, port: 61238, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--29, server: 27.255.82.135, port: 61891, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: 0|--31, server: 107.148.6.121, port: 8388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
+  - {name: 0|--57, server: s4.db-link01.top, port: 80, client-fingerprint: chrome, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /dabai.in172.64.44.14, headers: {Host: 100-157-232-164.s4.db-link01.top}}}
+  - {name: 0|--58, server: 212.192.12.70, port: 17926, client-fingerprint: chrome, type: vmess, uuid: dae301f8-eeda-473f-aa6c-306b5061c48d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 212.192.12.70}}}
+  - {name: 0|--59, server: oriented-terrier.boa152.lol, port: 443, client-fingerprint: chrome, type: trojan, password: 3723507166611775488, sni: oriented-terrier.boa152.lol, skip-cert-verify: false}
   - {name: "0,15|US_speednode_0101", server: t36.emoyes.top, port: 257, client-fingerprint: chrome, type: trojan, password: c9d1e9e4-2812-4a50-a113-a6c914e9c832, sni: www.python.org, skip-cert-verify: false}
+  - {name: 0|--61, server: 80.240.112.32, port: 443, client-fingerprint: chrome, type: trojan, password: 3723507166611775488, sni: oriented-terrier.boa152.lol, skip-cert-verify: false}
+  - {name: "0,15|US_speednode_0099", server: t37.emoyes.top, port: 657, client-fingerprint: chrome, type: trojan, password: c9d1e9e4-2812-4a50-a113-a6c914e9c832, sni: www.python.org, skip-cert-verify: false}
   - {name: "13,14,15|CN_speednode_0019", server: 223.113.54.145, port: 36442, client-fingerprint: chrome, type: trojan, password: phXKwfrd, sni: 223.113.54.145, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 36.150.215.219, port: 42395, client-fingerprint: chrome, type: trojan, password: phXKwfrd, sni: 36.150.215.219, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港3|@ripaojiedian", server: naiu-hk.05vr9nyqg5.download, port: 13004, client-fingerprint: chrome, type: trojan, password: e279c494-c426-443a-a034-a04516409242, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: false}
@@ -166,36 +163,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -284,36 +278,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -403,36 +394,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -536,36 +524,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -654,36 +639,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -773,36 +755,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
@@ -901,36 +880,33 @@ proxy-groups:
       - 0|--1
       - 0|--2
       - 0|--3
-      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--4
       - 0|--5
       - 0|--6
-      - 0|--7
+      - 0|--8
+      - 0|--9
       - 0|--10
       - 0|--11
       - 0|--12
       - 0|--13
+      - 0|--14
       - 0|--15
       - 0|--16
       - 0|--17
-      - 0|--18
-      - 0|--19
-      - 0|--20
-      - 0|--21
-      - 0|--22
       - 0|--23
-      - 0|--27
+      - 0|--24
+      - 0|--25
+      - 0|--26
+      - 🇰🇷 0,13|🇰🇷 韩国|@ripaojiedian
+      - 0|--28
+      - 0|--29
       - 0|--31
-      - 0|--32
-      - 0|--33
-      - 0|--34
-      - 0|--35
-      - 0|--36
-      - 0|--37
-      - 0|--38
-      - 0|--39
-      - 0|--55
-      - 0,15|US_speednode_0099
+      - 0|--57
+      - 0|--58
+      - 0|--59
       - 0,15|US_speednode_0101
+      - 0|--61
+      - 0,15|US_speednode_0099
       - 13,14,15|CN_speednode_0019
       - 🇭🇰 13,14|香港2|@ripaojiedian
       - 🇭🇰 13,14|香港3|@ripaojiedian
