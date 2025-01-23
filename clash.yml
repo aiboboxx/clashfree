@@ -1,4 +1,4 @@
-<pre style="word-wrap: break-word; white-space: pre-wrap;">port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
