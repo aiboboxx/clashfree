@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-02 16:48:23  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-02 20:48:37  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,6 +36,21 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
+  - {name: 0|🇯🇵1 |  5.9MB/s, server: 13.230.161.241, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇩🇪1 |  5.8MB/s, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 94e76aaf-a5cb-4d08-9872-cb389bcd4a57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇮🇷1 |  6.1MB/s, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 94e76aaf-a5cb-4d08-9872-cb389bcd4a57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🌀2- |  5.7MB/s, server: 50033.baidu-cdn.top, port: 50033, type: vmess, uuid: 540a5d31-cd1f-41bd-b5bd-92126f2cdc85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇬🇧1 |  4.3MB/s, server: hk.fastsoonlink.com, port: 40000, type: ss, cipher: chacha20-ietf-poly1305, password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00, tfo: false}
+  - {name: 0|🇷🇺1 |  2.2MB/s, server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: 0a503195-812a-4bb2-95d1-0294b4ebb4f4, tfo: false}
+  - {name: 0|🇨🇦1 |  3.8MB/s, server: 47.128.241.72, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇭🇰1 |  4.4MB/s, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 94e76aaf-a5cb-4d08-9872-cb389bcd4a57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🌀3- |  5.2MB/s, server: chiyu.myfczy169.top, port: 50691, type: ss, cipher: chacha20-ietf-poly1305, password: a07ad30f-3627-4eeb-869a-c71078d4654f, tfo: false}
+  - {name: 0|🇺🇸2 |  4.3MB/s, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 94e76aaf-a5cb-4d08-9872-cb389bcd4a57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇵🇱1 |  3.1MB/s, server: pr.fastsoonlink.com, port: 40030, type: ss, cipher: chacha20-ietf-poly1305, password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00, tfo: false}
+  - {name: 0|🇩🇪2 |  1.5MB/s, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 94e76aaf-a5cb-4d08-9872-cb389bcd4a57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸3 |  1.8MB/s, server: southvip1.pkyun.xyz, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 95cdd785-13be-40cd-aa0e-45991b631629, tfo: false}
+  - {name: 0|🇯🇵2 |  1.2MB/s, server: vn.fastsoonlink.com, port: 40021, type: ss, cipher: chacha20-ietf-poly1305, password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00, tfo: false}
+  - {name: 0|🇺🇸4 |  4.7MB/s, server: us-boardman-oregon-2.keenvpn.me, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2afbc97400ca71c8f3306f9843a6e1c2, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 50028.baidu-cdn.top, port: 50028, type: vmess, uuid: 63e90ac2-b431-421d-9262-b6c4ce488908, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 156.245.190.23, port: 15014, type: ss, cipher: aes-256-gcm, password: O6IKQIP6LAJ0C0S0, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
@@ -89,6 +104,21 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 0|🇯🇵1 |  5.9MB/s
+      - 0|🇩🇪1 |  5.8MB/s
+      - 0|🇮🇷1 |  6.1MB/s
+      - 0|🌀2- |  5.7MB/s
+      - 0|🇬🇧1 |  4.3MB/s
+      - 0|🇷🇺1 |  2.2MB/s
+      - 0|🇨🇦1 |  3.8MB/s
+      - 0|🇭🇰1 |  4.4MB/s
+      - 0|🌀3- |  5.2MB/s
+      - 0|🇺🇸2 |  4.3MB/s
+      - 0|🇵🇱1 |  3.1MB/s
+      - 0|🇩🇪2 |  1.5MB/s
+      - 0|🇺🇸3 |  1.8MB/s
+      - 0|🇯🇵2 |  1.2MB/s
+      - 0|🇺🇸4 |  4.7MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
