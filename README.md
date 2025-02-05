@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-05 08:49:02  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-05 13:02:59  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,21 +36,22 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇯🇵1 |  6.0MB/s, server: 54.65.35.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇬🇧1 |  3.8MB/s, server: gnpid1111.ndycom.com, port: 50015, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: v2hgc01.fuqiangren.com, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇹🇼1 |  5.0MB/s, server: gnpid1111.ndycom.com, port: 50025, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: v2tw01.fuqiangren.com, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇯🇵2 |  6.0MB/s, server: 18.179.118.124, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇨🇦1 |  1.1MB/s, server: 47.129.101.151, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇮🇷1 |  6.7MB/s, server: gnpid1111.ndycom.com, port: 50022, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: v1jp01.fuqiangren.com, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸1 |  3.9MB/s, server: gnpid1111.ndycom.com, port: 50050, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: uk01.6kk.org, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸2 |  2.6MB/s, server: dxv4.pai50288.uk, port: 14100, type: vmess, uuid: f6866b0b-f946-4a03-8df0-c7e0016b55ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸3 |  6.0MB/s, server: gnpid1111.ndycom.com, port: 50052, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: v1in01.6kk.org, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸4 |  10.5MB/s, server: 14.18.253.178, port: 8335, type: ss, cipher: chacha20, password: avpBqFFmsYBN, tfo: false}
-  - {name: 0|🇬🇧2 |  5.0MB/s, server: gnpid1111.ndycom.com, port: 50014, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, sni: v2hgc01.fuqiangren.com, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇯🇵3 |  1.2MB/s, server: 43.207.76.121, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸7 |  6.2MB/s, server: gy.58n.net, port: 43337, type: trojan, password: 372c3834-4166-3ab4-bfbb-ebab353b6e99, sni: z102.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: "0,13,14,15|speednode_0011", server: nb_ae7a7.kaiqsz.com, port: 18147, type: trojan, password: 7cd29891-fe78-4f8f-8844-abb31b9d9a75, sni: mm2.redapricotcloud.com, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸1 |  1.1MB/s, server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 7a990638-15e4-34f2-9866-9bfdd556d638, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, tfo: false}
+  - {name: 0|🌀1- |  2.7MB/s, server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 7a990638-15e4-34f2-9866-9bfdd556d638, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, tfo: false}
   - {name: "🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian", server: 52.78.197.177, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬1 |  6.2MB/s, server: gy.58n.net, port: 20299, type: trojan, password: 372c3834-4166-3ab4-bfbb-ebab353b6e99, sni: x299.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸3 |  2.5MB/s, server: gy.58n.net, port: 20278, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: z278.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸4 |  21.0MB/s, server: cu1.guguyun.xyz, port: 23733, type: ss, cipher: aes-128-gcm, password: e2c62a73-3132-48a6-a020-25c3ae0d8af2, tfo: false}
+  - {name: 0|🇺🇸5 |  1.1MB/s, server: tk.hzlt.tkddns.xyz, port: 22643, type: vmess, uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, servername: tk.hzlt.tkddns.xyz, network: ws, ws-opts: {path: /, headers: {Host: zxjp-c.tkong.cc}}, tfo: false}
+  - {name: 0|🇬🇧3 |  1.5MB/s, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 11752efe-8d70-4410-9c6f-92bb13c269b5, tfo: false}
+  - {name: 0|🇯🇵1 |  2.0MB/s, server: gy.58n.net, port: 41767, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: x114.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸6 |  5.1MB/s, server: gy.58n.net, port: 20294, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: z294.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇬🇧4 |  2.9MB/s, server: gyl.58n.net, port: 20309, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: z309.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🌀2- |  1.1MB/s, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 11752efe-8d70-4410-9c6f-92bb13c269b5, tfo: false}
+  - {name: 0|🇯🇵3 |  5.7MB/s, server: gy.58n.net, port: 20141, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: z141.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸7 |  1.3MB/s, server: gy.58n.net, port: 20307, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: z307.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸8 |  5.4MB/s, server: south.sf0jm.xyz, port: 49201, type: ss, cipher: aes-128-gcm, password: 2f3cd3b3-6ebe-4a32-99d7-2479086fb5fc, tfo: false}
+  - {name: 0|🇸🇬1 |  5.6MB/s, server: gy.58n.net, port: 17806, type: trojan, password: f0b00f01-c9b3-352b-84e6-00bb2a719662, sni: x65.flybar.work, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 38.147.188.17, port: 57658, type: vmess, uuid: 7f004471-a725-4efb-9a19-6bf17a61cf46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 50028.baidu-cdn.top, port: 50028, type: vmess, uuid: adb6b92d-24c1-4dff-9efc-8ecedb84219b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
@@ -58,12 +59,11 @@ proxies:
   - {name: 🇭🇰 13|🇭🇰 香港5|@ripaojiedian, server: 120.232.153.63, port: 40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "🇨🇳 13,14|台湾|@ripaojiedian", server: naiu-other.05vr9nyqg5.download, port: 13035, type: trojan, password: 2b39bbdd-a565-4f8e-b6b6-6b034b2076f4, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true, tfo: false}
   - {name: "🇨🇳 13,14|台湾2|@ripaojiedian", server: 120.198.71.173, port: 18147, type: trojan, password: f1df4c41-0e78-400b-8588-eaa24bd8fd21, sni: mm2.redapricotcloud.com, skip-cert-verify: true, tfo: false}
-  - {name: "🇨🇳 13,14|台湾3|@ripaojiedian", server: nb_ae7a7.kaiqsz.com, port: 18147, type: trojan, password: 7cd29891-fe78-4f8f-8844-abb31b9d9a75, sni: mm2.redapricotcloud.com, skip-cert-verify: true, tfo: false}
   - {name: 🇯🇵 13|🇯🇵 日本|@ripaojiedian, server: ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 11171, type: vmess, uuid: 68512223-ea66-46fc-82f4-e22b597cdd5e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇯🇵 13|🇯🇵 日本2|@ripaojiedian, server: mdss-jp.04z3susick.download, port: 12012, type: ss, cipher: aes-128-gcm, password: 40983d6d-48be-4c9a-aa48-3aaf3146833e, tfo: false}
   - {name: 🇰🇷 13|🇰🇷 韩国|@ripaojiedian, server: useful-jennet.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: useful-jennet.shiner427.skin, skip-cert-verify: true, tfo: false}
   - {name: 🇰🇷 13|🇰🇷 韩国2|@ripaojiedian, server: hopeful-seagull.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: hopeful-seagull.shiner427.skin, skip-cert-verify: true, tfo: false}
-  - {name: 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian, server: relieved-raccoon.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: relieved-raccoon.shiner427.skin, skip-cert-verify: true, tfo: false}
+  - {name: "13,15|speednode_0021", server: relieved-raccoon.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: relieved-raccoon.shiner427.skin, skip-cert-verify: true, tfo: false}
   - {name: 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian, server: robust-redfish.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: robust-redfish.shiner427.skin, skip-cert-verify: true, tfo: false}
   - {name: 🇺🇸 13|🇺🇸 美国|@ripaojiedian, server: moral-rat.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: moral-rat.shiner427.skin, skip-cert-verify: true, tfo: false}
   - {name: 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian, server: 18.143.78.171, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
@@ -85,7 +85,6 @@ proxies:
   - {name: 🇯🇵 14|日本特殊|@ripaojiedian, server: 52.78.197.177, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 52.192.75.193, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇫🇷 14|法国|@ripaojiedian, server: 185.234.64.35, port: 8388, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ, tfo: false}
-  - {name: 15|speednode_0048, server: 219.135.231.205, port: 21019, type: trojan, password: 20a84ebf-9341-4f5f-8245-3975e2fdeee5, skip-cert-verify: true, tfo: false}
   - {name: 16|d*********g.com_2, server: 42.236.73.72, port: 443, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: www.zitian.cn, tfo: false}
   - {name: 16|d*********g.com_3, server: 42.236.73.72, port: 443, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: true, tfo: false}
 proxy-groups:
@@ -98,21 +97,22 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇯🇵1 |  6.0MB/s
-      - 0|🇬🇧1 |  3.8MB/s
-      - 0|🇹🇼1 |  5.0MB/s
-      - 0|🇯🇵2 |  6.0MB/s
-      - 0|🇨🇦1 |  1.1MB/s
-      - 0|🇮🇷1 |  6.7MB/s
-      - 0|🇺🇸1 |  3.9MB/s
-      - 0|🇺🇸2 |  2.6MB/s
-      - 0|🇺🇸3 |  6.0MB/s
-      - 0|🇺🇸4 |  10.5MB/s
-      - 0|🇬🇧2 |  5.0MB/s
-      - 0|🇯🇵3 |  1.2MB/s
-      - 0|🇺🇸7 |  6.2MB/s
+      - 0,13,14,15|speednode_0011
+      - 0|🇺🇸1 |  1.1MB/s
+      - 0|🌀1- |  2.7MB/s
       - 🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian
-      - 0|🇸🇬1 |  6.2MB/s
+      - 0|🇺🇸3 |  2.5MB/s
+      - 0|🇺🇸4 |  21.0MB/s
+      - 0|🇺🇸5 |  1.1MB/s
+      - 0|🇬🇧3 |  1.5MB/s
+      - 0|🇯🇵1 |  2.0MB/s
+      - 0|🇺🇸6 |  5.1MB/s
+      - 0|🇬🇧4 |  2.9MB/s
+      - 0|🌀2- |  1.1MB/s
+      - 0|🇯🇵3 |  5.7MB/s
+      - 0|🇺🇸7 |  1.3MB/s
+      - 0|🇺🇸8 |  5.4MB/s
+      - 0|🇸🇬1 |  5.6MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -120,12 +120,11 @@ proxy-groups:
       - 🇭🇰 13|🇭🇰 香港5|@ripaojiedian
       - 🇨🇳 13,14|台湾|@ripaojiedian
       - 🇨🇳 13,14|台湾2|@ripaojiedian
-      - 🇨🇳 13,14|台湾3|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国2|@ripaojiedian
-      - 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian
+      - 13,15|speednode_0021
       - 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian
       - 🇺🇸 13|🇺🇸 美国|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
@@ -147,7 +146,6 @@ proxy-groups:
       - 🇯🇵 14|日本特殊|@ripaojiedian
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇫🇷 14|法国|@ripaojiedian
-      - 15|speednode_0048
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: Apple
@@ -203,7 +201,6 @@ proxy-groups:
   - name: SG
     type: select
     proxies:
-      - 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian
       - 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇸🇬 14|新加坡|@ripaojiedian
@@ -214,7 +211,6 @@ proxy-groups:
     proxies:
       - 🇨🇳 13,14|台湾|@ripaojiedian
       - 🇨🇳 13,14|台湾2|@ripaojiedian
-      - 🇨🇳 13,14|台湾3|@ripaojiedian
   - name: JP
     type: select
     proxies:
