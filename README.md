@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-05 16:51:11  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-05 20:48:36  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,19 +36,20 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇺🇸1 |  1.7MB/s, server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 4d98ca09-f6fe-3534-b727-c9612fdd20f1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, tfo: false}
-  - {name: 0|🇺🇸2 |  2.1MB/s, server: 34.218.228.243, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵2 |  9.6MB/s, server: 43.203.206.63, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸3 |  2.2MB/s, server: 35.95.8.174, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇰🇷1 |  4.7MB/s, server: 52.78.178.243, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸5 |  3.9MB/s, server: 34.211.228.158, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸6 |  3.8MB/s, server: 107.149.254.26, port: 159, type: trojan, password: a1b36c4d-446b-4402-9370-ec6dbf79e143, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸7 |  2.7MB/s, server: 34.217.145.61, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇰🇷2 |  3.8MB/s, server: cmeiguo4.mmods.site, port: 33436, type: vmess, uuid: 87db8a11-c697-3c85-8369-84554fa9f83e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇵🇱1 |  1.9MB/s, server: 141.98.234.195, port: 36766, type: ss, cipher: chacha20-ietf-poly1305, password: LiGTbOw30gq9Qw7H8eTJWG, tfo: false}
-  - {name: 0|🇰🇷3 |  1.8MB/s, server: 13.125.215.15, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸9 |  5.0MB/s, server: 54.214.157.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸10 |  2.2MB/s, server: 35.91.132.50, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇯🇵1 |  1.4MB/s, server: gy.58n.net, port: 20071, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: x71.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🌏1 |  5.9MB/s, server: 103.36.91.32, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
+  - {name: 0|🇯🇵2 |  5.2MB/s, server: gy.58n.net, port: 54178, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: x115.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇨🇦1 |  5.4MB/s, server: 47.129.101.151, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇯🇵3 |  3.4MB/s, server: gy.58n.net, port: 20300, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: z300.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇰🇷1 |  8.8MB/s, server: 52.78.178.243, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸3 |  1.4MB/s, server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 51517819-c4ca-3d03-a99d-220b32144232, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, tfo: false}
+  - {name: 0|🇯🇵4 |  2.0MB/s, server: gy.58n.net, port: 20076, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: x76.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇸🇬1 |  4.9MB/s, server: gy.58n.net, port: 30712, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: x83.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇬🇧1 |  2.5MB/s, server: gy.58n.net, port: 11215, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: z268.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸6 |  1.3MB/s, server: gy.58n.net, port: 22741, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: dufu.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸7 |  4.3MB/s, server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 51517819-c4ca-3d03-a99d-220b32144232, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, tfo: false}
+  - {name: 0|🇯🇵5 |  4.9MB/s, server: gy.58n.net, port: 20140, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: z140.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸10 |  2.0MB/s, server: gy.58n.net, port: 56783, type: trojan, password: 5e9b182a-9262-3244-8381-5aa946697b8d, sni: z266.hongkongnode.top, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 38.147.188.17, port: 57658, type: vmess, uuid: 7f004471-a725-4efb-9a19-6bf17a61cf46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 50028.baidu-cdn.top, port: 50028, type: vmess, uuid: adb6b92d-24c1-4dff-9efc-8ecedb84219b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
@@ -96,19 +97,20 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇺🇸1 |  1.7MB/s
-      - 0|🇺🇸2 |  2.1MB/s
-      - 0|🇯🇵2 |  9.6MB/s
-      - 0|🇺🇸3 |  2.2MB/s
-      - 0|🇰🇷1 |  4.7MB/s
-      - 0|🇺🇸5 |  3.9MB/s
-      - 0|🇺🇸6 |  3.8MB/s
-      - 0|🇺🇸7 |  2.7MB/s
-      - 0|🇰🇷2 |  3.8MB/s
-      - 0|🇵🇱1 |  1.9MB/s
-      - 0|🇰🇷3 |  1.8MB/s
-      - 0|🇺🇸9 |  5.0MB/s
-      - 0|🇺🇸10 |  2.2MB/s
+      - 0|🇯🇵1 |  1.4MB/s
+      - 0|🌏1 |  5.9MB/s
+      - 0|🇯🇵2 |  5.2MB/s
+      - 0|🇨🇦1 |  5.4MB/s
+      - 0|🇯🇵3 |  3.4MB/s
+      - 0|🇰🇷1 |  8.8MB/s
+      - 0|🇺🇸3 |  1.4MB/s
+      - 0|🇯🇵4 |  2.0MB/s
+      - 0|🇸🇬1 |  4.9MB/s
+      - 0|🇬🇧1 |  2.5MB/s
+      - 0|🇺🇸6 |  1.3MB/s
+      - 0|🇺🇸7 |  4.3MB/s
+      - 0|🇯🇵5 |  4.9MB/s
+      - 0|🇺🇸10 |  2.0MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
