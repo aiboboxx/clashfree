@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-08 08:48:50  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-08 12:59:01  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,12 +36,9 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇨🇦1 |  6.0MB/s, server: 47.129.255.141, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬1 |  8.6MB/s, server: awssg1.072659.xyz, port: 80, type: vmess, uuid: f435af7b-d36e-4e8d-9c0f-3017bb71e2c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: tms.dingtalk.com}}, tfo: false}
-  - {name: 0|🇺🇸1 |  6.7MB/s, server: 34.221.167.203, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵1 |  3.9MB/s, server: gy.58n.net, port: 20141, type: trojan, password: c12015ed-e211-3e2a-8a1e-f39fd09976b8, sni: z141.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸2 |  4.1MB/s, server: 107.155.57.11, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 0|🇺🇸3 |  13.1MB/s, server: 14.18.253.178, port: 8334, type: ss, cipher: chacha20, password: DvPfKa8vsV9K, tfo: false}
+  - {name: 0|🇫🇷1 |  3.5MB/s, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 227712f9-e972-4555-8025-06e6dec1bb47, tfo: false}
+  - {name: 0|🇺🇸2 |  4.0MB/s, server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 569053ac-300d-3d77-b531-a369cdd4bbda, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, tfo: false}
+  - {name: 0|🇺🇸3 |  10.5MB/s, server: 14.18.253.178, port: 8335, type: ss, cipher: chacha20, password: avpBqFFmsYBN, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 38.147.188.94, port: 18423, type: vmess, uuid: d74f7655-eb59-4b48-9f8f-98a9c64a9e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 38.147.188.160, port: 32450, type: vmess, uuid: 1fa824bb-a682-4827-821f-9adc444a2a0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 8OCJMAVUOSVBYS7V, tfo: false}
@@ -98,12 +95,9 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇨🇦1 |  6.0MB/s
-      - 0|🇸🇬1 |  8.6MB/s
-      - 0|🇺🇸1 |  6.7MB/s
-      - 0|🇯🇵1 |  3.9MB/s
-      - 0|🇺🇸2 |  4.1MB/s
-      - 0|🇺🇸3 |  13.1MB/s
+      - 0|🇫🇷1 |  3.5MB/s
+      - 0|🇺🇸2 |  4.0MB/s
+      - 0|🇺🇸3 |  10.5MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
