@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-08 16:48:39  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-08 20:48:41  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,15 +36,19 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🌀1- |  2.3MB/s, server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: db0a527d-6969-4f0b-aa4d-cf84e423da17, tfo: false}
-  - {name: 0|🇺🇸1 |  3.5MB/s, server: gy.58n.net, port: 43337, type: trojan, password: 2aa6d924-bc53-31e3-a445-04853540dc9b, sni: z102.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇯🇵1 |  1.2MB/s, server: gy.58n.net, port: 20139, type: trojan, password: 2aa6d924-bc53-31e3-a445-04853540dc9b, sni: z139.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇨🇦1 |  5.0MB/s, server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: db0a527d-6969-4f0b-aa4d-cf84e423da17, tfo: false}
-  - {name: 0|🇺🇸2 |  1.9MB/s, server: 120.232.153.123, port: 45402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇸🇬1 |  6.1MB/s, server: 18.141.25.54, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇬🇧1 |  5.4MB/s, server: 78.129.140.11, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lEILy9IsaRUoTc3gEDdcsW, tfo: false}
+  - {name: 0|🇺🇸3 |  6.1MB/s, server: 50029.baidu-cdn.top, port: 50029, type: vmess, uuid: d50eadc6-2eef-453f-98db-0a56685f7daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸5 |  10.4MB/s, server: 14.18.253.178, port: 8343, type: ss, cipher: chacha20, password: dkYsdgWqegNV, tfo: false}
+  - {name: 0|🇺🇸6 |  1.6MB/s, server: tk.hzlt.tkddns.xyz, port: 22642, type: vmess, uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, servername: tk.hzlt.tkddns.xyz, network: ws, ws-opts: {path: /, headers: {Host: zxjp-b.tkong.cc}}, tfo: false}
+  - {name: 0|🌀1- |  4.9MB/s, server: 120.241.29.110, port: 22005, type: ss, cipher: aes-128-gcm, password: 90c0bc87-d7dd-4233-9b1a-cc9e7cf30649, tfo: false}
+  - {name: "🇭🇰 0,13|🇭🇰 香港4|@ripaojiedian", server: qh62onjn.slashdevslashnetslashtun.net, port: 15007, type: ss, cipher: aes-256-gcm, password: OJCMTKCU4OMRTZB0, tfo: false}
+  - {name: 0|🇸🇬2 |  4.6MB/s, server: 13.250.3.5, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇷🇺2 |  6.2MB/s, server: gdgs.tarioblink.me, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: a422f6de-f257-49d4-b4cf-1254fb9eb39e, tfo: false}
+  - {name: 0|🇺🇸9 |  4.0MB/s, server: 14.18.253.178, port: 8349, type: ss, cipher: chacha20, password: d3baK6NW2HEc, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 38.147.188.94, port: 18423, type: vmess, uuid: d74f7655-eb59-4b48-9f8f-98a9c64a9e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 38.147.188.160, port: 32450, type: vmess, uuid: 1fa824bb-a682-4827-821f-9adc444a2a0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 8OCJMAVUOSVBYS7V, tfo: false}
-  - {name: 🇭🇰 13|🇭🇰 香港4|@ripaojiedian, server: qh62onjn.slashdevslashnetslashtun.net, port: 15007, type: ss, cipher: aes-256-gcm, password: OJCMTKCU4OMRTZB0, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港5|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 15004, type: ss, cipher: aes-256-gcm, password: KPOQG1L4BS2PKML1, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港6|@ripaojiedian, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
   - {name: 🇨🇳 13|🇹🇼 台湾|@ripaojiedian, server: 59.42.247.243, port: 3036, type: ss, cipher: rc4-md5, password: RenzheCloudSS, tfo: false}
@@ -97,15 +101,19 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🌀1- |  2.3MB/s
-      - 0|🇺🇸1 |  3.5MB/s
-      - 0|🇯🇵1 |  1.2MB/s
-      - 0|🇨🇦1 |  5.0MB/s
-      - 0|🇺🇸2 |  1.9MB/s
+      - 0|🇸🇬1 |  6.1MB/s
+      - 0|🇬🇧1 |  5.4MB/s
+      - 0|🇺🇸3 |  6.1MB/s
+      - 0|🇺🇸5 |  10.4MB/s
+      - 0|🇺🇸6 |  1.6MB/s
+      - 0|🌀1- |  4.9MB/s
+      - 🇭🇰 0,13|🇭🇰 香港4|@ripaojiedian
+      - 0|🇸🇬2 |  4.6MB/s
+      - 0|🇷🇺2 |  6.2MB/s
+      - 0|🇺🇸9 |  4.0MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
-      - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港6|@ripaojiedian
       - 🇨🇳 13|🇹🇼 台湾|@ripaojiedian
@@ -188,10 +196,10 @@ proxy-groups:
   - name: HK
     type: select
     proxies:
+      - 🇭🇰 0,13|🇭🇰 香港4|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
-      - 🇭🇰 13|🇭🇰 香港4|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港6|@ripaojiedian
       - 🇭🇰 14|香港|@ripaojiedian
