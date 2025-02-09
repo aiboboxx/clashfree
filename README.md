@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-09 04:49:03  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-09 08:48:27  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,25 +36,18 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇰🇷1 |  5.0MB/s, server: 13.125.126.52, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇦1 |  4.3MB/s, server: south.sf0jm.xyz, port: 49221, type: ss, cipher: aes-128-gcm, password: e622f777-276a-45f1-849b-9d9ce03f64e3, tfo: false}
-  - {name: 0|🇳🇱1 |  5.8MB/s, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: "🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian", server: 3.0.17.42, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬2 |  4.4MB/s, server: 13.229.181.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇦2 |  2.4MB/s, server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: 9edd1908-b7f2-4791-ba78-62a43310c9ab, tfo: false}
-  - {name: 0|🇺🇦3 |  2.2MB/s, server: south.sf0jm.xyz, port: 49225, type: ss, cipher: aes-128-gcm, password: e622f777-276a-45f1-849b-9d9ce03f64e3, tfo: false}
-  - {name: 0|🇷🇺1 |  1.9MB/s, server: south.sf0jm.xyz, port: 49217, type: ss, cipher: aes-128-gcm, password: e622f777-276a-45f1-849b-9d9ce03f64e3, tfo: false}
-  - {name: 0|🇺🇸2 |  2.8MB/s, server: 3.36.105.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬3 |  6.0MB/s, server: 13.250.12.185, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸3 |  9.2MB/s, server: 3.36.57.236, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸4 |  6.0MB/s, server: 18.143.140.150, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇷🇺2 |  1.4MB/s, server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 9edd1908-b7f2-4791-ba78-62a43310c9ab, tfo: false}
-  - {name: 0|🇺🇸5 |  1.6MB/s, server: 35.95.26.187, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇭🇰2 |  1.3MB/s, server: 154.90.62.168, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
-  - {name: 0|🇯🇵1 |  1.4MB/s, server: gy.58n.net, port: 20300, type: trojan, password: 7d78b611-d26a-3828-ac5a-5f5ed29efeda, sni: z300.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸6 |  4.1MB/s, server: 18.143.174.188, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬4 |  1.5MB/s, server: 3.0.147.242, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇨🇦1 |  4.9MB/s, server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 9edd1908-b7f2-4791-ba78-62a43310c9ab, tfo: false}
+  - {name: 0|🌀1- |  5.6MB/s, server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇸🇬1 |  6.0MB/s, server: 13.212.149.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸1 |  4.9MB/s, server: 34.209.79.56, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🌀4- |  4.8MB/s, server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇺🇦1 |  3.0MB/s, server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇺🇸2 |  5.5MB/s, server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 1a202230-14eb-372a-8859-fcc758dccc3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, tfo: false}
+  - {name: 0|🇺🇸3 |  1.1MB/s, server: 3.36.57.236, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇨🇦1 |  2.6MB/s, server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇺🇸4 |  3.1MB/s, server: 107.149.254.26, port: 158, type: trojan, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸5 |  4.5MB/s, server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇷🇺1 |  5.3MB/s, server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 7e7331ba-5095-405a-b301-c2a8e75c7d58, tfo: false}
+  - {name: 0|🇺🇸7 |  5.1MB/s, server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 1a202230-14eb-372a-8859-fcc758dccc3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: 183.232.239.172, port: 15011, type: ss, cipher: aes-256-gcm, password: 5OVJDT1EY2YS8XDP, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15014, type: ss, cipher: aes-256-gcm, password: WOS0SJZNDJXRJUZL, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 183.61.177.234, port: 15006, type: ss, cipher: aes-256-gcm, password: 3S8L0OZ5QZN490S8, tfo: false}
@@ -72,6 +65,7 @@ proxies:
   - {name: 🇺🇸 13|🇺🇸 美国2|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 17002, type: ss, cipher: aes-256-gcm, password: M4GWJS4SIR9UHK0Y, tfo: false}
   - {name: 🇺🇸 13|🇺🇸 美国3|@ripaojiedian, server: 183.61.177.234, port: 17006, type: ss, cipher: aes-256-gcm, password: 5FJF20OHXKZCSDEB, tfo: false}
   - {name: 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian, server: 13.212.92.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian, server: 3.0.17.42, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian, server: 54.180.143.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
   - {name: 🇷🇺 13|🇷🇺 俄罗斯|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 20002, type: ss, cipher: aes-256-gcm, password: 1T5BLKXJ0M1WF2W4, tfo: false}
   - {name: 🇬🇧 13|🇬🇧 英国|@ripaojiedian, server: 78.129.140.11, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uu5qbvqIk3NE8QQfx2CzzY, tfo: false}
@@ -95,8 +89,6 @@ proxies:
   - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 54.180.143.115, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 🇷🇺 14|俄罗斯|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 20002, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206MVQ1QkxLWEowTTFXRjJXNA, tfo: false}
   - {name: 🇬🇧 14|英国|@ripaojiedian, server: 78.129.140.11, port: 443, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dTVxYnZxSWszTkU4UVFmeDJDenpZ, tfo: false}
-  - {name: 15|speednode_0011, server: nb_ae7a7.kaiqsz.com, port: 18147, type: trojan, password: 7cd29891-fe78-4f8f-8844-abb31b9d9a75, sni: mm2.redapricotcloud.com, skip-cert-verify: true, tfo: false}
-  - {name: 15|speednode_0021, server: relieved-raccoon.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 65086520307764900, sni: relieved-raccoon.shiner427.skin, skip-cert-verify: true, tfo: false}
   - {name: 16|d*********g.com_2, server: 42.236.73.72, port: 443, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: www.zitian.cn, tfo: false}
   - {name: 16|d*********g.com_3, server: 42.236.73.72, port: 443, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: true, tfo: false}
 proxy-groups:
@@ -109,25 +101,18 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇰🇷1 |  5.0MB/s
-      - 0|🇺🇦1 |  4.3MB/s
-      - 0|🇳🇱1 |  5.8MB/s
-      - 🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian
-      - 0|🇸🇬2 |  4.4MB/s
-      - 0|🇺🇦2 |  2.4MB/s
-      - 0|🇺🇦3 |  2.2MB/s
-      - 0|🇷🇺1 |  1.9MB/s
-      - 0|🇺🇸2 |  2.8MB/s
-      - 0|🇸🇬3 |  6.0MB/s
-      - 0|🇺🇸3 |  9.2MB/s
-      - 0|🇺🇸4 |  6.0MB/s
-      - 0|🇷🇺2 |  1.4MB/s
-      - 0|🇺🇸5 |  1.6MB/s
-      - 0|🇭🇰2 |  1.3MB/s
-      - 0|🇯🇵1 |  1.4MB/s
-      - 0|🇺🇸6 |  4.1MB/s
-      - 0|🇸🇬4 |  1.5MB/s
-      - 0|🇨🇦1 |  4.9MB/s
+      - 0|🌀1- |  5.6MB/s
+      - 0|🇸🇬1 |  6.0MB/s
+      - 0|🇺🇸1 |  4.9MB/s
+      - 0|🌀4- |  4.8MB/s
+      - 0|🇺🇦1 |  3.0MB/s
+      - 0|🇺🇸2 |  5.5MB/s
+      - 0|🇺🇸3 |  1.1MB/s
+      - 0|🇨🇦1 |  2.6MB/s
+      - 0|🇺🇸4 |  3.1MB/s
+      - 0|🇺🇸5 |  4.5MB/s
+      - 0|🇷🇺1 |  5.3MB/s
+      - 0|🇺🇸7 |  5.1MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
@@ -145,6 +130,7 @@ proxy-groups:
       - 🇺🇸 13|🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 13|🇺🇸 美国3|@ripaojiedian
       - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian
       - 🇷🇺 13|🇷🇺 俄罗斯|@ripaojiedian
       - 🇬🇧 13|🇬🇧 英国|@ripaojiedian
@@ -168,8 +154,6 @@ proxy-groups:
       - 🇸🇬 14|狮城特殊|@ripaojiedian
       - 🇷🇺 14|俄罗斯|@ripaojiedian
       - 🇬🇧 14|英国|@ripaojiedian
-      - 15|speednode_0011
-      - 15|speednode_0021
       - 16|d*********g.com_2
       - 16|d*********g.com_3
   - name: Apple
@@ -240,11 +224,11 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - 🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 13|🇯🇵 日本4|@ripaojiedian
+      - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian
       - 🇯🇵 14|日本|@ripaojiedian
       - 🇯🇵 14|日本2|@ripaojiedian
       - 🇯🇵 14|日本3|@ripaojiedian
