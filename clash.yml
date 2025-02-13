@@ -6,9 +6,81 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 庆祝亚冬会胜利召开, server: web.51.la, port: 443, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
-  - {name: 🇸🇬 敏感时期，更新暂停, server: web.51.la, port: 443, type: vmess, uuid: c6e84072-2e69-4928-90af-436b3fcd0663, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
-  - {name: 如有需要，自行搭建, server: web.51.la, port: 443, type: vmess, uuid: e0c6b3b7-9f5b-4bd6-9abf-260663aa4f1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #7", server: 104.19.38.62, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #8", server: 104.19.47.122, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #10", server: 104.19.57.4, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #4", server: 104.19.47.79, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_FR_-&gt;_RU_, server: 163.172.64.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #10", server: 104.19.46.36, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #5", server: 104.19.46.39, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #1", server: 104.19.21.240, port: 2052, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #6", server: 104.19.47.32, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_US__5, server: 3.39.227.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "🇸🇬 1,6|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡 #1", server: cfcdn2.sanfencdn9.com, port: 2052, type: vmess, uuid: ab1ee1ac-884c-44dc-ab65-d533d32e2b1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cfcdn2.sanfencdn9.com}}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #11", server: 104.20.25.146, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_US__7, server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇳🇱_NL_荷兰", server: 172.64.198.249, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_US_-&gt;_ES_, server: fuck5.mmmmmmmmmm.cfd, port: 59019, type: ss, cipher: chacha20-ietf-poly1305, password: 2062a5ca-a34e-47bf-9810-db91185f07fc, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #12", server: 104.19.21.230, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #7", server: 104.19.45.47, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #9", server: 104.18.57.111, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #2", server: 104.19.47.126, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #14", server: 104.19.46.123, port: 2052, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_SG_, server: 54.179.87.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 1|_US__11, server: 51.141.73.244, port: 29814, type: ss, cipher: chacha20-ietf-poly1305, password: nEyOTWmtPG5tdgZqMQEq4R, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #15", server: 104.19.51.232, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 1|_CN_, server: 59.56.77.178, port: 15082, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #16", server: 104.19.46.233, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #17", server: 104.19.46.59, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #18", server: 104.19.46.27, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 1,6|🇺🇸_US_美国 #19", server: 104.19.45.15, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 🇩🇪 2|🇩🇪_DE_德国, server: de-frankfurt-oracle-b26cf5.ip1.shop, port: 45103, type: vmess, uuid: 6d3404ef-27c6-48de-a83a-8ac6488760b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-frankfurt-oracle-b26cf5.ip1.shop}}, tfo: false}
+  - {name: 🇺🇸 2|🇺🇸_US_美国, server: 104.16.38.71, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us6_0.wish.ml}}, tfo: false}
+  - {name: 🇷🇺 2|🇷🇺_RU_俄罗斯联邦, server: 45.147.200.170, port: 35972, type: vmess, uuid: 6a2afda8-8798-434c-8964-1deb4e7655a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇸🇬 2|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡, server: cfcdn2.sanfencdn9.com, port: 2052, type: vmess, uuid: ccd92698-4499-472d-a06f-f90e7e89ba4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /video/3YKfzGw4, headers: {Host: rpmlybgzsg2.yofnhkfc.xyz}}, tfo: false}
+  - {name: "🇷🇺 2|🇷🇺_RU_俄罗斯联邦 #1", server: 45.136.245.240, port: 12910, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 2|🇺🇸_US_美国 #1", server: hk.wish.ml, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us6_0.wish.ml}}, tfo: false}
+  - {name: "🇺🇸 2|🇺🇸_US_美国 #2", server: us-sanfrancisco-02.t3csyun.buzz, port: 34053, type: vmess, uuid: 6d3404ef-27c6-48de-a83a-8ac6488760b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-sanfrancisco-02.t3csyun.buzz}}, tfo: false}
+  - {name: 🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度, server: 104.17.156.224, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: in4.wish.ml}}, tfo: false}
+  - {name: "🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度 #1", server: 172.67.164.78, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: in3.wish.ml}}, tfo: false}
+  - {name: 🇺🇸 2|🇨🇳_CN_中国-&gt;🇺🇸_US_美国, server: vip3.niuniupremium.xyz, port: 16928, type: vmess, uuid: 2ab54438-8af9-3711-bf1a-676fcc144586, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vip3.niuniupremium.xyz}}, tfo: false}
+  - {name: "🇺🇸 2|🇺🇸_US_美国 #3", server: 148.135.40.190, port: 8080, type: vmess, uuid: f6c4905b-0308-4164-b1ad-4157531a8378, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 🇺🇸 2|🇺🇸_US_美国-&gt;🇫🇷_FR_法国, server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国 #20", server: cfcdn1.sanfencdn9.com, port: 2082, type: vmess, uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cfcdn1.sanfencdn9.com}}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #2", server: 104.18.37.248, port: 2052, type: vmess, uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #3", server: 104.19.47.16, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #8", server: 104.19.47.65, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #3", server: 120.232.240.56, port: 16928, type: vmess, uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #4", server: 183.240.235.162, port: 54002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #3", server: p3.v2raybrasil.cloud, port: 2052, type: vmess, uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: p3.v2raybrasil.cloud}}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国 #21", server: 104.19.32.46, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇨🇳 3,17|🇨🇳_CN_中国 #1", server: 183.240.235.162, port: 54882, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国 #22", server: russia.com, port: 8080, type: vmess, uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: russia.com}}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇫🇷_FR_法国 #2", server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #11", server: 172.64.175.213, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
+  - {name: 11|如有需要，自行搭建, server: web.51.la, port: 443, type: vmess, uuid: e0c6b3b7-9f5b-4bd6-9abf-260663aa4f1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
+  - {name: 🇮🇳 12|印度  2, server: 202.78.162.5, port: 443, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: irsoft.sytes.net}}, tfo: false}
+  - {name: 🇮🇳 12|印度  3, server: 202.78.162.5, port: 443, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: sahand.serveminecraft.net}}, tfo: false}
+  - {name: 🇺🇸 12|美国CloudFla..., server: www.darkroom.lol, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, tfo: false}
+  - {name: "🇺🇸 12|美国CloudFla... #1", server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, tfo: false}
+  - {name: 🇨🇳 12|广东省移动 7, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, tfo: false}
+  - {name: "🇺🇸 12|美国CloudFla... #2", server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}, tfo: false}
+  - {name: 🇮🇳 12|印度  10, server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: pendar.onthewifi.com}}, tfo: false}
+  - {name: 🇺🇸 12|美国Fastly全球..., server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, tfo: false}
+  - {name: "🇺🇸 12|美国CloudFla... #3", server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, tfo: false}
+  - {name: 🇭🇰 15|🇭🇰 香港|@ripaojiedian, server: 59.42.247.247, port: 3601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, tfo: false}
+  - {name: 🇭🇰 15|🇭🇰 香港2|@ripaojiedian, server: mdss-sg.04z3susick.download, port: 12017, type: ss, cipher: aes-128-gcm, password: 8f9ee4d3-f070-43ab-a0cd-b708d9e8de10, tfo: false}
+  - {name: 🇭🇰 15|🇭🇰 香港3|@ripaojiedian, server: 0.o.0.cdn-node.ss.one.57.gmaes-cdn-usercontent.com, port: 52149, type: ss, cipher: chacha20-ietf-poly1305, password: 7c28b43c-41c4-4af1-81c4-48690133d1cd, tfo: false}
+  - {name: 🇺🇸 15|🇺🇸 美国2|@ripaojiedian, server: 120.232.153.123, port: 45402, type: trojan, password: !&lt;str&gt; 65086441068973800, sni: live-serval.shiner427.skin, skip-cert-verify: true, tfo: false}
+  - {name: 🇯🇵 15|🇯🇵 日本|@ripaojiedian, server: 120.232.81.50, port: 15084, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
+  - {name: 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian, server: 218.38.103.150, port: 28902, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: "🇸🇬 15,16|新加坡|@ripaojiedian", server: 31.58.142.221, port: 8967, type: vmess, uuid: 7d29f1ca-647b-4b4e-b9c8-6beab7133535, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: neo.nicme.me, network: ws, ws-opts: {path: /BONRyKGhDE, headers: {Host: neo.nicme.me}}, tfo: false}
+  - {name: 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian, server: 103.106.229.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: 🇰🇷 15|🇰🇷 韩国特殊|@ripaojiedian, server: 52.79.166.214, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 🇯🇵 15|🇯🇵 日本特殊|@ripaojiedian, server: 13.124.57.244, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 🇸🇬 15|🇸🇬 狮城特殊|@ripaojiedian, server: 43.203.217.107, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 🇯🇵 16|日本3|@ripaojiedian, server: ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: b2d1e704-59f5-48ec-ba97-9a5e2005b37b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇺🇸 16|美国2|@ripaojiedian, server: 120.232.153.123, port: 45402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
 proxy-groups:
   - name: Proxies
     type: select
@@ -19,9 +91,81 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 庆祝亚冬会胜利召开
-      - 🇸🇬 敏感时期，更新暂停
-      - 如有需要，自行搭建
+      - "🇺🇸 1,6|🇺🇸_US_美国 #7"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #8"
+      - "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #10"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #4"
+      - 1|_FR_-&gt;_RU_
+      - "🇺🇸 1,6|🇺🇸_US_美国 #10"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #5"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #1"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #6"
+      - 1|_US__5
+      - "🇸🇬 1,6|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡 #1"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #11"
+      - 1|_US__7
+      - 🇺🇸 1,6|🇺🇸_US_美国-&gt;🇳🇱_NL_荷兰
+      - 1|_US_-&gt;_ES_
+      - "🇺🇸 1,6|🇺🇸_US_美国 #12"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #7"
+      - "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #9"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #2"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #14"
+      - 1|_SG_
+      - 1|_US__11
+      - "🇺🇸 1,6|🇺🇸_US_美国 #15"
+      - 1|_CN_
+      - "🇺🇸 1,6|🇺🇸_US_美国 #16"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #17"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #18"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #19"
+      - 🇩🇪 2|🇩🇪_DE_德国
+      - 🇺🇸 2|🇺🇸_US_美国
+      - 🇷🇺 2|🇷🇺_RU_俄罗斯联邦
+      - 🇸🇬 2|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡
+      - "🇷🇺 2|🇷🇺_RU_俄罗斯联邦 #1"
+      - "🇺🇸 2|🇺🇸_US_美国 #1"
+      - "🇺🇸 2|🇺🇸_US_美国 #2"
+      - 🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度
+      - "🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度 #1"
+      - 🇺🇸 2|🇨🇳_CN_中国-&gt;🇺🇸_US_美国
+      - "🇺🇸 2|🇺🇸_US_美国 #3"
+      - 🇺🇸 2|🇺🇸_US_美国-&gt;🇫🇷_FR_法国
+      - "🇺🇸 3,17|🇺🇸_US_美国 #20"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #2"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #3"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #8"
+      - "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #3"
+      - "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #4"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #3"
+      - "🇺🇸 3,17|🇺🇸_US_美国 #21"
+      - "🇨🇳 3,17|🇨🇳_CN_中国 #1"
+      - "🇺🇸 3,17|🇺🇸_US_美国 #22"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇫🇷_FR_法国 #2"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #11"
+      - 11|如有需要，自行搭建
+      - 🇮🇳 12|印度  2
+      - 🇮🇳 12|印度  3
+      - 🇺🇸 12|美国CloudFla...
+      - "🇺🇸 12|美国CloudFla... #1"
+      - 🇨🇳 12|广东省移动 7
+      - "🇺🇸 12|美国CloudFla... #2"
+      - 🇮🇳 12|印度  10
+      - 🇺🇸 12|美国Fastly全球...
+      - "🇺🇸 12|美国CloudFla... #3"
+      - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
+      - 🇭🇰 15|🇭🇰 香港2|@ripaojiedian
+      - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
+      - 🇺🇸 15|🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 15|🇯🇵 日本|@ripaojiedian
+      - 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian
+      - 🇸🇬 15,16|新加坡|@ripaojiedian
+      - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
+      - 🇰🇷 15|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇯🇵 15|🇯🇵 日本特殊|@ripaojiedian
+      - 🇸🇬 15|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇯🇵 16|日本3|@ripaojiedian
+      - 🇺🇸 16|美国2|@ripaojiedian
   - name: Apple
     type: select
     proxies:
@@ -62,11 +206,18 @@ proxy-groups:
   - name: HK
     type: select
     proxies:
-      - DIRECT
+      - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
+      - 🇭🇰 15|🇭🇰 香港2|@ripaojiedian
+      - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
   - name: SG
     type: select
     proxies:
-      - 🇸🇬 敏感时期，更新暂停
+      - "🇸🇬 1,6|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡 #1"
+      - 1|_SG_
+      - 🇸🇬 2|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡
+      - 🇸🇬 15,16|新加坡|@ripaojiedian
+      - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
+      - 🇸🇬 15|🇸🇬 狮城特殊|@ripaojiedian
   - name: TW
     type: select
     proxies:
@@ -74,11 +225,64 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - DIRECT
+      - 🇯🇵 15|🇯🇵 日本|@ripaojiedian
+      - 🇯🇵 15|🇯🇵 日本特殊|@ripaojiedian
+      - 🇯🇵 16|日本3|@ripaojiedian
   - name: US
     type: select
     proxies:
-      - DIRECT
+      - "🇺🇸 1,6|🇺🇸_US_美国 #7"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #8"
+      - "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #10"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #4"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #10"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #5"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #1"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #6"
+      - 1|_US__5
+      - "🇸🇬 1,6|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡 #1"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #11"
+      - 1|_US__7
+      - 🇺🇸 1,6|🇺🇸_US_美国-&gt;🇳🇱_NL_荷兰
+      - 1|_US_-&gt;_ES_
+      - "🇺🇸 1,6|🇺🇸_US_美国 #12"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #7"
+      - "🇺🇸 1,3,6,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #9"
+      - "🇺🇸 1,6|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #2"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #14"
+      - 1|_US__11
+      - "🇺🇸 1,6|🇺🇸_US_美国 #15"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #16"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #17"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #18"
+      - "🇺🇸 1,6|🇺🇸_US_美国 #19"
+      - 🇺🇸 2|🇺🇸_US_美国
+      - 🇸🇬 2|🇺🇸_US_美国-&gt;🇸🇬_SG_新加坡
+      - "🇺🇸 2|🇺🇸_US_美国 #1"
+      - "🇺🇸 2|🇺🇸_US_美国 #2"
+      - 🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度
+      - "🇺🇸 2|🇺🇸_US_美国-&gt;🇮🇳_IN_印度 #1"
+      - 🇺🇸 2|🇨🇳_CN_中国-&gt;🇺🇸_US_美国
+      - "🇺🇸 2|🇺🇸_US_美国 #3"
+      - 🇺🇸 2|🇺🇸_US_美国-&gt;🇫🇷_FR_法国
+      - "🇺🇸 3,17|🇺🇸_US_美国 #20"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #2"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇳_CN_中国 #3"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #8"
+      - "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #3"
+      - "🇺🇸 3,17|🇨🇳_CN_中国-&gt;🇺🇸_US_美国 #4"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇧🇷_BR_巴西 #3"
+      - "🇺🇸 3,17|🇺🇸_US_美国 #21"
+      - "🇺🇸 3,17|🇺🇸_US_美国 #22"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇫🇷_FR_法国 #2"
+      - "🇺🇸 3,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #11"
+      - 🇺🇸 12|美国CloudFla...
+      - "🇺🇸 12|美国CloudFla... #1"
+      - "🇺🇸 12|美国CloudFla... #2"
+      - 🇺🇸 12|美国Fastly全球...
+      - "🇺🇸 12|美国CloudFla... #3"
+      - 🇺🇸 15|🇺🇸 美国2|@ripaojiedian
+      - 🇺🇸 16|美国2|@ripaojiedian
 rules:
   - DOMAIN-SUFFIX,17gouwuba.com,REJECT
   - DOMAIN-SUFFIX,186078.com,REJECT
