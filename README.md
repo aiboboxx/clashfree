@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-14 16:49:25  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-14 20:48:37  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -88,7 +88,7 @@ proxies:
   - {name: "🇺🇸 3,11,17|🇺🇸_US_美国 #22", server: russia.com, port: 8080, type: vmess, uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: russia.com}}, tfo: false}
   - {name: "🇺🇸 3,11,17|🇺🇸_US_美国-&gt;🇫🇷_FR_法国 #2", server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
   - {name: "🇺🇸 3,11,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #11", server: 172.64.175.213, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, tfo: false}
-  - {name: 11|11|11|11|11|11|11|11|如有需要，自行搭建, server: web.51.la, port: 443, type: vmess, uuid: e0c6b3b7-9f5b-4bd6-9abf-260663aa4f1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
+  - {name: 11|11|11|11|11|11|11|11|11|如有需要，自..., server: web.51.la, port: 443, type: vmess, uuid: e0c6b3b7-9f5b-4bd6-9abf-260663aa4f1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: web.51.la, tfo: false}
   - {name: "🇮🇳 11,12|印度  2", server: 202.78.162.5, port: 443, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: irsoft.sytes.net}}, tfo: false}
   - {name: "🇮🇳 11,12|印度  3", server: 202.78.162.5, port: 443, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: sahand.serveminecraft.net}}, tfo: false}
   - {name: "🇺🇸 11,12|美国CloudFla...", server: www.darkroom.lol, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, tfo: false}
@@ -98,8 +98,8 @@ proxies:
   - {name: "🇮🇳 11,12|印度  10", server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: pendar.onthewifi.com}}, tfo: false}
   - {name: "🇺🇸 11,12|美国Fastly全球...", server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, tfo: false}
   - {name: "🇺🇸 11,12|美国CloudFla... #3", server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, tfo: false}
-  - {name: "🇸🇬 11|11|11|11|11,15,16|新加坡|@ripaoji...", server: 31.58.142.221, port: 8967, type: vmess, uuid: 7d29f1ca-647b-4b4e-b9c8-6beab7133535, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: neo.nicme.me, network: ws, ws-opts: {path: /BONRyKGhDE, headers: {Host: neo.nicme.me}}, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...", server: ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: b2d1e704-59f5-48ec-ba97-9a5e2005b37b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇸🇬 11|11|11|11|11|11,15,16|新加坡|@ripa...", server: 31.58.142.221, port: 8967, type: vmess, uuid: 7d29f1ca-647b-4b4e-b9c8-6beab7133535, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: neo.nicme.me, network: ws, ws-opts: {path: /BONRyKGhDE, headers: {Host: neo.nicme.me}}, tfo: false}
+  - {name: "🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...", server: ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: b2d1e704-59f5-48ec-ba97-9a5e2005b37b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "🇺🇸 11,16|美国2|@ripaojiedian", server: 120.232.153.123, port: 45402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "🇭🇰 11,16|香港|@ripaojiedian", server: AZHJ001.dmak.cyou, port: 20776, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "🇭🇰 11,16|香港2|@ripaojiedian", server: AZHJ001.dmak.cyou, port: 20965, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
@@ -177,7 +177,7 @@ proxy-groups:
       - "🇺🇸 3,11,17|🇺🇸_US_美国 #22"
       - "🇺🇸 3,11,17|🇺🇸_US_美国-&gt;🇫🇷_FR_法国 #2"
       - "🇺🇸 3,11,17|🇺🇸_US_美国-&gt;🇨🇦_CA_加拿大 #11"
-      - 11|11|11|11|11|11|11|11|如有需要，自行搭建
+      - 11|11|11|11|11|11|11|11|11|如有需要，自...
       - 🇮🇳 11,12|印度  2
       - 🇮🇳 11,12|印度  3
       - 🇺🇸 11,12|美国CloudFla...
@@ -187,8 +187,8 @@ proxy-groups:
       - 🇮🇳 11,12|印度  10
       - 🇺🇸 11,12|美国Fastly全球...
       - "🇺🇸 11,12|美国CloudFla... #3"
-      - 🇸🇬 11|11|11|11|11,15,16|新加坡|@ripaoji...
-      - 🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...
+      - 🇸🇬 11|11|11|11|11|11,15,16|新加坡|@ripa...
+      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
       - 🇺🇸 11,16|美国2|@ripaojiedian
       - 🇭🇰 11,16|香港|@ripaojiedian
       - 🇭🇰 11,16|香港2|@ripaojiedian
@@ -250,7 +250,7 @@ proxy-groups:
     type: select
     proxies:
       - 1|_SG_
-      - 🇸🇬 11|11|11|11|11,15,16|新加坡|@ripaoji...
+      - 🇸🇬 11|11|11|11|11|11,15,16|新加坡|@ripa...
       - 🇸🇬 11,16|新加坡3|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
@@ -262,7 +262,7 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - 🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...
+      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
       - 🇯🇵 11,16|日本|@ripaojiedian
       - 🇯🇵 11,16|日本3|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本特殊|@ripaojiedian
