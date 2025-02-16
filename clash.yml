@@ -70,16 +70,16 @@ proxies:
   - {name: "🇺🇸 11,12|美国CloudFla... #3", server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #1", server: 31.58.142.221, port: 8967, type: vmess, uuid: 7d29f1ca-647b-4b4e-b9c8-6beab7133535, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: neo.nicme.me, network: ws, ws-opts: {path: /BONRyKGhDE, headers: {Host: neo.nicme.me}}, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #2", server: ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: b2d1e704-59f5-48ec-ba97-9a5e2005b37b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 11|11|11|11|11|11|11|11|11|11|15|..., server: 120.232.153.123, port: 45402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "11|11|11|11|11|11|11|11|11|11|11,...", server: AZHJ001.dmak.cyou, port: 20776, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #1", server: AZHJ001.dmak.cyou, port: 20965, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #2", server: AZHJ.dmak.cyou, port: 20803, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #3", server: AZHJ.dmak.cyou, port: 20800, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #4", server: pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 10564, type: vmess, uuid: ead8fb73-ff42-4fce-af33-5991e72006b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇸🇬 11|11|11|11|15|🇸🇬 新加坡5|@ripaojied..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇭🇰 11|11|11|11|11,16|香港|@ripaojiedia...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11,16|日本|@ripaojiedia...", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #3", server: 120.232.153.123, port: 45402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #4", server: AZHJ001.dmak.cyou, port: 20776, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #5", server: AZHJ001.dmak.cyou, port: 20965, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #6", server: AZHJ.dmak.cyou, port: 20803, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #7", server: AZHJ.dmak.cyou, port: 20800, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11|... #8", server: pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 10564, type: vmess, uuid: ead8fb73-ff42-4fce-af33-5991e72006b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港|@ripaojiedian, server: 156.245.190.20, port: 15011, type: ss, cipher: aes-256-gcm, password: DSSFTF2MJGHSTOOF, tfo: false}
   - {name: 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian, server: coherent-drum.adder289.quest, port: 443, type: trojan, password: !&lt;str&gt; 3778399737045327872, sni: coherent-drum.adder289.quest, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港3|@ripaojiedian, server: 156.245.190.12, port: 15003, type: ss, cipher: aes-256-gcm, password: DW1B46PTWS3XSPYU, tfo: false}
@@ -174,16 +174,16 @@ proxy-groups:
       - "🇺🇸 11,12|美国CloudFla... #3"
       - "11|11|11|11|11|11|11|11|11|11|11|... #1"
       - "11|11|11|11|11|11|11|11|11|11|11|... #2"
-      - 11|11|11|11|11|11|11|11|11|11|15|...
-      - 11|11|11|11|11|11|11|11|11|11|11,...
-      - "11|11|11|11|11|11|11|11|11|11|11,... #1"
-      - "11|11|11|11|11|11|11|11|11|11|11,... #2"
-      - "11|11|11|11|11|11|11|11|11|11|11,... #3"
-      - "11|11|11|11|11|11|11|11|11|11|11,... #4"
-      - 🇸🇬 11|11|11|11|15|🇸🇬 新加坡5|@ripaojied...
-      - 🇭🇰 11|11|11|11|11,16|香港|@ripaojiedia...
-      - 🇯🇵 11|11|11|11|11,16|日本|@ripaojiedia...
-      - 🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...
+      - "11|11|11|11|11|11|11|11|11|11|11|... #3"
+      - "11|11|11|11|11|11|11|11|11|11|11|... #4"
+      - "11|11|11|11|11|11|11|11|11|11|11|... #5"
+      - "11|11|11|11|11|11|11|11|11|11|11|... #6"
+      - "11|11|11|11|11|11|11|11|11|11|11|... #7"
+      - "11|11|11|11|11|11|11|11|11|11|11|... #8"
+      - 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj...
+      - 🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...
+      - 🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...
+      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
@@ -244,7 +244,7 @@ proxy-groups:
   - name: HK
     type: select
     proxies:
-      - 🇭🇰 11|11|11|11|11,16|香港|@ripaojiedia...
+      - 🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港5|@ripaojiedian
@@ -252,7 +252,7 @@ proxy-groups:
     type: select
     proxies:
       - 1|_SG_
-      - 🇸🇬 11|11|11|11|15|🇸🇬 新加坡5|@ripaojied...
+      - 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj...
       - 🇸🇬 15|🇸🇬 新加坡|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡3|@ripaojiedian
@@ -266,8 +266,8 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - 🇯🇵 11|11|11|11|11,16|日本|@ripaojiedia...
-      - 🇯🇵 11|11|11|11|11,16|日本3|@ripaojiedi...
+      - 🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...
+      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
       - 🇯🇵 15|🇯🇵 日本|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本3|@ripaojiedian
