@@ -76,10 +76,10 @@ proxies:
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #6", server: AZHJ.dmak.cyou, port: 20803, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #7", server: AZHJ.dmak.cyou, port: 20800, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #8", server: pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 10564, type: vmess, uuid: ead8fb73-ff42-4fce-af33-5991e72006b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇸🇬 11|11|11|11|11|11|15|🇸🇬 新加坡5|@rip..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇭🇰 11|11|11|11|11|11|11,16|香港|@ripao...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇯🇵 11|11|11|11|11|11|11,16|日本|@ripao...", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "🇯🇵 11|11|11|11|11|11|11,16|日本3|@ripa...", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港|@ripaojiedian, server: 156.245.190.20, port: 15011, type: ss, cipher: aes-256-gcm, password: DSSFTF2MJGHSTOOF, tfo: false}
   - {name: 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian, server: coherent-drum.adder289.quest, port: 443, type: trojan, password: !&lt;str&gt; 3778399737045327872, sni: coherent-drum.adder289.quest, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港3|@ripaojiedian, server: 156.245.190.12, port: 15003, type: ss, cipher: aes-256-gcm, password: DW1B46PTWS3XSPYU, tfo: false}
@@ -180,10 +180,10 @@ proxy-groups:
       - "11|11|11|11|11|11|11|11|11|11|11|... #6"
       - "11|11|11|11|11|11|11|11|11|11|11|... #7"
       - "11|11|11|11|11|11|11|11|11|11|11|... #8"
-      - 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj...
-      - 🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...
-      - 🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...
-      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
+      - 🇸🇬 11|11|11|11|11|11|15|🇸🇬 新加坡5|@rip...
+      - 🇭🇰 11|11|11|11|11|11|11,16|香港|@ripao...
+      - 🇯🇵 11|11|11|11|11|11|11,16|日本|@ripao...
+      - 🇯🇵 11|11|11|11|11|11|11,16|日本3|@ripa...
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇰🇷 15|🇰🇷 韩国2|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
@@ -244,7 +244,7 @@ proxy-groups:
   - name: HK
     type: select
     proxies:
-      - 🇭🇰 11|11|11|11|11|11,16|香港|@ripaojie...
+      - 🇭🇰 11|11|11|11|11|11|11,16|香港|@ripao...
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港5|@ripaojiedian
@@ -252,7 +252,7 @@ proxy-groups:
     type: select
     proxies:
       - 1|_SG_
-      - 🇸🇬 11|11|11|11|11|15|🇸🇬 新加坡5|@ripaoj...
+      - 🇸🇬 11|11|11|11|11|11|15|🇸🇬 新加坡5|@rip...
       - 🇸🇬 15|🇸🇬 新加坡|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡3|@ripaojiedian
@@ -266,8 +266,8 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - 🇯🇵 11|11|11|11|11|11,16|日本|@ripaojie...
-      - 🇯🇵 11|11|11|11|11|11,16|日本3|@ripaoji...
+      - 🇯🇵 11|11|11|11|11|11|11,16|日本|@ripao...
+      - 🇯🇵 11|11|11|11|11|11|11,16|日本3|@ripa...
       - 🇯🇵 15|🇯🇵 日本|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本3|@ripaojiedian
