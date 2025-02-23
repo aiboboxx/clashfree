@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-23 16:48:35  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-23 20:48:27  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,57 +36,52 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇸🇬 0|🇸🇬新加坡 02 | 1x SG, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇸🇬 0|🇸🇬新加坡 03 | 1x SG, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇰🇷 0|🇰🇷韩国 01 | 1x KR, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇰🇷 0|🇰🇷韩国 02 | 1x KR, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇵🇭 0|🇵🇭菲律宾 01 | 1x PH, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇺🇸 0|🇺🇸美国 01 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇺🇸 0|🇺🇸美国家宽 02 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇺🇸 0|🇺🇸美国 03 | 1x US Washington, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇬🇧 0|🇬🇧英国家宽 01 | 1x UK, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇹🇭 0|🇹🇭泰国01  | 1x TH, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇲🇾 0|🇲🇾马来西亚01 | 1x MY, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇮🇳 0|🇮🇳印度 01 | 1x IN, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇦🇺 0|🇦🇺澳大利亚 01 | 1x AU, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇨🇦 0|🇨🇦加拿大 01 | 1x CA, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇩🇪 0|🇩🇪德国 01 | 1x DE, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇷🇺 0|🇷🇺俄罗斯 01 | 1x RU, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇹🇷 0|🇹🇷土耳其 01 | 1x TR, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇺🇦 0|🇺🇦乌克兰 01 | 1x UA, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇻🇳 0|🇻🇳越南 01 | 1x VN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 🇧🇷 0|🇧🇷巴西 01 | 1x BR, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, tfo: false}
-  - {name: 2|🇺🇸1 |  2.0MB/s, server: 54.213.120.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🇫🇷1 |  6.1MB/s, server: console.02.aliyun.aq.kunlunaqs.com, port: 45578, type: ss, cipher: chacha20-ietf-poly1305, password: 7243745919d6de49a5db, tfo: false}
-  - {name: 2|🌀1- |  2.9MB/s, server: fancy-mudfish.treefrog761.one, port: 443, type: trojan, password: !&lt;str&gt; 3787016351714123776, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, tfo: false}
-  - {name: 2|🇯🇵2 |  1.5MB/s, server: gy.58n.net, port: 41767, type: trojan, password: fe10330c-c392-37c0-a1d7-29b1c780e04c, sni: x114.flybar.work, skip-cert-verify: true, tfo: false}
-  - {name: 2|🇺🇸3 |  5.5MB/s, server: 34.220.174.155, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🌏1 |  5.8MB/s, server: 103.36.91.32, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: 2|🇺🇸4 |  2.1MB/s, server: gy.58n.net, port: 20308, type: trojan, password: fe10330c-c392-37c0-a1d7-29b1c780e04c, sni: z308.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 2|🇺🇸5 |  2.7MB/s, server: tk.hzlt.tkddns.xyz, port: 22642, type: vmess, uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, servername: tk.hzlt.tkddns.xyz, network: ws, ws-opts: {path: /, headers: {Host: zxjp-b.tkong.cc}}, tfo: false}
-  - {name: 2|🇺🇸6 |  5.3MB/s, server: 14.18.253.178, port: 8348, type: ss, cipher: chacha20, password: N9k4f2PORl14, tfo: false}
-  - {name: 2|🇯🇵3 |  17.0MB/s, server: 18.179.112.66, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🇺🇸7 |  3.6MB/s, server: 35.86.174.240, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🇺🇸9 |  1.3MB/s, server: 34.221.167.203, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🇺🇸10 |  1.0MB/s, server: 69.50.95.203, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: 2|🇺🇸11 |  1.0MB/s, server: 69.50.95.203, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "🇭🇰 2,12|🇭🇰 香港4|@ripaojiedian", server: 8tv68qhq.slashdevslashnetslashtun.net, port: 15005, type: ss, cipher: aes-256-gcm, password: LZQ0R9BL69GCC6FS, tfo: false}
-  - {name: 2|🇺🇸12 |  3.3MB/s, server: busy-buffalo.treefrog761.one, port: 443, type: trojan, password: !&lt;str&gt; 3787016351714123776, sni: busy-buffalo.treefrog761.one, skip-cert-verify: true, tfo: false}
-  - {name: 2|🇺🇸13 |  4.7MB/s, server: 34.220.211.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 2|🇬🇧1 |  4.0MB/s, server: hk03.x.quickcht3.club, port: 52613, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b, tfo: false}
+  - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇸🇬 0|🇸🇬新加坡 02 | 1x SG, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇸🇬 0|🇸🇬新加坡 03 | 1x SG, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇰🇷 0|🇰🇷韩国 01 | 1x KR, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇰🇷 0|🇰🇷韩国 02 | 1x KR, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇵🇭 0|🇵🇭菲律宾 01 | 1x PH, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇺🇸 0|🇺🇸美国 01 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇺🇸 0|🇺🇸美国家宽 02 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇺🇸 0|🇺🇸美国 03 | 1x US Washington, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇬🇧 0|🇬🇧英国家宽 01 | 1x UK, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇹🇭 0|🇹🇭泰国01  | 1x TH, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇲🇾 0|🇲🇾马来西亚01 | 1x MY, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇮🇳 0|🇮🇳印度 01 | 1x IN, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇦🇺 0|🇦🇺澳大利亚 01 | 1x AU, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇨🇦 0|🇨🇦加拿大 01 | 1x CA, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇩🇪 0|🇩🇪德国 01 | 1x DE, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇷🇺 0|🇷🇺俄罗斯 01 | 1x RU, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇹🇷 0|🇹🇷土耳其 01 | 1x TR, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇺🇦 0|🇺🇦乌克兰 01 | 1x UA, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇻🇳 0|🇻🇳越南 01 | 1x VN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 🇧🇷 0|🇧🇷巴西 01 | 1x BR, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 32640554-946b-41c0-bec9-9a9b0f591886, tfo: false}
+  - {name: 2|🇺🇸2 |  3.6MB/s, server: 18.237.113.248, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 2|🇹🇼1 |  4.2MB/s, server: 19.mamamajd.site, port: 23619, type: vmess, uuid: c3e16f0a-4a8c-31e0-8f1c-39115ad029f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, tfo: false}
+  - {name: 2|🇸🇬1 |  1.2MB/s, server: 13.229.55.109, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "🇭🇰 2,12|🇭🇰 香港2|@ripaojiedian", server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b, tfo: false}
+  - {name: 2|🇺🇸6 |  1.0MB/s, server: 23.154.136.106, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 2|🇺🇸7 |  22.3MB/s, server: 14.18.253.178, port: 8348, type: ss, cipher: chacha20, password: N9k4f2PORl14, tfo: false}
+  - {name: 2|🇰🇷1 |  4.2MB/s, server: 54.180.133.38, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 2|🇺🇸10 |  4.3MB/s, server: 17.mamamajd.site, port: 23617, type: vmess, uuid: c3e16f0a-4a8c-31e0-8f1c-39115ad029f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, tfo: false}
+  - {name: 2|🇺🇸11 |  4.2MB/s, server: 5.mamamajd.site, port: 23605, type: vmess, uuid: c3e16f0a-4a8c-31e0-8f1c-39115ad029f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, tfo: false}
+  - {name: 2|🇺🇸12 |  1.0MB/s, server: 69.50.95.203, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
+  - {name: 2|🇯🇵1 |  5.7MB/s, server: usable-toad.treefrog761.one, port: 443, type: trojan, password: !&lt;str&gt; 3787016351714123776, sni: usable-toad.treefrog761.one, skip-cert-verify: true, tfo: false}
+  - {name: 2|🌏1 |  1.4MB/s, server: 103.36.90.195, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
+  - {name: 2|🇺🇸13 |  1.3MB/s, server: 16.mamamajd.site, port: 23616, type: vmess, uuid: c3e16f0a-4a8c-31e0-8f1c-39115ad029f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, tfo: false}
   - {name: "🇭🇰 12,13|香港|@ripaojiedian", server: 104.251.227.182, port: 443, type: trojan, password: 1e63e585ab2fef3adcc9ea75a62abc23, sni: hezijiasuqi.com, skip-cert-verify: true, tfo: false}
-  - {name: 🇭🇰 12|🇭🇰 香港2|@ripaojiedian, server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b, tfo: false}
   - {name: 🇭🇰 12|🇭🇰 香港3|@ripaojiedian, server: 43.247.135.63, port: 30704, type: vmess, uuid: 9bffecef-77db-4021-a02b-cc9915bcbb23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 12|🇭🇰 香港4|@ripaojiedian, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 15005, type: ss, cipher: aes-256-gcm, password: LZQ0R9BL69GCC6FS, tfo: false}
   - {name: 🇭🇰 12|🇭🇰 香港5|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 2H98UZT9LT1TE3X9, tfo: false}
   - {name: 🇭🇰 12|🇭🇰 香港6|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 15006, type: ss, cipher: aes-256-gcm, password: RBN1UNGVPF1BQXPK, tfo: false}
   - {name: 🇭🇰 12|🇭🇰 香港7|@ripaojiedian, server: qh62onjn.slashdevslashnetslashtun.net, port: 15011, type: ss, cipher: aes-256-gcm, password: TCEL1H0XD7TWAKI0, tfo: false}
@@ -126,9 +121,9 @@ proxies:
   - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 54.169.104.136, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
   - {name: 14|SC_speednode_0078, server: 154.197.64.189, port: 2087, type: trojan, password: Aimer, sni: agepy.ambercc.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: agepy.ambercc.filegear-sg.me}}, tfo: false}
   - {name: 14|SG_speednode_0088, server: 206.238.237.81, port: 2087, type: trojan, password: Aimer, sni: agepy.ambercc.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: agepy.ambercc.filegear-sg.me}}, tfo: false}
+  - {name: 🇨🇳 台湾|@ripaojiedian, server: console.03.aliyun.aq.kunlunaqs.com, port: 45573, type: ss, cipher: aes-128-gcm, password: 3e26a8cfb09fda219b36, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, tfo: false}
   - {name: 🇸🇬 新加坡|@ripaojiedian, server: console.03.aliyun.aq.kunlunaqs.com, port: 45917, type: ss, cipher: aes-128-gcm, password: f4cd0a554e9d0558c581, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, tfo: false}
   - {name: 🇭🇰 香港8|@ripaojiedian, server: console.03.aliyun.aq.kunlunaqs.com, port: 45905, type: ss, cipher: aes-128-gcm, password: 777bc05be0dd624959fb, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, tfo: false}
-  - {name: 🇨🇳 台湾|@ripaojiedian, server: console.03.aliyun.aq.kunlunaqs.com, port: 45573, type: ss, cipher: aes-128-gcm, password: 3e26a8cfb09fda219b36, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}, tfo: false}
 proxy-groups:
   - name: Proxies
     type: select
@@ -169,27 +164,22 @@ proxy-groups:
       - 🇺🇦 0|🇺🇦乌克兰 01 | 1x UA
       - 🇻🇳 0|🇻🇳越南 01 | 1x VN
       - 🇧🇷 0|🇧🇷巴西 01 | 1x BR
-      - 2|🇺🇸1 |  2.0MB/s
-      - 2|🇫🇷1 |  6.1MB/s
-      - 2|🌀1- |  2.9MB/s
-      - 2|🇯🇵2 |  1.5MB/s
-      - 2|🇺🇸3 |  5.5MB/s
-      - 2|🌏1 |  5.8MB/s
-      - 2|🇺🇸4 |  2.1MB/s
-      - 2|🇺🇸5 |  2.7MB/s
-      - 2|🇺🇸6 |  5.3MB/s
-      - 2|🇯🇵3 |  17.0MB/s
-      - 2|🇺🇸7 |  3.6MB/s
-      - 2|🇺🇸9 |  1.3MB/s
-      - 2|🇺🇸10 |  1.0MB/s
-      - 2|🇺🇸11 |  1.0MB/s
-      - 🇭🇰 2,12|🇭🇰 香港4|@ripaojiedian
-      - 2|🇺🇸12 |  3.3MB/s
-      - 2|🇺🇸13 |  4.7MB/s
-      - 2|🇬🇧1 |  4.0MB/s
+      - 2|🇺🇸2 |  3.6MB/s
+      - 2|🇹🇼1 |  4.2MB/s
+      - 2|🇸🇬1 |  1.2MB/s
+      - 🇭🇰 2,12|🇭🇰 香港2|@ripaojiedian
+      - 2|🇺🇸6 |  1.0MB/s
+      - 2|🇺🇸7 |  22.3MB/s
+      - 2|🇰🇷1 |  4.2MB/s
+      - 2|🇺🇸10 |  4.3MB/s
+      - 2|🇺🇸11 |  4.2MB/s
+      - 2|🇺🇸12 |  1.0MB/s
+      - 2|🇯🇵1 |  5.7MB/s
+      - 2|🌏1 |  1.4MB/s
+      - 2|🇺🇸13 |  1.3MB/s
       - 🇭🇰 12,13|香港|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 12|🇭🇰 香港4|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港6|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港7|@ripaojiedian
@@ -229,9 +219,9 @@ proxy-groups:
       - 🇸🇬 13|狮城特殊|@ripaojiedian
       - 14|SC_speednode_0078
       - 14|SG_speednode_0088
+      - 🇨🇳 台湾|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
       - 🇭🇰 香港8|@ripaojiedian
-      - 🇨🇳 台湾|@ripaojiedian
   - name: Apple
     type: select
     proxies:
@@ -275,10 +265,10 @@ proxy-groups:
       - 🇭🇰 0|🇭🇰香港 01 | 1x HK
       - 🇭🇰 0|🇭🇰香港 02 | 1x HK
       - 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK
-      - 🇭🇰 2,12|🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 2,12|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 12,13|香港|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 12|🇭🇰 香港4|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港6|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港7|@ripaojiedian
