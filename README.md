@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-04-04 20:48:38  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-04-05 02:12:56  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -49,125 +49,127 @@ dns:
   fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
-  - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇸🇬 0|🇸🇬新加坡 02 | 1x SG, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇸🇬 0|🇸🇬新加坡 03 | 1x SG, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇰🇷 0|🇰🇷韩国 01 | 1x KR, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇰🇷 0|🇰🇷韩国 02 | 1x KR, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇵🇭 0|🇵🇭菲律宾 01 | 1x PH, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇺🇸 0|🇺🇸美国 01 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇺🇸 0|🇺🇸美国家宽 02 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇺🇸 0|🇺🇸美国 03 | 1x US Washington, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇬🇧 0|🇬🇧英国家宽 01 | 1x UK, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇹🇭 0|🇹🇭泰国01  | 1x TH, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇲🇾 0|🇲🇾马来西亚01 | 1x MY, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇲🇾 0|🇲🇾马来西亚02 | 1x MY, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇮🇳 0|🇮🇳印度 01 | 1x IN, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇦🇺 0|🇦🇺澳大利亚 01 | 1x AU, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇨🇦 0|🇨🇦加拿大 01 | 1x CA, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇩🇪 0|🇩🇪德国 01 | 1x DE, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇷🇺 0|🇷🇺俄罗斯 01 | 1x RU, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇹🇷 0|🇹🇷土耳其 01 | 1x TR, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 0|🇺🇦乌克兰 01 | 1x UA, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇻🇳 0|🇻🇳越南 01 | 1x VN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇧🇷 0|🇧🇷巴西 01 | 1x BR, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇮🇩 0|🇮🇩印度尼西亚 01 | 1x ID, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: 5e7de13d-85d4-4e2e-a022-4fe9471d5be1, udp: true}
-  - {name: 🇭🇰 1|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇭🇰 1|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇭🇰 1|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇨🇳 1|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇨🇳 1|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇨🇳 1|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇯🇵 1|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇯🇵 1|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇯🇵 1|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇸🇬 1|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇸🇬 1|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇸🇬 1|🇸🇬 新加坡 03 | 1x SG, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇰🇷 1|🇰🇷 韩国 01 | 1x KR, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇰🇷 1|🇰🇷 韩国 02 | 1x KR, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇵🇭 1|🇵🇭 菲律宾 01 | 1x PH, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇺🇸 1|🇺🇸 美国 01 | 1x US Los Angeles, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇺🇸 1|🇺🇸 美国住宅IP 02 | 1x US Los Angel..., server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇺🇸 1|🇺🇸 美国 03 | 1x US Washington, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇬🇧 1|🇬🇧 英国住宅IP 01 | 1x UK, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇲🇾 1|🇲🇾马来西亚 01 | 1x MY, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇲🇾 1|🇲🇾马来西亚 02 | 1x MY, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇪🇸 1|🇮🇳西班牙 01 | 1x ES, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇹🇭 1|🇹🇭泰国 01 | 1x TH, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇮🇳 1|🇮🇳 印度 01 | 1x IN, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇦🇺 1|🇦🇺 澳大利亚 01 | 1x AU, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇨🇦 1|🇨🇦 加拿大 01 | 1x CA, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇩🇪 1|🇩🇪 德国 01 | 1x DE, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇷🇺 1|🇷🇺 俄罗斯 01 | 1x RU, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇹🇷 1|🇹🇷 土耳其 01 | 1x TR, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 1|🇺🇦 乌克兰 01 | 1x UA, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇻🇳 1|🇻🇳 越南 01 | 1x VN, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇧🇷 1|🇧🇷 巴西 01 | 1x BR, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: 7af9f3fd-f608-4874-abee-ce77821a1cc3, udp: true}
-  - {name: 2|🇮🇳1 |  5.9MB/s, server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 55555e72-2632-397d-9b59-953d54e2b0b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-  - {name: 2|🇯🇵3 |  5.6MB/s, server: 52.197.57.24, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 2|🇯🇵5 |  1.2MB/s, server: 35.77.81.130, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 2|🇺🇸15 |  5.6MB/s, server: 172.67.200.238, port: 443, type: trojan, password: 2fec7227-9abe-46f2-af18-78302b836c45, sni: 3s.890689.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /XjTi1NYwi9A2bckpqdDoAgkondVWl, headers: {Host: 3s.890689.xyz}}, udp: true}
-  - {name: 2|🇧🇷1 |  2.1MB/s, server: 137.131.180.87, port: 7703, type: ss, cipher: aes-256-gcm, password: 475ca001-22d2-4c3b-856c-a0e20453920e, udp: true}
-  - {name: 2|🇸🇬5 |  1.2MB/s, server: 13.250.61.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 2|🇫🇷2 |  4.7MB/s, server: v37.heduian.link, port: 30837, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: ocbc.com}}, udp: true}
-  - {name: 2|🇸🇬6 |  1.1MB/s, server: 13.250.55.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 2|🇺🇸21 |  1.4MB/s, server: 104.21.96.1, port: 443, type: trojan, password: a8fce442-ae9a-4cc1-a0cc-20308ff0a0db, sni: 1g.890699.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /lXENb74xF4ylXngZ, headers: {Host: 1g.890699.xyZ}}, udp: true}
-  - {name: 2|🇹🇼5 |  1.9MB/s, server: aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz, port: 27201, type: trojan, password: 32b598e2-2bf7-4af1-8d17-306f839dde74, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
-  - {name: 2|🇸🇬7 |  1.8MB/s, server: 47.129.202.70, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian", server: 13.229.210.217, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 2|🇺🇸31 |  5.6MB/s, server: 104.21.16.1, port: 443, type: trojan, password: a8fce442-ae9a-4cc1-a0cc-20308ff0a0db, sni: 1g.890699.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /lXENb74xF4ylXngZ, headers: {Host: 1g.890699.xyZ}}, udp: true}
-  - {name: 2|🇮🇹1 |  5.4MB/s, server: v5.heduian.link, port: 30805, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: ocbc.com}}, udp: true}
-  - {name: 2|🇸🇬11 |  1.0MB/s, server: b268cf3c-su7xc0-swx10p-cw9v.b.fosant.com, port: 3683, type: vmess, uuid: f39baabc-ef78-11ef-b714-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 2|🇸🇬12 |  1.5MB/s, server: 54.254.9.107, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 12|tg频道:@ripaojiedian, server: 43.206.220.47, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇭🇰 12|🇭🇰 香港|@ripaojiedian, server: 156.245.190.21, port: 15012, type: ss, cipher: aes-256-gcm, password: 2EJ0PUVXQ58KR0VG, udp: true}
-  - {name: 🇭🇰 12|🇭🇰 香港2|@ripaojiedian, server: south.inmysecretlife.xyz, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, udp: true}
-  - {name: 🇭🇰 12|🇭🇰 香港5|@ripaojiedian, server: 120.232.153.40, port: 41002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 12|🇹🇼 台湾|@ripaojiedian, server: 150.116.11.9, port: 21005, type: ss, cipher: aes-256-gcm, password: IR5ONQ6V2RB5AAPW, udp: true}
+  - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇸🇬 0|🇸🇬新加坡 02 | 1x SG, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇸🇬 0|🇸🇬新加坡 03 | 1x SG, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇰🇷 0|🇰🇷韩国 01 | 1x KR, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇰🇷 0|🇰🇷韩国 02 | 1x KR, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇵🇭 0|🇵🇭菲律宾 01 | 1x PH, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇺🇸 0|🇺🇸美国 01 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇺🇸 0|🇺🇸美国家宽 02 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇺🇸 0|🇺🇸美国 03 | 1x US Washington, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇬🇧 0|🇬🇧英国家宽 01 | 1x UK, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇹🇭 0|🇹🇭泰国01  | 1x TH, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇲🇾 0|🇲🇾马来西亚01 | 1x MY, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇲🇾 0|🇲🇾马来西亚02 | 1x MY, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇮🇳 0|🇮🇳印度 01 | 1x IN, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇦🇺 0|🇦🇺澳大利亚 01 | 1x AU, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇨🇦 0|🇨🇦加拿大 01 | 1x CA, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇩🇪 0|🇩🇪德国 01 | 1x DE, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇷🇺 0|🇷🇺俄罗斯 01 | 1x RU, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇹🇷 0|🇹🇷土耳其 01 | 1x TR, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 0|🇺🇦乌克兰 01 | 1x UA, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇻🇳 0|🇻🇳越南 01 | 1x VN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇧🇷 0|🇧🇷巴西 01 | 1x BR, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇮🇩 0|🇮🇩印度尼西亚 01 | 1x ID, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: c69cd041-fffe-4535-8894-72f4f2aeefb4, udp: true}
+  - {name: 🇭🇰 1|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇭🇰 1|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇭🇰 1|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇨🇳 1|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇨🇳 1|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇨🇳 1|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇯🇵 1|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇯🇵 1|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇯🇵 1|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇸🇬 1|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇸🇬 1|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇸🇬 1|🇸🇬 新加坡 03 | 1x SG, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇰🇷 1|🇰🇷 韩国 01 | 1x KR, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇰🇷 1|🇰🇷 韩国 02 | 1x KR, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇵🇭 1|🇵🇭 菲律宾 01 | 1x PH, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇺🇸 1|🇺🇸 美国 01 | 1x US Los Angeles, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇺🇸 1|🇺🇸 美国住宅IP 02 | 1x US Los Angel..., server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇺🇸 1|🇺🇸 美国 03 | 1x US Washington, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇬🇧 1|🇬🇧 英国住宅IP 01 | 1x UK, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇲🇾 1|🇲🇾马来西亚 01 | 1x MY, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇲🇾 1|🇲🇾马来西亚 02 | 1x MY, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇪🇸 1|🇮🇳西班牙 01 | 1x ES, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇹🇭 1|🇹🇭泰国 01 | 1x TH, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇮🇳 1|🇮🇳 印度 01 | 1x IN, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇦🇺 1|🇦🇺 澳大利亚 01 | 1x AU, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇨🇦 1|🇨🇦 加拿大 01 | 1x CA, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇩🇪 1|🇩🇪 德国 01 | 1x DE, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇷🇺 1|🇷🇺 俄罗斯 01 | 1x RU, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇹🇷 1|🇹🇷 土耳其 01 | 1x TR, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 1|🇺🇦 乌克兰 01 | 1x UA, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇻🇳 1|🇻🇳 越南 01 | 1x VN, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇧🇷 1|🇧🇷 巴西 01 | 1x BR, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: 4f043f68-398d-4828-9fbb-0f1351df135a, udp: true}
+  - {name: 2|🇰🇷1 |  6.1MB/s, server: 43.202.67.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇸🇬1 |  1.1MB/s, server: 47.129.230.32, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian", server: 54.238.109.190, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇯🇵3 |  6.1MB/s, server: 52.199.237.27, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇸🇬4 |  6.1MB/s, server: 3.0.50.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇸🇬5 |  3.7MB/s, server: 54.179.52.175, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇸🇬6 |  2.7MB/s, server: b268cf3c-su7xc0-swx10p-cw9v.b.fosant.com, port: 3683, type: vmess, uuid: f39baabc-ef78-11ef-b714-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 2|🇺🇸14 |  5.6MB/s, server: 7f93c487-sub0g0-sv11pd-1g8k0.losa.plebai.net, port: 5210, type: vmess, uuid: d4018e28-e328-11ed-98a7-f23c913c8d2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 7f93c487-sub0g0-sv11pd-1g8k0.losa.plebai.net}}, udp: true}
+  - {name: 2|🇨🇦4 |  2.6MB/s, server: v25.heduian.link, port: 30825, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true}
+  - {name: 2|🇯🇵11 |  5.3MB/s, server: 18.183.76.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 2|🇯🇵13 |  2.3MB/s, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 3684, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 12|tg频道:@ripaojiedian, server: 54.199.167.92, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇭🇰 12|🇭🇰 香港|@ripaojiedian, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 4136, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 12|🇭🇰 香港2|@ripaojiedian, server: 120.232.153.40, port: 41002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 12|🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
-  - {name: "🇯🇵 12,13|日本2|@ripaojiedian", server: 222.104.240.250, port: 10390, type: vmess, uuid: a13f1b5a-7071-4bbc-8bae-f4f74fd77ace, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oracleipv4.till.nyc.mn, network: ws, ws-opts: {path: /123, headers: {Host: oracleipv4.till.nyc.mn}}, udp: true}
-  - {name: 🇯🇵 12|🇯🇵 日本3|@ripaojiedian, server: 156.231.104.22, port: 18012, type: ss, cipher: aes-256-gcm, password: LC0JUMZIUL16S24B, udp: true}
-  - {name: 🇯🇵 12|🇯🇵 日本4|@ripaojiedian, server: pqcaqxvt.xn--fiqs8sjz2bull.com, port: 28588, type: vmess, uuid: a9d360f5-6786-4ff0-9861-b4fecd4cfd11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本2|@ripaojiedian, server: daring-gobbler.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, sni: daring-gobbler.shiner427.skin, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本3|@ripaojiedian, server: 120.233.205.203, port: 18001, type: ss, cipher: aes-256-gcm, password: 8JLSTR4973MMT8E3, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本4|@ripaojiedian, server: 183.236.51.167, port: 26735, type: ss, cipher: aes-128-gcm, password: 3b6f8043-5876-432a-a853-f5d292080651, udp: true}
   - {name: 🇯🇵 12|🇯🇵 日本5|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8769, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
-  - {name: 🇰🇷 12|🇰🇷 韩国|@ripaojiedian, server: 154.90.62.168, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian, server: 45.80.181.77, port: 28187, type: ss, cipher: aes-256-gcm, password: sgg7vReHnfEtUtAsWFPeeFOSJ6Q3d9owYfCQSwQMPnk=, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本6|@ripaojiedian, server: possible-tiger.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, sni: possible-tiger.shiner427.skin, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本7|@ripaojiedian, server: c50e5830-submo0-t23v18-6wpo.c.volczijie.com, port: 4151, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本8|@ripaojiedian, server: gzhmbkqt.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: 65639009-9ea3-4b5b-8f6e-bba5ef17e350, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "🇰🇷 12,13|韩国|@ripaojiedian", server: v28.heduian.link, port: 30828, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: ocbc.com}}, udp: true}
+  - {name: 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 4135, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇺🇸 12|🇺🇸 美国|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8776, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇺🇸 12|🇺🇸 美国2|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8771, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
-  - {name: 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian, server: 47.129.51.201, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian, server: 52.76.47.112, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 🇬🇧 12|🇬🇧 英国|@ripaojiedian, server: 206.245.211.24, port: 19014, type: ss, cipher: aes-256-gcm, password: QIXWUPZT9O5EUEWK, udp: true}
-  - {name: 🇬🇧 12|🇬🇧 英国2|@ripaojiedian, server: 206.245.211.11, port: 19001, type: ss, cipher: aes-256-gcm, password: 5U3COGGRJPO2DQNF, udp: true}
-  - {name: 🇩🇪 12|🇩🇪 德国|@ripaojiedian, server: 45.154.207.246, port: 20030, type: ss, cipher: aes-256-gcm, password: B4SLT7LEQF46Y6Z6, udp: true}
-  - {name: "13|tg频道:@ripaojiedian #1", server: 43.206.220.47, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇭🇰 13|香港|@ripaojiedian, server: 156.245.190.21, port: 15012, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206MkVKMFBVVlhRNThLUjBWRw, udp: true}
-  - {name: 🇭🇰 13|香港5|@ripaojiedian, server: 120.232.153.40, port: 41002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 13|台湾|@ripaojiedian, server: 150.116.11.9, port: 21005, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206SVI1T05RNlYyUkI1QUFQVw, udp: true}
-  - {name: 🇯🇵 13|日本3|@ripaojiedian, server: 156.231.104.22, port: 18012, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206TEMwSlVNWklVTDE2UzI0Qg, udp: true}
-  - {name: 🇯🇵 13|日本4|@ripaojiedian, server: pqcaqxvt.xn--fiqs8sjz2bull.com, port: 28588, type: vmess, uuid: a9d360f5-6786-4ff0-9861-b4fecd4cfd11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 13|韩国|@ripaojiedian, server: 154.90.62.168, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw, udp: true}
-  - {name: 🇸🇬 13|新加坡2|@ripaojiedian, server: 45.80.181.77, port: 28187, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206c2dnN3ZSZUhuZkV0VXRBc1dGUGVlRk9TSjZRM2Q5b3dZZkNRU3dRTVBuaz0, udp: true}
-  - {name: 🇰🇷 13|韩国特殊|@ripaojiedian, server: 47.129.51.201, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇯🇵 13|日本特殊|@ripaojiedian, server: 13.229.210.217, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 52.76.47.112, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇬🇧 13|英国|@ripaojiedian, server: 206.245.211.24, port: 19014, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UUlYV1VQWlQ5TzVFVUVXSw, udp: true}
-  - {name: 🇬🇧 13|英国2|@ripaojiedian, server: 206.245.211.11, port: 19001, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206NVUzQ09HR1JKUE8yRFFORg, udp: true}
-  - {name: 🇩🇪 13|德国|@ripaojiedian, server: 45.154.207.246, port: 20030, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206QjRTTFQ3TEVRRjQ2WTZaNg, udp: true}
-  - {name: 🇯🇵 日本5|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8769, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
-  - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
+  - {name: 🇺🇸 12|🇺🇸 美国3|@ripaojiedian, server: us2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: us2a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0, headers: {Host: us2a.88888007.xyz}}, udp: true}
+  - {name: 🇺🇸 12|🇺🇸 美国4|@ripaojiedian, server: us3a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: us3a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0, headers: {Host: us3a.88888007.xyz}}, udp: true}
+  - {name: "🇺🇸 12,13|美国5|@ripaojiedian", server: lbso.bnnodeservice.com, port: 32001, type: trojan, password: 3ffa664f-364a-4937-a314-1d9f02ad8458, sni: pull-flv-t11.douyincdn.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 12|🇺🇸 美国6|@ripaojiedian, server: us4a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: us4a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0, headers: {Host: us4a.88888007.xyz}}, udp: true}
+  - {name: 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian, server: 47.129.238.196, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian, server: 13.250.61.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 🇫🇷 12|🇫🇷 法国|@ripaojiedian, server: fr2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: fr2a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85, headers: {Host: fr2a.88888007.xyz}}, udp: true}
+  - {name: 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian, server: ru1a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: ru1a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85, headers: {Host: ru1a.88888007.xyz}}, udp: true}
+  - {name: "13|tg频道:@ripaojiedian #1", server: 54.199.167.92, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇭🇰 13|香港|@ripaojiedian, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 4136, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 13|香港2|@ripaojiedian, server: 120.232.153.40, port: 41002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 13|日本2|@ripaojiedian, server: daring-gobbler.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 13|日本3|@ripaojiedian, server: 120.233.205.203, port: 18001, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OEpMU1RSNDk3M01NVDhFMw, udp: true}
+  - {name: 🇯🇵 13|日本4|@ripaojiedian, server: 183.236.51.167, port: 26735, type: ss, cipher: ss, password: //YWVzLTEyOC1nY206M2I2ZjgwNDMtNTg3Ni00MzJhLWE4NTMtZjVkMjkyMDgwNjUx, udp: true}
+  - {name: 🇯🇵 13|日本6|@ripaojiedian, server: possible-tiger.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 13|日本7|@ripaojiedian, server: c50e5830-submo0-t23v18-6wpo.c.volczijie.com, port: 4151, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 13|日本8|@ripaojiedian, server: gzhmbkqt.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: 65639009-9ea3-4b5b-8f6e-bba5ef17e350, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 13|新加坡|@ripaojiedian, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 4135, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 13|美国3|@ripaojiedian, server: us2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
+  - {name: 🇺🇸 13|美国4|@ripaojiedian, server: us3a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
+  - {name: 🇺🇸 13|美国6|@ripaojiedian, server: us4a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
+  - {name: 🇰🇷 13|韩国特殊|@ripaojiedian, server: 54.238.109.190, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇯🇵 13|日本特殊|@ripaojiedian, server: 47.129.238.196, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 13.250.61.152, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇫🇷 13|法国|@ripaojiedian, server: fr2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85}, udp: true}
+  - {name: 🇷🇺 13|俄罗斯|@ripaojiedian, server: ru1a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85}, udp: true}
   - {name: 🇺🇸 美国|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8776, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
-  - {name: 🇭🇰 香港2|@ripaojiedian, server: south.inmysecretlife.xyz, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 5f981bce46.m.ctrip.com}, udp: true}
+  - {name: 🇯🇵 日本5|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8769, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
   - {name: 🇺🇸 美国2|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8771, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
+  - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202504031266665-b2qPz9YET8.download.microsoft.com}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -239,60 +241,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -363,60 +367,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -488,60 +494,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -625,60 +633,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -697,12 +707,8 @@ proxy-groups:
       - 🇨🇳 1|🇹🇼 台湾 03 | 1x TW
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -774,60 +780,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: 📲 电报信息
     type: select
     proxies:
@@ -898,60 +906,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1023,60 +1033,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1157,60 +1169,62 @@ proxy-groups:
       - 🇻🇳 1|🇻🇳 越南 01 | 1x VN
       - 🇧🇷 1|🇧🇷 巴西 01 | 1x BR
       - 🇮🇩 1|🇮🇩 印度尼西亚 01 | 1x ID
-      - 2|🇮🇳1 |  5.9MB/s
-      - 2|🇯🇵3 |  5.6MB/s
-      - 2|🇯🇵5 |  1.2MB/s
-      - 2|🇺🇸15 |  5.6MB/s
-      - 2|🇧🇷1 |  2.1MB/s
-      - 2|🇸🇬5 |  1.2MB/s
-      - 2|🇫🇷2 |  4.7MB/s
-      - 2|🇸🇬6 |  1.1MB/s
-      - 2|🇺🇸21 |  1.4MB/s
-      - 2|🇹🇼5 |  1.9MB/s
-      - 2|🇸🇬7 |  1.8MB/s
-      - 🇯🇵 2,12|🇯🇵 日本特殊|@ripaojiedian
-      - 2|🇺🇸31 |  5.6MB/s
-      - 2|🇮🇹1 |  5.4MB/s
-      - 2|🇸🇬11 |  1.0MB/s
-      - 2|🇸🇬12 |  1.5MB/s
+      - 2|🇰🇷1 |  6.1MB/s
+      - 2|🇸🇬1 |  1.1MB/s
+      - 🇰🇷 2,12|🇰🇷 韩国特殊|@ripaojiedian
+      - 2|🇯🇵3 |  6.1MB/s
+      - 2|🇸🇬4 |  6.1MB/s
+      - 2|🇸🇬5 |  3.7MB/s
+      - 2|🇸🇬6 |  2.7MB/s
+      - 2|🇺🇸14 |  5.6MB/s
+      - 2|🇨🇦4 |  2.6MB/s
+      - 2|🇯🇵11 |  5.3MB/s
+      - 2|🇯🇵13 |  2.3MB/s
       - 12|tg频道:@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 12|🇭🇰 香港2|@ripaojiedian
-      - 🇭🇰 12|🇭🇰 香港5|@ripaojiedian
-      - 🇨🇳 12|🇹🇼 台湾|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本|@ripaojiedian
-      - 🇯🇵 12,13|日本2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本4|@ripaojiedian
       - 🇯🇵 12|🇯🇵 日本5|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国|@ripaojiedian
-      - 🇸🇬 12|🇸🇬 新加坡2|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本7|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本8|@ripaojiedian
+      - 🇰🇷 12,13|韩国|@ripaojiedian
+      - 🇸🇬 12|🇸🇬 新加坡|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国|@ripaojiedian
       - 🇺🇸 12|🇺🇸 美国2|@ripaojiedian
-      - 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国3|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国4|@ripaojiedian
+      - 🇺🇸 12,13|美国5|@ripaojiedian
+      - 🇺🇸 12|🇺🇸 美国6|@ripaojiedian
+      - 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian
       - 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国|@ripaojiedian
-      - 🇬🇧 12|🇬🇧 英国2|@ripaojiedian
-      - 🇩🇪 12|🇩🇪 德国|@ripaojiedian
+      - 🇫🇷 12|🇫🇷 法国|@ripaojiedian
+      - 🇷🇺 12|🇷🇺 俄罗斯|@ripaojiedian
       - "13|tg频道:@ripaojiedian #1"
       - 🇭🇰 13|香港|@ripaojiedian
-      - 🇭🇰 13|香港5|@ripaojiedian
-      - 🇨🇳 13|台湾|@ripaojiedian
+      - 🇭🇰 13|香港2|@ripaojiedian
+      - 🇯🇵 13|日本2|@ripaojiedian
       - 🇯🇵 13|日本3|@ripaojiedian
       - 🇯🇵 13|日本4|@ripaojiedian
-      - 🇰🇷 13|韩国|@ripaojiedian
-      - 🇸🇬 13|新加坡2|@ripaojiedian
+      - 🇯🇵 13|日本6|@ripaojiedian
+      - 🇯🇵 13|日本7|@ripaojiedian
+      - 🇯🇵 13|日本8|@ripaojiedian
+      - 🇸🇬 13|新加坡|@ripaojiedian
+      - 🇺🇸 13|美国3|@ripaojiedian
+      - 🇺🇸 13|美国4|@ripaojiedian
+      - 🇺🇸 13|美国6|@ripaojiedian
       - 🇰🇷 13|韩国特殊|@ripaojiedian
       - 🇯🇵 13|日本特殊|@ripaojiedian
       - 🇸🇬 13|狮城特殊|@ripaojiedian
-      - 🇬🇧 13|英国|@ripaojiedian
-      - 🇬🇧 13|英国2|@ripaojiedian
-      - 🇩🇪 13|德国|@ripaojiedian
-      - 🇯🇵 日本5|@ripaojiedian
-      - 🇯🇵 日本|@ripaojiedian
+      - 🇫🇷 13|法国|@ripaojiedian
+      - 🇷🇺 13|俄罗斯|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
-      - 🇭🇰 香港2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
+      - 🇯🇵 日本|@ripaojiedian
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
