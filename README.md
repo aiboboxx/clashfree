@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-06-26 16:56:04  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-06-26 20:51:22  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -83,8 +83,8 @@ proxies:
   - {name: 🇨🇳 台湾|@ripaojiedian 2, server: 120.233.128.98, port: 30015, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206ZHd6MUd0Rjc, udp: true}
   - {name: 🇰🇷 韩国|@ripaojiedian 2, server: 52.78.60.36, port: 9898, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg, udp: true}
   - {name: 🇻🇳 越南|@ripaojiedian 2, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw, udp: true}
-  - {name: 🇭🇰 香港2|@ripaojiedian 2, server: 121.127.231.200, port: 443, type: ss, cipher: aes-256-gcm, password: ae29f32aa471, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hkxwv1-5.dsjsapi.com, path: /evoeqcpitmgg, tls: true, mux: true, skip-cert-verify: false}, udp: true}
   - {name: 🇺🇸 美国2|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202506212021989-5APTadCgJb.download.microsoft.com}, udp: true}
+  - {name: 🇭🇰 香港2|@ripaojiedian 2, server: 121.127.231.200, port: 443, type: ss, cipher: aes-256-gcm, password: ae29f32aa471, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hkxwv1-5.dsjsapi.com, path: /evoeqcpitmgg, tls: true, mux: true, skip-cert-verify: false}, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian 2, server: 163.61.207.182, port: 443, type: ss, cipher: aes-256-gcm, password: 97a221a3333a, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jplistv1-2.dsjsapi.com, path: /dobrirfl, tls: true, mux: true, skip-cert-verify: false}, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202506212021989-5APTadCgJb.download.microsoft.com}, udp: true}
 proxy-groups:
@@ -127,8 +127,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: ♻️ 自动选择
@@ -170,8 +170,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎥 NETFLIX
@@ -214,8 +214,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: ⛔️ 广告拦截
@@ -270,8 +270,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: 🌏 国内媒体
@@ -330,8 +330,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: 📲 电报信息
@@ -373,8 +373,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: 🍎 苹果服务
@@ -417,8 +417,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎯 全球直连
@@ -470,8 +470,8 @@ proxy-groups:
       - 🇨🇳 台湾|@ripaojiedian 2
       - 🇰🇷 韩国|@ripaojiedian 2
       - 🇻🇳 越南|@ripaojiedian 2
-      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
+      - 🇭🇰 香港2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇯🇵 日本|@ripaojiedian 2
 rules:
