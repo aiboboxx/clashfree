@@ -1,4 +1,4 @@
-<pre style="word-wrap: break-word; white-space: pre-wrap;">mixed-port: 7890
+mixed-port: 7890
 allow-lan: false
 mode: Rule
 log-level: info
@@ -10746,4 +10746,3 @@ rules:
   - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
-</pre>
